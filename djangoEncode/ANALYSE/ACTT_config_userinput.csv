@@ -1,0 +1,23 @@
+﻿VariableValue`NameInput`PullValuesFrom`ValueUsed`Mandatory`NoInterval
+OBJECT-TADIR`SYST`Object Type```
+pclient`400`Client`T000-MANDT`X`X
+Expert Mode``Expert Mode`Expert Mode`Expert Mode`Expert Mode
+Change Log Start Date`20201201````
+Change Log End Date`20201202````
+PGMID-TADIR`HEAD`Program ID in Requests and Tasks```
+plang`EN`Language```
+T030R-KTOSL`WHERE KTOSL IN ('HRF','HRC','HRA','HRD','HRK')`KTOSL```
+T093-BUHBKT`1`Post to G/L```
+T096-BPLAKT`X`Chart of Dep Active```
+T100C-MSGNR`WHERE MSGNR IN ('207','117','108')`MSGNR```
+T100-MSGNR`WHERE MSGNR IN ('207','117','108')`MSGNR```
+T160M-MSGNR`WHERE MSGNR IN ('207','117','108')`MSGNR```
+TCDOB-TABNAME`WHERE TABNAME IN ('T095', 'T095B', 'ANLZ')`TABNAME```
+TR-SUBC`WHERE SUBC IN ('1','M','F')'`Program Type TRDIR```
+USRFLDSEL-BOROBJECT`USER'````
+USOBHASH-OBJECT`'WHERE OBJECT IN ('IWSV','WDYA')'````
+AGR_1251-DELETED`'WHERE DELETED <> 'X' AND AGR_NAME <> '' AND LOW <> ''````
+TBTCO-STATUS`A'````
+TR-SUBC`WHERE SUBC IN ('1','M','F')'`Program Type TRDIR```
+TSTCA-TCODE`WHERE TCODE LIKE 'Z%' OR TCODE LIKE 'Y%'`TCODE```
+TSTCT-TCODE`WHERE TCODE LIKE 'Z%' OR TCODE LIKE 'Y%'`TCODE```

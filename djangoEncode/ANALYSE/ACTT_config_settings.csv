@@ -1,0 +1,16 @@
+﻿SettingName VARCHAR(100)`SettingValue NVARCHAR(1000)
+Extract Date`20201219
+SAP System ID`S4H
+SAP Server Name`vhcalhdbdb
+Database Version`SAP
+Client Selected By User`400
+Extract Script Version`17.0
+Extract Version`Both
+SAP ERP Version`S/4 HANA OP
+Number tables extracted`00195
+Output path`C:\Users\yuguo\Desktop\test\ANALYSE\
+Processing`Foreground
+Exclude Profiles`No
+SM20``SM20```
+SM20 Change Log Start Date`````
+SM20 Change Log End Date`````

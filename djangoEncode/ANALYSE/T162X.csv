@@ -1,0 +1,346 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`FAUTB [C(00002)]`FAUNR [C(00006)]`FAUTX [C(00060)]`FAUGR [C(00004)]`FAUBS [C(00002)]`FAUAN [C(00002)]`FAUKT [C(00002)]`FAULP [C(00002)]`FAUBA [C(00002)]
+400`  E`  `  000`  `  `  `  `  `  `
+400`  E`  1`  001`  Plant`  01`  X`  X`  X`  X`  X
+400`  E`  1`  002`  Item category`  01`  X`  `  X`  X`  X
+400`  E`  1`  003`  Purchase requisition`  14`  X`  X`  X`  X`  X
+400`  E`  1`  004`  Info record`  14`  X`  X`  X`  X`  X
+400`  E`  1`  005`  Request for quotation`  14`  X`  `  X`  X`
+400`  E`  1`  006`  Storage location`  01`  X`  X`  X`  X`  X
+400`  E`  1`  007`  Account assignment category`  01`  X`  `  X`  X`  X
+400`  E`  1`  008`  Material data (Brazil)`  22`  X`  X`  X`  X`  X
+400`  E`  1`  009`  Terms of payt. (days, percent)`  02`  X`  X`  X`  X`
+400`  E`  1`  010`  NBM code`  22`  X`  X`  X`  X`  X
+400`  E`  1`  011`  Terms of payment`  02`  X`  X`  X`  X`
+400`  E`  1`  012`  Incoterms part 1`  02`  X`  X`  X`  X`
+400`  E`  1`  013`  Currency`  02`  X`  X`  X`  X`
+400`  E`  1`  014`  Exchange rate`  02`  X`  X`  X`  X`
+400`  E`  1`  015`  Target Value`  04`  `  X`  X`  X`
+400`  E`  1`  016`  Collective RFQ`  03`  X`  X`  `  `
+400`  E`  1`  017`  Requisitioner`  14`  X`  `  `  `  X
+400`  E`  1`  018`  Reference, salesperson etc.`  03`  X`  X`  X`  X`
+400`  E`  1`  019`  Quotation no., date`  03`  X`  X`  X`  X`
+400`  E`  1`  020`  Purchasing group`  04`  X`  X`  X`  X`
+400`  E`  1`  021`  Supplying vendor`  03`  X`  X`  X`  X`
+400`  E`  1`  022`  Outline agreement`  14`  X`  `  `  `  X
+400`  E`  1`  023`  Supplying plant`  05`  X`  `  `  `  X
+400`  E`  1`  024`  Vendor`  03`  `  X`  `  `
+400`  E`  1`  025`  Indicator: "Texts exist"`  01`  X`  X`  X`  X`  X
+400`  E`  1`  026`  Purchasing organization`  14`  `  `  `  `  X
+400`  E`  1`  027`  Incoterms part 2`  02`  X`  X`  X`  X`
+400`  E`  1`  029`  GR message`  04`  X`  `  X`  X`
+400`  E`  1`  030`  EAN/UPC`  14`  X`  `  `  `
+400`  E`  1`  031`  Language`  04`  X`  X`  X`  X`
+400`  E`  1`  032`  Item number interval`  04`  X`  X`  X`  X`
+400`  E`  1`  033`  Requisition (request) date`  11`  `  `  `  `  X
+400`  E`  1`  034`  Binding period for quotations`  04`  `  X`  `  `
+400`  E`  1`  035`  Deadline subm. of quotations`  04`  `  X`  `  `
+400`  E`  1`  036`  Closing date for applications`  04`  `  X`  `  `
+400`  E`  1`  037`  Start of validity period`  04`  X`  X`  X`  X`
+400`  E`  1`  038`  Validity period end`  04`  X`  X`  X`  X`
+400`  E`  1`  039`  Vendor address`  03`  X`  X`  X`  X`
+400`  E`  1`  040`  Desired vendor`  14`  `  `  `  `  X
+400`  E`  1`  041`  Fixed vendor`  14`  `  `  `  `  X
+400`  E`  1`  042`  Materials planner`  14`  `  `  `  `  X
+400`  E`  1`  043`  Release fields`  15`  `  `  `  `  X
+400`  E`  1`  044`  Purchasing group`  01`  `  `  `  `  X
+400`  E`  1`  045`  Complete delivery`  04`  X`  `  `  `
+400`  E`  1`  046`  Order statistics`  14`  `  `  `  `  X
+400`  E`  1`  047`  Qualification for discount`  10`  X`  X`  X`  X`
+400`  E`  1`  048`  Planned delivery time`  25`  `  `  X`  X`
+400`  E`  1`  049`  Order unit (Purchasing)`  10`  `  `  `  `  X
+400`  E`  1`  050`  Quantity`  10`  X`  X`  X`  X`  X
+400`  E`  1`  051`  Target quantity`  10`  `  X`  X`  X`
+400`  E`  1`  052`  Unit of measure`  10`  X`  X`  X`  X`  X
+400`  E`  1`  053`  Reconciliation date, cum. qty.`  16`  `  `  `  X`
+400`  E`  1`  054`  Delivery date`  11`  X`  X`  `  X`  X
+400`  E`  1`  055`  Settlement group`  10`  X`  X`  X`  X`
+400`  E`  1`  056`  Statistics-relev. deliv. date`  11`  X`  X`  `  X`
+400`  E`  1`  057`  Order acknowledgment reqt.`  11`  X`  X`  X`  X`
+400`  E`  1`  058`  Schedule line time spot`  11`  X`  X`  `  X`
+400`  E`  1`  059`  Release date`  11`  `  `  `  `  X
+400`  E`  1`  060`  Quotation date, item`  15`  `  X`  `  `
+400`  E`  1`  061`  Price and price unit`  10`  X`  X`  X`  X`  X
+400`  E`  1`  062`  Points`  15`  X`  X`  X`  X`
+400`  E`  1`  063`  Promotion`  15`  X`  X`  X`  X`  X
+400`  E`  1`  064`  Price printout indicator`  10`  X`  `  X`  X`
+400`  E`  1`  065`  Price date`  10`  `  `  X`  `
+400`  E`  1`  066`  Standard release order qty.`  10`  `  `  X`  `
+400`  E`  1`  067`  Valuation type`  13`  X`  `  X`  X`  X
+400`  E`  1`  068`  Tax code`  13`  X`  X`  X`  X`
+400`  E`  1`  069`  Short text`  01`  X`  X`  X`  X`  X
+400`  E`  1`  070`  Delivery address`  14`  X`  `  `  `
+400`  E`  1`  071`  Customer number`  14`  X`  `  `  `
+400`  E`  1`  072`  Requirement tracking number`  14`  X`  X`  X`  X`  X
+400`  E`  1`  073`  Vendor material`  14`  X`  X`  X`  X`  X
+400`  E`  1`  074`  Order acknowledgment`  11`  X`  X`  X`  X`
+400`  E`  1`  075`  Deletion indicator`  15`  X`  X`  X`  X`  X
+400`  E`  1`  076`  "Delivery completed" indicator`  13`  X`  `  `  X`
+400`  E`  1`  077`  Rounding profile`  15`  X`  `  `  X`
+400`  E`  1`  078`  Quality inspection`  13`  X`  `  X`  X`
+400`  E`  1`  079`  Info update`  15`  X`  X`  X`  X`
+400`  E`  1`  080`  Rejection, internal comment`  15`  `  X`  `  `
+400`  E`  1`  081`  Indicator: estimated price`  15`  X`  `  X`  X`
+400`  E`  1`  082`  Latest GR date`  25`  X`  `  `  `
+400`  E`  1`  083`  Reminder control`  11`  X`  X`  X`  X`  X
+400`  E`  1`  084`  Underdelivery tolerance`  13`  X`  `  X`  X`
+400`  E`  1`  085`  Incoterms, item`  02`  X`  X`  X`  X`
+400`  E`  1`  086`  Prior vendor`  15`  X`  X`  X`  X`
+400`  E`  1`  087`  Kanban indicator`  15`  `  `  `  X`
+400`  E`  1`  088`  Remaining shelf life`  25`  X`  X`  X`  X`
+400`  E`  1`  089`  Overdelivery tolerance`  13`  X`  `  X`  X`
+400`  E`  1`  090`  Unlimited overdelivery`  13`  X`  `  X`  X`
+400`  E`  1`  091`  Material group`  01`  X`  X`  X`  X`  X
+400`  E`  1`  092`  Season`  15`  X`  X`  X`  X`
+400`  E`  1`  093`  Control key QM`  15`  X`  X`  X`  X`
+400`  E`  1`  094`  Final invoice indicator`  13`  X`  `  `  X`
+400`  E`  1`  095`  Incoterms part 2 item`  02`  X`  X`  X`  X`
+400`  E`  1`  096`  Order price unit (purchasing)`  10`  X`  X`  X`  X`
+400`  E`  1`  097`  GR-based invoice verification`  13`  X`  `  X`  X`
+400`  E`  1`  098`  GR-based settlement`  13`  X`  `  X`  X`
+400`  E`  1`  099`  GR/IR control`  13`  X`  `  X`  X`
+400`  E`  1`  100`  "Delivery completed" indicator`  13`  X`  `  `  X`
+400`  E`  1`  101`  Reason for ordering`  15`  X`  `  `  `
+400`  E`  1`  102`  Material description`  01`  X`  X`  X`  X`  X
+400`  E`  1`  103`  External service fields`  01`  X`  `  `  `  X
+400`  E`  1`  104`  Value limit fields`  01`  X`  `  `  `  X
+400`  E`  1`  105`  Ind.: partial deliv. (st. tfr)`  13`  X`  `  `  `
+400`  E`  1`  106`  Returns indicator`  13`  X`  `  `  `
+400`  E`  1`  107`  Country for VAT reg. number`  04`  X`  `  X`  X`
+400`  E`  1`  108`  JIT indicator`  16`  `  `  `  X`
+400`  E`  1`  109`  "Fixed" indicator`  14`  `  `  `  X`  X
+400`  E`  1`  110`  GR/IR indicator`  13`  X`  `  X`  X`  X
+400`  E`  1`  111`  Distr./partial inv. indicator`  13`  X`  `  X`  X`  X
+400`  E`  1`  112`  Shipping dates/supplying plant`  11`  X`  `  `  X`
+400`  E`  1`  113`  Route schedule`  11`  X`  `  `  X`
+400`  E`  1`  114`  Good manufactured in-house`  22`  X`  X`  X`  X`  X
+400`  E`  1`  115`  Weights`  10`  X`  X`  X`  X`
+400`  E`  1`  116`  Condition group`  10`  X`  X`  X`  X`
+400`  E`  1`  117`  Sub-item interval`  04`  X`  X`  X`  X`
+400`  E`  1`  118`  Vendor sub-range`  10`  X`  X`  X`  X`
+400`  E`  1`  119`  Reason for rejection`  04`  X`  `  `  `
+400`  E`  1`  120`  Texts`  14`  X`  X`  X`  X`  X
+400`  E`  1`  121`  Shipping instructions`  13`  X`  X`  X`  X`
+400`  E`  1`  122`  Goods receipt processing time`  11`  X`  `  X`  X`
+400`  E`  1`  123`  Exclusion indicator`  15`  `  `  X`  X`
+400`  E`  1`  124`  Scheduling control`  16`  `  `  `  X`
+400`  E`  1`  125`  Firm/trade-off zones`  16`  `  `  `  X`
+400`  E`  1`  126`  Issued quantity`  16`  X`  `  `  X`
+400`  E`  1`  127`  Invoicing party`  03`  X`  `  X`  X`
+400`  E`  1`  128`  Revision level`  15`  X`  `  X`  X`  X
+400`  E`  1`  129`  Pricing date control`  10`  X`  X`  X`  X`
+400`  E`  1`  130`  Confirmation control key`  11`  X`  X`  X`  X`
+400`  E`  1`  131`  Logical system for ALE`  03`  `  `  X`  `
+400`  E`  1`  132`  Batch`  13`  X`  X`  `  `  X
+400`  E`  1`  133`  Vendor batch`  13`  X`  X`  `  `  X
+400`  E`  1`  134`  Address`  14`  X`  X`  X`  X`
+400`  E`  1`  135`  Vendor number`  14`  X`  X`  X`  X`
+400`  E`  1`  136`  Subcontracting vendor`  14`  X`  X`  X`  X`
+400`  E`  1`  137`  Warranty date`  04`  X`  X`  `  `
+400`  E`  1`  138`  Indicator: requisition closed`  11`  X`  `  `  `  X
+400`  E`  1`  139`  Manufacturer part number`  01`  X`  X`  X`  X`  X
+400`  E`  1`  141`  External planning`  15`  `  `  `  X`
+400`  E`  1`  142`  Document Type`  30`  X`  `  `  `  X
+400`  E`  1`  143`  Blocking indicator`  30`  `  `  `  `  X
+400`  E`  1`  144`  Shipping Data`  30`  X`  `  `  `
+400`  E`  1`  145`  Material`  30`  X`  `  `  `  X
+400`  E`  1`  146`  LE-Related Invoice Verificatn`  13`  X`  `  X`  X`
+400`  E`  1`  147`  Acceptance At Origin`  13`  X`  `  `  `
+400`  E`  1`  148`  Source Stock Type`  05`  X`  `  `  `
+400`  E`  1`  149`  Tgt Value in Comm. Plan Header`  34`  `  `  X`  `
+400`  E`  1`  150`  Commitment Plan Cat. (Header)`  34`  `  `  X`  `
+400`  E`  1`  151`  Validity Date Commitment Plan`  34`  `  `  X`  `
+400`  E`  1`  152`  Amount Field Comm. Plan Item`  34`  `  `  X`  `
+400`  E`  1`  153`  Generate Commitment Plan Item`  34`  `  `  X`  `
+400`  E`  1`  154`  Commitment Plan Closed`  34`  `  `  X`  `
+400`  E`  1`  155`  Grant`  34`  `  `  X`  `
+400`  E`  1`  156`  Project`  34`  `  `  X`  `
+400`  E`  1`  157`  Order Number`  34`  `  `  X`  `
+400`  E`  1`  158`  Network`  34`  `  `  X`  `
+400`  E`  1`  159`  Funds Center`  34`  `  `  X`  `
+400`  E`  1`  160`  Commitment Item`  34`  `  `  X`  `
+400`  E`  1`  161`  Fund`  34`  `  `  X`  `
+400`  E`  1`  162`  Business Area`  34`  `  `  X`  `
+400`  E`  1`  163`  G/L Account`  34`  `  `  X`  `
+400`  E`  1`  164`  Cost Center`  34`  `  `  X`  `
+400`  E`  1`  165`  Functional Area`  34`  `  `  X`  `
+400`  E`  1`  166`  Commitment Item`  34`  `  `  X`  `
+400`  E`  1`  167`  Fund`  34`  `  `  X`  `
+400`  E`  1`  168`  Main Asset Number`  34`  `  `  X`  `
+400`  E`  1`  169`  Asset Subnumber`  34`  `  `  X`  `
+400`  E`  1`  170`  Business Area`  34`  `  `  X`  `
+400`  E`  1`  171`  Profit Center`  34`  `  `  X`  `
+400`  E`  1`  172`  G/L Account Number`  34`  `  `  X`  `
+400`  E`  1`  173`  Goods Recipient`  34`  `  `  X`  `
+400`  E`  1`  174`  Unloading Point`  34`  `  `  X`  `
+400`  E`  1`  175`  Delivery Schedule Line Number`  34`  `  `  X`  `
+400`  E`  1`  176`  Deletion Ind. OP Account Assgt`  34`  `  `  X`  `
+400`  E`  1`  177`  No. f. Profitab. Segments (CO)`  34`  `  `  X`  `
+400`  E`  1`  178`  Controlling Area`  34`  `  `  X`  `
+400`  E`  1`  179`  Cost Center`  34`  `  `  X`  `
+400`  E`  1`  180`  Service Type`  34`  `  `  X`  `
+400`  E`  1`  181`  Business Process`  34`  `  `  X`  `
+400`  E`  1`  182`  Internal Key for Real Estate`  34`  `  `  X`  `
+400`  E`  1`  183`  Functional Area`  34`  `  `  X`  `
+400`  E`  1`  184`  Grant`  34`  `  `  X`  `
+400`  E`  1`  185`  Vendor`  30`  `  `  X`  X`
+400`  E`  1`  186`  Supplying Plant`  30`  `  `  X`  X`
+400`  E`  1`  187`  Retentions`  02`  X`  `  X`  `
+400`  E`  1`  188`  Down payments`  13`  X`  `  `  `
+400`  E`  1`  190`  Return Reason`  06`  X`  `  `  `
+400`  E`  1`  191`  Follow-Up Activity`  06`  X`  `  `  `
+400`  E`  1`  192`  Reason for Rejection`  06`  X`  `  `  `
+400`  E`  1`  193`  Next Plant`  06`  X`  `  `  `
+400`  E`  1`  194`  Transshipment Plant`  06`  X`  `  `  `
+400`  E`  1`  195`  Vendor`  06`  X`  `  `  `
+400`  E`  1`  196`  Vendor RMA Number`  06`  X`  `  `  `
+400`  E`  1`  197`  Vendor RMA Number Required`  06`  X`  `  `  `
+400`  E`  1`  198`  Reference Document`  06`  X`  `  `  `
+400`  E`  1`  199`  RFX Document Number`  14`  X`  `  X`  `
+400`  E`  1`  200`  Advice Code`  01`  X`  `  `  `  X
+400`  E`  1`  201`  Status Code`  01`  `  `  `  `  X
+400`  E`  1`  203`  Blocking Reason`  30`  X`  `  `  `
+400`  E`  1`  204`  Due On`  34`  `  `  X`  `
+400`  E`  1`  207`  Requirement Urgency`  01`  X`  `  `  `  X
+400`  E`  1`  209`  Issuing Storage Location`  05`  X`  `  `  X`  X
+400`  E`  1`  211`  EWM Del.-Based Tol. Check`  13`  `  `  X`  X`
+400`  E`  1`  214`  Shipping Condition`  02`  X`  `  `  `
+400`  E`  1`  215`  Shipping Type`  `  X`  `  `  `
+400`  E`  1`  216`  Handover Location`  `  X`  `  `  `
+400`  E`  1`  217`  Handover Date`  `  X`  `  `  `
+400`  E`  1`  218`  Handover Time`  `  X`  `  `  `
+400`  E`  1`  240`  Complete delivery`  13`  X`  `  `  `
+400`  E`  1`  241`  Incoterms Version`  02`  X`  X`  X`  X`
+400`  E`  1`  242`  Incoterms Version Item`  02`  X`  X`  X`  X`
+400`  E`  1`  243`  Incoterms Part 3`  02`  X`  X`  X`  X`
+400`  E`  1`  244`  Incoterms Part 3 Item`  02`  X`  X`  X`  X`
+400`  E`  1`  245`  Intrastat Relevance`  04`  X`  `  `  `
+400`  E`  1`  246`  Intrastat Exclusion`  04`  X`  `  `  `
+400`  E`  1`  247`  Intrastat Commodity Code`  14`  X`  `  `  X`
+400`  E`  1`  248`  Product Type Group`  01`  X`  `  `  `  X
+400`  E`  1`  249`  Service Performer`  01`  X`  `  `  `  X
+400`  E`  1`  250`  Start Date for Services`  11`  X`  `  `  `  X
+400`  E`  1`  251`  End Date for Services`  11`  X`  `  `  `  X
+400`  E`  1`  252`  Intrastat Service Code`  14`  X`  `  `  `
+400`  E`  1`  253`  Model ID code`  35`  X`  `  `  `  X
+400`  E`  1`  254`  Order priority`  35`  X`  `  `  `  X
+400`  E`  1`  255`  Aircraft registration number`  35`  X`  `  `  `  X
+400`  E`  1`  256`  Do Not Substitute`  35`  X`  `  `  `  X
+400`  E`  1`  257`  Type of Subcontracting`  35`  X`  `  `  `  X
+400`  E`  1`  258`  Number of serial numbers`  35`  X`  `  `  `  X
+400`  E`  1`  259`  Serial Number Profile`  35`  X`  `  `  `  X
+400`  E`  1`  260`  Spl stck indicator Subcon-hlp`  35`  X`  `  `  `  X
+400`  E`  1`  261`  Customer Number`  35`  X`  `  `  `  X
+400`  E`  1`  262`  Sales Document`  35`  X`  `  `  `  X
+400`  E`  1`  263`  Item Number of the SD Document`  35`  X`  `  `  `  X
+400`  E`  1`  264`  Owner of the Stock`  35`  X`  `  `  `  X
+400`  E`  1`  266`  WBS element`  35`  X`  `  `  `  X
+400`  E`  1`  267`  Expect. Value of Overall Limit`  10`  X`  `  `  `
+400`  E`  1`  268`  Overall Limit`  01`  X`  `  `  `
+400`  E`  1`  281`  Plant`  07`  `  `  `  `
+400`  E`  1`  282`  Storage Location`  07`  `  `  `  `
+400`  E`  1`  283`  Purchasing Group`  07`  `  `  `  `
+400`  E`  1`  284`  Payment Terms`  07`  `  `  `  `
+400`  E`  1`  285`  Terms of payt. (days, percent)`  07`  `  `  `  `
+400`  E`  1`  286`  Plant`  27`  `  `  `  `
+400`  E`  1`  287`  Storage Location`  27`  `  `  `  `
+400`  E`  1`  288`  Purchasing Group`  27`  `  `  `  `
+400`  E`  1`  289`  Payment Terms`  27`  `  `  `  `
+400`  E`  1`  290`  Terms of payt. (days, percent)`  27`  `  `  `  `
+400`  E`  1`  291`  Stock Type`  13`  `  `  X`  `
+400`  E`  1`  292`  Info at Registration`  13`  `  `  X`  `
+400`  E`  1`  293`  SC Requestor`  01`  `  `  `  `  X
+400`  E`  2`  010`  Cost Center`  `  `  `  `  `
+400`  E`  2`  011`  CO/PP Order`  `  `  `  `  `
+400`  E`  2`  012`  Project`  `  `  `  `  `
+400`  E`  2`  013`  Sales Order`  `  `  `  `  `
+400`  E`  2`  019`  Network`  `  `  `  `  `
+400`  E`  2`  020`  Commitment Item`  `  `  `  `  `
+400`  E`  2`  024`  Asset`  `  `  `  `  `
+400`  E`  2`  033`  Business Area`  `  `  `  `  `
+400`  E`  2`  042`  Profit Center`  `  `  `  `  `
+400`  E`  2`  043`  Profitability Segment`  `  `  `  `  `
+400`  E`  2`  044`  Cost Object`  `  `  `  `  `
+400`  E`  2`  046`  Real Estate Management`  `  `  `  `  `
+400`  E`  2`  047`  Joint Venture Partner`  `  `  `  `  `
+400`  E`  2`  048`  Cost Type`  `  `  `  `  `
+400`  E`  2`  049`  Funds`  `  `  `  `  `
+400`  E`  2`  050`  Funds Center`  `  `  `  `  `
+400`  E`  2`  051`  General Ledger Account`  `  `  `  `  `
+400`  E`  2`  052`  Asset Subnumber`  `  `  `  `  `
+400`  E`  2`  053`  Goods recipient/ship-to party`  `  `  `  `  `
+400`  E`  2`  054`  Unloading point`  `  `  `  `  `
+400`  E`  2`  055`  Sales document schedule`  `  `  `  `  `
+400`  E`  2`  056`  Deletion indicator`  `  `  `  `  `
+400`  E`  2`  057`  Qty./percent. mat. acct. assgt`  `  `  `  `  `
+400`  E`  2`  058`  Details account assgt. block`  `  `  `  `  `
+400`  E`  2`  062`  Service Order`  `  `  `  `  `
+400`  E`  2`  093`  Funds reservation`  `  `  `  `  `
+400`  E`  2`  095`  Functional Area`  `  `  `  `  `
+400`  E`  2`  098`  Service/activity type`  `  `  `  `  `
+400`  E`  2`  099`  Business process`  `  `  `  `  `
+400`  E`  2`  100`  Grant`  `  `  `  `  `
+400`  E`  2`  108`  US Government Fields`  `  `  `  `  `
+400`  E`  2`  109`  Funds precommitment`  `  `  `  `  `
+400`  E`  3`  001`  Vendor`  20`  `  `  `  `
+400`  E`  3`  002`  Material`  20`  `  `  `  `
+400`  E`  3`  004`  Request for quotation`  21`  `  `  `  `
+400`  E`  3`  005`  Rejection indicator`  22`  `  `  `  `
+400`  E`  3`  009`  Material group`  21`  `  `  `  `
+400`  E`  3`  011`  Order unit (Purchasing)`  23`  `  `  `  `
+400`  E`  3`  012`  Base unit of measure`  23`  `  `  `  `
+400`  E`  3`  013`  Variable PO unit`  23`  `  `  `  `
+400`  E`  3`  015`  Net price`  24`  `  `  `  `
+400`  E`  3`  016`  Condition group`  24`  `  `  `  `
+400`  E`  3`  017`  Qualification for discount`  24`  `  `  `  `
+400`  E`  3`  018`  Overdelivery tolerance`  25`  `  `  `  `
+400`  E`  3`  019`  Unlimited overdelivery`  25`  `  `  `  `
+400`  E`  3`  021`  Quotation no., date`  21`  `  `  `  `
+400`  E`  3`  022`  Origin data`  21`  `  `  `  `
+400`  E`  3`  023`  Shipping instructions`  25`  `  `  `  `
+400`  E`  3`  024`  Input tax code`  24`  `  `  `  `
+400`  E`  3`  025`  Purchasing group`  21`  `  `  `  `
+400`  E`  3`  026`  Reminder levels`  25`  `  `  `  `
+400`  E`  3`  027`  Obsolete volume rebate fields`  24`  `  `  `  `
+400`  E`  3`  028`  Valuation type`  13`  `  `  `  `
+400`  E`  3`  029`  Underdelivery tolerance`  25`  `  `  `  `
+400`  E`  3`  030`  Order acknowl. requirement`  25`  `  `  `  `
+400`  E`  3`  031`  Minimum order quantity`  23`  `  `  `  `
+400`  E`  3`  032`  Volume rebate group`  24`  `  `  `  `
+400`  E`  3`  033`  Reference, salesperson etc.`  21`  `  `  `  `
+400`  E`  3`  034`  Vendor material`  21`  `  `  `  `
+400`  E`  3`  036`  Amortization plan data`  24`  `  `  `  `
+400`  E`  3`  037`  Sort term`  26`  `  `  `  `
+400`  E`  3`  040`  Amortization reset`  24`  `  `  `  `
+400`  E`  3`  041`  Amortization actual data`  24`  `  `  `  `
+400`  E`  3`  042`  Planned delivery time`  25`  `  `  `  `
+400`  E`  3`  045`  Standard PO quantity`  23`  `  `  `  `
+400`  E`  3`  046`  GR-based invoice verification`  25`  `  `  `  `
+400`  E`  3`  047`  PO for Delivery Without Ref.`  25`  `  `  `  `
+400`  E`  3`  051`  Last purchase order`  21`  `  `  `  `
+400`  E`  3`  052`  Purchasing organization`  20`  `  `  `  `
+400`  E`  3`  053`  Plant`  20`  `  `  `  `
+400`  E`  3`  054`  Info category`  20`  `  `  `  `
+400`  E`  3`  055`  Price determination date`  24`  `  `  `  `
+400`  E`  3`  056`  VSR`  21`  `  `  `  `
+400`  E`  3`  057`  GR-based settlement`  25`  `  `  `  `
+400`  E`  3`  058`  Vendor material group`  22`  `  `  `  `
+400`  E`  3`  059`  Points`  24`  `  `  `  `
+400`  E`  3`  060`  Return agreement`  22`  `  `  `  `
+400`  E`  3`  061`  Prior vendor`  24`  `  `  `  `
+400`  E`  3`  062`  Supply option`  25`  `  `  `  `
+400`  E`  3`  063`  Incoterms`  25`  `  `  `  `
+400`  E`  3`  064`  Regular vendor`  25`  `  `  `  `
+400`  E`  3`  065`  Remaining shelf life`  25`  `  `  `  `
+400`  E`  3`  066`  Production version`  22`  `  `  `  `
+400`  E`  3`  067`  Confirmation control key`  25`  `  `  `  `
+400`  E`  3`  068`  Maximum lot size`  23`  `  `  `  `
+400`  E`  3`  069`  Rounding profile`  23`  `  `  `  `
+400`  E`  3`  070`  Units of measure group`  23`  `  `  `  `
+400`  E`  3`  071`  Period indic. rem. shelf life`  25`  `  `  `  `
+400`  E`  3`  072`  Transportation Chain`  25`  `  `  `  `
+400`  E`  3`  073`  Staging Time`  25`  `  `  `  `
+400`  E`  3`  075`  Texts`  26`  `  `  `  `
+400`  E`  3`  076`  "Fixed" indicator`  26`  `  `  `  `
+400`  E`  3`  077`  Indicator: no material text`  26`  `  `  `  `
+400`  E`  3`  080`  Deletion indicator`  22`  `  `  `  `
+400`  E`  3`  081`  Timely Consumption`  22`  `  `  `  `

@@ -1,0 +1,34 @@
+﻿COMPONENT [C(00060)]`LANGU [C(00002)]`DESC_TEXT [C(00160)]
+EA-DFPS`  E`  SAP Enterprise Extension Defense Forces & Public Security
+EA-HR`  E`  SAP Enterprise Extension HR
+EA-PS`  E`  SAP Enterprise Extension Public Services
+FI-CAX`  E`  FI-CA Extended
+GBX01HR`  E`  FIORI X1 HCM
+GBX01HR5`  E`  FIORI X1 HCM
+INSURANCE`  E`  SAP Insurance
+IS-OIL`  E`  IS-OIL
+IS-PRA`  E`  SAP IS-PRA
+IS-PS-CA`  E`  IS-PUBLIC SECTOR CONTRACT ACCOUNTING
+IS-UT`  E`  SAP Utilities/Telecommunication
+MDG_APPL`  E`  MDG Applications
+MDG_FND`  E`  MDG Foundation
+MDG_UX`  E`  MDG Additional User Interface
+PERSONAS`  E`  PERSONAS - SAP GUI PERSONALISATION
+S4CORE`  E`  S4CORE
+S4COREOP`  E`  S/4HANA, On-Premise only parts
+S4CRM`  E`  S4CRM
+S4FND`  E`  Foundation
+SAP_ABA`  E`  Cross-Application Component
+SAP_BASIS`  E`  SAP Basis Component
+SAP_BW`  E`  SAP Business Warehouse
+SAP_GWFND`  E`  SAP Gateway Foundation
+SAP_HR`  E`  Human Resources
+SAP_UI`  E`  User Interface Technology
+SRA004`  E`  Create Travel Request OData Integration
+ST-A/PI`  E`  Servicetools for SAP Basis 731 and highe
+ST-PI`  E`  SAP Solution Tools Plug-In
+UIAPFI70`  E`  UI SFIN
+UIBAS001`  E`  UI for Basis Applications
+UIHR001`  E`  UI for ERP Human Capital Management
+UIHR002`  E`  UI for ERP Human Capital Management 100
+UIS4HOP1`  E`  UI for S/4HANA On Premise

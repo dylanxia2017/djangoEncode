@@ -1,0 +1,3 @@
+﻿TABNAME [C(00060)]`ID [C(00040)]`STEXT [C(00264)]`LANGU [C(00002)]
+PRGN_CUST`  ASSIGN_ROLE_AUTH`  ASSIGN (default), CHANGE - Checks when Assigning Users to Roles (Note 312682)`  E
+PRGN_CUST`  CHECK_S_USER_SAS`  YES (default), NO - Activation of Authorization Object S_USER_SAS (Note 536101)`  E

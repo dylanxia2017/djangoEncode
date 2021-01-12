@@ -1,0 +1,705 @@
+﻿SPRAS [C(00002)]`MANDT [C(00006)]`AFBTXT [C(00100)]`AFBKTX [C(00024)]`AFAPL [C(00008)]`AFABER [C(00004)]
+E`  400`  Book depreciation`  Book deprec.`  0077`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0077`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0077`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  0077`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0077`  32
+E`  400`  Book depreciation - Historical values`  Book deprec.`  0AR`  01
+E`  400`  Revaluation - official index (REI)`  Offic.reval.`  0AR`  10
+E`  400`  Revaluation - official index (RT)`  Off.indx. RT`  0AR`  11
+E`  400`  Book depreciation with revaluation`  Spec. reval.`  0AR`  12
+E`  400`  Tax depreciation - Historical values`  Tax dep.`  0AR`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0AR`  20
+E`  400`  Book depreciation in hard currency`  Book deprec.`  0AR`  30
+E`  400`  Book depreciation in group currency`  Book deprec.`  0AR`  31
+E`  400`  Official revaluation in hard currency`  Offic.reval.`  0AR`  40
+E`  400`  Official revaluation in group currency`  Offic.reval.`  0AR`  41
+E`  400`  Specific revaluation in hard currency`  Specif.reval`  0AR`  50
+E`  400`  Specific revaluation in group currency`  Specif.reval`  0AR`  51
+E`  400`  Book depreciation`  Book deprec.`  0AT`  01
+E`  400`  Tax depreciation valuation for bal. sheet APC`  Tax dep.`  0AT`  02
+E`  400`  Valuation reserve`  Val.reserve`  0AT`  03
+E`  400`  Assessed valuation`  Assessed val`  0AT`  10
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0AT`  20
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0AT`  32
+E`  400`  Investment incentive 1995`  IIn 1995`  0AT`  55
+E`  400`  Investment incentive 1996`  IIn 1996`  0AT`  56
+E`  400`  Investment incentive 1997`  IIn 1997`  0AT`  57
+E`  400`  Investment incentive 1998`  IIn 1998`  0AT`  58
+E`  400`  Investment incentive 1999`  IIn 1999`  0AT`  59
+E`  400`  Book depreciation`  Book deprec.`  0AU`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0AU`  15
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0AU`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0AU`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0AU`  32
+E`  400`  Book depreciation`  Book deprec.`  0BE`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0BE`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0BE`  03
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0BE`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0BE`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0BE`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0BE`  32
+E`  400`  Book depreciation`  Book deprec.`  0BR`  01
+E`  400`  Incentive area`  Incentive`  0BR`  02
+E`  400`  Determination of real profit LALUR`  LALUR`  0BR`  03
+E`  400`  Difference area (02-01)`  Diff.(02-01)`  0BR`  04
+E`  400`  Book deprec. revaluation - IPC/90`  IPC/90`  0BR`  10
+E`  400`  Book revaluation - summer plan`  Summer plan`  0BR`  11
+E`  400`  Technical revaluation`  Techn. reval`  0BR`  13
+E`  400`  Revaluation`  Revaluation`  0BR`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0BR`  20
+E`  400`  Cost-accounting depreciation`  C-acc. dep.`  0BR`  21
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0BR`  30
+E`  400`  Group valuation in foreign currency`  Group (FrC)`  0BR`  31
+E`  400`  Investment support`  Inv. supp.`  0BR`  41
+E`  400`  CIAP`  CIAP`  0BR`  50
+E`  400`  Total area (01 plus 10)`  Sum (01+ 10)`  0BR`  60
+E`  400`  Book depreciation`  Book deprec.`  0CA`  01
+E`  400`  Tax balance sheet for CCA`  Tax bal. CCA`  0CA`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0CA`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0CA`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0CA`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0CA`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0CA`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0CA`  51
+E`  400`  Insurance values`  Insurance`  0CA`  80
+E`  400`  Book depreciation`  Book deprec.`  0CH`  01
+E`  400`  Tax depreciation direct tax`  Tax dep.`  0CH`  15
+E`  400`  Tax depreciation canton (model canton)`  Tax dep.`  0CH`  16
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0CH`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0CH`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0CH`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0CH`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0CH`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0CH`  51
+E`  400`  Book or tax depreciation area`  Book deprec.`  0CL`  01
+E`  400`  Tax depreciation area`  Tax dep.area`  0CL`  05
+E`  400`  Hard currency area`  Hard curr.`  0CL`  50
+E`  400`  Book depreciation`  Book deprec.`  0CN`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0CN`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0CN`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  0CN`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0CN`  32
+E`  400`  Book depreciation - Historical values`  Hist. values`  0CO`  01
+E`  400`  Inflation valuation`  Inflatn val.`  0CO`  02
+E`  400`  Historical plus inflation`  Infl.+Hist.`  0CO`  03
+E`  400`  Tax depreciation historical values`  Tax hist.`  0CO`  04
+E`  400`  Inflation for tax deprec. historical values`  Infl. hist.`  0CO`  05
+E`  400`  Tax dep. hist. w/ revaluation for inflation`  Tax revl LC`  0CO`  06
+E`  400`  US GAAP`  US GAAP`  0CO`  07
+E`  400`  Book depreciation (in Hard Currency)`  Book (HC)`  0CO`  11
+E`  400`  Infl.adj.vals.for hist.vals.   (in hard currency)`  Bk.reval GC`  0CO`  12
+E`  400`  Tax dep. historical values    (in hard currency)`  Hist. values`  0CO`  14
+E`  400`  Infl.adj.val.for tax dep.values(in hard currency)`  Tax dep.`  0CO`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0CO`  20
+E`  400`  Book deprec. (in group currency)`  Book (GC)`  0CO`  21
+E`  400`  Infl.adj.vals.for hist.vals. (in group currency)`  Infl.(GC)`  0CO`  22
+E`  400`  Tax dep. historical values  (in group currency)`  Tax hist.GC`  0CO`  24
+E`  400`  Infl.adj.val.for tax dep.values(in group currency)`  Infl.tax(GC)`  0CO`  25
+E`  400`  Book depreciation`  Book deprec.`  0CZ`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0CZ`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0CZ`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0CZ`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0CZ`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0CZ`  32
+E`  400`  Book depreciation`  Book deprec.`  0DE`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0DE`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0DE`  03
+E`  400`  Tax bal.sht.`  Tax bal.sht.`  0DE`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0DE`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0DE`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0DE`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0DE`  32
+E`  400`  Investment support deducted from asset`  Inv.subs. 1`  0DE`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 2`  0DE`  51
+E`  400`  Book depreciation`  Book deprec.`  0DK`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0DK`  15
+E`  400`  Reserves for tax depreciation`  Res. tax dep`  0DK`  16
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0DK`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0DK`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0DK`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0DK`  32
+E`  400`  Investment support deducted from asset`  Inv.subs. 1`  0DK`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 2`  0DK`  51
+E`  400`  Book depreciation`  Book deprec.`  0ES`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0ES`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0ES`  03
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0ES`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0ES`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0ES`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  0ES`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0ES`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0ES`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0ES`  51
+E`  400`  Book depreciation`  Book deprec.`  0FI`  01
+E`  400`  Special tax depreciation (EVL)`  Spec.tax EVL`  0FI`  02
+E`  400`  Book depreciation - annual`  Book deprec.`  0FI`  03
+E`  400`  Depreciation difference (EVL and book deprec.)`  Diff. EVL/bk`  0FI`  04
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0FI`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0FI`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0FI`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0FI`  32
+E`  400`  Investment support deducted from asset`  Inv.subs. 1`  0FI`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 2`  0FI`  51
+E`  400`  Book depreciation`  Book deprec.`  0FR`  01
+E`  400`  Tax depreciation on balance sheet values`  Tax dep.`  0FR`  02
+E`  400`  Special reserves (difference book/tax deprec.)`  Spec.res.`  0FR`  03
+E`  400`  Depreciation on tax limited value (cars)`  Tax.limited`  0FR`  04
+E`  400`  Non-deductible depreciation (cars)`  Vehicles`  0FR`  05
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0FR`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0FR`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0FR`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0FR`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0FR`  32
+E`  400`  Investment support managed on liabilities side`  Inv.subsidy`  0FR`  51
+E`  400`  Professional tax`  Prof. tax`  0FR`  60
+E`  400`  Book depreciation`  Book deprec.`  0GB`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0GB`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0GB`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0GB`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0GB`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0GB`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0GB`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0GB`  51
+E`  400`  Book depreciation`  Book deprec.`  0HK`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0HK`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0HK`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0HK`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0HK`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0HK`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0HK`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0HK`  51
+E`  400`  Book depreciation`  Book deprec.`  0HU`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0HU`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0HU`  03
+E`  400`  Tax Balance Sheet`  Tax bal.sht.`  0HU`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0HU`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0HU`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0HU`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0HU`  32
+E`  400`  Book Depreciation`  Book deprec.`  0IE`  01
+E`  400`  Tax Balance Sheet`  Tax bal.sht.`  0IE`  15
+E`  400`  Cost-accounting depreciation`  Costing`  0IE`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0IE`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0IE`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0IE`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0IE`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0IE`  51
+E`  400`  Book depreciation`  Book deprec.`  0IN`  01
+E`  400`  Depreciation as per Income Tax  Act 1961`  Tax bal.sht.`  0IN`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0IN`  20
+E`  400`  Consolidated balance sheet in local currency`  Group GBP`  0IN`  30
+E`  400`  Consolidated balance sheet in group currency`  Group USD`  0IN`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0IN`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0IN`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0IN`  51
+E`  400`  Book dep.+tax dep. w/reval. O.Dep+Sp.Dep.(annual)`  Book deprec.`  0IT`  01
+E`  400`  Special tax depreciation    Ord.dep.    (statist.)`  Spec.tax dep`  0IT`  02
+E`  400`  Delta 01 - 02          special tax dep. (statist.)`  Delta 01-02`  0IT`  03
+E`  400`  Only acquisition and production costs`  Only APC`  0IT`  04
+E`  400`  Acquisition and production costs with 1st reval.`  APC+1st rev.`  0IT`  05
+E`  400`  Acquisition and production costs with 2nd reval.`  ACP+2nd rev.`  0IT`  06
+E`  400`  First revaluation (Delta 05 - 04)`  1st rev.5-4`  0IT`  10
+E`  400`  Second revaluation (delta 06-05)`  2nd rev. 6-5`  0IT`  11
+E`  400`  Third revaluation (delta 01-06)`  3rd rev. 1-6`  0IT`  12
+E`  400`  Cost-accounting dep.       Ord.dep.    (monthly)`  Cost-acc.`  0IT`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0IT`  30
+E`  400`  Book depreciation`  Book deprec.`  0JP`  01
+E`  400`  Special tax depreciation on bal. sheet APC`  Spec. dep.`  0JP`  02
+E`  400`  Special reserves due to special tax depreciation`  Spec.res.`  0JP`  03
+E`  400`  Net worth valuation`  Net wrth tax`  0JP`  10
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0JP`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0JP`  20
+E`  400`  Consolidated balance sheet in local currency`  Group JPY`  0JP`  30
+E`  400`  Consolidated balance sheet in group currency`  Group USD`  0JP`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0JP`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0JP`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0JP`  51
+E`  400`  Book depreciation`  Book deprec.`  0KR`  01
+E`  400`  Spec. tax dep. per Corporate Tax Law (CTL)`  Spec.tax dep`  0KR`  02
+E`  400`  Spec.res. per Tax Reduction Control Law (TRCL)`  Spec.res.`  0KR`  03
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0KR`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0KR`  30
+E`  400`  Consolidated balance sheet in reporting currency`  Grp.grp.curr`  0KR`  31
+E`  400`  Book depreciation`  Book deprec.`  0LU`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0LU`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0LU`  03
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0LU`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0LU`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0LU`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0LU`  32
+E`  400`  Book depreciation in local currency`  Bk dep. LC`  0MX`  01
+E`  400`  Book depreciation B-10 Net adjustment local currcy`  Bk B-10 net`  0MX`  03
+E`  400`  Difference betw. book depreciation and B-10`  Diff.Bk/B-10`  0MX`  04
+E`  400`  Historical tax depreciation`  Tax bal.sht.`  0MX`  15
+E`  400`  Income tax-based area`  Income tax`  0MX`  16
+E`  400`  Tax depreciation   (IMPAC, net worth tax)`  IMPAC (NWT)`  0MX`  18
+E`  400`  Consolidated balance sheet in local currency`  Group(l.cur)`  0MX`  30
+E`  400`  Consolidated balance sheet in group currency`  Group(g.cur)`  0MX`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0MX`  32
+E`  400`  Book depreciation in hard currency`  BkDep(h.cur)`  0MX`  33
+E`  400`  Book depreciation B-10 in group currency`  B-10 (g.cur)`  0MX`  34
+E`  400`  Book depreciation B-10 in hard currency`  B-10 (h.cur)`  0MX`  35
+E`  400`  Book Depreciation`  `  0MY`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  `  0MY`  02
+E`  400`  Tax Reserves`  `  0MY`  03
+E`  400`  Cost-accounting depreciation`  `  0MY`  20
+E`  400`  Consolidated balance sheet in local currency`  `  0MY`  30
+E`  400`  Consolidated balance sheet in reporting currency`  `  0MY`  31
+E`  400`  Book depreciation`  Book deprec.`  0NL`  01
+E`  400`  Net worth valuation`  Net wrth tax`  0NL`  10
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0NL`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0NL`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0NL`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0NL`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0NL`  32
+E`  400`  Book depreciation`  Book deprec.`  0NZ`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0NZ`  15
+E`  400`  Consolidated balance sheet in local currency`  Group NZD`  0NZ`  30
+E`  400`  Consolidated balance sheet in group currency`  Group USD`  0NZ`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0NZ`  32
+E`  400`  Book depreciation area`  Book deprec.`  0PE`  01
+E`  400`  Net inflation adjustment`  Infl.adjust.`  0PE`  02
+E`  400`  Adjustment and book depreciation area`  Adj.+ book`  0PE`  03
+E`  400`  Tax depreciation area`  Tax dep.area`  0PE`  05
+E`  400`  Net adjustment for tax depreciation`  Tax adjust.`  0PE`  06
+E`  400`  Tax adjustment and book depreciation area`  Tax adj+book`  0PE`  07
+E`  400`  Book depreciation`  Book deprec.`  0PE`  08
+E`  400`  Book depreciation net adjustment`  Book adj.`  0PE`  09
+E`  400`  Book depreciation and adjustment area`  Book+adjust.`  0PE`  10
+E`  400`  Book depreciation in hard currency`  Book HC`  0PE`  50
+E`  400`  Book depreciation adjustment in hard currency`  Book adj. HC`  0PE`  51
+E`  400`  Tax depreciation in hard currency`  Tax dep. HC`  0PE`  60
+E`  400`  Tax depreciation adjusment in hard currency`  Tax adj. HC`  0PE`  61
+E`  400`  Book depreciation in hard currency`  Book HC`  0PE`  70
+E`  400`  Book depreciation adjustment in hard currency`  Book adj. HC`  0PE`  71
+E`  400`  Book depreciation`  Book deprec.`  0PH`  01
+E`  400`  Spec. tax dep. per Corporate Tax Law (CTL)`  Spec.tax dep`  0PH`  02
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0PH`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0PH`  30
+E`  400`  Consolidated balance sheet in reporting currency`  Grp.grp.curr`  0PH`  31
+E`  400`  Book depreciation`  Book deprec.`  0PL`  01
+E`  400`  Depreciation on tax limited value (cars)`  Spec.tax dep`  0PL`  02
+E`  400`  Non-deductible tax depreciation (cars)`  Vehicles`  0PL`  04
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0PL`  20
+E`  400`  Consolidated balance sheet in local currency PLN`  Group PLN`  0PL`  30
+E`  400`  Consolidated balance sheet in group currency USD`  Group USD`  0PL`  31
+E`  400`  Book depreciation`  Book deprec.`  0PT`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0PT`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0PT`  03
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0PT`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0PT`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0PT`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  0PT`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0PT`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0PT`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0PT`  51
+E`  400`  Book depreciation including revaluation`  Book deprec.`  0RU`  01
+E`  400`  Book Depreciation (w/o Time-Indep. Diff. PBU 18)`  Book deprec.`  0RU`  09
+E`  400`  Tax depreciation (Chapter 25 Tax on Earnings)`  Book hist.`  0RU`  10
+E`  400`  Time-Independent Differences (PBU 18)`  Book hist.`  0RU`  11
+E`  400`  Time-Dependent Differences (PBU 18)`  Book hist.`  0RU`  12
+E`  400`  Depreciation for Russian vehicle tax calculation`  Book hist.`  0RU`  17
+E`  400`  Property tax on regional level`  Book deprec.`  0RU`  27
+E`  400`  Property tax on district level`  Book deprec.`  0RU`  28
+E`  400`  Consolidated balance sheet in local currency`  Grp loc.curr`  0RU`  30
+E`  400`  Consolidated balance sheet in group currency`  Group (g.cur`  0RU`  31
+E`  400`  Book depreciation`  Book deprec.`  0SE`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0SE`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0SE`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0SE`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0SE`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0SE`  32
+E`  400`  Book depreciation`  Book deprec.`  0SG`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0SG`  15
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0SG`  18
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0SG`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0SG`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0SG`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0SG`  32
+E`  400`  Book depreciation`  Book deprec.`  0SK`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0SK`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0SK`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0SK`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0SK`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0SK`  32
+E`  400`  Book depreciation`  Book deprec.`  0TH`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0TH`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0TH`  03
+E`  400`  Tax bal.sht.`  Tax bal.sht.`  0TH`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0TH`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0TH`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0TH`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0TH`  32
+E`  400`  Book depreciation`  Book deprec.`  0TR`  01
+E`  400`  Revaluation fund for equity`  Reval.fund 1`  0TR`  11
+E`  400`  Current revaluation funds`  Reval.fund 2`  0TR`  12
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0TR`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0TR`  31
+E`  400`  Book Depreciation`  Book deprec.`  0TW`  01
+E`  400`  Special tax depreciation on bal. sheet APC`  Spec. dep.`  0TW`  02
+E`  400`  Special reserves due to special tax depreciation`  Spec.res.`  0TW`  03
+E`  400`  Net worth valuation`  Net wrth tax`  0TW`  10
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0TW`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0TW`  20
+E`  400`  Consolidated balance sheet in local currency`  Group JPY`  0TW`  30
+E`  400`  Consolidated balance sheet in group currency`  Group USD`  0TW`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0TW`  32
+E`  400`  Book depreciation`  Book deprec.`  0UA`  01
+E`  400`  Special tax depreciation for APC in fin.statement`  Spec.tax dep`  0UA`  02
+E`  400`  Special reserves because of special tax depreciat.`  Spec.res.`  0UA`  03
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0UA`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0UA`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0UA`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0UA`  31
+E`  400`  Book depreciation in local currency`  Book deprec.`  0US`  01
+E`  400`  Federal Tax ACRS/MACRS`  ACRS/MACRS`  0US`  10
+E`  400`  Alternative Minimum Tax`  ALT MIN`  0US`  11
+E`  400`  Adjusted Current Earnings`  ACE`  0US`  12
+E`  400`  Corporate Earnings & Profits`  E&P`  0US`  13
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0US`  30
+E`  400`  Consolidated balance sheet in group currency`  Group Curr`  0US`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0US`  32
+E`  400`  State modified ACRS`  SMACRS`  0US`  40
+E`  400`  Insurance values`  Insurance`  0US`  80
+E`  400`  Book depreciation in local currency`  Bk dep. LC`  0VE`  01
+E`  400`  Inflation adjustment`  Inflat.adj.`  0VE`  03
+E`  400`  Total - historic book deprec./inflation adjustmt`  Bk+infl.adj.`  0VE`  04
+E`  400`  Historical tax depreciation`  Tax bal.sht.`  0VE`  15
+E`  400`  Consolidated balance sheet in local currency`  Group(l.cur)`  0VE`  30
+E`  400`  Consolidated balance sheet in group currency`  Group(g.cur)`  0VE`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0VE`  32
+E`  400`  Book depreciation in hard currency`  BkDep(h.cur)`  0VE`  33
+E`  400`  Inflation adjustment in group currency`  Infl.(g.cur)`  0VE`  34
+E`  400`  Inflation adjustment in hard currency`  Infl.(h.cur)`  0VE`  35
+E`  400`  Book depreciation`  Book deprec.`  0ZA`  01
+E`  400`  Tax balance sheet`  Tax bal.sht.`  0ZA`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  0ZA`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  0ZA`  30
+E`  400`  Consolidated balance sheet in group currency`  Grp.grp.curr`  0ZA`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  0ZA`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  0ZA`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  0ZA`  51
+E`  400`  Book Depreciation`  Book Deprctn`  1010`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  1010`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1010`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1010`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1010`  33
+E`  400`  Book Depreciation`  Book Deprctn`  1110`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  1110`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1110`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1110`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1110`  33
+E`  400`  Book Depreciation`  Book Deprctn`  1210`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  1210`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1210`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1210`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1210`  33
+E`  400`  Tax Depreciation on Balance Sheet Values`  TaxDep BSV`  1210`  92
+E`  400`  Special reserves (diff book/tax deprec.)`  Spec Reserv`  1210`  93
+E`  400`  Book Depreciation`  Book Deprctn`  1310`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  1310`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1310`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1310`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1310`  33
+E`  400`  Local GAAP in local currency`  LocGAAPLcCry`  1410`  01
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1410`  31
+E`  400`  IFRS in local currency`  IFRSLocalCry`  1410`  32
+E`  400`  IFRS in group currency`  IFRSGroupCry`  1410`  33
+E`  400`  Book Depreciation`  Book Deprctn`  1510`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  1510`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1510`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1510`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1510`  33
+E`  400`  Property Tax`  Property Tax`  1510`  90
+E`  400`  Local Tax - w/o additional depreciation`  LocTax. 1`  1510`  91
+E`  400`  Diff. between Local GAAP and TAX in local currency`  Diff GAAPTAX`  1510`  92
+E`  400`  Book Depreciation`  Book Deprctn`  1610`  01
+E`  400`  Local Tax in local currency (Chapter 25)`  LocTaxLocCry`  1610`  15
+E`  400`  Book Depreciation (w/o Time-Indep. Diff. PBU 18)`  BookPBU18`  1610`  20
+E`  400`  Time-Independent Differences (PBU 18)`  ConstDiff`  1610`  21
+E`  400`  Time-Dependent Differences (PBU 18)`  TimeDepend`  1610`  22
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1610`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1610`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1610`  33
+E`  400`  Book Depreciation`  Book Deprctn`  1710`  01
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1710`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1710`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1710`  33
+E`  400`  Federal Tax ACRS/MACRS`  ACRS/MACRS`  1710`  90
+E`  400`  Alternative Minimum Tax`  ALT MIN`  1710`  91
+E`  400`  Adjusted Current Earnings`  ACE`  1710`  92
+E`  400`  Corporate Earnings & Profits`  E&P`  1710`  93
+E`  400`  Book Depreciation`  Book Deprctn`  1810`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  1810`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1810`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1810`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1810`  33
+E`  400`  Book Depreciation`  Book Deprctn`  1910`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  1910`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  1910`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  1910`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  1910`  33
+E`  400`  Book depreciation`  Book deprec.`  2011`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  2011`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  2011`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  2011`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  2011`  32
+E`  400`  Book depreciation`  Book deprec.`  2018`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  2018`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  2018`  30
+E`  400`  Book Depreciation`  Book Deprctn`  2110`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2110`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2110`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2110`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2110`  33
+E`  400`  Book Depreciation`  Book Deprctn`  2210`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2210`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2210`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2210`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2210`  33
+E`  400`  Book depreciation`  Book deprec.`  2301`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  2301`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  2301`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  2301`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  2301`  32
+E`  400`  Book Depreciation`  Book Deprctn`  2310`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2310`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2310`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2310`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2310`  33
+E`  400`  Book Depreciation`  Book Deprctn`  2410`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2410`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2410`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2410`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2410`  33
+E`  400`  Book Depreciation`  Book Deprctn`  2510`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2510`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2510`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2510`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2510`  33
+E`  400`  Book Depreciation`  Book Deprctn`  2610`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2610`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2610`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2610`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2610`  33
+E`  400`  Book Depreciation`  Book Deprctn`  2810`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2810`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2810`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2810`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2810`  33
+E`  400`  Book Depreciation`  Book Deprctn`  2910`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  2910`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  2910`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  2910`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  2910`  33
+E`  400`  Corporate Earnings & Profits`  E&P`  2910`  95
+E`  400`  Book Depreciation`  Book Deprctn`  3010`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  3010`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  3010`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  3010`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  3010`  33
+E`  400`  Book Depreciation`  Book Deprctn`  3210`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  3210`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  3210`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  3210`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  3210`  33
+E`  400`  Book Depreciation`  Book Deprctn`  3310`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  3310`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  3310`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  3310`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  3310`  33
+E`  400`  Book Depreciation`  Book Deprctn`  3510`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  3510`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  3510`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  3510`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  3510`  33
+E`  400`  Book Depreciation`  Book Deprctn`  3610`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  3610`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  3610`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  3610`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  3610`  33
+E`  400`  Book Depreciation`  Book Deprctn`  3710`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  3710`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  3710`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  3710`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  3710`  33
+E`  400`  Book Depreciation`  Book Deprctn`  3910`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  3910`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  3910`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  3910`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  3910`  33
+E`  400`  Book depreciation`  Book deprec.`  4010`  01
+E`  400`  Book depreciation`  Book deprec.`  4010`  02
+E`  400`  Book depreciation`  Book deprec.`  4010`  03
+E`  400`  Book depreciation`  Book deprec.`  4010`  80
+E`  400`  Book depreciation`  Book deprec.`  4010`  81
+E`  400`  Book Depreciation`  Book Deprctn`  4020`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  4020`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  4020`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  4020`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  4020`  33
+E`  400`  Book depreciation`  Book deprec.`  4030`  01
+E`  400`  Book depreciation`  Book deprec.`  4030`  02
+E`  400`  Book depreciation`  Book deprec.`  4030`  03
+E`  400`  Book depreciation`  Book deprec.`  4030`  80
+E`  400`  Book depreciation`  Book deprec.`  4030`  81
+E`  400`  Book Depreciation`  Book Deprctn`  4040`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  4040`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  4040`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  4040`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  4040`  33
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  4040`  81
+E`  400`  Book Depreciation`  Book Deprctn`  4210`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  4210`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  4210`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  4210`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  4210`  33
+E`  400`  Book Depreciation`  Book Deprctn`  4310`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  4310`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  4310`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  4310`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  4310`  33
+E`  400`  Sibuin Area`  Sibuin Area`  4310`  51
+E`  400`  Book Depreciation`  Book Deprctn`  4410`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  4410`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  4410`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  4410`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  4410`  33
+E`  400`  Book Depreciation`  Book Deprctn`  4510`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  4510`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  4510`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  4510`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  4510`  33
+E`  400`  Book depreciation - annual`  Book Dep. A`  4510`  92
+E`  400`  Depreciation difference (EVL and book deprec.)`  Diff. EVL/bk`  4510`  93
+E`  400`  Book Depreciation`  Book Deprctn`  5110`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  5110`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  5110`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  5110`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  5110`  33
+E`  400`  Book Depreciation`  Book Deprctn`  5410`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  5410`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  5410`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  5410`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  5410`  33
+E`  400`  Book Depreciation`  Book Deprctn`  5510`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  5510`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  5510`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  5510`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  5510`  33
+E`  400`  Book Depreciation`  Book Deprctn`  5810`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  5810`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  5810`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  5810`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  5810`  33
+E`  400`  Book Depreciation`  Book Deprctn`  5910`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  5910`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  5910`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  5910`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  5910`  33
+E`  400`  Book Depreciation`  Book Deprctn`  6110`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  6110`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  6110`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  6110`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  6110`  33
+E`  400`  Book Depreciation`  Book Deprctn`  6210`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  6210`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  6210`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  6210`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  6210`  33
+E`  400`  Book Depreciation`  Book Deprctn`  6310`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  6310`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  6310`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  6310`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  6310`  33
+E`  400`  Book Depreciation`  Book Deprctn`  6410`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  6410`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  6410`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  6410`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  6410`  33
+E`  400`  Book Depreciation`  Book Deprctn`  6910`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  6910`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  6910`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  6910`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  6910`  33
+E`  400`  Book depreciation`  Book deprec.`  7000`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  7000`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  7000`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  7000`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  7000`  32
+E`  400`  Book depreciation`  Book deprec.`  7999`  01
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  7999`  32
+E`  400`  Book Depreciation`  Book Deprctn`  7K10`  01
+E`  400`  Local Tax in local currency`  LocTaxLocCry`  7K10`  15
+E`  400`  Local GAAP in group currency`  LocGAAPGrCry`  7K10`  31
+E`  400`  IFRS in local currency`  IFRS loc cur`  7K10`  32
+E`  400`  IFRS in group currency`  IFRS grp cur`  7K10`  33
+E`  400`  Book depreciation`  Book deprec.`  AAA2`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  AAA2`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  AAA2`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  AAA2`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  AAA2`  32
+E`  400`  Book depreciation`  Book deprec.`  AR88`  01
+E`  400`  Book depreciation`  Book deprec.`  AR88`  20
+E`  400`  Book depreciation`  Book deprec.`  BJDM`  01
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  BJDM`  30
+E`  400`  Book depreciation`  Book deprec.`  CN02`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  CN02`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  CN02`  30
+E`  400`  Book depreciation`  Book deprec.`  CPCN`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  CPCN`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  CPCN`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  CPCN`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  CPCN`  32
+E`  400`  Book depreciation`  Book deprec.`  HD01`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  HD01`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  HD01`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  HD01`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  HD01`  32
+E`  400`  Book depreciation`  Book deprec.`  L000`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  L000`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  L000`  30
+E`  400`  Book depreciation`  Book deprec.`  LCN`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  LCN`  20
+E`  400`  Book depreciation`  Book deprec.`  LL02`  01
+E`  400`  Book depreciation`  Book deprec.`  M009`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  M009`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  M009`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  M009`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  M009`  32
+E`  400`  Book depreciation`  Book deprec.`  M110`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  M110`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  M110`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  M110`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  M110`  32
+E`  400`  Book depreciation`  Book deprec.`  TM99`  01
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  TM99`  32
+E`  400`  Book depreciation`  Book deprec.`  TM99`  40
+E`  400`  Book depreciation`  Book deprec.`  TM99`  41
+E`  400`  Book depreciation`  Book deprec.`  TMHK`  01
+E`  400`  Book depreciation`  Book deprec.`  XXGS`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  XXGS`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  XXGS`  30
+E`  400`  Book depreciation`  Book deprec.`  YTLY`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  YTLY`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  YTLY`  30
+E`  400`  Consolidated balance sheet in group currency`  Cons.grp.cur`  YTLY`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  YTLY`  32
+E`  400`  Book depreciation`  Book deprec.`  Z010`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  Z010`  20
+E`  400`  Consolidated balance sheet in local currency`  Grp.loc.curr`  Z010`  30
+E`  400`  Book depreciation`  Book deprec.`  ZJP`  01
+E`  400`  Special tax depreciation on bal. sheet APC`  Spec. dep.`  ZJP`  02
+E`  400`  Special reserves due to special tax depreciation`  Spec.res.`  ZJP`  03
+E`  400`  Net worth valuation`  Net wrth tax`  ZJP`  10
+E`  400`  Tax balance sheet`  Tax bal.sht.`  ZJP`  15
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  ZJP`  20
+E`  400`  Consolidated balance sheet in local currency`  Group JPY`  ZJP`  30
+E`  400`  Consolidated balance sheet in group currency`  Group USD`  ZJP`  31
+E`  400`  Book depreciation in group currency`  BkDep(g.cur)`  ZJP`  32
+E`  400`  Investment support deducted from asset`  Inv.subsidy`  ZJP`  41
+E`  400`  Investment support posted to liabilities`  Inv.subs. 1`  ZJP`  51
+E`  400`  Book depreciation`  Book deprec.`  ZP00`  01
+E`  400`  Book depreciation`  Book deprec.`  ZZSY`  01
+E`  400`  Cost-accounting depreciation`  Cost-acc.`  ZZSY`  20

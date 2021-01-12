@@ -1,0 +1,3698 @@
+﻿MANDT [C(00006)]`KTOPL [C(00008)]`KTOSL [C(00006)]`XKOMO [C(00002)]`XBWMO [C(00002)]`XBKLA [C(00002)]`XDIKO [C(00002)]
+400`  `  AKO`  `  X`  X`  X
+400`  `  AUM`  `  X`  X`  X
+400`  `  BO1`  `  `  `  X
+400`  `  BO2`  `  `  `  X
+400`  `  BO3`  `  `  `  X
+400`  `  BSV`  `  X`  X`
+400`  `  BSX`  `  X`  X`
+400`  `  DIF`  `  `  `  X
+400`  `  EIN`  `  X`  X`
+400`  `  EKG`  `  X`  X`
+400`  `  FR1`  `  `  `
+400`  `  FR2`  `  `  `
+400`  `  FR3`  `  `  `
+400`  `  FR4`  `  `  `
+400`  `  FRE`  `  `  `
+400`  `  FRL`  `  X`  `
+400`  `  FRN`  `  X`  `
+400`  `  GBB`  X`  X`  X`  X
+400`  `  KBS`  `  `  `
+400`  `  KDM`  `  `  `  X
+400`  `  KDR`  `  `  `  X
+400`  `  KDV`  `  `  `  X
+400`  `  KON`  `  `  `
+400`  `  KTR`  `  `  `  X
+400`  `  LKW`  `  X`  X`
+400`  `  PRD`  `  X`  X`  X
+400`  `  PRK`  `  `  `  X
+400`  `  PRP`  `  `  `  X
+400`  `  PRQ`  `  `  `  X
+400`  `  PRV`  `  `  `  X
+400`  `  PRY`  `  X`  X`  X
+400`  `  RAP`  `  X`  `  X
+400`  `  RKA`  `  `  `
+400`  `  RUE`  `  `  `
+400`  `  UMB`  `  X`  X`  X
+400`  `  UPF`  `  `  `
+400`  `  WRX`  `  X`  `
+400`  `  WRY`  `  X`  `
+400`  0003`  0P1`  `  `  `  X
+400`  0003`  0PA`  `  `  `
+400`  0003`  KDG`  `  `  `
+400`  0003`  SKT`  `  `  `
+400`  0077`  BSX`  `  X`  X`
+400`  0077`  DIF`  `  `  `  X
+400`  0077`  GBB`  X`  X`  X`  X
+400`  0077`  PRD`  X`  X`  `
+400`  0077`  WRX`  `  X`  `
+400`  0797`  SKT`  `  `  `
+400`  0797`  VST`  `  `  `
+400`  0999`  BSX`  `  X`  X`
+400`  0AES`  AG3`  `  `  `
+400`  0AES`  AKO`  `  X`  `
+400`  0AES`  AUM`  `  X`  `
+400`  0AES`  BSV`  `  X`  `
+400`  0AES`  BSX`  `  X`  X`
+400`  0AES`  DIF`  `  `  `
+400`  0AES`  DSA`  `  `  `
+400`  0AES`  FR1`  `  X`  `
+400`  0AES`  FRL`  `  X`  `
+400`  0AES`  GBB`  X`  X`  X`
+400`  0AES`  KDM`  X`  X`  `
+400`  0AES`  KDR`  `  `  `
+400`  0AES`  KON`  `  X`  `
+400`  0AES`  MWS`  `  `  `
+400`  0AES`  PRD`  X`  X`  `
+400`  0AES`  PRG`  `  `  `
+400`  0AES`  SKE`  `  `  `
+400`  0AES`  SKT`  `  `  `
+400`  0AES`  UMB`  `  X`  `
+400`  0AES`  VST`  `  `  `
+400`  0AES`  WRX`  `  X`  `
+400`  0AES`  ZDI`  `  `  `
+400`  1000`  GBB`  `  X`  `
+400`  1000`  SKE`  `  `  `
+400`  1000`  SKT`  `  `  `
+400`  1006`  BSX`  `  X`  X`
+400`  1006`  GBB`  X`  X`  X`
+400`  1006`  PRD`  X`  X`  X`
+400`  1300`  MWS`  X`  `  `
+400`  1300`  VST`  X`  `  `
+400`  2007`  MWS`  X`  `  `
+400`  2007`  VST`  X`  `  `
+400`  2018`  ANC`  `  X`  `
+400`  2018`  MWS`  `  `  `
+400`  2018`  SKE`  `  `  `
+400`  2018`  SKT`  `  `  `
+400`  2018`  VST`  `  `  `
+400`  2INT`  0P2`  `  `  `
+400`  3006`  BSX`  `  X`  X`
+400`  3333`  MWS`  `  `  `
+400`  3333`  VST`  `  `  `
+400`  4010`  BSX`  `  X`  X`
+400`  4010`  COC`  `  X`  X`
+400`  4010`  GBB`  X`  X`  X`
+400`  4010`  PRA`  `  X`  `
+400`  4010`  PRD`  X`  X`  X`
+400`  4010`  PRM`  `  X`  `
+400`  4010`  PRV`  `  X`  X`
+400`  4010`  PRY`  `  X`  X`
+400`  4010`  UMB`  `  X`  X`
+400`  4010`  WPA`  `  X`  `
+400`  4010`  WPM`  `  X`  `
+400`  4010`  WRX`  `  X`  `
+400`  5200`  AUM`  X`  X`  X`
+400`  5200`  DIF`  `  `  `
+400`  5200`  WPA`  `  X`  `
+400`  8570`  BSX`  `  X`  X`
+400`  8570`  GBB`  X`  X`  X`  X
+400`  8570`  MWS`  X`  `  `
+400`  8570`  PRD`  `  X`  X`  X
+400`  8570`  VST`  X`  `  `
+400`  8570`  WRX`  `  X`  `
+400`  9399`  MWS`  X`  `  `
+400`  93A9`  AKO`  `  `  X`
+400`  93A9`  AUM`  `  `  X`
+400`  93A9`  BO1`  `  `  `
+400`  93A9`  BO2`  `  `  `
+400`  93A9`  BSK`  `  X`  X`
+400`  93A9`  BSV`  `  X`  X`
+400`  93A9`  BSX`  `  X`  X`
+400`  93A9`  DIF`  `  `  `
+400`  93A9`  EIN`  `  `  X`
+400`  93A9`  EKG`  `  `  X`
+400`  93A9`  FR1`  `  `  `
+400`  93A9`  FR2`  `  `  `
+400`  93A9`  FR3`  `  `  `
+400`  93A9`  FR4`  `  `  `
+400`  93A9`  FRE`  `  `  `
+400`  93A9`  FRL`  `  `  X`
+400`  93A9`  FRN`  `  `  `
+400`  93A9`  GBB`  X`  X`  X`  X
+400`  93A9`  KDM`  `  `  `
+400`  93A9`  KDR`  `  `  `
+400`  93A9`  KON`  X`  `  `
+400`  93A9`  KTR`  `  `  `
+400`  93A9`  MWS`  X`  `  `
+400`  93A9`  PRD`  X`  `  X`
+400`  93A9`  PRK`  `  `  `
+400`  93A9`  PRP`  `  `  `
+400`  93A9`  PRQ`  `  `  `
+400`  93A9`  RKA`  `  `  `
+400`  93A9`  RUE`  `  `  `
+400`  93A9`  UMB`  `  `  `
+400`  93A9`  WRX`  `  `  `
+400`  9700`  AUM`  `  X`  X`  X
+400`  9700`  BSV`  `  `  `
+400`  9700`  BSX`  `  X`  X`
+400`  9700`  FRL`  `  `  X`
+400`  9700`  GBB`  X`  X`  X`
+400`  9700`  KDM`  `  X`  `
+400`  9700`  MWS`  `  `  `
+400`  9700`  PRD`  `  X`  X`
+400`  9700`  UMB`  `  X`  X`
+400`  9700`  VST`  `  `  `
+400`  9700`  WRX`  `  X`  X`
+400`  A000`  AUM`  X`  X`  X`  X
+400`  A000`  GBB`  X`  X`  X`  X
+400`  AA01`  MWS`  `  `  `
+400`  AAA2`  MWS`  `  `  `
+400`  AAA2`  ST1`  `  `  `
+400`  ALKH`  ANC`  `  X`  `
+400`  ALKH`  BSX`  `  `  X`
+400`  ALKH`  DSA`  `  `  `  X
+400`  ALKH`  GBB`  X`  `  X`  X
+400`  ALKH`  KDG`  `  `  `
+400`  ALKH`  KON`  `  `  `
+400`  ALKH`  MWS`  X`  `  `
+400`  ALKH`  PRD`  `  `  X`  X
+400`  ALKH`  SKE`  `  `  `
+400`  ALKH`  VST`  X`  `  `
+400`  ALKH`  WRX`  `  `  `
+400`  ALKH`  ZDI`  `  X`  `  X
+400`  AR88`  AUM`  `  X`  X`
+400`  AR88`  BSV`  `  X`  `
+400`  AR88`  BSX`  `  X`  X`
+400`  AR88`  DIF`  `  `  `
+400`  AR88`  FRL`  `  X`  `
+400`  AR88`  GBB`  X`  X`  X`
+400`  AR88`  KDM`  `  X`  `
+400`  AR88`  MW1`  X`  `  `
+400`  AR88`  MWS`  X`  `  `
+400`  AR88`  PRD`  X`  X`  X`
+400`  AR88`  UMB`  `  X`  X`
+400`  AR88`  VST`  X`  `  `
+400`  AR88`  WRX`  `  X`  `
+400`  BJDM`  ANC`  `  `  `
+400`  BJDM`  MWS`  X`  `  `
+400`  BJDM`  SKE`  `  `  `
+400`  BJDM`  SKT`  `  `  `
+400`  BJDM`  VST`  X`  `  `
+400`  BJDM`  WRX`  `  `  `  X
+400`  CABE`  AG1`  `  `  `
+400`  CABE`  AG2`  `  `  `  X
+400`  CABE`  AG3`  `  `  `
+400`  CABE`  AKO`  `  X`  `  X
+400`  CABE`  AMO`  `  X`  X`  X
+400`  CABE`  ANB`  `  `  `
+400`  CABE`  ANF`  `  `  `
+400`  CABE`  ANZ`  `  `  `
+400`  CABE`  AUD`  `  `  `
+400`  CABE`  AUF`  `  X`  X`  X
+400`  CABE`  AUK`  `  `  `
+400`  CABE`  AUM`  `  X`  `  X
+400`  CABE`  BDS`  `  `  `
+400`  CABE`  BIK`  `  `  `
+400`  CABE`  BIL`  X`  `  `
+400`  CABE`  BO1`  `  `  `
+400`  CABE`  BO2`  `  `  `
+400`  CABE`  BO3`  `  X`  `
+400`  CABE`  BSA`  `  X`  `  X
+400`  CABE`  BSP`  `  `  `
+400`  CABE`  BSV`  `  X`  X`  X
+400`  CABE`  BSX`  `  X`  X`  X
+400`  CABE`  BWS`  `  `  `
+400`  CABE`  CO1`  `  `  `
+400`  CABE`  DEL`  `  `  `  X
+400`  CABE`  DIF`  `  X`  `  X
+400`  CABE`  DSA`  `  `  `  X
+400`  CABE`  DSK`  `  `  `
+400`  CABE`  EIN`  `  X`  X`  X
+400`  CABE`  EKG`  `  X`  X`  X
+400`  CABE`  ELB`  `  `  `
+400`  CABE`  ESA`  X`  `  `
+400`  CABE`  ESE`  X`  `  `
+400`  CABE`  FR1`  `  X`  `
+400`  CABE`  FR2`  `  X`  `
+400`  CABE`  FR3`  `  X`  `
+400`  CABE`  FR4`  `  `  `
+400`  CABE`  FRE`  `  X`  X`  X
+400`  CABE`  FRL`  `  X`  `  X
+400`  CABE`  FRN`  `  X`  `  X
+400`  CABE`  GA0`  `  `  `
+400`  CABE`  GBB`  X`  X`  X`  X
+400`  CABE`  HRC`  X`  X`  `
+400`  CABE`  HRF`  X`  X`  `
+400`  CABE`  HRP`  X`  `  `
+400`  CABE`  HRT`  X`  `  `
+400`  CABE`  INK`  `  `  `
+400`  CABE`  KBS`  `  `  `
+400`  CABE`  KDG`  `  `  `  X
+400`  CABE`  KDM`  `  `  `  X
+400`  CABE`  KDR`  `  X`  `  X
+400`  CABE`  KDV`  `  `  `  X
+400`  CABE`  KON`  `  X`  `
+400`  CABE`  KRD`  `  X`  X`  X
+400`  CABE`  KTR`  `  `  `
+400`  CABE`  LKW`  `  `  X`
+400`  CABE`  LUX`  `  `  `
+400`  CABE`  MVA`  `  `  `
+400`  CABE`  MWS`  `  `  `
+400`  CABE`  NAV`  `  `  `
+400`  CABE`  PRC`  `  `  `  X
+400`  CABE`  PRD`  `  X`  X`  X
+400`  CABE`  PRG`  `  `  `  X
+400`  CABE`  PRK`  `  `  `
+400`  CABE`  PRP`  `  `  `  X
+400`  CABE`  PRQ`  `  `  `
+400`  CABE`  PRV`  `  `  X`
+400`  CABE`  PRY`  `  `  `  X
+400`  CABE`  QST`  `  `  `
+400`  CABE`  RAP`  `  X`  `
+400`  CABE`  RKA`  `  `  `
+400`  CABE`  RUE`  `  X`  `
+400`  CABE`  SKE`  `  `  `
+400`  CABE`  SKT`  `  `  `
+400`  CABE`  SKV`  X`  `  `
+400`  CABE`  UMB`  `  X`  `  X
+400`  CABE`  UMS`  `  `  `
+400`  CABE`  UPF`  `  `  `
+400`  CABE`  VST`  `  `  `
+400`  CABE`  VVA`  `  `  `
+400`  CABE`  VZF`  `  X`  X`
+400`  CABE`  WRX`  `  X`  `  X
+400`  CABE`  WST`  `  `  `
+400`  CABE`  ZDI`  `  X`  `  X
+400`  CACH`  ACC`  `  `  `  X
+400`  CACH`  AG1`  `  `  `
+400`  CACH`  AG2`  `  `  `  X
+400`  CACH`  AG3`  `  `  `
+400`  CACH`  AKO`  `  X`  X`  X
+400`  CACH`  ANB`  `  `  `
+400`  CACH`  ANF`  `  `  `
+400`  CACH`  ANZ`  `  `  `
+400`  CACH`  ASB`  `  `  `
+400`  CACH`  AUD`  `  `  `
+400`  CACH`  AUK`  `  `  `
+400`  CACH`  AUM`  `  X`  X`  X
+400`  CACH`  BDS`  `  `  `
+400`  CACH`  BIK`  `  `  `
+400`  CACH`  BIL`  X`  `  `
+400`  CACH`  BNK`  `  `  `
+400`  CACH`  BO1`  `  `  `  X
+400`  CACH`  BO2`  `  `  `  X
+400`  CACH`  BO3`  `  `  `  X
+400`  CACH`  BSP`  `  `  `
+400`  CACH`  BSV`  `  X`  X`
+400`  CACH`  BSX`  `  X`  X`
+400`  CACH`  BWS`  `  `  `
+400`  CACH`  CO1`  `  `  `
+400`  CACH`  DEL`  `  `  `  X
+400`  CACH`  DIF`  `  `  `  X
+400`  CACH`  DSA`  `  `  `  X
+400`  CACH`  DSK`  `  `  `
+400`  CACH`  EIN`  `  X`  X`
+400`  CACH`  EKG`  `  X`  X`
+400`  CACH`  ESA`  `  `  `
+400`  CACH`  ESE`  `  `  `
+400`  CACH`  FR1`  `  `  `
+400`  CACH`  FR2`  `  `  `
+400`  CACH`  FR3`  `  `  `
+400`  CACH`  FR4`  `  `  `
+400`  CACH`  FRE`  `  `  `
+400`  CACH`  FRL`  `  X`  `
+400`  CACH`  FRN`  `  X`  `
+400`  CACH`  GA0`  `  `  `
+400`  CACH`  GBB`  X`  X`  X`  X
+400`  CACH`  HRC`  X`  X`  `
+400`  CACH`  HRF`  `  X`  `
+400`  CACH`  HRP`  X`  `  `
+400`  CACH`  HRT`  X`  `  `
+400`  CACH`  INK`  `  `  `
+400`  CACH`  IU1`  X`  `  `
+400`  CACH`  IU2`  `  `  `
+400`  CACH`  KBS`  `  `  `
+400`  CACH`  KDG`  `  `  `  X
+400`  CACH`  KDM`  `  `  `  X
+400`  CACH`  KDR`  `  `  `  X
+400`  CACH`  KDT`  `  `  `  X
+400`  CACH`  KDV`  `  `  `  X
+400`  CACH`  KON`  `  `  `
+400`  CACH`  KTR`  `  `  `  X
+400`  CACH`  LKW`  `  X`  X`
+400`  CACH`  LUX`  `  `  `
+400`  CACH`  MVA`  X`  `  `
+400`  CACH`  MW1`  `  `  `
+400`  CACH`  MW2`  `  `  `
+400`  CACH`  MW3`  X`  `  `
+400`  CACH`  MW4`  X`  `  `
+400`  CACH`  MWS`  `  `  `
+400`  CACH`  NAV`  `  `  `
+400`  CACH`  PRC`  `  `  `  X
+400`  CACH`  PRD`  `  X`  X`  X
+400`  CACH`  PRG`  `  `  `  X
+400`  CACH`  PRK`  `  `  `  X
+400`  CACH`  PRP`  `  `  `  X
+400`  CACH`  PRQ`  `  `  `  X
+400`  CACH`  PRV`  `  `  `  X
+400`  CACH`  PRY`  `  X`  X`  X
+400`  CACH`  QST`  `  `  `  X
+400`  CACH`  RAP`  `  X`  `  X
+400`  CACH`  RKA`  `  `  `
+400`  CACH`  RUE`  `  `  `
+400`  CACH`  SGA`  X`  `  `
+400`  CACH`  SKE`  `  `  `
+400`  CACH`  SKT`  `  `  `
+400`  CACH`  SKV`  `  `  `
+400`  CACH`  STQ`  `  `  `
+400`  CACH`  SWE`  `  `  `
+400`  CACH`  UMB`  `  X`  X`  X
+400`  CACH`  UMS`  `  `  `
+400`  CACH`  UPF`  `  `  `
+400`  CACH`  VS1`  `  `  `
+400`  CACH`  VS2`  `  `  `
+400`  CACH`  VS3`  X`  `  `
+400`  CACH`  VS4`  X`  `  `
+400`  CACH`  VSK`  `  `  `
+400`  CACH`  VST`  `  `  `
+400`  CACH`  VVA`  X`  `  `
+400`  CACH`  WAN`  `  `  `
+400`  CACH`  WBW`  `  `  `
+400`  CACH`  WRX`  `  X`  `
+400`  CACH`  WRY`  `  X`  `
+400`  CACH`  WSB`  `  `  `
+400`  CACH`  WST`  `  `  `
+400`  CACH`  WVW`  `  `  `
+400`  CACH`  ZBA`  `  `  `
+400`  CACH`  ZDI`  `  `  `
+400`  CACH`  ZUG`  `  `  `
+400`  CACH`  ZUS`  `  `  `
+400`  CACH`  ZWE`  `  `  `
+400`  CACH`  ZWO`  `  `  `
+400`  CACN`  ACC`  `  `  `  X
+400`  CACN`  AG1`  `  `  `
+400`  CACN`  AG2`  `  `  `  X
+400`  CACN`  AG3`  `  `  `
+400`  CACN`  AKO`  `  X`  X`  X
+400`  CACN`  ANB`  `  `  `
+400`  CACN`  ANF`  `  `  `
+400`  CACN`  ANZ`  `  `  `
+400`  CACN`  ASB`  `  `  `
+400`  CACN`  AUD`  `  `  `
+400`  CACN`  AUK`  `  `  `
+400`  CACN`  AUM`  `  X`  X`  X
+400`  CACN`  BDS`  `  `  `
+400`  CACN`  BIK`  `  `  `
+400`  CACN`  BIL`  X`  `  `
+400`  CACN`  BNK`  `  `  `
+400`  CACN`  BO1`  `  `  `  X
+400`  CACN`  BO2`  `  `  `  X
+400`  CACN`  BSP`  `  `  `
+400`  CACN`  BSV`  `  X`  X`
+400`  CACN`  BSX`  `  X`  X`
+400`  CACN`  BWS`  `  `  `
+400`  CACN`  CO1`  `  `  `
+400`  CACN`  DIF`  `  `  `  X
+400`  CACN`  DSA`  `  `  `  X
+400`  CACN`  DSK`  `  `  `
+400`  CACN`  EIN`  `  X`  X`
+400`  CACN`  EKG`  `  X`  X`
+400`  CACN`  ESA`  `  `  `
+400`  CACN`  ESE`  `  `  `
+400`  CACN`  FR1`  `  `  `
+400`  CACN`  FR2`  `  `  `
+400`  CACN`  FR3`  `  `  `
+400`  CACN`  FR4`  `  `  `
+400`  CACN`  FRE`  `  `  `
+400`  CACN`  FRL`  `  X`  `
+400`  CACN`  FRN`  `  X`  `
+400`  CACN`  GA0`  `  `  `
+400`  CACN`  GBB`  X`  X`  X`  X
+400`  CACN`  HRC`  X`  X`  `
+400`  CACN`  HRD`  `  X`  `
+400`  CACN`  HRF`  `  X`  `
+400`  CACN`  HRK`  `  X`  `
+400`  CACN`  HRP`  X`  `  `
+400`  CACN`  HRT`  X`  `  `
+400`  CACN`  INK`  `  `  `
+400`  CACN`  IU1`  X`  `  `
+400`  CACN`  IU2`  `  `  `
+400`  CACN`  J7O`  `  `  `
+400`  CACN`  JV3`  `  `  `
+400`  CACN`  JV8`  `  `  `
+400`  CACN`  JVA`  `  `  `
+400`  CACN`  KBS`  `  `  `
+400`  CACN`  KDM`  `  `  `  X
+400`  CACN`  KDR`  `  `  `  X
+400`  CACN`  KDT`  `  `  `  X
+400`  CACN`  KON`  `  `  `
+400`  CACN`  KTR`  `  `  `  X
+400`  CACN`  LUX`  `  `  `
+400`  CACN`  MVA`  X`  `  `
+400`  CACN`  MW1`  `  `  `
+400`  CACN`  MW2`  `  `  `
+400`  CACN`  MW3`  X`  `  `
+400`  CACN`  MW4`  X`  `  `
+400`  CACN`  MWS`  `  `  `
+400`  CACN`  NAV`  `  `  `
+400`  CACN`  PRD`  `  X`  X`  X
+400`  CACN`  PRK`  `  `  `  X
+400`  CACN`  PRY`  `  X`  X`  X
+400`  CACN`  QST`  `  `  `  X
+400`  CACN`  RUE`  `  `  `
+400`  CACN`  SGA`  X`  `  `
+400`  CACN`  SKE`  `  `  `
+400`  CACN`  SKT`  `  `  `
+400`  CACN`  SKV`  `  `  `
+400`  CACN`  STQ`  `  `  `
+400`  CACN`  SWE`  `  `  `
+400`  CACN`  UMB`  `  X`  X`  X
+400`  CACN`  UMS`  `  `  `
+400`  CACN`  VS1`  `  `  `
+400`  CACN`  VS2`  `  `  `
+400`  CACN`  VS3`  X`  `  `
+400`  CACN`  VS4`  X`  `  `
+400`  CACN`  VSK`  `  `  `
+400`  CACN`  VST`  `  `  `
+400`  CACN`  VVA`  X`  `  `
+400`  CACN`  WAN`  `  `  `
+400`  CACN`  WBW`  `  `  `
+400`  CACN`  WRX`  `  X`  `
+400`  CACN`  WRY`  `  X`  `
+400`  CACN`  WSB`  `  `  `
+400`  CACN`  WST`  `  `  `
+400`  CACN`  WVW`  `  `  `
+400`  CACN`  ZBA`  `  `  `
+400`  CACN`  ZDI`  `  `  `
+400`  CACN`  ZUG`  `  `  `
+400`  CACN`  ZUS`  `  `  `
+400`  CACN`  ZWE`  `  `  `
+400`  CACN`  ZWO`  `  `  `
+400`  CACO`  AG1`  `  `  `
+400`  CACO`  AG2`  `  `  `  X
+400`  CACO`  AG3`  `  `  `
+400`  CACO`  AKO`  `  X`  X`  X
+400`  CACO`  AUM`  `  X`  X`  X
+400`  CACO`  BIL`  X`  `  `
+400`  CACO`  BO1`  `  `  `  X
+400`  CACO`  BO2`  `  `  `  X
+400`  CACO`  BO3`  `  `  `  X
+400`  CACO`  BSV`  `  X`  X`
+400`  CACO`  BSX`  `  X`  X`
+400`  CACO`  CO1`  `  `  `
+400`  CACO`  DEL`  `  `  `  X
+400`  CACO`  DIF`  `  `  `  X
+400`  CACO`  EIN`  `  `  `
+400`  CACO`  EKG`  `  `  `
+400`  CACO`  FR1`  `  `  `
+400`  CACO`  FR2`  `  `  `
+400`  CACO`  FR3`  `  `  `
+400`  CACO`  FR4`  `  `  `
+400`  CACO`  FRE`  `  `  `
+400`  CACO`  FRL`  `  `  `
+400`  CACO`  FRN`  `  `  `
+400`  CACO`  GA0`  `  `  `
+400`  CACO`  GBB`  X`  X`  X`  X
+400`  CACO`  HRC`  `  X`  `
+400`  CACO`  HRF`  `  X`  `
+400`  CACO`  KDM`  `  `  `
+400`  CACO`  KDR`  `  `  `  X
+400`  CACO`  KDT`  `  `  `
+400`  CACO`  KDV`  `  `  `  X
+400`  CACO`  KDW`  `  `  `  X
+400`  CACO`  KDZ`  `  `  `
+400`  CACO`  KON`  X`  `  `
+400`  CACO`  KTR`  `  `  `
+400`  CACO`  LKW`  `  `  `
+400`  CACO`  LUX`  X`  `  `
+400`  CACO`  MVA`  X`  `  `  X
+400`  CACO`  MW1`  `  `  `
+400`  CACO`  MW2`  `  `  `
+400`  CACO`  MW3`  `  `  `
+400`  CACO`  MWS`  `  `  `
+400`  CACO`  NAV`  `  `  `
+400`  CACO`  OFF`  X`  X`  `  X
+400`  CACO`  OPO`  X`  X`  `  X
+400`  CACO`  PRD`  `  `  `  X
+400`  CACO`  PRK`  `  `  `  X
+400`  CACO`  PRP`  `  `  `  X
+400`  CACO`  PRQ`  `  `  `
+400`  CACO`  PRV`  `  `  `  X
+400`  CACO`  PRY`  `  `  `  X
+400`  CACO`  QST`  X`  `  `  X
+400`  CACO`  RAP`  `  X`  `  X
+400`  CACO`  RKA`  `  `  `
+400`  CACO`  RUE`  `  `  `
+400`  CACO`  TXO`  `  `  `
+400`  CACO`  UMB`  `  `  `
+400`  CACO`  UMS`  `  `  `
+400`  CACO`  UPF`  `  `  `
+400`  CACO`  VST`  `  `  `
+400`  CACO`  VVA`  X`  `  `  X
+400`  CACO`  WGI`  `  X`  X`
+400`  CACO`  WGR`  `  X`  X`
+400`  CACO`  WIT`  X`  X`  `  X
+400`  CACO`  WRX`  `  X`  `
+400`  CACO`  WRY`  `  X`  `
+400`  CACZ`  ACC`  `  `  `  X
+400`  CACZ`  AKO`  `  X`  X`  X
+400`  CACZ`  ANB`  `  `  `
+400`  CACZ`  ANC`  `  X`  `
+400`  CACZ`  ANF`  `  `  `
+400`  CACZ`  ANZ`  `  `  `
+400`  CACZ`  ASB`  `  `  `
+400`  CACZ`  AUD`  `  `  `
+400`  CACZ`  AUK`  `  `  `
+400`  CACZ`  AUM`  `  X`  X`  X
+400`  CACZ`  BDS`  `  `  `
+400`  CACZ`  BIK`  `  `  `
+400`  CACZ`  BIL`  X`  `  `
+400`  CACZ`  BNK`  `  `  `
+400`  CACZ`  BO1`  `  `  `  X
+400`  CACZ`  BO2`  `  `  `  X
+400`  CACZ`  BSP`  `  `  `
+400`  CACZ`  BSV`  `  X`  X`
+400`  CACZ`  BSX`  `  X`  X`
+400`  CACZ`  BWS`  `  `  `
+400`  CACZ`  CO1`  `  `  `
+400`  CACZ`  DIF`  `  `  `  X
+400`  CACZ`  DSK`  `  `  `
+400`  CACZ`  EIN`  `  X`  X`
+400`  CACZ`  EKG`  `  X`  X`
+400`  CACZ`  ESA`  `  `  `
+400`  CACZ`  ESE`  `  `  `
+400`  CACZ`  FR1`  `  `  X`
+400`  CACZ`  FR2`  `  `  `
+400`  CACZ`  FR3`  `  `  X`
+400`  CACZ`  FR4`  `  `  `
+400`  CACZ`  FRE`  `  `  `
+400`  CACZ`  FRL`  `  X`  `
+400`  CACZ`  FRN`  `  X`  `
+400`  CACZ`  GA0`  `  `  `
+400`  CACZ`  GBB`  X`  X`  X`  X
+400`  CACZ`  HRC`  X`  X`  `
+400`  CACZ`  HRD`  `  X`  `
+400`  CACZ`  HRF`  `  X`  `
+400`  CACZ`  HRK`  `  X`  `
+400`  CACZ`  HRP`  X`  `  `
+400`  CACZ`  HRT`  X`  `  `
+400`  CACZ`  INK`  `  `  `
+400`  CACZ`  IU1`  X`  `  `
+400`  CACZ`  IU2`  `  `  `
+400`  CACZ`  KBS`  `  `  `
+400`  CACZ`  KDM`  `  `  `  X
+400`  CACZ`  KDR`  `  `  `  X
+400`  CACZ`  KDT`  `  `  `  X
+400`  CACZ`  KON`  `  `  `
+400`  CACZ`  KTR`  `  `  `  X
+400`  CACZ`  LUX`  `  `  `
+400`  CACZ`  MVA`  X`  `  `
+400`  CACZ`  MW1`  `  `  `
+400`  CACZ`  MW2`  `  `  `
+400`  CACZ`  MW3`  X`  `  `
+400`  CACZ`  MW4`  X`  `  `
+400`  CACZ`  MWS`  `  `  `
+400`  CACZ`  NAV`  `  `  `
+400`  CACZ`  PRD`  `  X`  X`  X
+400`  CACZ`  PRK`  `  `  `  X
+400`  CACZ`  PRP`  `  `  `  X
+400`  CACZ`  PRQ`  `  `  `  X
+400`  CACZ`  PRY`  `  X`  X`  X
+400`  CACZ`  QST`  `  `  `  X
+400`  CACZ`  RUE`  `  `  `
+400`  CACZ`  SGA`  X`  `  `
+400`  CACZ`  SKE`  `  `  `
+400`  CACZ`  SKT`  `  `  `
+400`  CACZ`  SKV`  `  `  `
+400`  CACZ`  STQ`  `  `  `
+400`  CACZ`  SWE`  `  `  `
+400`  CACZ`  UMB`  `  X`  X`  X
+400`  CACZ`  UMS`  `  `  `
+400`  CACZ`  VS1`  `  `  `
+400`  CACZ`  VS2`  `  `  `
+400`  CACZ`  VS3`  X`  `  `
+400`  CACZ`  VS4`  X`  `  `
+400`  CACZ`  VSK`  `  `  `
+400`  CACZ`  VST`  `  `  `
+400`  CACZ`  VVA`  X`  `  `
+400`  CACZ`  WAN`  `  `  `
+400`  CACZ`  WBW`  `  `  `
+400`  CACZ`  WRX`  `  `  X`
+400`  CACZ`  WRY`  `  X`  X`
+400`  CACZ`  WSB`  `  `  `
+400`  CACZ`  WST`  `  `  `
+400`  CACZ`  WVW`  `  `  `
+400`  CACZ`  ZBA`  `  `  `
+400`  CACZ`  ZDI`  `  `  `
+400`  CACZ`  ZUG`  `  `  `
+400`  CACZ`  ZUS`  `  `  `
+400`  CACZ`  ZWE`  `  `  `
+400`  CACZ`  ZWO`  `  `  `
+400`  CAES`  ACC`  `  `  `  X
+400`  CAES`  AKO`  `  X`  `  X
+400`  CAES`  ASB`  `  `  `
+400`  CAES`  AUF`  `  `  `
+400`  CAES`  AUM`  `  X`  `  X
+400`  CAES`  BDS`  `  `  `
+400`  CAES`  BIK`  `  `  `
+400`  CAES`  BIL`  X`  `  `
+400`  CAES`  BSA`  `  `  `
+400`  CAES`  BSP`  `  `  `
+400`  CAES`  BSV`  `  X`  `  X
+400`  CAES`  BSX`  `  X`  `
+400`  CAES`  BWS`  `  `  `
+400`  CAES`  CO1`  `  `  `  X
+400`  CAES`  DIF`  `  `  `  X
+400`  CAES`  DSA`  `  `  `  X
+400`  CAES`  DSK`  `  `  `
+400`  CAES`  EIN`  `  X`  `
+400`  CAES`  EKG`  `  X`  `
+400`  CAES`  ELB`  `  X`  `
+400`  CAES`  ESA`  `  `  `
+400`  CAES`  ESE`  `  `  `
+400`  CAES`  FLB`  `  `  `
+400`  CAES`  FR1`  `  `  `
+400`  CAES`  FR2`  `  `  `
+400`  CAES`  FR3`  `  `  `
+400`  CAES`  FR4`  `  `  `
+400`  CAES`  FRE`  `  `  `
+400`  CAES`  FRL`  `  X`  X`
+400`  CAES`  FRN`  `  X`  X`
+400`  CAES`  GBB`  X`  X`  `  X
+400`  CAES`  HRA`  `  X`  `
+400`  CAES`  HRC`  X`  X`  `
+400`  CAES`  HRD`  `  `  `
+400`  CAES`  HRF`  `  X`  `
+400`  CAES`  HRP`  X`  `  `
+400`  CAES`  HRT`  X`  `  `
+400`  CAES`  INK`  `  `  `
+400`  CAES`  KDG`  `  `  `  X
+400`  CAES`  KDM`  `  `  `  X
+400`  CAES`  KDR`  `  `  `  X
+400`  CAES`  KDV`  `  `  `  X
+400`  CAES`  KON`  `  `  `
+400`  CAES`  MVA`  `  `  `
+400`  CAES`  MWS`  `  `  `
+400`  CAES`  NAV`  `  `  `
+400`  CAES`  PRC`  `  `  `  X
+400`  CAES`  PRD`  `  X`  `  X
+400`  CAES`  PRG`  `  `  `  X
+400`  CAES`  PRV`  `  `  `  X
+400`  CAES`  PRY`  `  X`  X`  X
+400`  CAES`  QST`  `  `  `
+400`  CAES`  RUE`  `  `  `  X
+400`  CAES`  SGA`  `  `  `
+400`  CAES`  SKE`  `  `  `
+400`  CAES`  SKT`  `  `  `
+400`  CAES`  SKV`  `  `  `
+400`  CAES`  UMB`  `  X`  `  X
+400`  CAES`  VSK`  `  `  `
+400`  CAES`  VST`  `  `  `
+400`  CAES`  VVA`  `  `  `
+400`  CAES`  VZF`  `  `  `
+400`  CAES`  WIT`  `  `  `
+400`  CAES`  WRX`  `  X`  X`
+400`  CAES`  WRY`  `  X`  `
+400`  CAES`  WST`  `  `  `
+400`  CAES`  ZDI`  `  X`  `  X
+400`  CAES`  ZUS`  `  `  `
+400`  CAFI`  ACC`  `  `  `  X
+400`  CAFI`  AKO`  `  X`  X`  X
+400`  CAFI`  ANB`  `  `  `
+400`  CAFI`  ANF`  `  `  `
+400`  CAFI`  ANZ`  `  `  `
+400`  CAFI`  ASB`  `  `  `
+400`  CAFI`  AUD`  `  `  `
+400`  CAFI`  AUK`  `  `  `
+400`  CAFI`  AUM`  `  X`  X`  X
+400`  CAFI`  BDS`  `  `  `
+400`  CAFI`  BIK`  `  `  `
+400`  CAFI`  BIL`  X`  `  `
+400`  CAFI`  BNK`  `  `  `
+400`  CAFI`  BO1`  `  `  `  X
+400`  CAFI`  BO2`  `  `  `  X
+400`  CAFI`  BO3`  `  `  `  X
+400`  CAFI`  BSP`  `  `  `
+400`  CAFI`  BSV`  `  X`  X`
+400`  CAFI`  BSX`  `  X`  X`
+400`  CAFI`  BWS`  `  `  `
+400`  CAFI`  CO1`  `  `  `
+400`  CAFI`  DEL`  `  `  `  X
+400`  CAFI`  DIF`  `  `  `  X
+400`  CAFI`  DSK`  `  `  `
+400`  CAFI`  EIN`  `  X`  X`
+400`  CAFI`  EKG`  `  X`  X`
+400`  CAFI`  ESA`  `  `  `
+400`  CAFI`  ESE`  `  `  `
+400`  CAFI`  FR1`  `  `  `
+400`  CAFI`  FR2`  `  `  `
+400`  CAFI`  FR3`  `  `  `
+400`  CAFI`  FR4`  `  `  `
+400`  CAFI`  FRE`  `  `  `
+400`  CAFI`  FRL`  `  X`  `
+400`  CAFI`  FRN`  `  X`  `
+400`  CAFI`  GA0`  `  `  `
+400`  CAFI`  GBB`  X`  X`  X`  X
+400`  CAFI`  HRC`  X`  `  `  X
+400`  CAFI`  HRD`  X`  `  `
+400`  CAFI`  HRF`  X`  `  `  X
+400`  CAFI`  HRK`  X`  `  `
+400`  CAFI`  HRP`  X`  `  `
+400`  CAFI`  HRT`  X`  `  `
+400`  CAFI`  INK`  `  `  `
+400`  CAFI`  IU1`  X`  `  `
+400`  CAFI`  IU2`  `  `  `
+400`  CAFI`  KBS`  `  `  `
+400`  CAFI`  KDG`  `  `  `  X
+400`  CAFI`  KDM`  `  `  `  X
+400`  CAFI`  KDR`  `  `  `  X
+400`  CAFI`  KDT`  `  `  `  X
+400`  CAFI`  KDV`  `  `  `  X
+400`  CAFI`  KON`  `  `  `
+400`  CAFI`  KTR`  `  `  `  X
+400`  CAFI`  LKW`  `  X`  X`
+400`  CAFI`  LUX`  `  `  `
+400`  CAFI`  MVA`  X`  `  `
+400`  CAFI`  MW1`  `  `  `
+400`  CAFI`  MW2`  `  `  `
+400`  CAFI`  MW3`  X`  `  `
+400`  CAFI`  MW4`  X`  `  `
+400`  CAFI`  MWS`  X`  `  `
+400`  CAFI`  NAV`  `  `  `
+400`  CAFI`  PRC`  `  `  `  X
+400`  CAFI`  PRD`  `  X`  X`  X
+400`  CAFI`  PRG`  `  `  `  X
+400`  CAFI`  PRK`  `  `  `  X
+400`  CAFI`  PRP`  `  `  `  X
+400`  CAFI`  PRQ`  `  `  `
+400`  CAFI`  PRV`  `  `  `  X
+400`  CAFI`  PRY`  `  X`  X`  X
+400`  CAFI`  QST`  `  `  `  X
+400`  CAFI`  RAP`  `  X`  `  X
+400`  CAFI`  RUE`  `  `  `
+400`  CAFI`  SGA`  X`  `  `
+400`  CAFI`  SKE`  `  `  `
+400`  CAFI`  SKT`  `  `  `
+400`  CAFI`  SKV`  `  `  `
+400`  CAFI`  STQ`  `  `  `
+400`  CAFI`  SWE`  `  `  `
+400`  CAFI`  TXO`  `  X`  X`  X
+400`  CAFI`  UMB`  `  X`  X`  X
+400`  CAFI`  UMS`  `  `  `
+400`  CAFI`  UPF`  `  `  `
+400`  CAFI`  VS1`  `  `  `
+400`  CAFI`  VS2`  `  `  `
+400`  CAFI`  VS3`  X`  `  `
+400`  CAFI`  VS4`  X`  `  `
+400`  CAFI`  VSK`  `  `  `
+400`  CAFI`  VST`  X`  `  `
+400`  CAFI`  VVA`  X`  `  `
+400`  CAFI`  WAN`  `  `  `
+400`  CAFI`  WBW`  `  `  `
+400`  CAFI`  WRX`  `  X`  `
+400`  CAFI`  WRY`  `  X`  `
+400`  CAFI`  WSB`  `  `  `
+400`  CAFI`  WST`  `  `  `
+400`  CAFI`  WVW`  `  `  `
+400`  CAFI`  ZBA`  `  `  `
+400`  CAFI`  ZDI`  `  `  `
+400`  CAFI`  ZUG`  `  `  `
+400`  CAFI`  ZUS`  `  `  `
+400`  CAFI`  ZWE`  `  `  `
+400`  CAFI`  ZWO`  `  `  `
+400`  CAFR`  ACC`  `  `  `  X
+400`  CAFR`  AKO`  `  `  `  X
+400`  CAFR`  AMO`  `  X`  X`  X
+400`  CAFR`  ANB`  `  `  `
+400`  CAFR`  ANF`  `  `  `
+400`  CAFR`  ANZ`  `  `  `
+400`  CAFR`  ASB`  X`  `  `
+400`  CAFR`  AUD`  `  `  `
+400`  CAFR`  AUF`  `  X`  X`
+400`  CAFR`  AUK`  `  `  `
+400`  CAFR`  AUM`  `  `  `  X
+400`  CAFR`  BIL`  X`  `  `
+400`  CAFR`  BO1`  `  `  `
+400`  CAFR`  BSA`  `  X`  X`
+400`  CAFR`  BSP`  `  `  `
+400`  CAFR`  BSV`  `  X`  X`  X
+400`  CAFR`  BSX`  `  X`  X`
+400`  CAFR`  DIF`  `  `  `  X
+400`  CAFR`  DSK`  X`  `  `
+400`  CAFR`  EIN`  `  X`  X`
+400`  CAFR`  EKG`  `  X`  X`
+400`  CAFR`  ELB`  `  X`  X`
+400`  CAFR`  ESA`  X`  `  `
+400`  CAFR`  ESE`  X`  `  `
+400`  CAFR`  FLB`  `  `  `
+400`  CAFR`  FR1`  `  `  `
+400`  CAFR`  FR2`  `  `  `
+400`  CAFR`  FR3`  `  `  `
+400`  CAFR`  FR4`  `  `  `
+400`  CAFR`  FRE`  `  `  X`
+400`  CAFR`  GA0`  `  `  `
+400`  CAFR`  GBB`  X`  X`  X`  X
+400`  CAFR`  HRA`  `  X`  `
+400`  CAFR`  HRC`  `  X`  `
+400`  CAFR`  HRF`  `  X`  `
+400`  CAFR`  HRP`  X`  `  `
+400`  CAFR`  HRT`  X`  `  `
+400`  CAFR`  HRV`  `  `  `
+400`  CAFR`  INK`  `  `  `
+400`  CAFR`  KBS`  `  `  `
+400`  CAFR`  KDM`  `  `  `  X
+400`  CAFR`  KDR`  `  `  `  X
+400`  CAFR`  KDT`  `  `  `  X
+400`  CAFR`  KON`  `  `  `
+400`  CAFR`  KRD`  `  X`  X`  X
+400`  CAFR`  MVA`  `  `  `
+400`  CAFR`  MW1`  `  `  `
+400`  CAFR`  MWS`  X`  `  `
+400`  CAFR`  NAV`  X`  `  `
+400`  CAFR`  PRD`  `  X`  X`  X
+400`  CAFR`  SGA`  `  `  `
+400`  CAFR`  SKE`  X`  `  `
+400`  CAFR`  SKT`  `  `  `
+400`  CAFR`  SKV`  X`  `  `
+400`  CAFR`  UMB`  `  X`  X`  X
+400`  CAFR`  VS1`  X`  `  `
+400`  CAFR`  VST`  X`  `  `
+400`  CAFR`  VVA`  `  `  `  X
+400`  CAFR`  VZF`  `  X`  X`
+400`  CAFR`  WRX`  `  X`  `
+400`  CAFR`  ZDI`  `  X`  `
+400`  CAHU`  ACC`  `  `  `  X
+400`  CAHU`  AKO`  `  X`  X`  X
+400`  CAHU`  ANB`  `  `  `
+400`  CAHU`  ANF`  `  `  `
+400`  CAHU`  ANZ`  `  `  `
+400`  CAHU`  ASB`  `  `  `
+400`  CAHU`  AUD`  `  `  `
+400`  CAHU`  AUK`  `  `  `
+400`  CAHU`  AUM`  `  X`  X`  X
+400`  CAHU`  BDS`  `  `  `
+400`  CAHU`  BIK`  `  `  `
+400`  CAHU`  BIL`  X`  `  `
+400`  CAHU`  BNK`  `  `  `
+400`  CAHU`  BO1`  `  `  `  X
+400`  CAHU`  BO2`  `  `  `  X
+400`  CAHU`  BSD`  `  `  `
+400`  CAHU`  BSP`  `  `  `
+400`  CAHU`  BSV`  `  X`  X`
+400`  CAHU`  BSX`  `  X`  X`
+400`  CAHU`  BWS`  `  `  `
+400`  CAHU`  CO1`  `  `  `
+400`  CAHU`  DEL`  `  `  `  X
+400`  CAHU`  DIF`  `  `  `  X
+400`  CAHU`  DSA`  `  `  `  X
+400`  CAHU`  DSK`  `  `  `
+400`  CAHU`  EIN`  `  X`  X`
+400`  CAHU`  EKG`  `  X`  X`
+400`  CAHU`  ESA`  `  `  `
+400`  CAHU`  ESE`  `  `  `
+400`  CAHU`  FR1`  `  X`  X`
+400`  CAHU`  FR2`  `  X`  X`
+400`  CAHU`  FR3`  `  X`  X`
+400`  CAHU`  FR4`  `  X`  X`
+400`  CAHU`  FRE`  `  `  `
+400`  CAHU`  FRL`  `  X`  `
+400`  CAHU`  FRN`  `  X`  `
+400`  CAHU`  GA0`  `  `  `
+400`  CAHU`  GBB`  X`  X`  X`  X
+400`  CAHU`  HRC`  `  X`  `
+400`  CAHU`  HRD`  `  X`  `
+400`  CAHU`  HRF`  `  X`  `
+400`  CAHU`  HRK`  `  X`  `
+400`  CAHU`  HRP`  X`  `  `
+400`  CAHU`  HRT`  X`  `  `
+400`  CAHU`  INK`  `  `  `
+400`  CAHU`  IU1`  X`  `  `
+400`  CAHU`  IU2`  `  `  `
+400`  CAHU`  KBS`  `  `  `
+400`  CAHU`  KDG`  `  `  `  X
+400`  CAHU`  KDM`  `  X`  X`
+400`  CAHU`  KDR`  `  `  `  X
+400`  CAHU`  KDT`  `  `  `
+400`  CAHU`  KDV`  `  `  `
+400`  CAHU`  KDW`  `  `  `  X
+400`  CAHU`  KON`  `  `  `
+400`  CAHU`  KTR`  `  `  `  X
+400`  CAHU`  LKW`  `  X`  X`
+400`  CAHU`  LUX`  `  `  `
+400`  CAHU`  MVA`  `  `  `
+400`  CAHU`  MW1`  `  `  `
+400`  CAHU`  MW2`  `  `  `
+400`  CAHU`  MW3`  X`  `  `
+400`  CAHU`  MW4`  X`  `  `
+400`  CAHU`  MWS`  X`  `  `
+400`  CAHU`  NAV`  `  `  `
+400`  CAHU`  PRD`  `  X`  X`  X
+400`  CAHU`  PRG`  `  `  `
+400`  CAHU`  PRK`  `  `  `  X
+400`  CAHU`  PRM`  `  `  `
+400`  CAHU`  PRP`  `  `  `
+400`  CAHU`  PRV`  `  `  `  X
+400`  CAHU`  PRY`  `  X`  X`
+400`  CAHU`  QST`  `  `  `  X
+400`  CAHU`  RAP`  `  `  `  X
+400`  CAHU`  RDF`  `  `  `  X
+400`  CAHU`  RKA`  `  `  `
+400`  CAHU`  RUE`  `  `  `
+400`  CAHU`  SGA`  X`  `  `
+400`  CAHU`  SKE`  `  `  `
+400`  CAHU`  SKT`  `  `  `
+400`  CAHU`  SKV`  `  `  `
+400`  CAHU`  STQ`  `  `  `
+400`  CAHU`  SWE`  `  `  `
+400`  CAHU`  UMB`  `  X`  X`  X
+400`  CAHU`  UMS`  `  `  `
+400`  CAHU`  UPF`  `  `  `
+400`  CAHU`  VS1`  `  `  `
+400`  CAHU`  VS2`  `  `  `
+400`  CAHU`  VS3`  X`  `  `
+400`  CAHU`  VS4`  X`  `  `
+400`  CAHU`  VSK`  `  `  `
+400`  CAHU`  VST`  X`  `  `
+400`  CAHU`  VVA`  X`  `  `
+400`  CAHU`  WAN`  `  `  `
+400`  CAHU`  WBW`  `  `  `
+400`  CAHU`  WRX`  `  X`  X`
+400`  CAHU`  WRY`  `  X`  `
+400`  CAHU`  WSB`  `  `  `
+400`  CAHU`  WST`  `  `  `
+400`  CAHU`  WVW`  `  `  `
+400`  CAHU`  ZBA`  `  `  `
+400`  CAHU`  ZDI`  `  `  `
+400`  CAHU`  ZUG`  `  `  `
+400`  CAHU`  ZUS`  `  `  `
+400`  CAHU`  ZWE`  `  `  `
+400`  CAHU`  ZWO`  `  `  `
+400`  CAIN`  ACC`  `  `  `  X
+400`  CAIN`  AKO`  `  X`  X`  X
+400`  CAIN`  ANC`  `  `  `
+400`  CAIN`  ASB`  `  `  `
+400`  CAIN`  AUM`  `  X`  X`  X
+400`  CAIN`  BO1`  `  `  `  X
+400`  CAIN`  BO2`  `  `  `  X
+400`  CAIN`  BO3`  `  `  `  X
+400`  CAIN`  BSD`  `  `  X`  X
+400`  CAIN`  BSV`  `  X`  X`
+400`  CAIN`  BSX`  `  X`  X`
+400`  CAIN`  COC`  `  `  `
+400`  CAIN`  DIF`  `  `  `  X
+400`  CAIN`  EIN`  `  X`  X`
+400`  CAIN`  EKG`  `  X`  X`
+400`  CAIN`  ESA`  `  `  `
+400`  CAIN`  ESE`  `  `  `
+400`  CAIN`  FR1`  `  `  `
+400`  CAIN`  FR2`  `  `  `
+400`  CAIN`  FR3`  `  `  `
+400`  CAIN`  FR4`  `  `  `
+400`  CAIN`  FRE`  `  `  `
+400`  CAIN`  FRL`  `  `  `
+400`  CAIN`  FRN`  `  `  `
+400`  CAIN`  GBB`  X`  X`  X`  X
+400`  CAIN`  GRU`  X`  X`  `
+400`  CAIN`  GSM`  `  `  `
+400`  CAIN`  IC1`  `  `  `
+400`  CAIN`  ICC`  `  `  `
+400`  CAIN`  ICX`  `  `  `
+400`  CAIN`  ICZ`  `  `  `
+400`  CAIN`  IPC`  `  `  `
+400`  CAIN`  IT1`  X`  `  `
+400`  CAIN`  IT3`  `  `  `
+400`  CAIN`  J1B`  `  `  `
+400`  CAIN`  J1D`  `  `  `
+400`  CAIN`  J1E`  `  `  `
+400`  CAIN`  J1F`  `  `  `
+400`  CAIN`  J1G`  `  `  `
+400`  CAIN`  J1H`  `  `  `
+400`  CAIN`  J1I`  `  `  `
+400`  CAIN`  J1J`  `  `  `
+400`  CAIN`  J1K`  `  `  `
+400`  CAIN`  J1L`  `  `  `
+400`  CAIN`  J1O`  `  `  `
+400`  CAIN`  J1Q`  `  `  `
+400`  CAIN`  J1R`  `  `  `
+400`  CAIN`  J1S`  `  `  `
+400`  CAIN`  JI1`  `  `  `
+400`  CAIN`  JI2`  `  `  `
+400`  CAIN`  JI3`  `  `  `
+400`  CAIN`  KDG`  `  `  `  X
+400`  CAIN`  KDM`  `  `  `  X
+400`  CAIN`  KDR`  `  `  `  X
+400`  CAIN`  KDV`  `  `  `  X
+400`  CAIN`  KDW`  `  `  `
+400`  CAIN`  KDZ`  `  `  `
+400`  CAIN`  KON`  `  `  `
+400`  CAIN`  KTR`  `  `  `  X
+400`  CAIN`  LKW`  `  X`  X`
+400`  CAIN`  LUX`  `  `  `
+400`  CAIN`  MVA`  X`  `  `
+400`  CAIN`  MW1`  `  `  `
+400`  CAIN`  MW2`  `  `  `
+400`  CAIN`  MW3`  `  `  `
+400`  CAIN`  MW4`  `  `  `
+400`  CAIN`  MWS`  X`  `  `
+400`  CAIN`  NAV`  `  `  `
+400`  CAIN`  NZ1`  `  `  `
+400`  CAIN`  NZ2`  `  `  `
+400`  CAIN`  OFF`  X`  X`  `
+400`  CAIN`  OPO`  X`  X`  `
+400`  CAIN`  PRC`  `  X`  X`  X
+400`  CAIN`  PRD`  `  `  `  X
+400`  CAIN`  PRG`  `  `  `  X
+400`  CAIN`  PRK`  `  `  `  X
+400`  CAIN`  PRP`  `  `  `  X
+400`  CAIN`  PRQ`  `  `  `  X
+400`  CAIN`  PRV`  `  `  `  X
+400`  CAIN`  PRY`  `  `  `  X
+400`  CAIN`  QST`  `  `  `  X
+400`  CAIN`  RAP`  `  `  `  X
+400`  CAIN`  RDF`  `  `  `  X
+400`  CAIN`  RKA`  `  `  `
+400`  CAIN`  RUE`  `  `  `
+400`  CAIN`  SGA`  X`  `  `
+400`  CAIN`  SKE`  `  `  `
+400`  CAIN`  SKT`  `  `  `
+400`  CAIN`  SKV`  `  `  `
+400`  CAIN`  UMB`  `  X`  X`  X
+400`  CAIN`  UMD`  `  `  `  X
+400`  CAIN`  VS1`  `  `  `
+400`  CAIN`  VS2`  `  `  `
+400`  CAIN`  VS3`  `  `  `
+400`  CAIN`  VS4`  `  `  `
+400`  CAIN`  VS5`  `  `  `
+400`  CAIN`  VSK`  `  `  `
+400`  CAIN`  VST`  `  `  `
+400`  CAIN`  VVA`  X`  `  `
+400`  CAIN`  WIT`  X`  X`  `
+400`  CAIN`  WRX`  `  `  `
+400`  CAIN`  WRY`  `  `  `
+400`  CAIN`  ZUS`  `  `  `
+400`  CAJP`  ACC`  `  `  `  X
+400`  CAJP`  AG1`  `  `  `
+400`  CAJP`  AG2`  `  `  `  X
+400`  CAJP`  AG3`  `  `  `
+400`  CAJP`  AKO`  `  X`  X`  X
+400`  CAJP`  ANB`  `  `  `
+400`  CAJP`  ANF`  `  `  `
+400`  CAJP`  ANZ`  `  `  `
+400`  CAJP`  ASB`  `  `  `
+400`  CAJP`  AUD`  `  `  `
+400`  CAJP`  AUK`  `  `  `
+400`  CAJP`  AUM`  `  X`  X`  X
+400`  CAJP`  BDS`  `  `  `
+400`  CAJP`  BIK`  `  `  `
+400`  CAJP`  BIL`  X`  `  `
+400`  CAJP`  BNK`  `  `  `
+400`  CAJP`  BO1`  `  `  `  X
+400`  CAJP`  BO2`  `  `  `  X
+400`  CAJP`  BO3`  `  `  `  X
+400`  CAJP`  BSP`  `  `  `
+400`  CAJP`  BSV`  `  X`  X`
+400`  CAJP`  BSX`  `  X`  X`
+400`  CAJP`  BWS`  `  `  `
+400`  CAJP`  CO1`  `  `  `
+400`  CAJP`  DEL`  `  `  `  X
+400`  CAJP`  DIF`  `  `  `  X
+400`  CAJP`  DSA`  `  `  `  X
+400`  CAJP`  DSK`  `  `  `
+400`  CAJP`  EIN`  `  X`  X`
+400`  CAJP`  EKG`  `  X`  X`
+400`  CAJP`  ESA`  `  `  `
+400`  CAJP`  ESE`  `  `  `
+400`  CAJP`  FR1`  `  `  `
+400`  CAJP`  FR2`  `  `  `
+400`  CAJP`  FR3`  `  `  `
+400`  CAJP`  FR4`  `  `  `
+400`  CAJP`  FRE`  `  `  `
+400`  CAJP`  FRL`  `  X`  `
+400`  CAJP`  FRN`  `  X`  `
+400`  CAJP`  GA0`  `  `  `
+400`  CAJP`  GBB`  X`  X`  X`  X
+400`  CAJP`  GKO`  `  `  `
+400`  CAJP`  HRA`  `  X`  `
+400`  CAJP`  HRC`  X`  X`  X`  X
+400`  CAJP`  HRD`  X`  `  `
+400`  CAJP`  HRF`  X`  X`  `  X
+400`  CAJP`  HRK`  X`  `  `
+400`  CAJP`  HRP`  X`  `  `
+400`  CAJP`  HRT`  X`  `  `
+400`  CAJP`  INK`  `  `  `
+400`  CAJP`  IU1`  X`  `  `
+400`  CAJP`  IU2`  `  `  `
+400`  CAJP`  KBS`  `  `  `
+400`  CAJP`  KDM`  `  `  `  X
+400`  CAJP`  KDR`  `  `  `  X
+400`  CAJP`  KDT`  `  `  `  X
+400`  CAJP`  KDV`  `  `  `  X
+400`  CAJP`  KDW`  `  `  `  X
+400`  CAJP`  KDZ`  `  `  `
+400`  CAJP`  KON`  `  `  `
+400`  CAJP`  KTR`  `  `  `  X
+400`  CAJP`  LKW`  `  X`  X`
+400`  CAJP`  LUX`  `  `  `
+400`  CAJP`  MVA`  X`  `  `
+400`  CAJP`  MW1`  `  `  `
+400`  CAJP`  MW2`  `  `  `
+400`  CAJP`  MW3`  X`  `  `
+400`  CAJP`  MW4`  X`  `  `
+400`  CAJP`  MWS`  `  `  `
+400`  CAJP`  NAV`  `  `  `
+400`  CAJP`  PRD`  `  X`  X`  X
+400`  CAJP`  PRK`  `  `  `  X
+400`  CAJP`  PRP`  `  `  `  X
+400`  CAJP`  PRQ`  `  `  `  X
+400`  CAJP`  PRV`  `  `  `  X
+400`  CAJP`  PRY`  `  X`  X`  X
+400`  CAJP`  QST`  `  `  `  X
+400`  CAJP`  RAP`  `  X`  `  X
+400`  CAJP`  RDF`  `  `  `
+400`  CAJP`  RKA`  `  `  `
+400`  CAJP`  RUE`  `  `  `
+400`  CAJP`  SGA`  X`  `  `
+400`  CAJP`  SKE`  `  `  `
+400`  CAJP`  SKT`  `  `  `
+400`  CAJP`  SKV`  `  `  `
+400`  CAJP`  STQ`  `  `  `
+400`  CAJP`  SWE`  `  `  `
+400`  CAJP`  UMB`  `  X`  X`  X
+400`  CAJP`  UMS`  `  `  `
+400`  CAJP`  VS1`  `  `  `
+400`  CAJP`  VS2`  `  `  `
+400`  CAJP`  VS3`  X`  `  `
+400`  CAJP`  VS4`  X`  `  `
+400`  CAJP`  VSK`  `  `  `
+400`  CAJP`  VST`  `  `  `
+400`  CAJP`  VVA`  X`  `  `
+400`  CAJP`  WAN`  `  `  `
+400`  CAJP`  WBW`  `  `  `
+400`  CAJP`  WIT`  `  `  `  X
+400`  CAJP`  WRX`  `  X`  `
+400`  CAJP`  WRY`  `  X`  `
+400`  CAJP`  WSB`  `  `  `
+400`  CAJP`  WST`  `  `  `
+400`  CAJP`  WVW`  `  `  `
+400`  CAJP`  ZBA`  `  `  `
+400`  CAJP`  ZDI`  `  `  `
+400`  CAJP`  ZUG`  `  `  `
+400`  CAJP`  ZUS`  `  `  `
+400`  CAJP`  ZWE`  `  `  `
+400`  CAJP`  ZWO`  `  `  `
+400`  CAKR`  ACC`  `  `  `  X
+400`  CAKR`  AKO`  `  X`  X`  X
+400`  CAKR`  AUM`  `  X`  X`  X
+400`  CAKR`  BDS`  `  `  `
+400`  CAKR`  BIK`  `  `  `
+400`  CAKR`  BIL`  X`  `  `
+400`  CAKR`  BSP`  `  `  `
+400`  CAKR`  BSV`  `  X`  X`
+400`  CAKR`  BSX`  `  X`  X`
+400`  CAKR`  CO1`  `  `  `
+400`  CAKR`  DIF`  `  `  `  X
+400`  CAKR`  DSA`  `  `  `
+400`  CAKR`  DSK`  `  `  `
+400`  CAKR`  EIN`  `  X`  X`
+400`  CAKR`  EKG`  `  X`  X`
+400`  CAKR`  FR1`  `  `  X`  X
+400`  CAKR`  FRE`  `  `  `
+400`  CAKR`  FRL`  `  `  `
+400`  CAKR`  FRN`  `  `  `
+400`  CAKR`  GA0`  `  `  `
+400`  CAKR`  GBB`  X`  X`  X`  X
+400`  CAKR`  HRT`  `  `  `
+400`  CAKR`  HRV`  `  `  `
+400`  CAKR`  INK`  `  `  `
+400`  CAKR`  KDM`  `  `  `  X
+400`  CAKR`  KDR`  `  `  `  X
+400`  CAKR`  KDT`  `  `  `  X
+400`  CAKR`  KON`  `  `  `
+400`  CAKR`  MVA`  X`  `  `
+400`  CAKR`  MWS`  `  `  `
+400`  CAKR`  OPO`  `  `  `  X
+400`  CAKR`  PRD`  `  X`  X`  X
+400`  CAKR`  QST`  `  `  `  X
+400`  CAKR`  SGA`  X`  `  `
+400`  CAKR`  SKE`  `  `  `
+400`  CAKR`  SKT`  `  `  `
+400`  CAKR`  SKV`  `  `  `
+400`  CAKR`  UMB`  `  X`  X`  X
+400`  CAKR`  UMS`  `  `  `
+400`  CAKR`  VSK`  `  `  `
+400`  CAKR`  VST`  `  `  `
+400`  CAKR`  VVA`  X`  `  `
+400`  CAKR`  WIT`  `  X`  `  X
+400`  CAKR`  WRX`  `  X`  `
+400`  CAKR`  ZDI`  `  X`  `
+400`  CANA`  AKO`  `  X`  X`  X
+400`  CANA`  ASB`  `  `  `
+400`  CANA`  AUM`  `  X`  X`  X
+400`  CANA`  BIL`  X`  `  `
+400`  CANA`  BO1`  `  `  `  X
+400`  CANA`  BO2`  `  `  `  X
+400`  CANA`  BO3`  `  `  `  X
+400`  CANA`  BSP`  `  `  `
+400`  CANA`  BSV`  `  X`  X`
+400`  CANA`  BSX`  `  X`  X`
+400`  CANA`  CO1`  `  `  `
+400`  CANA`  DIF`  `  `  `  X
+400`  CANA`  EIN`  `  X`  X`
+400`  CANA`  EKG`  `  X`  X`
+400`  CANA`  ESA`  `  `  `
+400`  CANA`  ESE`  `  `  `
+400`  CANA`  FR1`  `  `  `
+400`  CANA`  FR2`  `  `  `
+400`  CANA`  FR3`  `  `  `
+400`  CANA`  FR4`  `  `  `
+400`  CANA`  FRE`  `  `  `
+400`  CANA`  FRL`  `  X`  `
+400`  CANA`  FRN`  `  X`  `
+400`  CANA`  GBB`  X`  X`  X`  X
+400`  CANA`  HRC`  X`  X`  `
+400`  CANA`  HRF`  `  X`  `
+400`  CANA`  HRP`  X`  `  `
+400`  CANA`  HRT`  X`  `  `
+400`  CANA`  IC1`  `  `  `
+400`  CANA`  ICC`  `  `  `
+400`  CANA`  ICP`  `  `  `
+400`  CANA`  ICX`  `  `  `
+400`  CANA`  ICZ`  `  `  `
+400`  CANA`  INX`  `  `  `
+400`  CANA`  IPC`  `  `  `
+400`  CANA`  IU1`  `  `  `
+400`  CANA`  IU2`  `  `  `
+400`  CANA`  IU3`  `  `  `
+400`  CANA`  IU4`  `  `  `
+400`  CANA`  J1C`  `  `  `
+400`  CANA`  J1D`  `  `  `
+400`  CANA`  J1E`  `  `  `
+400`  CANA`  J1F`  `  `  `
+400`  CANA`  J1G`  `  `  `
+400`  CANA`  J1H`  `  `  `
+400`  CANA`  J1I`  `  `  `
+400`  CANA`  J1J`  `  `  `
+400`  CANA`  J1K`  `  `  `
+400`  CANA`  J1L`  `  `  `
+400`  CANA`  KDG`  `  `  `  X
+400`  CANA`  KDM`  `  `  `  X
+400`  CANA`  KDR`  `  `  `  X
+400`  CANA`  KDV`  `  `  `  X
+400`  CANA`  KON`  `  `  `
+400`  CANA`  KTR`  `  `  `  X
+400`  CANA`  MVA`  X`  `  `
+400`  CANA`  MW1`  X`  `  `
+400`  CANA`  MW2`  X`  `  `
+400`  CANA`  MW3`  X`  `  `
+400`  CANA`  MW4`  X`  `  `
+400`  CANA`  MW5`  `  `  `
+400`  CANA`  MWS`  `  `  `
+400`  CANA`  PRC`  `  `  `  X
+400`  CANA`  PRD`  `  X`  X`  X
+400`  CANA`  PRG`  `  `  `  X
+400`  CANA`  PRK`  `  `  `  X
+400`  CANA`  PRP`  `  `  `  X
+400`  CANA`  PRQ`  `  `  `  X
+400`  CANA`  PRV`  `  `  `  X
+400`  CANA`  PRY`  `  X`  X`  X
+400`  CANA`  QST`  `  `  `  X
+400`  CANA`  RAP`  `  X`  `  X
+400`  CANA`  RKA`  `  `  `
+400`  CANA`  SGA`  X`  `  `
+400`  CANA`  SKE`  `  `  `
+400`  CANA`  SKT`  `  `  `
+400`  CANA`  SKV`  `  `  `
+400`  CANA`  UMB`  `  X`  X`  X
+400`  CANA`  VS1`  `  `  `
+400`  CANA`  VS2`  `  `  `
+400`  CANA`  VS3`  X`  `  `
+400`  CANA`  VS4`  X`  `  `
+400`  CANA`  VS5`  `  `  `
+400`  CANA`  VS6`  `  `  `
+400`  CANA`  VS7`  `  `  `
+400`  CANA`  VSC`  `  `  `
+400`  CANA`  VSF`  `  `  `
+400`  CANA`  VSH`  `  `  `
+400`  CANA`  VSK`  `  `  `
+400`  CANA`  VST`  `  `  `
+400`  CANA`  WRX`  `  X`  `
+400`  CANA`  WRY`  `  X`  `
+400`  CANA`  ZDI`  `  `  `
+400`  CANO`  ACC`  `  `  `  X
+400`  CANO`  AKO`  `  X`  X`  X
+400`  CANO`  ANB`  `  `  `
+400`  CANO`  ANF`  `  `  `
+400`  CANO`  ANZ`  `  `  `
+400`  CANO`  ASB`  `  `  `
+400`  CANO`  AUD`  `  `  `
+400`  CANO`  AUK`  `  `  `
+400`  CANO`  AUM`  `  X`  X`  X
+400`  CANO`  BDS`  `  `  `
+400`  CANO`  BIK`  `  `  `
+400`  CANO`  BIL`  X`  `  `
+400`  CANO`  BNK`  `  `  `
+400`  CANO`  BO1`  `  `  `  X
+400`  CANO`  BO2`  `  `  `  X
+400`  CANO`  BO3`  `  `  `  X
+400`  CANO`  BSP`  `  `  `
+400`  CANO`  BSV`  `  X`  X`
+400`  CANO`  BSX`  `  X`  X`
+400`  CANO`  BWS`  `  `  `
+400`  CANO`  CO1`  `  `  `
+400`  CANO`  DEL`  `  `  `  X
+400`  CANO`  DIF`  `  `  `  X
+400`  CANO`  DSK`  `  `  `
+400`  CANO`  EIN`  `  X`  X`
+400`  CANO`  EKG`  `  X`  X`
+400`  CANO`  ESA`  `  `  `
+400`  CANO`  ESE`  `  `  `
+400`  CANO`  FR1`  `  `  `
+400`  CANO`  FR2`  `  `  `
+400`  CANO`  FR3`  `  `  `
+400`  CANO`  FR4`  `  `  `
+400`  CANO`  FRE`  `  `  `
+400`  CANO`  FRL`  `  X`  `
+400`  CANO`  FRN`  `  X`  `
+400`  CANO`  GA0`  `  `  `
+400`  CANO`  GBB`  X`  X`  X`  X
+400`  CANO`  HRA`  `  X`  `
+400`  CANO`  HRC`  X`  X`  `
+400`  CANO`  HRD`  `  X`  `
+400`  CANO`  HRF`  `  X`  `
+400`  CANO`  HRK`  `  X`  `
+400`  CANO`  HRP`  X`  `  `
+400`  CANO`  HRT`  X`  `  `
+400`  CANO`  INK`  `  `  `
+400`  CANO`  IU1`  X`  `  `
+400`  CANO`  IU2`  `  `  `
+400`  CANO`  KBS`  `  `  `
+400`  CANO`  KDG`  `  `  `  X
+400`  CANO`  KDM`  `  `  `  X
+400`  CANO`  KDR`  `  `  `  X
+400`  CANO`  KDT`  `  `  `  X
+400`  CANO`  KON`  `  `  `
+400`  CANO`  KTR`  `  `  `  X
+400`  CANO`  LKW`  `  X`  X`
+400`  CANO`  LUX`  `  `  `
+400`  CANO`  MVA`  X`  `  `
+400`  CANO`  MW1`  `  `  `
+400`  CANO`  MW2`  `  `  `
+400`  CANO`  MW3`  X`  `  `
+400`  CANO`  MW4`  X`  `  `
+400`  CANO`  MWS`  `  `  `
+400`  CANO`  NAV`  `  `  `
+400`  CANO`  PRC`  `  `  `  X
+400`  CANO`  PRD`  `  X`  X`  X
+400`  CANO`  PRG`  `  `  `  X
+400`  CANO`  PRK`  `  `  `  X
+400`  CANO`  PRP`  `  `  `  X
+400`  CANO`  PRQ`  `  `  `
+400`  CANO`  PRY`  `  X`  X`  X
+400`  CANO`  QST`  `  `  `  X
+400`  CANO`  RUE`  `  `  `
+400`  CANO`  SGA`  X`  `  `
+400`  CANO`  SKE`  `  `  `
+400`  CANO`  SKT`  `  `  `
+400`  CANO`  SKV`  `  `  `
+400`  CANO`  STQ`  `  `  `
+400`  CANO`  SWE`  `  `  `
+400`  CANO`  UMB`  `  X`  X`  X
+400`  CANO`  UMS`  `  `  `
+400`  CANO`  UPF`  `  `  `
+400`  CANO`  VS1`  `  `  `
+400`  CANO`  VS2`  `  `  `
+400`  CANO`  VS3`  X`  `  `
+400`  CANO`  VS4`  X`  `  `
+400`  CANO`  VSK`  `  `  `
+400`  CANO`  VST`  `  `  `
+400`  CANO`  VVA`  X`  `  `
+400`  CANO`  WAN`  `  `  `
+400`  CANO`  WBW`  `  `  `
+400`  CANO`  WRX`  `  X`  `
+400`  CANO`  WRY`  `  X`  `
+400`  CANO`  WSB`  `  `  `
+400`  CANO`  WST`  `  `  `
+400`  CANO`  WVW`  `  `  `
+400`  CANO`  ZBA`  `  `  `
+400`  CANO`  ZDI`  `  `  `
+400`  CANO`  ZUG`  `  `  `
+400`  CANO`  ZUS`  `  `  `
+400`  CANO`  ZWE`  `  `  `
+400`  CANO`  ZWO`  `  `  `
+400`  CAPE`  AUM`  `  X`  X`
+400`  CAPE`  BSV`  `  X`  X`
+400`  CAPE`  BSX`  `  `  `
+400`  CAPE`  EIN`  `  X`  X`
+400`  CAPE`  EKG`  `  X`  X`
+400`  CAPE`  FRL`  `  X`  X`
+400`  CAPE`  FRN`  `  X`  `
+400`  CAPE`  GBB`  X`  X`  X`
+400`  CAPE`  J2A`  `  `  `
+400`  CAPE`  J2B`  `  `  `
+400`  CAPE`  J2C`  `  `  `
+400`  CAPE`  J2D`  `  `  `
+400`  CAPE`  J2E`  `  `  `
+400`  CAPE`  KDM`  `  `  `  X
+400`  CAPE`  KDR`  `  `  `  X
+400`  CAPE`  KON`  X`  `  `
+400`  CAPE`  MWS`  `  `  `
+400`  CAPE`  PRD`  X`  X`  X`  X
+400`  CAPE`  UMB`  `  X`  X`
+400`  CAPE`  VST`  `  `  `
+400`  CAPE`  WIT`  `  X`  `
+400`  CAPE`  WRX`  `  X`  `
+400`  CAPE`  XST`  `  `  `
+400`  CAPL`  AKO`  `  X`  `
+400`  CAPL`  BIL`  X`  `  `
+400`  CAPL`  BSP`  `  `  `
+400`  CAPL`  BSV`  `  `  `
+400`  CAPL`  BSX`  `  X`  X`
+400`  CAPL`  DIF`  `  `  `  X
+400`  CAPL`  ESA`  X`  `  `
+400`  CAPL`  ESE`  X`  `  `
+400`  CAPL`  FR3`  `  `  X`
+400`  CAPL`  FRL`  `  `  X`
+400`  CAPL`  GBB`  X`  X`  X`  X
+400`  CAPL`  KDM`  `  `  X`  X
+400`  CAPL`  KDR`  `  `  `  X
+400`  CAPL`  MWS`  X`  `  `
+400`  CAPL`  PRD`  `  `  X`  X
+400`  CAPL`  VST`  X`  `  `
+400`  CAPL`  WRX`  `  `  X`
+400`  CAPL`  ZDI`  `  `  `  X
+400`  CAPT`  AKO`  `  `  `  X
+400`  CAPT`  ASB`  `  `  `
+400`  CAPT`  AUF`  `  `  `
+400`  CAPT`  AUM`  `  `  `  X
+400`  CAPT`  BDS`  `  `  `
+400`  CAPT`  BIK`  `  `  `
+400`  CAPT`  BIL`  X`  `  `
+400`  CAPT`  BSP`  `  `  `
+400`  CAPT`  BSV`  `  `  `
+400`  CAPT`  BSX`  `  `  X`
+400`  CAPT`  BWS`  `  `  `
+400`  CAPT`  CO1`  `  `  `
+400`  CAPT`  DIF`  `  `  `  X
+400`  CAPT`  DSA`  `  `  `  X
+400`  CAPT`  DSK`  `  `  `
+400`  CAPT`  EIN`  `  `  `  X
+400`  CAPT`  EKG`  `  `  `
+400`  CAPT`  ELB`  `  `  `
+400`  CAPT`  ESA`  `  `  `
+400`  CAPT`  ESE`  X`  `  `
+400`  CAPT`  FLB`  `  `  `
+400`  CAPT`  FR1`  `  `  `
+400`  CAPT`  FR2`  `  `  `
+400`  CAPT`  FR3`  `  `  `
+400`  CAPT`  FR4`  `  `  `
+400`  CAPT`  FRE`  `  `  `
+400`  CAPT`  FRL`  `  `  `
+400`  CAPT`  FRN`  `  `  `
+400`  CAPT`  GBB`  X`  `  X`  X
+400`  CAPT`  HRC`  X`  `  `
+400`  CAPT`  HRD`  `  `  `
+400`  CAPT`  HRF`  X`  `  `
+400`  CAPT`  HRP`  X`  `  `
+400`  CAPT`  HRT`  X`  `  `
+400`  CAPT`  INK`  `  `  `
+400`  CAPT`  IU1`  `  `  `
+400`  CAPT`  KDG`  `  `  `  X
+400`  CAPT`  KDM`  `  `  `
+400`  CAPT`  KDR`  `  `  `  X
+400`  CAPT`  KON`  `  `  `
+400`  CAPT`  MVA`  `  `  `
+400`  CAPT`  MW1`  `  `  `
+400`  CAPT`  MWS`  X`  `  `
+400`  CAPT`  NAV`  `  `  `
+400`  CAPT`  PRC`  `  `  `  X
+400`  CAPT`  PRD`  `  `  `
+400`  CAPT`  PRG`  `  `  `  X
+400`  CAPT`  PRY`  `  X`  X`  X
+400`  CAPT`  QST`  `  `  `
+400`  CAPT`  SGA`  `  `  `
+400`  CAPT`  SKE`  `  `  `
+400`  CAPT`  SKT`  `  `  `
+400`  CAPT`  SKV`  `  `  `
+400`  CAPT`  UMB`  `  `  `  X
+400`  CAPT`  VSK`  `  `  `
+400`  CAPT`  VST`  X`  `  `
+400`  CAPT`  VVA`  `  `  `
+400`  CAPT`  WRX`  `  `  `
+400`  CAPT`  WRY`  `  `  `
+400`  CAPT`  WST`  `  `  `
+400`  CAPT`  ZDI`  `  X`  `  X
+400`  CAPT`  ZUS`  `  `  `
+400`  CARS`  DSA`  `  `  `  X
+400`  CARS`  ESA`  X`  `  `
+400`  CARS`  ESE`  X`  `  `
+400`  CARS`  MVA`  `  `  `
+400`  CARS`  MWS`  X`  `  `
+400`  CARS`  NAV`  X`  `  `
+400`  CARS`  RDF`  `  `  `  X
+400`  CARS`  SGA`  X`  `  `
+400`  CARS`  VST`  X`  `  `
+400`  CARS`  VVA`  `  `  `
+400`  CARS`  ZDI`  `  `  `  X
+400`  CARU`  ACC`  `  `  `  X
+400`  CARU`  AG1`  `  `  `
+400`  CARU`  AG2`  `  `  `  X
+400`  CARU`  AG3`  `  `  `
+400`  CARU`  AKO`  `  X`  `  X
+400`  CARU`  ANC`  `  `  `
+400`  CARU`  AUF`  `  X`  X`
+400`  CARU`  AUM`  `  X`  X`
+400`  CARU`  BDS`  `  `  `
+400`  CARU`  BIK`  `  `  `
+400`  CARU`  BIL`  X`  `  `
+400`  CARU`  BSP`  `  `  `
+400`  CARU`  BSV`  `  X`  X`
+400`  CARU`  BSX`  `  X`  X`
+400`  CARU`  BWS`  `  `  `  X
+400`  CARU`  CO1`  `  `  `
+400`  CARU`  DEL`  `  `  `
+400`  CARU`  DIF`  `  `  `
+400`  CARU`  DSA`  `  `  `  X
+400`  CARU`  DSK`  `  `  `
+400`  CARU`  FED`  X`  `  `
+400`  CARU`  FR1`  `  `  X`
+400`  CARU`  FR2`  `  `  X`
+400`  CARU`  FR3`  `  `  X`
+400`  CARU`  FRL`  `  X`  `
+400`  CARU`  GA0`  `  `  `
+400`  CARU`  GBB`  X`  X`  X`  X
+400`  CARU`  GKO`  `  `  `
+400`  CARU`  GSM`  `  `  `
+400`  CARU`  HRC`  `  X`  `
+400`  CARU`  HRD`  `  X`  `
+400`  CARU`  HRF`  `  X`  `
+400`  CARU`  INK`  `  `  `
+400`  CARU`  KDM`  `  `  X`
+400`  CARU`  KDR`  `  `  `
+400`  CARU`  KDT`  `  `  `
+400`  CARU`  KDV`  `  `  `
+400`  CARU`  KON`  `  `  `
+400`  CARU`  LUX`  X`  `  `
+400`  CARU`  MVA`  X`  `  `
+400`  CARU`  MW1`  X`  `  `
+400`  CARU`  MWS`  X`  `  `
+400`  CARU`  NAP`  X`  `  `
+400`  CARU`  NAV`  X`  `  `
+400`  CARU`  PRD`  `  X`  X`
+400`  CARU`  PRP`  `  `  `  X
+400`  CARU`  PRQ`  `  `  `  X
+400`  CARU`  PRV`  `  `  X`
+400`  CARU`  PRY`  `  X`  X`  X
+400`  CARU`  RAP`  `  `  `
+400`  CARU`  RDF`  `  `  `
+400`  CARU`  RKA`  `  `  `
+400`  CARU`  RUE`  `  `  X`
+400`  CARU`  SAL`  X`  `  `
+400`  CARU`  SAV`  X`  `  `
+400`  CARU`  SGA`  X`  `  `
+400`  CARU`  SKE`  `  `  `
+400`  CARU`  SKT`  `  `  `
+400`  CARU`  SKV`  X`  `  `
+400`  CARU`  TXO`  `  `  `
+400`  CARU`  UBS`  `  `  `
+400`  CARU`  UMB`  `  X`  X`  X
+400`  CARU`  UMS`  `  `  `
+400`  CARU`  UPF`  `  `  `
+400`  CARU`  VSK`  `  `  `
+400`  CARU`  VST`  X`  `  `
+400`  CARU`  VVA`  X`  `  `
+400`  CARU`  WRX`  `  X`  X`
+400`  CARU`  WRY`  `  X`  `
+400`  CARU`  WST`  `  `  `
+400`  CARU`  ZDI`  `  `  `
+400`  CARU`  ZUD`  X`  `  `
+400`  CARU`  ZUG`  X`  `  `
+400`  CARU`  ZUK`  X`  `  `
+400`  CARU`  ZUS`  X`  `  `
+400`  CARU`  ZUZ`  X`  `  `
+400`  CASE`  ACC`  `  `  `  X
+400`  CASE`  AKO`  `  X`  X`  X
+400`  CASE`  AMO`  `  X`  X`  X
+400`  CASE`  ANB`  `  `  `
+400`  CASE`  ANC`  `  `  `
+400`  CASE`  ANF`  `  `  `
+400`  CASE`  ANZ`  `  `  `
+400`  CASE`  ASB`  `  `  `
+400`  CASE`  AUD`  `  `  `
+400`  CASE`  AUF`  `  X`  X`
+400`  CASE`  AUK`  `  `  `
+400`  CASE`  AUM`  `  X`  X`  X
+400`  CASE`  BDS`  `  `  `
+400`  CASE`  BIK`  `  `  `
+400`  CASE`  BIL`  X`  `  `
+400`  CASE`  BNK`  `  `  `
+400`  CASE`  BO1`  `  `  `  X
+400`  CASE`  BO2`  `  `  `  X
+400`  CASE`  BO3`  `  `  `  X
+400`  CASE`  BSA`  `  X`  X`
+400`  CASE`  BSP`  `  `  `
+400`  CASE`  BSV`  `  X`  X`
+400`  CASE`  BSX`  `  X`  X`
+400`  CASE`  BWS`  `  `  `
+400`  CASE`  CO1`  `  `  `
+400`  CASE`  DIF`  `  `  `  X
+400`  CASE`  DSK`  `  `  `
+400`  CASE`  DU2`  `  `  `
+400`  CASE`  DU3`  `  `  `  X
+400`  CASE`  EIN`  `  X`  X`
+400`  CASE`  EKG`  `  X`  X`
+400`  CASE`  ELB`  `  `  `
+400`  CASE`  ESA`  `  `  `
+400`  CASE`  ESE`  `  `  `
+400`  CASE`  FLB`  `  `  `
+400`  CASE`  FR1`  `  `  `
+400`  CASE`  FR2`  `  `  `
+400`  CASE`  FR3`  `  `  `
+400`  CASE`  FR4`  `  `  `
+400`  CASE`  FRE`  `  `  `
+400`  CASE`  FRL`  `  X`  `
+400`  CASE`  FRN`  `  X`  `
+400`  CASE`  GA0`  `  `  `
+400`  CASE`  GBB`  X`  X`  X`  X
+400`  CASE`  HRA`  `  X`  `
+400`  CASE`  HRC`  X`  X`  `
+400`  CASE`  HRD`  `  X`  `
+400`  CASE`  HRF`  `  X`  `
+400`  CASE`  HRK`  `  X`  `
+400`  CASE`  HRP`  X`  `  `
+400`  CASE`  HRT`  X`  `  `
+400`  CASE`  INK`  `  `  `
+400`  CASE`  IU1`  X`  `  `
+400`  CASE`  IU2`  `  `  `
+400`  CASE`  KBS`  `  `  `
+400`  CASE`  KDG`  `  `  `  X
+400`  CASE`  KDM`  `  `  `  X
+400`  CASE`  KDR`  `  `  `  X
+400`  CASE`  KDT`  `  `  `  X
+400`  CASE`  KH`  `  `  `
+400`  CASE`  KON`  `  `  `
+400`  CASE`  KRD`  `  X`  X`  X
+400`  CASE`  KS`  `  `  `
+400`  CASE`  KTR`  `  `  `  X
+400`  CASE`  LKW`  `  X`  X`
+400`  CASE`  LUX`  `  `  `
+400`  CASE`  MVA`  X`  `  `
+400`  CASE`  MW1`  `  `  `
+400`  CASE`  MW2`  `  `  `
+400`  CASE`  MW3`  X`  `  `
+400`  CASE`  MW4`  X`  `  `
+400`  CASE`  MWS`  `  `  `
+400`  CASE`  NAV`  `  `  `
+400`  CASE`  NZ1`  `  `  `
+400`  CASE`  NZ2`  `  `  `
+400`  CASE`  PRC`  `  `  `  X
+400`  CASE`  PRD`  X`  X`  X`  X
+400`  CASE`  PRG`  `  `  `  X
+400`  CASE`  PRK`  `  `  `  X
+400`  CASE`  PRP`  `  `  `  X
+400`  CASE`  PRQ`  `  `  `
+400`  CASE`  PRY`  `  X`  X`  X
+400`  CASE`  QST`  `  `  `  X
+400`  CASE`  RKA`  `  `  `
+400`  CASE`  RPD`  `  `  `
+400`  CASE`  RPK`  `  `  `
+400`  CASE`  RPS`  `  `  `
+400`  CASE`  RSD`  `  `  `
+400`  CASE`  RSK`  `  `  `
+400`  CASE`  RUE`  `  `  `
+400`  CASE`  SGA`  X`  `  `
+400`  CASE`  SKE`  `  `  `
+400`  CASE`  SKT`  `  `  `
+400`  CASE`  SKV`  `  `  `
+400`  CASE`  STQ`  `  `  `
+400`  CASE`  SWE`  `  `  `
+400`  CASE`  UMB`  `  X`  X`  X
+400`  CASE`  UMS`  `  `  `
+400`  CASE`  UPF`  `  `  `
+400`  CASE`  VS1`  `  `  `
+400`  CASE`  VS2`  `  `  `
+400`  CASE`  VS3`  X`  `  `
+400`  CASE`  VS4`  X`  `  `
+400`  CASE`  VSK`  `  `  `
+400`  CASE`  VST`  `  `  `
+400`  CASE`  VVA`  X`  `  `
+400`  CASE`  VZF`  `  X`  X`
+400`  CASE`  WAN`  `  `  `
+400`  CASE`  WBW`  `  `  `
+400`  CASE`  WRX`  `  X`  `
+400`  CASE`  WRY`  `  X`  `
+400`  CASE`  WSB`  `  `  `
+400`  CASE`  WST`  `  `  `
+400`  CASE`  WVW`  `  `  `
+400`  CASE`  ZBA`  `  `  `
+400`  CASE`  ZDI`  `  `  `
+400`  CASE`  ZUG`  `  `  `
+400`  CASE`  ZUS`  `  `  `
+400`  CASE`  ZUZ`  X`  `  `
+400`  CASE`  ZWE`  `  `  `
+400`  CASE`  ZWO`  `  `  `
+400`  CASK`  ACC`  `  `  `  X
+400`  CASK`  AKO`  `  X`  X`  X
+400`  CASK`  AMO`  `  X`  X`  X
+400`  CASK`  ANB`  `  `  `
+400`  CASK`  ANC`  `  X`  `
+400`  CASK`  ANF`  `  `  `
+400`  CASK`  ANZ`  `  `  `
+400`  CASK`  ASB`  `  `  `
+400`  CASK`  AUD`  `  `  `
+400`  CASK`  AUF`  `  X`  X`
+400`  CASK`  AUK`  `  `  `
+400`  CASK`  AUM`  `  X`  X`  X
+400`  CASK`  BDS`  `  `  `
+400`  CASK`  BIK`  `  `  `
+400`  CASK`  BIL`  X`  `  `
+400`  CASK`  BNK`  `  `  `
+400`  CASK`  BO1`  `  `  `  X
+400`  CASK`  BO2`  `  `  `  X
+400`  CASK`  BSA`  `  X`  X`
+400`  CASK`  BSP`  `  `  `
+400`  CASK`  BSV`  `  X`  X`
+400`  CASK`  BSX`  `  X`  X`
+400`  CASK`  BWS`  `  `  `
+400`  CASK`  CO1`  `  `  `
+400`  CASK`  DIF`  `  `  `  X
+400`  CASK`  DSK`  `  `  `
+400`  CASK`  DU2`  `  `  `
+400`  CASK`  DU3`  `  `  `  X
+400`  CASK`  EIN`  `  X`  X`
+400`  CASK`  EKG`  `  X`  X`
+400`  CASK`  ELB`  `  `  `
+400`  CASK`  ESA`  `  `  `
+400`  CASK`  ESE`  `  `  `
+400`  CASK`  FLB`  `  `  `
+400`  CASK`  FR1`  `  `  X`
+400`  CASK`  FR2`  `  `  `
+400`  CASK`  FR3`  `  `  X`
+400`  CASK`  FR4`  `  `  `
+400`  CASK`  FRE`  `  `  `
+400`  CASK`  FRL`  `  X`  `
+400`  CASK`  FRN`  `  X`  `
+400`  CASK`  GA0`  `  `  `
+400`  CASK`  GBB`  X`  X`  X`  X
+400`  CASK`  HRC`  X`  X`  `
+400`  CASK`  HRD`  `  X`  `
+400`  CASK`  HRF`  `  X`  `
+400`  CASK`  HRK`  `  X`  `
+400`  CASK`  HRP`  X`  `  `
+400`  CASK`  HRT`  X`  `  `
+400`  CASK`  INK`  `  `  `
+400`  CASK`  IU1`  X`  `  `
+400`  CASK`  IU2`  `  `  `
+400`  CASK`  KBS`  `  `  `
+400`  CASK`  KDM`  `  `  `  X
+400`  CASK`  KDR`  `  `  `  X
+400`  CASK`  KDT`  `  `  `  X
+400`  CASK`  KH`  `  `  `
+400`  CASK`  KON`  `  `  `
+400`  CASK`  KRD`  `  X`  X`  X
+400`  CASK`  KS`  `  `  `
+400`  CASK`  KTR`  `  `  `  X
+400`  CASK`  LUX`  `  `  `
+400`  CASK`  MVA`  X`  `  `
+400`  CASK`  MW1`  `  `  `
+400`  CASK`  MW2`  `  `  `
+400`  CASK`  MW3`  X`  `  `
+400`  CASK`  MW4`  X`  `  `
+400`  CASK`  MWS`  X`  `  `
+400`  CASK`  NAV`  `  `  `
+400`  CASK`  PRD`  `  X`  X`  X
+400`  CASK`  PRK`  `  `  `  X
+400`  CASK`  PRY`  `  X`  X`  X
+400`  CASK`  QST`  `  `  `  X
+400`  CASK`  RPD`  `  `  `
+400`  CASK`  RPK`  `  `  `
+400`  CASK`  RPS`  `  `  `
+400`  CASK`  RSD`  `  `  `
+400`  CASK`  RSK`  `  `  `
+400`  CASK`  RUE`  `  `  `
+400`  CASK`  SGA`  X`  `  `
+400`  CASK`  SKE`  `  `  `
+400`  CASK`  SKT`  `  `  `
+400`  CASK`  SKV`  `  `  `
+400`  CASK`  STQ`  `  `  `
+400`  CASK`  SWE`  `  `  `
+400`  CASK`  UMB`  `  X`  X`  X
+400`  CASK`  UMS`  `  `  `
+400`  CASK`  VS1`  `  `  `
+400`  CASK`  VS2`  `  `  `
+400`  CASK`  VS3`  X`  `  `
+400`  CASK`  VS4`  X`  `  `
+400`  CASK`  VSK`  `  `  `
+400`  CASK`  VST`  X`  `  `
+400`  CASK`  VVA`  X`  `  `
+400`  CASK`  VZF`  `  X`  X`
+400`  CASK`  WAN`  `  `  `
+400`  CASK`  WBW`  `  `  `
+400`  CASK`  WRX`  `  `  X`
+400`  CASK`  WRY`  `  X`  X`
+400`  CASK`  WSB`  `  `  `
+400`  CASK`  WST`  `  `  `
+400`  CASK`  WVW`  `  `  `
+400`  CASK`  ZBA`  `  `  `
+400`  CASK`  ZDI`  `  `  `  X
+400`  CASK`  ZUG`  `  `  `
+400`  CASK`  ZUS`  `  `  `
+400`  CASK`  ZUZ`  X`  `  `
+400`  CASK`  ZWE`  `  `  `
+400`  CASK`  ZWO`  `  `  `
+400`  CATR`  ACC`  X`  `  `  X
+400`  CATR`  AKO`  `  `  `
+400`  CATR`  AUF`  `  X`  X`
+400`  CATR`  AUM`  `  X`  X`  X
+400`  CATR`  BDS`  `  `  `
+400`  CATR`  BIK`  `  `  `
+400`  CATR`  BIL`  X`  `  `  X
+400`  CATR`  BO1`  `  X`  `  X
+400`  CATR`  BO2`  `  X`  `  X
+400`  CATR`  BSP`  `  `  `
+400`  CATR`  BSV`  `  X`  X`
+400`  CATR`  BSX`  `  X`  X`
+400`  CATR`  BWS`  `  `  `
+400`  CATR`  DIF`  `  `  `
+400`  CATR`  DSK`  `  `  `
+400`  CATR`  ESA`  X`  `  `
+400`  CATR`  ESE`  X`  `  `
+400`  CATR`  FR1`  `  `  `
+400`  CATR`  FR2`  `  `  `
+400`  CATR`  FR3`  `  `  `
+400`  CATR`  FR4`  `  `  `
+400`  CATR`  FRL`  `  X`  `
+400`  CATR`  FRN`  `  X`  `
+400`  CATR`  GA0`  `  `  `
+400`  CATR`  GBB`  X`  X`  X`  X
+400`  CATR`  INK`  `  `  `
+400`  CATR`  KDM`  `  `  `  X
+400`  CATR`  KDR`  `  `  `  X
+400`  CATR`  KDT`  `  `  `  X
+400`  CATR`  KON`  `  `  `
+400`  CATR`  MVA`  X`  `  `
+400`  CATR`  MWS`  X`  `  `
+400`  CATR`  NAV`  `  `  `
+400`  CATR`  PRD`  `  X`  X`  X
+400`  CATR`  PRK`  `  `  `  X
+400`  CATR`  PRY`  X`  X`  X`  X
+400`  CATR`  RUE`  `  `  `
+400`  CATR`  SGA`  X`  `  `
+400`  CATR`  SKE`  `  `  `
+400`  CATR`  SKT`  `  `  `
+400`  CATR`  SKV`  `  `  `
+400`  CATR`  UMB`  `  X`  X`  X
+400`  CATR`  UMS`  `  `  `
+400`  CATR`  VST`  X`  `  `
+400`  CATR`  VVA`  X`  `  `
+400`  CATR`  WIT`  X`  X`  `  X
+400`  CATR`  WRX`  `  X`  `
+400`  CATR`  WRY`  `  X`  `  X
+400`  CATR`  WST`  `  `  `
+400`  CATR`  ZDI`  `  X`  `
+400`  CATR`  ZTA`  `  `  `
+400`  CATW`  ACC`  `  `  `  X
+400`  CATW`  AKO`  `  X`  X`  X
+400`  CATW`  ANB`  `  `  `
+400`  CATW`  ANF`  `  `  `
+400`  CATW`  ANZ`  `  `  `
+400`  CATW`  ASB`  `  `  `
+400`  CATW`  AUD`  `  `  `
+400`  CATW`  AUK`  `  `  `
+400`  CATW`  AUM`  `  X`  X`  X
+400`  CATW`  BDS`  `  `  `
+400`  CATW`  BIK`  `  `  `
+400`  CATW`  BIL`  X`  `  `
+400`  CATW`  BNK`  `  `  `
+400`  CATW`  BO1`  `  `  `  X
+400`  CATW`  BO2`  `  `  `  X
+400`  CATW`  BSP`  `  `  `
+400`  CATW`  BSV`  `  X`  X`
+400`  CATW`  BSX`  `  X`  X`
+400`  CATW`  BWS`  `  `  `
+400`  CATW`  CO1`  `  `  `
+400`  CATW`  DIF`  `  `  `  X
+400`  CATW`  DSK`  `  `  `
+400`  CATW`  EIN`  `  X`  X`
+400`  CATW`  EKG`  `  X`  X`
+400`  CATW`  ESA`  `  `  `
+400`  CATW`  ESE`  `  `  `
+400`  CATW`  FR1`  `  `  `
+400`  CATW`  FR2`  `  `  `
+400`  CATW`  FR3`  `  `  `
+400`  CATW`  FR4`  `  `  `
+400`  CATW`  FRE`  `  `  `
+400`  CATW`  FRL`  `  X`  `
+400`  CATW`  FRN`  `  X`  `
+400`  CATW`  GA0`  `  `  `
+400`  CATW`  GBB`  X`  X`  X`  X
+400`  CATW`  HRA`  `  X`  `
+400`  CATW`  HRC`  X`  X`  `
+400`  CATW`  HRD`  `  X`  `
+400`  CATW`  HRF`  `  X`  `
+400`  CATW`  HRK`  `  X`  `
+400`  CATW`  HRP`  X`  `  `
+400`  CATW`  HRT`  X`  `  `
+400`  CATW`  INK`  `  `  `
+400`  CATW`  IU1`  X`  `  `
+400`  CATW`  IU2`  `  `  `
+400`  CATW`  KBS`  `  `  `
+400`  CATW`  KDG`  `  `  `  X
+400`  CATW`  KDM`  `  `  `  X
+400`  CATW`  KDR`  `  `  `  X
+400`  CATW`  KDT`  `  `  `  X
+400`  CATW`  KON`  `  `  `
+400`  CATW`  KTR`  `  `  `  X
+400`  CATW`  LUX`  `  `  `
+400`  CATW`  MVA`  X`  `  `
+400`  CATW`  MW1`  `  `  `
+400`  CATW`  MW2`  `  `  `
+400`  CATW`  MW3`  X`  `  `
+400`  CATW`  MW4`  X`  `  `
+400`  CATW`  MWS`  `  `  `
+400`  CATW`  NAV`  `  `  `
+400`  CATW`  PRC`  `  `  `  X
+400`  CATW`  PRD`  `  X`  X`  X
+400`  CATW`  PRG`  `  `  `  X
+400`  CATW`  PRK`  `  `  `  X
+400`  CATW`  PRY`  `  X`  X`  X
+400`  CATW`  QST`  `  `  `  X
+400`  CATW`  RUE`  `  `  `
+400`  CATW`  SGA`  X`  `  `
+400`  CATW`  SKE`  `  `  `
+400`  CATW`  SKT`  `  `  `
+400`  CATW`  SKV`  `  `  `
+400`  CATW`  STQ`  `  `  `
+400`  CATW`  SWE`  `  `  `
+400`  CATW`  UMB`  `  X`  X`  X
+400`  CATW`  UMS`  `  `  `
+400`  CATW`  VS1`  `  `  `
+400`  CATW`  VS2`  `  `  `
+400`  CATW`  VS3`  X`  `  `
+400`  CATW`  VS4`  X`  `  `
+400`  CATW`  VSK`  `  `  `
+400`  CATW`  VST`  `  `  `
+400`  CATW`  VVA`  X`  `  `
+400`  CATW`  WAN`  `  `  `
+400`  CATW`  WBW`  `  `  `
+400`  CATW`  WRX`  `  X`  `
+400`  CATW`  WRY`  `  X`  `
+400`  CATW`  WSB`  `  `  `
+400`  CATW`  WST`  `  `  `
+400`  CATW`  WVW`  `  `  `
+400`  CATW`  ZBA`  `  `  `
+400`  CATW`  ZDI`  `  `  `
+400`  CATW`  ZUG`  `  `  `
+400`  CATW`  ZUS`  `  `  `
+400`  CATW`  ZWE`  `  `  `
+400`  CATW`  ZWO`  `  `  `
+400`  CAUA`  AG2`  `  `  `
+400`  CAUA`  AKO`  `  X`  `  X
+400`  CAUA`  ASB`  `  `  `
+400`  CAUA`  AUM`  `  X`  X`
+400`  CAUA`  BDS`  `  `  `
+400`  CAUA`  BIK`  `  `  `
+400`  CAUA`  BIL`  X`  `  `
+400`  CAUA`  BSP`  `  `  `
+400`  CAUA`  BSV`  `  X`  X`
+400`  CAUA`  BSX`  `  X`  X`
+400`  CAUA`  BWS`  `  `  `  X
+400`  CAUA`  DIF`  `  `  `
+400`  CAUA`  DSK`  `  `  `
+400`  CAUA`  ESA`  X`  `  `
+400`  CAUA`  ESE`  X`  `  `
+400`  CAUA`  FR1`  `  `  X`
+400`  CAUA`  FR2`  `  `  X`
+400`  CAUA`  FR3`  `  `  X`
+400`  CAUA`  FRL`  `  X`  `
+400`  CAUA`  GA0`  `  `  `
+400`  CAUA`  GBB`  X`  X`  X`  X
+400`  CAUA`  INK`  `  `  `
+400`  CAUA`  IU2`  X`  `  `
+400`  CAUA`  KDM`  `  `  X`
+400`  CAUA`  KDR`  `  `  `
+400`  CAUA`  KDW`  `  `  `
+400`  CAUA`  KON`  `  `  `
+400`  CAUA`  MVA`  `  `  `
+400`  CAUA`  MWS`  X`  `  `
+400`  CAUA`  PRD`  `  X`  X`
+400`  CAUA`  PRK`  `  `  `  X
+400`  CAUA`  PRP`  `  `  `
+400`  CAUA`  PRQ`  `  `  `
+400`  CAUA`  PRY`  `  X`  `  X
+400`  CAUA`  RKA`  `  `  `
+400`  CAUA`  RUE`  `  `  X`
+400`  CAUA`  SKV`  `  `  `
+400`  CAUA`  UMB`  `  X`  X`  X
+400`  CAUA`  UMS`  `  `  `
+400`  CAUA`  VS1`  X`  `  `
+400`  CAUA`  VST`  X`  `  `
+400`  CAUA`  VVA`  `  `  `
+400`  CAUA`  WRX`  `  X`  X`
+400`  CAUA`  WRY`  `  X`  `
+400`  CAUA`  WST`  `  `  `
+400`  CAUA`  ZDI`  `  `  `
+400`  CAUA`  ZUD`  `  `  `
+400`  CAUA`  ZUK`  `  `  `
+400`  CAUA`  ZUS`  `  `  `
+400`  CE0T`  MWS`  X`  `  `
+400`  CE0T`  VST`  X`  `  `
+400`  CH06`  MWS`  X`  `  `
+400`  CH06`  SKE`  `  `  `
+400`  CH06`  SKT`  `  `  `
+400`  CH06`  VSK`  `  `  `
+400`  CH06`  VST`  X`  `  `
+400`  CH06`  WP5`  `  `  `
+400`  CH06`  ZDI`  `  `  `
+400`  CM02`  MWS`  `  `  `
+400`  CM02`  VST`  `  `  `
+400`  CN02`  ANC`  `  X`  `
+400`  CN02`  BSX`  `  X`  X`
+400`  CN02`  GBB`  X`  X`  X`
+400`  CN02`  MWS`  X`  `  `
+400`  CN02`  PRD`  X`  X`  X`
+400`  CN02`  UMB`  X`  X`  X`  X
+400`  CN02`  VST`  X`  `  `
+400`  CN02`  WPM`  `  X`  X`
+400`  CN02`  WRX`  X`  X`  X`
+400`  CNCN`  CO3`  `  `  `
+400`  CNCN`  VS1`  `  `  `
+400`  DA01`  MWS`  `  `  `
+400`  DA02`  AG3`  `  `  `
+400`  DA02`  AKO`  `  X`  `
+400`  DA02`  AUM`  `  X`  `
+400`  DA02`  BSV`  `  X`  `
+400`  DA02`  BSX`  `  X`  X`
+400`  DA02`  DIF`  `  `  `
+400`  DA02`  DSA`  `  `  `
+400`  DA02`  FR1`  `  X`  `
+400`  DA02`  FRL`  `  X`  `
+400`  DA02`  GBB`  X`  X`  X`
+400`  DA02`  KDM`  X`  X`  `
+400`  DA02`  KDR`  `  `  `
+400`  DA02`  KON`  `  X`  `
+400`  DA02`  MWS`  `  `  `
+400`  DA02`  PRD`  X`  X`  `
+400`  DA02`  PRG`  `  `  `
+400`  DA02`  SKE`  `  `  `
+400`  DA02`  SKT`  `  `  `
+400`  DA02`  UMB`  `  X`  `
+400`  DA02`  VST`  `  `  `
+400`  DA02`  WRX`  `  X`  `
+400`  DA02`  ZDI`  `  `  `
+400`  G001`  DSA`  `  `  `
+400`  G001`  MWS`  `  `  `
+400`  G001`  SKE`  `  `  `
+400`  G001`  SKT`  `  `  `
+400`  G001`  VST`  `  `  `
+400`  G001`  ZDI`  `  `  `  X
+400`  G011`  BSX`  `  `  `
+400`  G011`  DIF`  `  `  `  X
+400`  G011`  GBB`  X`  X`  X`  X
+400`  G011`  KON`  `  `  `
+400`  G011`  MW1`  `  `  `  X
+400`  G011`  PRD`  `  `  `
+400`  G011`  RKA`  `  `  `  X
+400`  G011`  VST`  `  `  `  X
+400`  G011`  WRX`  `  `  `  X
+400`  GKR`  ACC`  `  `  `  X
+400`  GKR`  AG1`  `  `  `
+400`  GKR`  AG2`  `  `  `  X
+400`  GKR`  AG3`  `  `  `
+400`  GKR`  AKO`  `  X`  X`  X
+400`  GKR`  ANB`  `  `  `
+400`  GKR`  ANF`  `  `  `
+400`  GKR`  ANZ`  `  `  `
+400`  GKR`  ASB`  `  `  `
+400`  GKR`  AUD`  `  `  `
+400`  GKR`  AUK`  `  `  `
+400`  GKR`  AUM`  `  X`  X`  X
+400`  GKR`  BDS`  `  `  `
+400`  GKR`  BIK`  `  `  `
+400`  GKR`  BIL`  X`  `  `
+400`  GKR`  BNK`  `  `  `
+400`  GKR`  BO1`  `  `  `  X
+400`  GKR`  BO2`  `  `  `  X
+400`  GKR`  BO3`  `  `  `  X
+400`  GKR`  BSP`  `  `  `
+400`  GKR`  BSV`  `  X`  X`
+400`  GKR`  BSX`  `  X`  X`
+400`  GKR`  BWS`  `  `  `
+400`  GKR`  CO1`  `  `  `
+400`  GKR`  DEL`  `  `  `  X
+400`  GKR`  DIF`  `  `  `  X
+400`  GKR`  DSA`  `  `  `  X
+400`  GKR`  DSK`  `  `  `
+400`  GKR`  EIN`  `  X`  X`
+400`  GKR`  EKG`  `  X`  X`
+400`  GKR`  ESA`  `  `  `
+400`  GKR`  ESE`  `  `  `
+400`  GKR`  FR1`  `  `  `
+400`  GKR`  FR2`  `  `  `
+400`  GKR`  FR3`  `  `  `
+400`  GKR`  FR4`  `  `  `
+400`  GKR`  FRE`  `  `  `
+400`  GKR`  FRL`  `  X`  `
+400`  GKR`  FRN`  `  X`  `
+400`  GKR`  GA0`  `  `  `
+400`  GKR`  GBB`  X`  X`  X`  X
+400`  GKR`  HRA`  `  X`  `
+400`  GKR`  HRC`  X`  X`  `
+400`  GKR`  HRD`  `  X`  `
+400`  GKR`  HRF`  `  X`  `
+400`  GKR`  HRK`  `  X`  `
+400`  GKR`  HRP`  X`  `  `
+400`  GKR`  HRT`  X`  `  `
+400`  GKR`  INK`  `  `  `
+400`  GKR`  IU1`  X`  `  `
+400`  GKR`  IU2`  `  `  `
+400`  GKR`  KBS`  `  `  `
+400`  GKR`  KDG`  `  `  `  X
+400`  GKR`  KDM`  `  `  `  X
+400`  GKR`  KDR`  `  `  `  X
+400`  GKR`  KDT`  `  `  `  X
+400`  GKR`  KDV`  `  `  `  X
+400`  GKR`  KON`  `  `  `
+400`  GKR`  KTR`  `  `  `  X
+400`  GKR`  LKW`  `  X`  X`
+400`  GKR`  LUX`  `  `  `
+400`  GKR`  MVA`  X`  `  `
+400`  GKR`  MW1`  `  `  `
+400`  GKR`  MW2`  `  `  `
+400`  GKR`  MW3`  X`  `  `
+400`  GKR`  MW4`  X`  `  `
+400`  GKR`  MWS`  `  `  `
+400`  GKR`  NAV`  `  `  `
+400`  GKR`  PRC`  `  `  `  X
+400`  GKR`  PRD`  `  X`  X`  X
+400`  GKR`  PRG`  `  `  `  X
+400`  GKR`  PRK`  `  `  `  X
+400`  GKR`  PRP`  `  `  `  X
+400`  GKR`  PRQ`  `  `  `  X
+400`  GKR`  PRV`  `  `  `  X
+400`  GKR`  PRY`  `  X`  X`  X
+400`  GKR`  QST`  `  `  `  X
+400`  GKR`  RAP`  `  X`  `  X
+400`  GKR`  RKA`  `  `  `
+400`  GKR`  RUE`  `  `  `
+400`  GKR`  SGA`  X`  `  `
+400`  GKR`  SKE`  `  `  `
+400`  GKR`  SKT`  `  `  `
+400`  GKR`  SKV`  `  `  `
+400`  GKR`  STQ`  `  `  `
+400`  GKR`  SWE`  `  `  `
+400`  GKR`  UMB`  `  X`  X`  X
+400`  GKR`  UMS`  `  `  `
+400`  GKR`  UPF`  `  `  `
+400`  GKR`  VS1`  `  `  `
+400`  GKR`  VS2`  `  `  `
+400`  GKR`  VS3`  X`  `  `
+400`  GKR`  VS4`  X`  `  `
+400`  GKR`  VSK`  `  `  `
+400`  GKR`  VST`  `  `  `
+400`  GKR`  VVA`  X`  `  `
+400`  GKR`  WAN`  `  `  `
+400`  GKR`  WBW`  `  `  `
+400`  GKR`  WRX`  `  X`  `
+400`  GKR`  WRY`  `  X`  `
+400`  GKR`  WSB`  `  `  `
+400`  GKR`  WST`  `  `  `
+400`  GKR`  WVW`  `  `  `
+400`  GKR`  ZBA`  `  `  `
+400`  GKR`  ZDI`  `  `  `
+400`  GKR`  ZUG`  `  `  `
+400`  GKR`  ZUS`  `  `  `
+400`  GKR`  ZWE`  `  `  `
+400`  GKR`  ZWO`  `  `  `
+400`  HDCN`  MWS`  X`  `  `
+400`  HDCN`  VST`  X`  `  `
+400`  IKR`  ACC`  `  `  `  X
+400`  IKR`  AG1`  `  `  `
+400`  IKR`  AG2`  `  `  `  X
+400`  IKR`  AG3`  `  `  `
+400`  IKR`  AKO`  `  X`  X`  X
+400`  IKR`  ANB`  `  `  `
+400`  IKR`  ANF`  `  `  `
+400`  IKR`  ANZ`  `  `  `
+400`  IKR`  ASB`  `  `  `
+400`  IKR`  AUD`  `  `  `
+400`  IKR`  AUK`  `  `  `
+400`  IKR`  AUM`  `  X`  X`  X
+400`  IKR`  BDS`  `  `  `
+400`  IKR`  BIK`  `  `  `
+400`  IKR`  BIL`  X`  `  `
+400`  IKR`  BNK`  `  `  `
+400`  IKR`  BO1`  `  `  `  X
+400`  IKR`  BO2`  `  `  `  X
+400`  IKR`  BO3`  `  `  `  X
+400`  IKR`  BSP`  `  `  `
+400`  IKR`  BSV`  `  X`  X`
+400`  IKR`  BSX`  `  X`  X`
+400`  IKR`  BWS`  `  `  `
+400`  IKR`  CO1`  `  `  `
+400`  IKR`  DEL`  `  `  `  X
+400`  IKR`  DIF`  `  `  `  X
+400`  IKR`  DSA`  `  `  `  X
+400`  IKR`  DSK`  `  `  `
+400`  IKR`  EIN`  `  X`  X`
+400`  IKR`  EKG`  `  X`  X`
+400`  IKR`  ESA`  `  `  `
+400`  IKR`  ESE`  `  `  `
+400`  IKR`  FR1`  `  `  `
+400`  IKR`  FR2`  `  `  `
+400`  IKR`  FR3`  `  `  `
+400`  IKR`  FR4`  `  `  `
+400`  IKR`  FRE`  `  `  `
+400`  IKR`  FRL`  `  X`  `
+400`  IKR`  FRN`  `  X`  `
+400`  IKR`  GA0`  `  `  `
+400`  IKR`  GBB`  X`  X`  X`  X
+400`  IKR`  HRA`  `  X`  `
+400`  IKR`  HRC`  X`  X`  `
+400`  IKR`  HRD`  `  X`  `
+400`  IKR`  HRF`  `  X`  `
+400`  IKR`  HRK`  `  X`  `
+400`  IKR`  HRP`  X`  `  `
+400`  IKR`  HRT`  X`  `  `
+400`  IKR`  INK`  `  `  `
+400`  IKR`  IU1`  X`  `  `
+400`  IKR`  IU2`  `  `  `
+400`  IKR`  KBS`  `  `  `
+400`  IKR`  KDG`  `  `  `  X
+400`  IKR`  KDM`  `  `  `  X
+400`  IKR`  KDR`  `  `  `  X
+400`  IKR`  KDT`  `  `  `  X
+400`  IKR`  KDV`  `  `  `  X
+400`  IKR`  KON`  `  `  `
+400`  IKR`  KTR`  `  `  `  X
+400`  IKR`  LKW`  `  X`  X`
+400`  IKR`  LUX`  `  `  `
+400`  IKR`  MVA`  X`  `  `
+400`  IKR`  MW1`  `  `  `
+400`  IKR`  MW2`  `  `  `
+400`  IKR`  MW3`  X`  `  `
+400`  IKR`  MW4`  X`  `  `
+400`  IKR`  MWS`  `  `  `
+400`  IKR`  NAV`  `  `  `
+400`  IKR`  PRC`  `  `  `  X
+400`  IKR`  PRD`  `  X`  X`  X
+400`  IKR`  PRG`  `  `  `  X
+400`  IKR`  PRK`  `  `  `  X
+400`  IKR`  PRP`  `  `  `  X
+400`  IKR`  PRQ`  `  `  `  X
+400`  IKR`  PRV`  `  `  `  X
+400`  IKR`  PRY`  `  X`  X`  X
+400`  IKR`  QST`  `  `  `  X
+400`  IKR`  RAP`  `  X`  `  X
+400`  IKR`  RKA`  `  `  `
+400`  IKR`  RUE`  `  `  `
+400`  IKR`  SGA`  X`  `  `
+400`  IKR`  SKE`  `  `  `
+400`  IKR`  SKT`  `  `  `
+400`  IKR`  SKV`  `  `  `
+400`  IKR`  STQ`  `  `  `
+400`  IKR`  SWE`  `  `  `
+400`  IKR`  UMB`  `  X`  X`  X
+400`  IKR`  UMS`  `  `  `
+400`  IKR`  UPF`  `  `  `
+400`  IKR`  VS1`  `  `  `
+400`  IKR`  VS2`  `  `  `
+400`  IKR`  VS3`  X`  `  `
+400`  IKR`  VS4`  X`  `  `
+400`  IKR`  VSK`  `  `  `
+400`  IKR`  VST`  `  `  `
+400`  IKR`  VVA`  X`  `  `
+400`  IKR`  WAN`  `  `  `
+400`  IKR`  WBW`  `  `  `
+400`  IKR`  WRX`  `  X`  `
+400`  IKR`  WRY`  `  X`  `
+400`  IKR`  WSB`  `  `  `
+400`  IKR`  WST`  `  `  `
+400`  IKR`  WVW`  `  `  `
+400`  IKR`  ZBA`  `  `  `
+400`  IKR`  ZDI`  `  `  `
+400`  IKR`  ZUG`  `  `  `
+400`  IKR`  ZUS`  `  `  `
+400`  IKR`  ZWE`  `  `  `
+400`  IKR`  ZWO`  `  `  `
+400`  INT`  0P1`  `  `  `
+400`  INT`  0PA`  `  `  `
+400`  INT`  ACC`  `  `  `  X
+400`  INT`  AG1`  `  `  `
+400`  INT`  AG2`  `  `  `  X
+400`  INT`  AG3`  `  `  `
+400`  INT`  AKO`  `  X`  X`  X
+400`  INT`  AMO`  `  X`  X`  X
+400`  INT`  ANB`  `  `  `
+400`  INT`  ANC`  `  `  `
+400`  INT`  ANF`  `  `  `
+400`  INT`  ANZ`  `  `  `
+400`  INT`  ASB`  `  `  `
+400`  INT`  AUD`  `  `  `
+400`  INT`  AUF`  `  X`  X`
+400`  INT`  AUK`  `  `  `
+400`  INT`  AUM`  `  X`  X`  X
+400`  INT`  BAC`  `  `  `
+400`  INT`  BDS`  `  `  `
+400`  INT`  BIK`  `  `  `
+400`  INT`  BIL`  X`  `  `
+400`  INT`  BNK`  `  `  `
+400`  INT`  BO1`  `  `  `  X
+400`  INT`  BO2`  `  `  `  X
+400`  INT`  BO3`  `  `  `  X
+400`  INT`  BSA`  `  X`  X`
+400`  INT`  BSD`  X`  X`  X`
+400`  INT`  BSK`  `  X`  X`  X
+400`  INT`  BSP`  `  `  `
+400`  INT`  BSV`  `  X`  X`  X
+400`  INT`  BSX`  `  X`  X`
+400`  INT`  BWS`  `  `  `
+400`  INT`  CO1`  `  `  `
+400`  INT`  DEL`  `  `  `  X
+400`  INT`  DIF`  `  `  `  X
+400`  INT`  DSA`  `  `  `  X
+400`  INT`  DSK`  `  `  `
+400`  INT`  DU2`  `  `  `
+400`  INT`  DU3`  `  `  `  X
+400`  INT`  EIN`  `  X`  X`
+400`  INT`  EKG`  `  X`  X`
+400`  INT`  ELB`  `  `  `
+400`  INT`  ESA`  `  `  `
+400`  INT`  ESE`  `  `  `
+400`  INT`  FLB`  `  `  `
+400`  INT`  FR1`  `  `  `
+400`  INT`  FR2`  `  `  `
+400`  INT`  FR3`  `  `  `
+400`  INT`  FR4`  `  `  `
+400`  INT`  FRE`  `  `  `
+400`  INT`  FRL`  `  X`  `
+400`  INT`  FRN`  `  X`  `
+400`  INT`  G01`  `  `  `
+400`  INT`  G02`  `  `  `
+400`  INT`  G04`  `  `  `
+400`  INT`  GA0`  `  `  `
+400`  INT`  GBB`  X`  X`  X`  X
+400`  INT`  GKO`  `  `  `
+400`  INT`  GRU`  X`  X`  `
+400`  INT`  HRA`  `  X`  `
+400`  INT`  HRC`  X`  X`  `
+400`  INT`  HRD`  `  X`  `
+400`  INT`  HRF`  `  X`  `
+400`  INT`  HRK`  `  X`  `
+400`  INT`  HRP`  X`  `  `
+400`  INT`  HRT`  X`  `  `
+400`  INT`  HRV`  X`  `  `
+400`  INT`  IC1`  `  `  `
+400`  INT`  ICC`  `  `  `
+400`  INT`  ICP`  `  `  `
+400`  INT`  ICX`  `  `  `
+400`  INT`  ICZ`  `  `  `
+400`  INT`  INK`  `  `  `
+400`  INT`  INX`  `  `  `
+400`  INT`  IPC`  `  `  `
+400`  INT`  IT1`  `  `  `
+400`  INT`  IT2`  `  `  `
+400`  INT`  IT3`  `  `  `
+400`  INT`  IU1`  X`  `  `
+400`  INT`  IU2`  `  `  `
+400`  INT`  J1B`  `  `  `
+400`  INT`  J1C`  `  `  `
+400`  INT`  J1D`  `  `  `
+400`  INT`  J1E`  `  `  `
+400`  INT`  J1F`  `  `  `
+400`  INT`  J1G`  `  `  `
+400`  INT`  J1H`  `  `  `
+400`  INT`  J1I`  `  `  `
+400`  INT`  J1J`  `  `  `
+400`  INT`  J1K`  `  `  `
+400`  INT`  J1L`  `  `  `
+400`  INT`  J1O`  `  `  `
+400`  INT`  J1Q`  `  `  `
+400`  INT`  J1R`  `  `  `
+400`  INT`  J1S`  `  `  `
+400`  INT`  J3A`  `  `  `
+400`  INT`  KBS`  `  `  `
+400`  INT`  KDG`  `  `  `  X
+400`  INT`  KDM`  `  `  `  X
+400`  INT`  KDR`  `  `  `  X
+400`  INT`  KDT`  `  `  `  X
+400`  INT`  KDV`  `  `  `  X
+400`  INT`  KH`  `  `  `
+400`  INT`  KON`  `  `  `
+400`  INT`  KRD`  `  X`  X`  X
+400`  INT`  KS`  `  `  `
+400`  INT`  KTR`  `  `  `  X
+400`  INT`  LKW`  `  X`  X`
+400`  INT`  LUX`  `  `  `
+400`  INT`  MVA`  X`  `  `
+400`  INT`  MW1`  `  `  `
+400`  INT`  MW2`  `  `  `
+400`  INT`  MW3`  `  `  `
+400`  INT`  MW4`  `  `  `
+400`  INT`  MWS`  `  `  `
+400`  INT`  NAV`  `  `  `
+400`  INT`  NZ1`  `  `  `
+400`  INT`  NZ2`  `  `  `
+400`  INT`  OFF`  X`  X`  `
+400`  INT`  OPO`  X`  X`  `
+400`  INT`  OZN`  `  `  `
+400`  INT`  OZS`  `  `  `
+400`  INT`  PRA`  `  X`  `  X
+400`  INT`  PRC`  `  `  `  X
+400`  INT`  PRD`  `  X`  X`  X
+400`  INT`  PRG`  `  `  `  X
+400`  INT`  PRK`  `  `  `  X
+400`  INT`  PRM`  `  X`  X`  X
+400`  INT`  PRP`  `  `  `  X
+400`  INT`  PRQ`  `  `  `  X
+400`  INT`  PRV`  `  `  `  X
+400`  INT`  PRY`  `  X`  X`  X
+400`  INT`  QST`  `  `  `  X
+400`  INT`  RAP`  `  X`  `  X
+400`  INT`  RKA`  `  `  `
+400`  INT`  RPD`  `  `  `
+400`  INT`  RPK`  `  `  `
+400`  INT`  RPS`  `  `  `
+400`  INT`  RSD`  `  `  `
+400`  INT`  RSK`  `  `  `
+400`  INT`  RUE`  `  `  `
+400`  INT`  SGA`  X`  `  `
+400`  INT`  SKE`  `  `  `
+400`  INT`  SKT`  `  `  `
+400`  INT`  SKV`  `  `  `
+400`  INT`  STQ`  `  `  `
+400`  INT`  SWE`  `  `  `
+400`  INT`  TXO`  `  `  `
+400`  INT`  UMB`  `  X`  X`  X
+400`  INT`  UMS`  `  `  `
+400`  INT`  UPF`  `  `  `
+400`  INT`  VS1`  `  `  `
+400`  INT`  VS2`  `  `  `
+400`  INT`  VS3`  `  `  `
+400`  INT`  VS4`  `  `  `
+400`  INT`  VSK`  `  `  `
+400`  INT`  VST`  `  `  `
+400`  INT`  VVA`  X`  `  `
+400`  INT`  VZF`  `  X`  X`
+400`  INT`  WAN`  `  `  `
+400`  INT`  WBW`  `  `  `
+400`  INT`  WGI`  `  X`  X`
+400`  INT`  WGR`  `  X`  X`
+400`  INT`  WIT`  X`  X`  `
+400`  INT`  WPA`  `  X`  `
+400`  INT`  WPM`  `  X`  `
+400`  INT`  WRX`  `  X`  `
+400`  INT`  WRY`  `  X`  `
+400`  INT`  WSB`  `  `  `
+400`  INT`  WST`  `  `  `
+400`  INT`  WVW`  `  `  `
+400`  INT`  ZBA`  `  `  `
+400`  INT`  ZDI`  `  X`  `
+400`  INT`  ZUG`  `  `  `
+400`  INT`  ZUS`  `  `  `
+400`  INT`  ZUZ`  X`  `  `
+400`  INT`  ZWE`  `  `  `
+400`  INT`  ZWO`  `  `  `
+400`  L000`  ANC`  `  X`  `
+400`  L01`  BSX`  `  X`  X`
+400`  L01`  DSA`  `  `  `
+400`  L01`  MWS`  X`  `  `
+400`  L01`  PRD`  `  X`  X`
+400`  L01`  VST`  X`  `  `
+400`  LIU1`  MWS`  X`  `  `
+400`  LIU1`  SKE`  `  `  `
+400`  LIU1`  SKT`  `  `  `
+400`  LIU1`  VST`  X`  `  `
+400`  M008`  BSX`  `  `  X`
+400`  M008`  FR1`  `  X`  X`
+400`  M008`  GBB`  X`  X`  X`
+400`  M008`  MWS`  X`  `  `
+400`  M008`  PRD`  `  `  X`
+400`  M008`  UMB`  `  `  X`
+400`  M008`  VST`  X`  `  `
+400`  M008`  WRX`  `  `  X`
+400`  M008`  WRY`  `  `  X`
+400`  M008`  ZDI`  X`  `  `  X
+400`  M009`  ACC`  `  `  `  X
+400`  M009`  AG1`  `  `  `
+400`  M009`  AG2`  `  `  `  X
+400`  M009`  AG3`  `  `  `
+400`  M009`  AKO`  `  X`  X`  X
+400`  M009`  ANB`  `  `  `
+400`  M009`  ANF`  `  `  `
+400`  M009`  ANZ`  `  `  `
+400`  M009`  ASB`  `  `  `
+400`  M009`  AUD`  `  `  `
+400`  M009`  AUK`  `  `  `
+400`  M009`  AUM`  `  X`  X`  X
+400`  M009`  BDS`  `  `  `
+400`  M009`  BIK`  `  `  `
+400`  M009`  BIL`  X`  `  `
+400`  M009`  BNK`  `  `  `
+400`  M009`  BO1`  `  `  `  X
+400`  M009`  BO2`  `  `  `  X
+400`  M009`  BSP`  `  `  `
+400`  M009`  BSV`  `  X`  X`
+400`  M009`  BSX`  `  X`  X`
+400`  M009`  BWS`  `  `  `
+400`  M009`  CO1`  `  `  `
+400`  M009`  DIF`  `  `  `  X
+400`  M009`  DSA`  `  `  `  X
+400`  M009`  DSK`  `  `  `
+400`  M009`  EIN`  `  X`  X`
+400`  M009`  EKG`  `  X`  X`
+400`  M009`  ESA`  `  `  `
+400`  M009`  ESE`  `  `  `
+400`  M009`  FR1`  `  `  `
+400`  M009`  FR2`  `  `  `
+400`  M009`  FR3`  `  `  `
+400`  M009`  FR4`  `  `  `
+400`  M009`  FRE`  `  `  `
+400`  M009`  FRL`  `  X`  `
+400`  M009`  FRN`  `  X`  `
+400`  M009`  GA0`  `  `  `
+400`  M009`  GBB`  X`  X`  X`  X
+400`  M009`  INK`  `  `  `
+400`  M009`  IU1`  X`  `  `
+400`  M009`  IU2`  `  `  `
+400`  M009`  J7O`  `  `  `
+400`  M009`  JV3`  `  `  `
+400`  M009`  JV8`  `  `  `
+400`  M009`  JVA`  `  `  `
+400`  M009`  KBS`  `  `  `
+400`  M009`  KDM`  `  `  `  X
+400`  M009`  KDR`  `  `  `  X
+400`  M009`  KDT`  `  `  `  X
+400`  M009`  KON`  `  `  `
+400`  M009`  KTR`  `  `  `  X
+400`  M009`  LUX`  `  `  `
+400`  M009`  MVA`  X`  `  `
+400`  M009`  MW1`  `  `  `
+400`  M009`  MW2`  `  `  `
+400`  M009`  MW3`  X`  `  `
+400`  M009`  MW4`  X`  `  `
+400`  M009`  MWS`  `  `  `
+400`  M009`  NAV`  `  `  `
+400`  M009`  PRD`  `  X`  X`  X
+400`  M009`  PRK`  `  `  `  X
+400`  M009`  PRY`  `  X`  X`  X
+400`  M009`  QST`  `  `  `  X
+400`  M009`  RUE`  `  `  `
+400`  M009`  SGA`  X`  `  `
+400`  M009`  SKE`  `  `  `
+400`  M009`  SKT`  `  `  `
+400`  M009`  SKV`  `  `  `
+400`  M009`  STQ`  `  `  `
+400`  M009`  SWE`  `  `  `
+400`  M009`  UMB`  `  X`  X`  X
+400`  M009`  UMS`  `  `  `
+400`  M009`  VS1`  `  `  `
+400`  M009`  VS2`  `  `  `
+400`  M009`  VS3`  X`  `  `
+400`  M009`  VS4`  X`  `  `
+400`  M009`  VSK`  `  `  `
+400`  M009`  VST`  `  `  `
+400`  M009`  VVA`  X`  `  `
+400`  M009`  WAN`  `  `  `
+400`  M009`  WBW`  `  `  `
+400`  M009`  WRX`  `  X`  `
+400`  M009`  WRY`  `  X`  `
+400`  M009`  WSB`  `  `  `
+400`  M009`  WST`  `  `  `
+400`  M009`  WVW`  `  `  `
+400`  M009`  ZBA`  `  `  `
+400`  M009`  ZDI`  `  `  `
+400`  M009`  ZUG`  `  `  `
+400`  M009`  ZUS`  `  `  `
+400`  M009`  ZWE`  `  `  `
+400`  M009`  ZWO`  `  `  `
+400`  M110`  MWS`  X`  `  `
+400`  MARE`  ACC`  `  `  `  X
+400`  MARE`  AG3`  `  `  `  X
+400`  MARE`  AKO`  `  X`  X`  X
+400`  MARE`  ANB`  `  `  `
+400`  MARE`  ANC`  `  X`  `
+400`  MARE`  ANF`  `  `  `
+400`  MARE`  ANZ`  `  `  `
+400`  MARE`  ASB`  X`  `  `
+400`  MARE`  AUD`  `  `  `
+400`  MARE`  AUK`  `  `  `
+400`  MARE`  AUM`  `  X`  X`  X
+400`  MARE`  BDS`  `  `  `
+400`  MARE`  BIK`  `  `  `
+400`  MARE`  BIL`  X`  `  `
+400`  MARE`  BNK`  `  `  `
+400`  MARE`  BO1`  `  `  `  X
+400`  MARE`  BO2`  `  `  `  X
+400`  MARE`  BO3`  `  `  `  X
+400`  MARE`  BSD`  `  X`  X`  X
+400`  MARE`  BSK`  `  X`  X`  X
+400`  MARE`  BSP`  `  `  `
+400`  MARE`  BSV`  `  X`  X`
+400`  MARE`  BSX`  `  X`  X`
+400`  MARE`  BWS`  `  `  `
+400`  MARE`  CD1`  `  `  `
+400`  MARE`  CO1`  `  `  `
+400`  MARE`  CO3`  X`  `  `
+400`  MARE`  COC`  `  X`  X`  X
+400`  MARE`  COF`  `  `  `
+400`  MARE`  COO`  X`  `  `
+400`  MARE`  CP1`  `  `  `
+400`  MARE`  CP2`  `  `  `
+400`  MARE`  CVD`  `  `  `
+400`  MARE`  DIF`  `  `  `  X
+400`  MARE`  DSA`  `  `  `  X
+400`  MARE`  DSK`  `  `  `
+400`  MARE`  EIN`  `  X`  X`
+400`  MARE`  EKG`  `  X`  X`
+400`  MARE`  ESA`  X`  `  `
+400`  MARE`  ESE`  X`  `  `
+400`  MARE`  FCP`  X`  `  `
+400`  MARE`  FCX`  X`  `  `
+400`  MARE`  FR1`  `  `  `
+400`  MARE`  FR2`  `  `  `
+400`  MARE`  FR3`  `  `  `
+400`  MARE`  FR4`  `  `  `
+400`  MARE`  FRE`  `  `  `
+400`  MARE`  FRL`  `  X`  `
+400`  MARE`  FRN`  `  X`  `
+400`  MARE`  GA0`  `  `  `
+400`  MARE`  GBB`  X`  X`  X`  X
+400`  MARE`  GRU`  X`  X`  `
+400`  MARE`  GSM`  `  `  `
+400`  MARE`  HRA`  `  `  `
+400`  MARE`  HRC`  X`  X`  `
+400`  MARE`  HRD`  `  X`  `
+400`  MARE`  HRF`  `  X`  `
+400`  MARE`  HRK`  `  X`  `
+400`  MARE`  HRP`  X`  `  `
+400`  MARE`  HRT`  X`  `  `
+400`  MARE`  IC1`  X`  `  `
+400`  MARE`  ICC`  X`  `  `
+400`  MARE`  ICD`  `  `  `
+400`  MARE`  ICM`  X`  `  `
+400`  MARE`  ICP`  X`  `  `
+400`  MARE`  ICX`  X`  `  `
+400`  MARE`  ICZ`  `  `  `
+400`  MARE`  INK`  `  `  `
+400`  MARE`  INX`  X`  `  `
+400`  MARE`  IPC`  X`  `  `
+400`  MARE`  ISW`  `  `  `
+400`  MARE`  IU1`  X`  `  `
+400`  MARE`  IU2`  `  `  `
+400`  MARE`  J1B`  `  `  `
+400`  MARE`  J1C`  X`  `  `
+400`  MARE`  J1D`  X`  `  `
+400`  MARE`  J1E`  `  `  `
+400`  MARE`  J1F`  `  `  `
+400`  MARE`  J1G`  X`  `  `
+400`  MARE`  J1H`  X`  `  `
+400`  MARE`  J1I`  X`  `  `
+400`  MARE`  J1J`  X`  `  `
+400`  MARE`  J1K`  X`  `  `
+400`  MARE`  J1L`  X`  `  `
+400`  MARE`  J1M`  X`  `  `
+400`  MARE`  J1N`  X`  `  `
+400`  MARE`  J1O`  `  `  `
+400`  MARE`  J1S`  X`  `  `
+400`  MARE`  J1Z`  `  `  `
+400`  MARE`  J2E`  `  `  `
+400`  MARE`  J2O`  `  `  `
+400`  MARE`  J3E`  `  `  `
+400`  MARE`  J3O`  `  `  `
+400`  MARE`  J4E`  `  `  `
+400`  MARE`  J4O`  `  `  `
+400`  MARE`  J6E`  `  `  `
+400`  MARE`  J6O`  `  `  `
+400`  MARE`  J7E`  `  `  `
+400`  MARE`  J7O`  `  `  `
+400`  MARE`  J8E`  `  `  `
+400`  MARE`  J8O`  `  `  `
+400`  MARE`  J9E`  `  `  `
+400`  MARE`  J9O`  `  `  `
+400`  MARE`  JCC`  X`  `  `
+400`  MARE`  JCI`  X`  `  `
+400`  MARE`  JCM`  X`  `  `
+400`  MARE`  JCN`  X`  `  `
+400`  MARE`  JCR`  X`  `  `
+400`  MARE`  JI5`  `  `  `
+400`  MARE`  JI6`  `  `  `
+400`  MARE`  JIC`  X`  `  `
+400`  MARE`  JIE`  `  `  `
+400`  MARE`  JII`  X`  `  `
+400`  MARE`  JIM`  X`  `  `
+400`  MARE`  JIN`  X`  `  `
+400`  MARE`  JIO`  `  `  `
+400`  MARE`  JIS`  X`  `  `
+400`  MARE`  JIU`  X`  `  `
+400`  MARE`  JN6`  `  `  `
+400`  MARE`  JN7`  `  `  `
+400`  MARE`  JOC`  X`  `  `
+400`  MARE`  JOI`  X`  `  `
+400`  MARE`  JOS`  X`  `  `
+400`  MARE`  JOU`  X`  `  `
+400`  MARE`  JP5`  `  `  `
+400`  MARE`  JP7`  `  `  `
+400`  MARE`  JPA`  `  `  `
+400`  MARE`  JPE`  `  `  `
+400`  MARE`  JPO`  `  `  `
+400`  MARE`  JRC`  X`  `  `
+400`  MARE`  JRI`  X`  `  `
+400`  MARE`  JRN`  X`  `  `
+400`  MARE`  JRS`  X`  `  `
+400`  MARE`  JRU`  X`  `  `
+400`  MARE`  JSN`  X`  `  `
+400`  MARE`  JST`  X`  `  `
+400`  MARE`  JTG`  `  `  `
+400`  MARE`  JUN`  X`  `  `
+400`  MARE`  JV1`  `  `  `
+400`  MARE`  JV2`  `  `  `
+400`  MARE`  JV3`  `  `  `
+400`  MARE`  JV4`  `  `  `
+400`  MARE`  JV5`  `  `  `
+400`  MARE`  JV6`  `  `  `
+400`  MARE`  JV7`  `  `  `
+400`  MARE`  JV8`  `  `  `
+400`  MARE`  JVA`  `  `  `
+400`  MARE`  JVB`  `  `  `
+400`  MARE`  JVC`  `  `  `
+400`  MARE`  JVD`  `  `  `
+400`  MARE`  JVE`  `  `  `
+400`  MARE`  JVX`  `  `  `
+400`  MARE`  KBS`  `  `  `
+400`  MARE`  KDG`  `  `  `  X
+400`  MARE`  KDM`  `  `  `  X
+400`  MARE`  KDR`  `  `  `  X
+400`  MARE`  KDT`  `  `  `  X
+400`  MARE`  KDV`  `  `  `  X
+400`  MARE`  KDW`  `  `  `  X
+400`  MARE`  KDZ`  `  `  `
+400`  MARE`  KON`  `  `  `
+400`  MARE`  KTR`  `  `  `  X
+400`  MARE`  LKW`  `  X`  X`  X
+400`  MARE`  LUX`  X`  `  `
+400`  MARE`  MVA`  X`  `  `
+400`  MARE`  MW1`  X`  `  `
+400`  MARE`  MW2`  X`  `  `
+400`  MARE`  MW3`  X`  `  `
+400`  MARE`  MW4`  X`  `  `
+400`  MARE`  MW5`  X`  `  `
+400`  MARE`  MW6`  `  `  `
+400`  MARE`  MW7`  `  `  `
+400`  MARE`  MW8`  `  `  `
+400`  MARE`  MW9`  X`  `  `
+400`  MARE`  MWA`  X`  `  `
+400`  MARE`  MWS`  X`  `  `
+400`  MARE`  NAV`  X`  `  `
+400`  MARE`  OFF`  X`  X`  `
+400`  MARE`  OPO`  X`  X`  `  X
+400`  MARE`  OZN`  X`  `  `
+400`  MARE`  OZS`  X`  `  `
+400`  MARE`  PI3`  X`  `  `
+400`  MARE`  PIC`  X`  `  `
+400`  MARE`  PIS`  `  `  `
+400`  MARE`  PLA`  X`  `  `
+400`  MARE`  PRA`  `  `  `
+400`  MARE`  PRC`  `  `  `  X
+400`  MARE`  PRD`  X`  X`  X`  X
+400`  MARE`  PRG`  `  `  `  X
+400`  MARE`  PRK`  `  `  `  X
+400`  MARE`  PRL`  `  `  `  X
+400`  MARE`  PRM`  `  `  `
+400`  MARE`  PRP`  `  `  `  X
+400`  MARE`  PRQ`  `  `  `  X
+400`  MARE`  PRV`  `  `  `  X
+400`  MARE`  PRY`  `  X`  X`  X
+400`  MARE`  QST`  `  `  `  X
+400`  MARE`  RAP`  `  X`  `  X
+400`  MARE`  RDF`  `  `  `  X
+400`  MARE`  RIT`  X`  `  `
+400`  MARE`  RKA`  `  `  `
+400`  MARE`  RUE`  `  `  `
+400`  MARE`  SGA`  X`  `  `
+400`  MARE`  SIO`  X`  `  `
+400`  MARE`  SIV`  X`  `  `
+400`  MARE`  SKE`  `  `  `
+400`  MARE`  SKT`  `  `  `
+400`  MARE`  SKV`  `  `  `
+400`  MARE`  ST1`  X`  `  `
+400`  MARE`  ST3`  X`  `  `
+400`  MARE`  STQ`  `  `  `
+400`  MARE`  SWE`  `  `  `
+400`  MARE`  TXO`  `  `  `  X
+400`  MARE`  UA1`  `  `  `
+400`  MARE`  UA2`  `  `  `
+400`  MARE`  UMB`  `  X`  X`  X
+400`  MARE`  UMD`  `  X`  X`  X
+400`  MARE`  UMS`  `  `  `
+400`  MARE`  UPF`  `  `  `
+400`  MARE`  VS1`  X`  `  `
+400`  MARE`  VS2`  X`  `  `
+400`  MARE`  VS3`  X`  `  `
+400`  MARE`  VS4`  X`  `  `
+400`  MARE`  VS5`  `  `  `
+400`  MARE`  VS7`  X`  `  `
+400`  MARE`  VS8`  `  `  `
+400`  MARE`  VS9`  `  `  `
+400`  MARE`  VSC`  X`  `  `
+400`  MARE`  VSF`  X`  `  `
+400`  MARE`  VSH`  X`  `  `
+400`  MARE`  VSK`  `  `  `
+400`  MARE`  VSN`  X`  `  `
+400`  MARE`  VST`  X`  `  `
+400`  MARE`  VVA`  X`  `  `
+400`  MARE`  WAC`  `  `  `
+400`  MARE`  WAG`  `  `  `
+400`  MARE`  WAI`  `  `  `
+400`  MARE`  WAN`  `  `  `
+400`  MARE`  WAP`  `  `  `
+400`  MARE`  WAS`  `  `  `
+400`  MARE`  WBW`  `  `  `
+400`  MARE`  WC3`  `  `  `
+400`  MARE`  WC4`  `  `  `
+400`  MARE`  WC5`  `  `  `
+400`  MARE`  WG3`  `  `  `
+400`  MARE`  WG4`  `  `  `
+400`  MARE`  WG5`  `  `  `
+400`  MARE`  WI3`  `  `  `
+400`  MARE`  WI4`  `  `  `
+400`  MARE`  WI5`  `  `  `
+400`  MARE`  WI7`  `  `  `
+400`  MARE`  WIT`  X`  X`  `  X
+400`  MARE`  WK3`  `  `  `
+400`  MARE`  WN4`  `  `  `
+400`  MARE`  WN7`  `  `  `
+400`  MARE`  WP3`  `  `  `
+400`  MARE`  WP4`  `  `  `
+400`  MARE`  WP5`  `  `  `
+400`  MARE`  WPA`  `  `  `
+400`  MARE`  WPM`  `  `  `
+400`  MARE`  WR4`  `  `  `
+400`  MARE`  WRX`  `  X`  `
+400`  MARE`  WRY`  `  X`  `
+400`  MARE`  WS3`  `  `  `
+400`  MARE`  WS4`  `  `  `
+400`  MARE`  WS5`  `  `  `
+400`  MARE`  WSB`  `  `  `
+400`  MARE`  WST`  `  `  `
+400`  MARE`  WTG`  `  `  `
+400`  MARE`  WVW`  `  `  `
+400`  MARE`  ZBA`  `  `  `
+400`  MARE`  ZDI`  `  `  `
+400`  MARE`  ZSA`  X`  `  `
+400`  MARE`  ZSE`  `  `  `
+400`  MARE`  ZSH`  X`  `  `
+400`  MARE`  ZSS`  `  `  `
+400`  MARE`  ZST`  X`  `  `
+400`  MARE`  ZTA`  X`  `  `
+400`  MARE`  ZUD`  X`  `  `
+400`  MARE`  ZUG`  `  `  `
+400`  MARE`  ZUK`  X`  `  `
+400`  MARE`  ZUS`  `  `  `
+400`  MARE`  ZVV`  `  `  `
+400`  MARE`  ZWE`  `  `  `
+400`  MARE`  ZWO`  `  `  `
+400`  MQCC`  BSX`  `  X`  X`
+400`  MQCC`  GBB`  X`  X`  X`  X
+400`  MQCC`  PRD`  `  `  X`
+400`  MQCC`  VST`  X`  `  `
+400`  MQCC`  WRX`  `  `  X`
+400`  PPLY`  BSX`  `  X`  X`
+400`  PPLY`  GBB`  X`  X`  X`  X
+400`  PPLY`  WRX`  `  X`  X`  X
+400`  R008`  0P1`  `  `  `
+400`  R008`  0PA`  `  `  `
+400`  R008`  ACC`  `  `  `  X
+400`  R008`  AG1`  `  `  `
+400`  R008`  AG2`  `  `  `  X
+400`  R008`  AG3`  `  `  `
+400`  R008`  AKO`  `  X`  X`  X
+400`  R008`  AMO`  `  X`  X`  X
+400`  R008`  ANB`  `  `  `
+400`  R008`  ANC`  `  `  `
+400`  R008`  ANF`  `  `  `
+400`  R008`  ANZ`  `  `  `
+400`  R008`  ASB`  `  `  `
+400`  R008`  AUD`  `  `  `
+400`  R008`  AUF`  `  X`  X`
+400`  R008`  AUK`  `  `  `
+400`  R008`  AUM`  `  X`  X`  X
+400`  R008`  BAC`  `  `  `
+400`  R008`  BDS`  `  `  `
+400`  R008`  BIK`  `  `  `
+400`  R008`  BIL`  X`  `  `
+400`  R008`  BNK`  `  `  `
+400`  R008`  BO1`  `  `  `  X
+400`  R008`  BO2`  `  `  `  X
+400`  R008`  BO3`  `  `  `  X
+400`  R008`  BSA`  `  X`  X`
+400`  R008`  BSD`  X`  X`  X`
+400`  R008`  BSK`  `  X`  X`  X
+400`  R008`  BSP`  `  `  `
+400`  R008`  BSV`  `  X`  X`  X
+400`  R008`  BSX`  `  X`  X`
+400`  R008`  BWS`  `  `  `
+400`  R008`  CO1`  `  `  `
+400`  R008`  DEL`  `  `  `  X
+400`  R008`  DIF`  `  `  `  X
+400`  R008`  DSA`  `  `  `  X
+400`  R008`  DSK`  `  `  `
+400`  R008`  DU2`  `  `  `
+400`  R008`  DU3`  `  `  `  X
+400`  R008`  EIN`  `  X`  X`
+400`  R008`  EKG`  `  X`  X`
+400`  R008`  ELB`  `  `  `
+400`  R008`  ESA`  `  `  `
+400`  R008`  ESE`  `  `  `
+400`  R008`  FLB`  `  `  `
+400`  R008`  FR1`  `  `  `
+400`  R008`  FR2`  `  `  `
+400`  R008`  FR3`  `  `  `
+400`  R008`  FR4`  `  `  `
+400`  R008`  FRE`  `  `  `
+400`  R008`  FRL`  `  X`  `
+400`  R008`  FRN`  `  X`  `
+400`  R008`  G01`  `  `  `
+400`  R008`  G02`  `  `  `
+400`  R008`  G04`  `  `  `
+400`  R008`  GA0`  `  `  `
+400`  R008`  GBB`  X`  X`  X`  X
+400`  R008`  GKO`  `  `  `
+400`  R008`  GRU`  X`  X`  `
+400`  R008`  HRA`  `  X`  `
+400`  R008`  HRC`  X`  X`  `
+400`  R008`  HRD`  `  X`  `
+400`  R008`  HRF`  `  X`  `
+400`  R008`  HRK`  `  X`  `
+400`  R008`  HRP`  X`  `  `
+400`  R008`  HRT`  X`  `  `
+400`  R008`  HRV`  X`  `  `
+400`  R008`  IC1`  `  `  `
+400`  R008`  ICC`  `  `  `
+400`  R008`  ICP`  `  `  `
+400`  R008`  ICX`  `  `  `
+400`  R008`  ICZ`  `  `  `
+400`  R008`  INK`  `  `  `
+400`  R008`  INX`  `  `  `
+400`  R008`  IPC`  `  `  `
+400`  R008`  IT1`  `  `  `
+400`  R008`  IT2`  `  `  `
+400`  R008`  IT3`  `  `  `
+400`  R008`  IU1`  X`  `  `
+400`  R008`  IU2`  `  `  `
+400`  R008`  J1B`  `  `  `
+400`  R008`  J1C`  `  `  `
+400`  R008`  J1D`  `  `  `
+400`  R008`  J1E`  `  `  `
+400`  R008`  J1F`  `  `  `
+400`  R008`  J1G`  `  `  `
+400`  R008`  J1H`  `  `  `
+400`  R008`  J1I`  `  `  `
+400`  R008`  J1J`  `  `  `
+400`  R008`  J1K`  `  `  `
+400`  R008`  J1L`  `  `  `
+400`  R008`  J1O`  `  `  `
+400`  R008`  J1Q`  `  `  `
+400`  R008`  J1R`  `  `  `
+400`  R008`  J1S`  `  `  `
+400`  R008`  J3A`  `  `  `
+400`  R008`  KBS`  `  `  `
+400`  R008`  KDG`  `  `  `  X
+400`  R008`  KDM`  `  `  `  X
+400`  R008`  KDR`  `  `  `  X
+400`  R008`  KDT`  `  `  `  X
+400`  R008`  KDV`  `  `  `  X
+400`  R008`  KH`  `  `  `
+400`  R008`  KON`  `  `  `
+400`  R008`  KRD`  `  X`  X`  X
+400`  R008`  KS`  `  `  `
+400`  R008`  KTR`  `  `  `  X
+400`  R008`  LKW`  `  X`  X`
+400`  R008`  LUX`  `  `  `
+400`  R008`  MVA`  X`  `  `
+400`  R008`  MW1`  `  `  `
+400`  R008`  MW2`  `  `  `
+400`  R008`  MW3`  `  `  `
+400`  R008`  MW4`  `  `  `
+400`  R008`  MWS`  `  `  `
+400`  R008`  NAV`  `  `  `
+400`  R008`  NZ1`  `  `  `
+400`  R008`  NZ2`  `  `  `
+400`  R008`  OFF`  X`  X`  `
+400`  R008`  OPO`  X`  X`  `
+400`  R008`  OZN`  `  `  `
+400`  R008`  OZS`  `  `  `
+400`  R008`  PRA`  `  X`  `  X
+400`  R008`  PRC`  `  `  `  X
+400`  R008`  PRD`  `  X`  X`  X
+400`  R008`  PRG`  `  `  `  X
+400`  R008`  PRK`  `  `  `  X
+400`  R008`  PRM`  `  X`  X`  X
+400`  R008`  PRP`  `  `  `  X
+400`  R008`  PRQ`  `  `  `  X
+400`  R008`  PRV`  `  `  `  X
+400`  R008`  PRY`  `  X`  X`  X
+400`  R008`  QST`  `  `  `  X
+400`  R008`  RAP`  `  X`  `  X
+400`  R008`  RKA`  `  `  `
+400`  R008`  RPD`  `  `  `
+400`  R008`  RPK`  `  `  `
+400`  R008`  RPS`  `  `  `
+400`  R008`  RSD`  `  `  `
+400`  R008`  RSK`  `  `  `
+400`  R008`  RUE`  `  `  `
+400`  R008`  SGA`  X`  `  `
+400`  R008`  SKE`  `  `  `
+400`  R008`  SKT`  `  `  `
+400`  R008`  SKV`  `  `  `
+400`  R008`  STQ`  `  `  `
+400`  R008`  SWE`  `  `  `
+400`  R008`  TXO`  `  `  `
+400`  R008`  UMB`  `  X`  X`  X
+400`  R008`  UMS`  `  `  `
+400`  R008`  UPF`  `  `  `
+400`  R008`  VS1`  `  `  `
+400`  R008`  VS2`  `  `  `
+400`  R008`  VS3`  `  `  `
+400`  R008`  VS4`  `  `  `
+400`  R008`  VSK`  `  `  `
+400`  R008`  VST`  `  `  `
+400`  R008`  VVA`  X`  `  `
+400`  R008`  VZF`  `  X`  X`
+400`  R008`  WAN`  `  `  `
+400`  R008`  WBW`  `  `  `
+400`  R008`  WGI`  `  X`  X`
+400`  R008`  WGR`  `  X`  X`
+400`  R008`  WIT`  X`  X`  `
+400`  R008`  WPA`  `  X`  `
+400`  R008`  WPM`  `  X`  `
+400`  R008`  WRX`  `  X`  `
+400`  R008`  WRY`  `  X`  `
+400`  R008`  WSB`  `  `  `
+400`  R008`  WST`  `  `  `
+400`  R008`  WVW`  `  `  `
+400`  R008`  ZBA`  `  `  `
+400`  R008`  ZDI`  `  X`  `
+400`  R008`  ZUG`  `  `  `
+400`  R008`  ZUS`  `  `  `
+400`  R008`  ZUZ`  X`  `  `
+400`  R008`  ZWE`  `  `  `
+400`  R008`  ZWO`  `  `  `
+400`  RAIN`  MWS`  X`  `  `
+400`  SNC`  AKO`  `  `  `  X
+400`  SNC`  ASB`  `  `  `
+400`  SNC`  AUM`  `  `  `  X
+400`  SNC`  BSX`  `  `  X`
+400`  SNC`  BWS`  `  `  `
+400`  SNC`  DIF`  `  `  `  X
+400`  SNC`  DSA`  `  `  `  X
+400`  SNC`  DSK`  `  `  `
+400`  SNC`  EIN`  `  `  `  X
+400`  SNC`  EKG`  `  `  `
+400`  SNC`  ESA`  `  `  `
+400`  SNC`  ESE`  X`  `  `
+400`  SNC`  FR1`  `  `  `
+400`  SNC`  FR2`  `  `  `
+400`  SNC`  FR3`  `  `  `
+400`  SNC`  FR4`  `  `  `
+400`  SNC`  FRE`  `  `  `
+400`  SNC`  FRL`  `  `  `
+400`  SNC`  FRN`  `  `  `
+400`  SNC`  GBB`  X`  `  X`  X
+400`  SNC`  HRP`  X`  `  `
+400`  SNC`  HRT`  X`  `  `
+400`  SNC`  INK`  `  `  `
+400`  SNC`  KDG`  `  `  `  X
+400`  SNC`  KDR`  `  `  `  X
+400`  SNC`  KON`  `  `  `
+400`  SNC`  MVA`  `  `  `
+400`  SNC`  MWS`  X`  `  `
+400`  SNC`  NAV`  `  `  `
+400`  SNC`  PRC`  `  `  `  X
+400`  SNC`  PRD`  `  `  `
+400`  SNC`  PRG`  `  `  `
+400`  SNC`  PRY`  `  X`  X`  X
+400`  SNC`  SKE`  `  `  `
+400`  SNC`  SKT`  `  `  `
+400`  SNC`  SKV`  `  `  `
+400`  SNC`  UMB`  `  `  `  X
+400`  SNC`  VSK`  `  `  `
+400`  SNC`  VST`  X`  `  `
+400`  SNC`  VVA`  `  `  `
+400`  SNC`  WRX`  `  `  `
+400`  SNC`  WRY`  `  `  `
+400`  SNC`  WST`  `  `  `
+400`  SNC`  ZDI`  `  X`  `  X
+400`  SU01`  MWS`  `  `  `
+400`  SU01`  SKE`  `  `  `
+400`  SU01`  VST`  `  `  `
+400`  SU02`  KDT`  `  `  `
+400`  T100`  BSX`  `  X`  X`
+400`  T100`  MWS`  `  `  `
+400`  T100`  VST`  `  `  `
+400`  T100`  WRX`  `  X`  X`
+400`  TMCN`  ANC`  `  X`  `
+400`  TMCN`  AUM`  `  X`  X`  X
+400`  TMCN`  BSX`  `  X`  X`
+400`  TMCN`  CEX`  `  `  `  X
+400`  TMCN`  COC`  `  X`  `  X
+400`  TMCN`  DSA`  `  `  `  X
+400`  TMCN`  GBB`  X`  X`  X`  X
+400`  TMCN`  KDM`  `  X`  X`  X
+400`  TMCN`  KDV`  `  X`  `  X
+400`  TMCN`  MWS`  X`  `  `
+400`  TMCN`  PRA`  `  X`  `  X
+400`  TMCN`  PRD`  X`  X`  X`  X
+400`  TMCN`  PRM`  `  X`  `  X
+400`  TMCN`  PRV`  `  X`  `  X
+400`  TMCN`  PRY`  `  X`  `  X
+400`  TMCN`  RDF`  `  `  `  X
+400`  TMCN`  SGA`  `  `  `
+400`  TMCN`  SKE`  `  `  `
+400`  TMCN`  SKT`  `  `  `
+400`  TMCN`  UMB`  `  X`  X`  X
+400`  TMCN`  VST`  X`  `  `
+400`  TMCN`  WPA`  `  X`  `  X
+400`  TMCN`  WPM`  `  X`  `  X
+400`  TMCN`  WRX`  `  `  `  X
+400`  TMCN`  ZDI`  `  X`  `  X
+400`  W001`  MWS`  `  `  `
+400`  W001`  VST`  `  `  `
+400`  WEG`  ESA`  `  `  `
+400`  WEG`  ESE`  `  `  `
+400`  WEG`  MVA`  X`  `  `
+400`  WEG`  MWS`  `  `  `
+400`  WEG`  NAV`  `  `  `
+400`  WEG`  SKV`  `  `  `
+400`  WEG`  VST`  `  `  `
+400`  XXGS`  ANC`  `  `  `
+400`  XXGS`  BSX`  `  `  `
+400`  XXGS`  DSA`  `  `  `
+400`  XXGS`  GBB`  X`  `  X`  X
+400`  XXGS`  MWS`  `  `  `
+400`  XXGS`  PRD`  `  `  X`  X
+400`  XXGS`  SKE`  `  `  `
+400`  XXGS`  SKT`  `  `  `
+400`  XXGS`  VST`  `  `  `
+400`  XXGS`  WRX`  `  `  `
+400`  XXGS`  WRY`  `  `  `  X
+400`  XXGS`  ZDI`  `  `  `
+400`  Y999`  BSD`  `  X`  X`
+400`  Y999`  GBB`  X`  X`  X`
+400`  Y999`  MWS`  `  `  `
+400`  Y999`  PRD`  `  X`  X`
+400`  Y999`  VST`  `  `  `
+400`  Y999`  WRX`  `  X`  X`
+400`  Y999`  WRY`  `  X`  X`
+400`  YACN`  BSX`  `  `  `
+400`  YACN`  MWS`  X`  `  `
+400`  YAJP`  GBB`  X`  X`  X`
+400`  YCOA`  ACC`  `  `  `  X
+400`  YCOA`  AG3`  `  `  `  X
+400`  YCOA`  AKO`  `  X`  X`  X
+400`  YCOA`  ANB`  `  `  `
+400`  YCOA`  ANC`  `  X`  `
+400`  YCOA`  ANF`  `  `  `
+400`  YCOA`  ANZ`  `  `  `
+400`  YCOA`  ASB`  X`  `  `
+400`  YCOA`  AUD`  `  `  `
+400`  YCOA`  AUK`  `  `  `
+400`  YCOA`  AUM`  `  X`  X`  X
+400`  YCOA`  BDS`  `  `  `
+400`  YCOA`  BIK`  `  `  `
+400`  YCOA`  BIL`  X`  `  `
+400`  YCOA`  BNK`  `  `  `
+400`  YCOA`  BO1`  `  `  `  X
+400`  YCOA`  BO2`  `  `  `  X
+400`  YCOA`  BO3`  `  `  `  X
+400`  YCOA`  BSD`  `  X`  X`  X
+400`  YCOA`  BSK`  `  X`  X`  X
+400`  YCOA`  BSP`  `  `  `
+400`  YCOA`  BSV`  `  X`  X`
+400`  YCOA`  BSX`  `  X`  X`
+400`  YCOA`  BWS`  `  `  `
+400`  YCOA`  CD1`  `  `  `
+400`  YCOA`  CO1`  `  `  `
+400`  YCOA`  CO3`  X`  `  `
+400`  YCOA`  COC`  `  X`  X`  X
+400`  YCOA`  COF`  `  `  `
+400`  YCOA`  COO`  X`  `  `
+400`  YCOA`  CP1`  `  `  `
+400`  YCOA`  CP2`  `  `  `
+400`  YCOA`  CVD`  `  `  `
+400`  YCOA`  DIF`  `  `  `  X
+400`  YCOA`  DSA`  `  `  `  X
+400`  YCOA`  DSK`  `  `  `
+400`  YCOA`  EIN`  `  X`  X`
+400`  YCOA`  EKG`  `  X`  X`
+400`  YCOA`  ESA`  X`  `  `
+400`  YCOA`  ESE`  X`  `  `
+400`  YCOA`  FCP`  X`  `  `
+400`  YCOA`  FCX`  X`  `  `
+400`  YCOA`  FR1`  `  `  `
+400`  YCOA`  FR2`  `  `  `
+400`  YCOA`  FR3`  `  `  `
+400`  YCOA`  FR4`  `  `  `
+400`  YCOA`  FRE`  `  `  `
+400`  YCOA`  FRL`  `  X`  `
+400`  YCOA`  FRN`  `  X`  `
+400`  YCOA`  GA0`  `  `  `
+400`  YCOA`  GBB`  X`  X`  X`  X
+400`  YCOA`  GRU`  X`  X`  `
+400`  YCOA`  HRA`  `  `  `
+400`  YCOA`  HRC`  X`  X`  `
+400`  YCOA`  HRD`  `  X`  `
+400`  YCOA`  HRF`  `  X`  `
+400`  YCOA`  HRK`  `  X`  `
+400`  YCOA`  HRP`  X`  `  `
+400`  YCOA`  HRT`  X`  `  `
+400`  YCOA`  IC1`  X`  `  `
+400`  YCOA`  ICC`  X`  `  `
+400`  YCOA`  ICD`  `  `  `
+400`  YCOA`  ICM`  X`  `  `
+400`  YCOA`  ICP`  X`  `  `
+400`  YCOA`  ICX`  X`  `  `
+400`  YCOA`  ICZ`  `  `  `
+400`  YCOA`  INK`  `  `  `
+400`  YCOA`  INX`  X`  `  `
+400`  YCOA`  IPC`  X`  `  `
+400`  YCOA`  ISW`  `  `  `
+400`  YCOA`  IU1`  X`  `  `
+400`  YCOA`  IU2`  `  `  `
+400`  YCOA`  J1B`  `  `  `
+400`  YCOA`  J1C`  X`  `  `
+400`  YCOA`  J1D`  X`  `  `
+400`  YCOA`  J1E`  `  `  `
+400`  YCOA`  J1F`  `  `  `
+400`  YCOA`  J1G`  X`  `  `
+400`  YCOA`  J1H`  X`  `  `
+400`  YCOA`  J1I`  X`  `  `
+400`  YCOA`  J1J`  X`  `  `
+400`  YCOA`  J1K`  X`  `  `
+400`  YCOA`  J1L`  X`  `  `
+400`  YCOA`  J1M`  X`  `  `
+400`  YCOA`  J1N`  X`  `  `
+400`  YCOA`  J1O`  `  `  `
+400`  YCOA`  J1S`  X`  `  `
+400`  YCOA`  J1Z`  `  `  `
+400`  YCOA`  J2E`  `  `  `
+400`  YCOA`  J2O`  `  `  `
+400`  YCOA`  J3E`  `  `  `
+400`  YCOA`  J3O`  `  `  `
+400`  YCOA`  J4E`  `  `  `
+400`  YCOA`  J4O`  `  `  `
+400`  YCOA`  J6E`  `  `  `
+400`  YCOA`  J6O`  `  `  `
+400`  YCOA`  J7E`  `  `  `
+400`  YCOA`  J7O`  `  `  `
+400`  YCOA`  J8E`  `  `  `
+400`  YCOA`  J8O`  `  `  `
+400`  YCOA`  J9E`  `  `  `
+400`  YCOA`  J9O`  `  `  `
+400`  YCOA`  JCC`  X`  `  `
+400`  YCOA`  JCI`  X`  `  `
+400`  YCOA`  JCM`  X`  `  `
+400`  YCOA`  JCN`  X`  `  `
+400`  YCOA`  JCR`  X`  `  `
+400`  YCOA`  JI5`  `  `  `
+400`  YCOA`  JI6`  `  `  `
+400`  YCOA`  JIC`  X`  `  `
+400`  YCOA`  JIE`  `  `  `
+400`  YCOA`  JII`  X`  `  `
+400`  YCOA`  JIM`  X`  `  `
+400`  YCOA`  JIN`  X`  `  `
+400`  YCOA`  JIO`  `  `  `
+400`  YCOA`  JIS`  X`  `  `
+400`  YCOA`  JIU`  X`  `  `
+400`  YCOA`  JN6`  `  `  `
+400`  YCOA`  JN7`  `  `  `
+400`  YCOA`  JOC`  X`  `  `
+400`  YCOA`  JOI`  X`  `  `
+400`  YCOA`  JOS`  X`  `  `
+400`  YCOA`  JOU`  X`  `  `
+400`  YCOA`  JP5`  `  `  `
+400`  YCOA`  JP7`  `  `  `
+400`  YCOA`  JPA`  `  `  `
+400`  YCOA`  JPE`  `  `  `
+400`  YCOA`  JPO`  `  `  `
+400`  YCOA`  JRC`  X`  `  `
+400`  YCOA`  JRI`  X`  `  `
+400`  YCOA`  JRN`  X`  `  `
+400`  YCOA`  JRS`  X`  `  `
+400`  YCOA`  JRU`  X`  `  `
+400`  YCOA`  JSN`  X`  `  `
+400`  YCOA`  JST`  X`  `  `
+400`  YCOA`  JTG`  `  `  `
+400`  YCOA`  JUN`  X`  `  `
+400`  YCOA`  JV1`  `  `  `
+400`  YCOA`  JV2`  `  `  `
+400`  YCOA`  JV3`  `  `  `
+400`  YCOA`  JV4`  `  `  `
+400`  YCOA`  JV5`  `  `  `
+400`  YCOA`  JV6`  `  `  `
+400`  YCOA`  JV7`  `  `  `
+400`  YCOA`  JV8`  `  `  `
+400`  YCOA`  JVA`  `  `  `
+400`  YCOA`  JVB`  `  `  `
+400`  YCOA`  JVC`  `  `  `
+400`  YCOA`  JVD`  `  `  `
+400`  YCOA`  JVE`  `  `  `
+400`  YCOA`  JVX`  `  `  `
+400`  YCOA`  KBS`  `  `  `
+400`  YCOA`  KDG`  `  `  `  X
+400`  YCOA`  KDM`  `  `  `  X
+400`  YCOA`  KDR`  `  `  `  X
+400`  YCOA`  KDT`  `  `  `  X
+400`  YCOA`  KDV`  `  `  `  X
+400`  YCOA`  KDW`  `  `  `  X
+400`  YCOA`  KDZ`  `  `  `
+400`  YCOA`  KON`  `  `  `
+400`  YCOA`  KTR`  `  `  `  X
+400`  YCOA`  LKW`  `  X`  X`  X
+400`  YCOA`  LUX`  X`  `  `
+400`  YCOA`  MVA`  X`  `  `
+400`  YCOA`  MW1`  X`  `  `
+400`  YCOA`  MW2`  X`  `  `
+400`  YCOA`  MW3`  X`  `  `
+400`  YCOA`  MW4`  X`  `  `
+400`  YCOA`  MW5`  X`  `  `
+400`  YCOA`  MW6`  `  `  `
+400`  YCOA`  MW7`  `  `  `
+400`  YCOA`  MW8`  `  `  `
+400`  YCOA`  MW9`  X`  `  `
+400`  YCOA`  MWA`  X`  `  `
+400`  YCOA`  MWS`  X`  `  `
+400`  YCOA`  NAV`  X`  `  `
+400`  YCOA`  OFF`  X`  X`  `
+400`  YCOA`  OPO`  X`  X`  `  X
+400`  YCOA`  OZN`  X`  `  `
+400`  YCOA`  OZS`  X`  `  `
+400`  YCOA`  PI3`  X`  `  `
+400`  YCOA`  PIC`  X`  `  `
+400`  YCOA`  PIS`  `  `  `
+400`  YCOA`  PLA`  X`  `  `
+400`  YCOA`  PRA`  `  `  `
+400`  YCOA`  PRC`  `  `  `  X
+400`  YCOA`  PRD`  X`  X`  X`  X
+400`  YCOA`  PRG`  `  `  `  X
+400`  YCOA`  PRK`  `  `  `  X
+400`  YCOA`  PRL`  `  `  `  X
+400`  YCOA`  PRM`  `  `  `
+400`  YCOA`  PRP`  `  `  `  X
+400`  YCOA`  PRQ`  `  `  `  X
+400`  YCOA`  PRV`  `  `  `  X
+400`  YCOA`  PRY`  `  X`  X`  X
+400`  YCOA`  QST`  `  `  `  X
+400`  YCOA`  RAP`  `  X`  `  X
+400`  YCOA`  RDF`  `  `  `  X
+400`  YCOA`  RIT`  X`  `  `
+400`  YCOA`  RKA`  `  `  `
+400`  YCOA`  RUE`  `  `  `
+400`  YCOA`  SGA`  X`  `  `
+400`  YCOA`  SIO`  X`  `  `
+400`  YCOA`  SIV`  X`  `  `
+400`  YCOA`  SKE`  `  `  `
+400`  YCOA`  SKT`  `  `  `
+400`  YCOA`  SKV`  `  `  `
+400`  YCOA`  ST1`  X`  `  `
+400`  YCOA`  ST3`  X`  `  `
+400`  YCOA`  STQ`  `  `  `
+400`  YCOA`  SWE`  `  `  `
+400`  YCOA`  TXO`  `  `  `  X
+400`  YCOA`  UA1`  `  `  `
+400`  YCOA`  UA2`  `  `  `
+400`  YCOA`  UMB`  `  X`  X`  X
+400`  YCOA`  UMD`  `  X`  X`  X
+400`  YCOA`  UMS`  `  `  `
+400`  YCOA`  UPF`  `  `  `
+400`  YCOA`  VS1`  X`  `  `
+400`  YCOA`  VS2`  X`  `  `
+400`  YCOA`  VS3`  X`  `  `
+400`  YCOA`  VS4`  X`  `  `
+400`  YCOA`  VS5`  `  `  `
+400`  YCOA`  VS7`  X`  `  `
+400`  YCOA`  VS8`  `  `  `
+400`  YCOA`  VS9`  `  `  `
+400`  YCOA`  VSC`  X`  `  `
+400`  YCOA`  VSF`  X`  `  `
+400`  YCOA`  VSH`  X`  `  `
+400`  YCOA`  VSK`  `  `  `
+400`  YCOA`  VSN`  X`  `  `
+400`  YCOA`  VST`  X`  `  `
+400`  YCOA`  VVA`  X`  `  `
+400`  YCOA`  WAC`  `  `  `
+400`  YCOA`  WAG`  `  `  `
+400`  YCOA`  WAI`  `  `  `
+400`  YCOA`  WAN`  `  `  `
+400`  YCOA`  WAP`  `  `  `
+400`  YCOA`  WAS`  `  `  `
+400`  YCOA`  WBW`  `  `  `
+400`  YCOA`  WC3`  `  `  `
+400`  YCOA`  WC4`  `  `  `
+400`  YCOA`  WC5`  `  `  `
+400`  YCOA`  WG3`  `  `  `
+400`  YCOA`  WG4`  `  `  `
+400`  YCOA`  WG5`  `  `  `
+400`  YCOA`  WI3`  `  `  `
+400`  YCOA`  WI4`  `  `  `
+400`  YCOA`  WI5`  `  `  `
+400`  YCOA`  WI7`  `  `  `
+400`  YCOA`  WIT`  X`  X`  `  X
+400`  YCOA`  WK3`  `  `  `
+400`  YCOA`  WN4`  `  `  `
+400`  YCOA`  WN7`  `  `  `
+400`  YCOA`  WP3`  `  `  `
+400`  YCOA`  WP4`  `  `  `
+400`  YCOA`  WP5`  `  `  `
+400`  YCOA`  WPA`  `  `  `
+400`  YCOA`  WPM`  `  `  `
+400`  YCOA`  WR4`  `  `  `
+400`  YCOA`  WRX`  `  X`  `
+400`  YCOA`  WRY`  `  X`  `
+400`  YCOA`  WS3`  `  `  `
+400`  YCOA`  WS4`  `  `  `
+400`  YCOA`  WS5`  `  `  `
+400`  YCOA`  WSB`  `  `  `
+400`  YCOA`  WST`  `  `  `
+400`  YCOA`  WTG`  `  `  `
+400`  YCOA`  WVW`  `  `  `
+400`  YCOA`  ZBA`  `  `  `
+400`  YCOA`  ZDI`  `  `  `
+400`  YCOA`  ZSA`  X`  `  `
+400`  YCOA`  ZSE`  `  `  `
+400`  YCOA`  ZSH`  X`  `  `
+400`  YCOA`  ZSS`  `  `  `
+400`  YCOA`  ZST`  X`  `  `
+400`  YCOA`  ZTA`  X`  `  `
+400`  YCOA`  ZUD`  X`  `  `
+400`  YCOA`  ZUG`  `  `  `
+400`  YCOA`  ZUK`  X`  `  `
+400`  YCOA`  ZUS`  `  `  `
+400`  YCOA`  ZVV`  `  `  `
+400`  YCOA`  ZWE`  `  `  `
+400`  YCOA`  ZWO`  `  `  `
+400`  YGL`  ASB`  X`  `  `
+400`  YGL`  VST`  X`  `  `
+400`  YPBB`  IR4`  `  `  `
+400`  YY00`  BSX`  `  X`  X`
+400`  YY00`  GBB`  X`  X`  X`
+400`  YY00`  MWS`  `  `  `
+400`  Z011`  ASB`  `  `  `
+400`  Z011`  MWS`  `  `  `
+400`  Z011`  VST`  `  `  `
+400`  ZERO`  MWS`  `  `  `
+400`  ZERO`  VST`  `  `  `
+400`  ZGTF`  SKT`  `  `  `
+400`  ZK01`  ANC`  `  X`  `
+400`  ZK01`  AUM`  `  X`  X`
+400`  ZK01`  BSV`  `  `  `
+400`  ZK01`  BSX`  `  X`  X`
+400`  ZK01`  FRL`  `  `  `
+400`  ZK01`  GBB`  X`  X`  X`  X
+400`  ZK01`  KDM`  `  `  `
+400`  ZK01`  KDV`  `  `  `
+400`  ZK01`  MWS`  `  `  `
+400`  ZK01`  PRD`  X`  X`  X`
+400`  ZK01`  UMB`  `  X`  X`
+400`  ZK01`  VST`  `  `  `
+400`  ZK01`  WRX`  X`  X`  `
+400`  ZP00`  ANC`  `  X`  `
+400`  ZP00`  WRX`  `  `  `
+400`  ZSAP`  BSX`  `  `  X`
+400`  ZSAP`  GBB`  X`  `  X`  X
+400`  ZSAP`  MWS`  `  `  `
+400`  ZSAP`  SKE`  `  `  `
+400`  ZSAP`  VST`  `  `  `
+400`  ZSAP`  WRX`  `  `  `
+400`  ZYF1`  MWS`  X`  `  `
+400`  ZYF1`  VST`  X`  `  `
+400`  ZZMC`  MWS`  `  `  `
+400`  ZZMC`  VST`  `  `  `
+400`  ZZZZ`  0P1`  `  `  `
+400`  ZZZZ`  0PA`  `  `  `
+400`  ZZZZ`  ACC`  `  `  `  X
+400`  ZZZZ`  AG1`  `  `  `
+400`  ZZZZ`  AG2`  `  `  `  X
+400`  ZZZZ`  AG3`  `  `  `
+400`  ZZZZ`  AKO`  `  X`  X`  X
+400`  ZZZZ`  AMO`  `  X`  X`  X
+400`  ZZZZ`  ANB`  `  `  `
+400`  ZZZZ`  ANC`  `  `  `
+400`  ZZZZ`  ANF`  `  `  `
+400`  ZZZZ`  ANZ`  `  `  `
+400`  ZZZZ`  ASB`  `  `  `
+400`  ZZZZ`  AUD`  `  `  `
+400`  ZZZZ`  AUF`  `  X`  X`
+400`  ZZZZ`  AUK`  `  `  `
+400`  ZZZZ`  AUM`  `  X`  X`  X
+400`  ZZZZ`  BAC`  `  `  `
+400`  ZZZZ`  BDS`  `  `  `
+400`  ZZZZ`  BIK`  `  `  `
+400`  ZZZZ`  BIL`  X`  `  `
+400`  ZZZZ`  BNK`  `  `  `
+400`  ZZZZ`  BO1`  `  `  `  X
+400`  ZZZZ`  BO2`  `  `  `  X
+400`  ZZZZ`  BO3`  `  `  `  X
+400`  ZZZZ`  BSA`  `  X`  X`
+400`  ZZZZ`  BSD`  X`  X`  X`
+400`  ZZZZ`  BSK`  `  X`  X`  X
+400`  ZZZZ`  BSP`  `  `  `
+400`  ZZZZ`  BSV`  `  X`  X`  X
+400`  ZZZZ`  BSX`  `  X`  X`
+400`  ZZZZ`  BWS`  `  `  `
+400`  ZZZZ`  CO1`  `  `  `
+400`  ZZZZ`  DEL`  `  `  `  X
+400`  ZZZZ`  DIF`  `  `  `  X
+400`  ZZZZ`  DSA`  `  `  `  X
+400`  ZZZZ`  DSK`  `  `  `
+400`  ZZZZ`  DU2`  `  `  `
+400`  ZZZZ`  DU3`  `  `  `  X
+400`  ZZZZ`  EIN`  `  X`  X`
+400`  ZZZZ`  EKG`  `  X`  X`
+400`  ZZZZ`  ELB`  `  `  `
+400`  ZZZZ`  ESA`  `  `  `
+400`  ZZZZ`  ESE`  `  `  `
+400`  ZZZZ`  FLB`  `  `  `
+400`  ZZZZ`  FR1`  `  `  `
+400`  ZZZZ`  FR2`  `  `  `
+400`  ZZZZ`  FR3`  `  `  `
+400`  ZZZZ`  FR4`  `  `  `
+400`  ZZZZ`  FRE`  `  `  `
+400`  ZZZZ`  FRL`  `  X`  `
+400`  ZZZZ`  FRN`  `  X`  `
+400`  ZZZZ`  G01`  `  `  `
+400`  ZZZZ`  G02`  `  `  `
+400`  ZZZZ`  G04`  `  `  `
+400`  ZZZZ`  GA0`  `  `  `
+400`  ZZZZ`  GBB`  X`  X`  X`  X
+400`  ZZZZ`  GKO`  `  `  `
+400`  ZZZZ`  GRU`  X`  X`  `
+400`  ZZZZ`  HRA`  `  X`  `
+400`  ZZZZ`  HRC`  X`  X`  `
+400`  ZZZZ`  HRD`  `  X`  `
+400`  ZZZZ`  HRF`  `  X`  `
+400`  ZZZZ`  HRK`  `  X`  `
+400`  ZZZZ`  HRP`  X`  `  `
+400`  ZZZZ`  HRT`  X`  `  `
+400`  ZZZZ`  HRV`  X`  `  `
+400`  ZZZZ`  IC1`  `  `  `
+400`  ZZZZ`  ICC`  `  `  `
+400`  ZZZZ`  ICP`  `  `  `
+400`  ZZZZ`  ICX`  `  `  `
+400`  ZZZZ`  ICZ`  `  `  `
+400`  ZZZZ`  INK`  `  `  `
+400`  ZZZZ`  INX`  `  `  `
+400`  ZZZZ`  IPC`  `  `  `
+400`  ZZZZ`  IT1`  `  `  `
+400`  ZZZZ`  IT2`  `  `  `
+400`  ZZZZ`  IT3`  `  `  `
+400`  ZZZZ`  IU1`  X`  `  `
+400`  ZZZZ`  IU2`  `  `  `
+400`  ZZZZ`  J1B`  `  `  `
+400`  ZZZZ`  J1C`  `  `  `
+400`  ZZZZ`  J1D`  `  `  `
+400`  ZZZZ`  J1E`  `  `  `
+400`  ZZZZ`  J1F`  `  `  `
+400`  ZZZZ`  J1G`  `  `  `
+400`  ZZZZ`  J1H`  `  `  `
+400`  ZZZZ`  J1I`  `  `  `
+400`  ZZZZ`  J1J`  `  `  `
+400`  ZZZZ`  J1K`  `  `  `
+400`  ZZZZ`  J1L`  `  `  `
+400`  ZZZZ`  J1O`  `  `  `
+400`  ZZZZ`  J1Q`  `  `  `
+400`  ZZZZ`  J1R`  `  `  `
+400`  ZZZZ`  J1S`  `  `  `
+400`  ZZZZ`  J3A`  `  `  `
+400`  ZZZZ`  KBS`  `  `  `
+400`  ZZZZ`  KDG`  `  `  `  X
+400`  ZZZZ`  KDM`  `  `  `  X
+400`  ZZZZ`  KDR`  `  `  `  X
+400`  ZZZZ`  KDT`  `  `  `  X
+400`  ZZZZ`  KDV`  `  `  `  X
+400`  ZZZZ`  KH`  `  `  `
+400`  ZZZZ`  KON`  `  `  `
+400`  ZZZZ`  KRD`  `  X`  X`  X
+400`  ZZZZ`  KS`  `  `  `
+400`  ZZZZ`  KTR`  `  `  `  X
+400`  ZZZZ`  LKW`  `  X`  X`
+400`  ZZZZ`  LUX`  `  `  `
+400`  ZZZZ`  MVA`  X`  `  `
+400`  ZZZZ`  MW1`  `  `  `
+400`  ZZZZ`  MW2`  `  `  `
+400`  ZZZZ`  MW3`  `  `  `
+400`  ZZZZ`  MW4`  `  `  `
+400`  ZZZZ`  MWS`  `  `  `
+400`  ZZZZ`  NAV`  `  `  `
+400`  ZZZZ`  NZ1`  `  `  `
+400`  ZZZZ`  NZ2`  `  `  `
+400`  ZZZZ`  OFF`  X`  X`  `
+400`  ZZZZ`  OPO`  X`  X`  `
+400`  ZZZZ`  OZN`  `  `  `
+400`  ZZZZ`  OZS`  `  `  `
+400`  ZZZZ`  PRA`  `  X`  `  X
+400`  ZZZZ`  PRC`  `  `  `  X
+400`  ZZZZ`  PRD`  `  X`  X`  X
+400`  ZZZZ`  PRG`  `  `  `  X
+400`  ZZZZ`  PRK`  `  `  `  X
+400`  ZZZZ`  PRM`  `  X`  X`  X
+400`  ZZZZ`  PRP`  `  `  `  X
+400`  ZZZZ`  PRQ`  `  `  `  X
+400`  ZZZZ`  PRV`  `  `  `  X
+400`  ZZZZ`  PRY`  `  X`  X`  X
+400`  ZZZZ`  QST`  `  `  `  X
+400`  ZZZZ`  RAP`  `  X`  `  X
+400`  ZZZZ`  RKA`  `  `  `
+400`  ZZZZ`  RPD`  `  `  `
+400`  ZZZZ`  RPK`  `  `  `
+400`  ZZZZ`  RPS`  `  `  `
+400`  ZZZZ`  RSD`  `  `  `
+400`  ZZZZ`  RSK`  `  `  `
+400`  ZZZZ`  RUE`  `  `  `
+400`  ZZZZ`  SGA`  X`  `  `
+400`  ZZZZ`  SKE`  `  `  `
+400`  ZZZZ`  SKT`  `  `  `
+400`  ZZZZ`  SKV`  `  `  `
+400`  ZZZZ`  STQ`  `  `  `
+400`  ZZZZ`  SWE`  `  `  `
+400`  ZZZZ`  TXO`  `  `  `
+400`  ZZZZ`  UMB`  `  X`  X`  X
+400`  ZZZZ`  UMS`  `  `  `
+400`  ZZZZ`  UPF`  `  `  `
+400`  ZZZZ`  VS1`  `  `  `
+400`  ZZZZ`  VS2`  `  `  `
+400`  ZZZZ`  VS3`  `  `  `
+400`  ZZZZ`  VS4`  `  `  `
+400`  ZZZZ`  VSK`  `  `  `
+400`  ZZZZ`  VST`  `  `  `
+400`  ZZZZ`  VVA`  X`  `  `
+400`  ZZZZ`  VZF`  `  X`  X`
+400`  ZZZZ`  WAN`  `  `  `
+400`  ZZZZ`  WBW`  `  `  `
+400`  ZZZZ`  WGI`  `  X`  X`
+400`  ZZZZ`  WGR`  `  X`  X`
+400`  ZZZZ`  WIT`  X`  X`  `
+400`  ZZZZ`  WPA`  `  X`  `
+400`  ZZZZ`  WPM`  `  X`  `
+400`  ZZZZ`  WRX`  `  X`  `
+400`  ZZZZ`  WRY`  `  X`  `
+400`  ZZZZ`  WSB`  `  `  `
+400`  ZZZZ`  WST`  `  `  `
+400`  ZZZZ`  WVW`  `  `  `
+400`  ZZZZ`  ZBA`  `  `  `
+400`  ZZZZ`  ZDI`  `  X`  `
+400`  ZZZZ`  ZUG`  `  `  `
+400`  ZZZZ`  ZUS`  `  `  `
+400`  ZZZZ`  ZUZ`  X`  `  `
+400`  ZZZZ`  ZWE`  `  `  `
+400`  ZZZZ`  ZWO`  `  `  `

@@ -1,0 +1,117 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`BLART [C(00004)]`LTEXT [C(00040)]
+400`  E`  CH`  Contract Settlement
+400`  E`  M5`  P&L Transformation
+400`  E`  M4`  P&L Close
+400`  E`  M6`  FX Valuation
+400`  E`  M7`  MAR & Restatement
+400`  E`  M8`  IFX Correction
+400`  E`  M9`  Reversal
+400`  E`  MD`  Data Load
+400`  E`  RB`  Reserve for Bad Debt
+400`  E`  WR`  Warranty Debit
+400`  E`  M1`  MCA Journal
+400`  E`  M2`  FX Swap
+400`  E`  M3`  P&L Lock
+400`  E`  TN`
+400`  E`  WS`
+400`  E`  AF`  Depreciation Pstngs
+400`  E`  AN`  Net Asset Posting
+400`  E`  ML`  ML Settlement
+400`  E`  PR`  Price Change
+400`  E`  UE`  Data Transfer
+400`  E`  WA`  Goods Issue
+400`  E`  WE`  Goods Receipt
+400`  E`  WI`  Inventory Document
+400`  E`  WL`  Goods Issue/Delivery
+400`  E`  WN`  Net Goods Receipt
+400`  E`  ZS`  Payment by Check
+400`  E`  EX`  External Number
+400`  E`  KN`  Net vendors
+400`  E`  SB`  G/L Account Posting
+400`  E`  KP`  Account maintenance
+400`  E`  RA`  Sub.Cred.Memo Stlmt
+400`  E`  RN`  Invoice - Net
+400`  E`  SA`  G/L Account Document
+400`  E`  SK`  Cash Document
+400`  E`  SU`  Intercomp./Clearing
+400`  E`  ZR`  Bank reconciliation
+400`  E`  ZV`  Payment Clearing
+400`  E`  ZP`  Payment Posting
+400`  E`  AP`  Periodic asset post
+400`  E`  AD`  Accruals/Deferrals
+400`  E`  CC`  Sec. Cost CrossComp.
+400`  E`  CL`  CL/OP FY Postings
+400`  E`  CO`  Secondary Cost
+400`  E`  DV`  Customer interests
+400`  E`  ER`  Manual ExpenseTravel
+400`  E`  EU`  Euro Rounding Diff.
+400`  E`  Y1`  Invoice - Gross
+400`  E`  RK`  Invoice Reduction
+400`  E`  SC`  Transfer P&L to B/S
+400`  E`  SE`  Inventory Postings
+400`  E`  ZZ`  Billing doc.transfer
+400`  E`  DA`  Customer document
+400`  E`  DR`  Customer invoice
+400`  E`  DZ`  Customer Payment
+400`  E`  AA`  Asset Posting
+400`  E`  DG`  Customer credit memo
+400`  E`  KA`  Vendor Document
+400`  E`  KG`  Vendor Credit Memo
+400`  E`  KR`  Vendor Invoice
+400`  E`  KZ`  Vendor payment
+400`  E`  RE`  Invoice - Gross
+400`  E`  RV`  Billing doc.transfer
+400`  E`  S6`  SA-Correction Adjsut
+400`  E`  S7`  SA-exempted supplies
+400`  E`  SN`  PT-Debit Memo
+400`  E`  SL`  PT-Invoice
+400`  E`  SM`  PT-Credit Memo
+400`  E`  SO`  PT-Reversal
+400`  E`  S8`  AE-exempted supplies
+400`  E`  S1`  AE-Bad debts/Adjustm
+400`  E`  S2`  AE-Tourist taxrefund
+400`  E`  S3`  AE-Adjust on imports
+400`  E`  S4`  AE-GCC VAT recoverab
+400`  E`  S5`  AE-GCC VAT recov adj
+400`  E`  X4`  IT Self-invoice
+400`  E`  W1`  IT Local Cust. Sales
+400`  E`  W2`  IT EU Cust. Sales
+400`  E`  W3`  IT EXEU Cust. Sales
+400`  E`  W4`  IT Local Cust CrNote
+400`  E`  W5`  IT EU Cust CrNote
+400`  E`  W6`  IT EXEU Cust CrNote
+400`  E`  W7`  IT Local Cust DbNote
+400`  E`  W8`  IT EU Cust DbNote
+400`  E`  W9`  IT EXEU Cust DbNote
+400`  E`  WP`  IT Customer Payment
+400`  E`  X1`  IT Loc Vendor Purch.
+400`  E`  X2`  IT EU Vendor Purch.
+400`  E`  X3`  IT EX EU Vend Purch.
+400`  E`  X5`  IT Inc Rev Charge
+400`  E`  XP`  IT Vendor Payment
+400`  E`  JV`  IN: Journal Voucher
+400`  E`  YH`  Cash Journal Doc(HU)
+400`  E`  DB`  ES-Cust.Cor IbS A80
+400`  E`  DS`  ES-Full.Cstom.InvSSI
+400`  E`  DU`  ES-Cust.Cor IbD A80
+400`  E`  DT`  ES-Cust.Correc SimpI
+400`  E`  DX`  ES-Cust.Cor IbD RoC
+400`  E`  EI`  ES:Billing doc.trans
+400`  E`  EC`  ES:Billing doc.cance
+400`  E`  DY`  ES-Cust.Cor IbS RoC
+400`  E`  KL`  ES-Rent.Vend.Inv/CRM
+400`  E`  ES`  ES-Simpf.Inv.cust
+400`  E`  RS`  ES-Rec.S.Inv.Dif.Ext
+400`  E`  RX`  ES-Rec.Inv.Dif.Ext.
+400`  E`  RW`  ES-Doc. para RECC
+400`  E`  XX`  ES-Cust. Summary Inv
+400`  E`  XY`  ES-Others postings
+400`  E`  XZ`  ES-Imports - DUA
+400`  E`  AB`  Journal Entry
+400`  E`  Z1`  LedgerDocument
+400`  E`  YA`  Asset Posting
+400`  E`  YB`  Customer invoice
+400`  E`  YC`  Vendor Document
+400`  E`  YD`  G/L Account Document
+400`  E`  YF`  Depreciation Pstngs
+400`  E`  YR`  Vendor Invoice

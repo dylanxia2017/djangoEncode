@@ -1,0 +1,2062 @@
+﻿SPRAS [C(00002)]`AREA [C(00004)]`SUBID [C(00002)]`TXT [C(00156)]
+E`  A0`  0`  > Text &9&9&9&9&4 line &4 event &9&9
+E`  A0`  1`  Message SY&4(&9&9&9&3)
+E`  A0`  2`  Program buffer re-initialized
+E`  A0`  3`  Breakpoint &9&9&9&9&4 reached
+E`  A0`  4`  Invalid load format for &9&9&9&9&4
+E`  A0`  5`  No memory available
+E`  A0`  6`  Message SY&4(&9&9&9&3)
+E`  A0`  7`  Timeout
+E`  A0`  8`  Main memory destroyed
+E`  A0`  9`  Too many dependencies for &9&9&9&9&4.
+E`  A1`  0`  Initialization complete
+E`  A1`  1`  PXA recovery after reboot
+E`  A1`  2`  >>> Emergency installation <<<
+E`  A1`  3`  > Generation of program text &4&9&9&9&9 line &4
+E`  A1`  4`  > in program &4&9&9&9&9, line &4, event &2&9&9
+E`  A1`  5`  Runtime error &9&9&5 in program &4&9&9&9&9.
+E`  A1`  6`  Error &9&9&5 generating program &4&9&9&9&9.
+E`  A1`  7`  > &6&4&6&4&6&4&6&4&6&4&6&4&4
+E`  A1`  8`  C debugging activated
+E`  A1`  9`  Field contents changed: &5&9&9&9&9&9
+E`  A2`  0`  > Error code $$$$$$$$$$$$$$$$$$$$
+E`  A2`  1`  Shared Memory for PXA buffer not available
+E`  A2`  2`  SORT ... AS TEXT error occurred in table row &4
+E`  A2`  3`  Goto ABAP Debugger: &9&9&9&9
+E`  A2`  4`  System time: Cannot go back (< 3 sec.). Wait &4 second(s)
+E`  A2`  5`  PXA directory GC triggered for fragment &A:  &B entries were reclaimed
+E`  A2`  6`  A manually caught process was stopped from within the Debugger (&A)
+E`  A2`  7`  Database table &5&5&5&5&5&5 not found for READ TABLE
+E`  A2`  8`  DB &8 executed on explicit request from the debugger
+E`  A2`  9`  System time: Cannot go back (> 2 sec.). Use last "valid" time
+E`  A3`  0`  System time: Cannot be synchronized with the time of the database server.
+E`  A3`  1`  Problems detected in the prerequisites for AMDP (see following statements)
+E`  A3`  3`  Runtime Monitor deactivated itself due to an error.
+E`  A3`  4`  Problem state occurred in Runtime Monitor.
+E`  A3`  5`  iXML: DTD parsing attempted but forbidden by configuration
+E`  A3`  6`  iXML: DTD expansion exceeds valid limit
+E`  AB`  0`  Runtime error "&a&b&c" occurred.
+E`  AB`  1`  > Short dump "&6 &6 &8&8&8&8 &6&6" created.
+E`  AB`  2`  > Include &8&8&8&8&8 line &4.
+E`  AB`  3`  Error &8&8&7 in error handling.
+E`  AB`  4`  Saving PXA statistics (&&&&& programs).
+E`  AB`  5`  Open error for PXA statistics file (error no. &>E5).
+E`  AB`  6`  User &6&6 forced regeneration of all ABAP programs.
+E`  AB`  7`  Error when ending an internal mode.
+E`  AB`  8`  A pipe was closed implicitly.
+E`  AB`  9`  Invalid handler 0x&A for signal SIGCHLD.
+E`  AB`  D`  Short dump deleted with default tool &A
+E`  AC`  0`  Invalid Print Parameters
+E`  AD`  0`  Checkpoint Group &A Activated for All Users and Servers (&B)
+E`  AD`  1`  Checkpoint Group &A Activated for All Users and Servers &B (&C)
+E`  AD`  2`  Checkpoint Group &A Activated for All Users &B and Servers (&C)
+E`  AD`  3`  All Activations for Assertions and Breakpoints that Can Be Activated Deleted
+E`  AD`  4`  Activatable Assertions: System Variant &A Activated for All Users
+E`  AD`  5`  Activatable Assertions: System Variant &A Activated for User &B
+E`  AD`  6`  Activatable Assertions: System Variant &A Activated for Server &B
+E`  AL`  1`  ArchiveLink: &70
+E`  AS`  0`  SYNC:&A->&B: &C &D &E
+E`  AS`  1`  SYNC:&A->&B: &C &D &E
+E`  AS`  2`  SYNC:&A->&B: &C &D &E
+E`  AS`  3`  SYNC:&A:&B
+E`  AS`  4`  SYNC:&A:&B
+E`  AS`  5`  SYNC:&A:&B
+E`  AS`  6`  SYNC:&A
+E`  AT`  0`  Local correction of item &a type &b performed by user &c
+E`  AT`  1`  Local correction of item &a type &b enabled by user &c
+E`  AU`  0`  Audit - Test. Text: &A
+E`  AU`  1`  Logon successful (type=&A, method=&C)
+E`  AU`  2`  Logon failed (reason=&B, type=&A, method=&C)
+E`  AU`  3`  Transaction &A started.
+E`  AU`  4`  Start of transaction &A failed (Reason=&B)
+E`  AU`  5`  RFC/CPIC logon successful (type=&A, method=&C)
+E`  AU`  6`  RFC/CPIC logon failed, reason=&B, type=&A, method=&C
+E`  AU`  7`  User &A created.
+E`  AU`  8`  User &A deleted.
+E`  AU`  9`  User &A locked.
+E`  AU`  A`  User &A unlocked.
+E`  AU`  B`  Authorizations for user &A changed.
+E`  AU`  C`  User Logoff
+E`  AU`  D`  User master record &A changed.
+E`  AU`  E`  Audit configuration changed
+E`  AU`  F`  Audit: Slot &A: Class &B, Severity &C, User &D, Client &E, &F
+E`  AU`  G`  Application server started
+E`  AU`  H`  Application server stopped
+E`  AU`  I`  Audit: Slot &A Inactive
+E`  AU`  J`  Audit: Active status set to &1
+E`  AU`  K`  Successful RFC call &C (function group = &A)
+E`  AU`  L`  Failed RFC call &C (function group = &A)
+E`  AU`  M`  User &B locked in client &A after errors in password checks
+E`  AU`  N`  User &B unlocked in client &A after entering wrong password
+E`  AU`  O`  Logon failed (reason = &B, type = &A)
+E`  AU`  P`  Transaction &A locked
+E`  AU`  Q`  Transaction &A unlocked
+E`  AU`  R`  &A &B created
+E`  AU`  S`  &A &B deleted
+E`  AU`  T`  &A &B changed
+E`  AU`  U`  &A &B activated
+E`  AU`  V`  Digital signature error (reason = &A, ID = &B)
+E`  AU`  W`  Report &A started
+E`  AU`  X`  Start of report &A failed (reason = &B)
+E`  AU`  Y`  Download &A Bytes to File &C
+E`  AU`  Z`  Digital Signature (Reason = &A, ID = &B)
+E`  AV`  1`  Audit event recording was stopped (reason=&A)
+E`  AV`  2`  Error &A occurred when reading table &B key = '&C' (LOC = &D)
+E`  AV`  3`  Warning: Fill level of the Security Audit Log file exceeds &A percent
+E`  AV`  4`  Cannot open audit file: &A
+E`  AV`  5`  I/O error in audit file &A, operation &B
+E`  AV`  6`  Initialization SCSA for Security Audit completed, number of selections &A
+E`  AV`  7`  Despite system start, a shared memory for Security Audit Log was found
+E`  AV`  8`  Invalid Version (&A Not Equal to &B) of Audit Control Block in Shared Memory
+E`  AV`  9`  Existing shared memory for Security Audit Log is too small
+E`  AV`  A`  Profile parameter FN_AUDIT contains an invalid pattern &A, error = &B
+E`  AV`  Z`  SAL event definition &A in initial status (See SAP Note 1941568)
+E`  AW`  1`  Web Reporting: &A
+E`  B6`  3`  Data record from SAP table &9&9&9&3 missing for structure MCID &5&5
+E`  B6`  6`  Error reading runtime objects for $$$$$$$$$$ for synchronous MC maintenance
+E`  B6`  7`  Analysis error in selection condition for MCID $$$$$$$
+E`  B6`  8`  Description error for table &9&9&9&3 in synchronous MC maintenance
+E`  B6`  9`  Record in MC table &5&5 already exists during a &6 operation
+E`  B6`  A`  Record in MC table &5&5 does not exist in a &6 operation
+E`  B6`  B`  Syn. MC maintenance deactivated fully from $$$$$$$$ by user $$$$$$$$$$$$
+E`  B6`  C`  Syn. MC maintenance deactivated partly from $$$$$$$$ by user $$$$$$$$$$$$
+E`  BA`  0`  More than 10000 logical RSQL/RTAB operations completed
+E`  BA`  1`  More than 50000 logical RSQL/RTAB operations executed
+E`  BA`  2`  More than 100000 logical RSQL/RTAB operations executed
+E`  BA`  3`  More than 500000 logical RSQL/RTAB operations completed
+E`  BA`  4`  More than 1000000 logical RSQL/RTAB operations completed
+E`  BB`  0`  Buffer &5&5 started with &5&5 bytes
+E`  BB`  1`  Buffer &5&5 reset
+E`  BB`  2`  Inconsistent buffer &5&5
+E`  BB`  3`  Inconsistency between buffer and nametab attributes for table &5&5
+E`  BB`  4`  Buffer &5&5 is full: &5&5 bytes
+E`  BB`  5`  Processing of buffer &5&5 canceled due to a semaphore error
+E`  BB`  6`  Buffer &5&5 starts with displacement
+E`  BB`  7`  Sort sequence error loading table &5&5
+E`  BB`  8`  Bufferoverflow loading table &5&5
+E`  BB`  9`  Frame overflow loading table &5&5
+E`  BB`  A`  Incorrect generic key loading table &5&5
+E`  BB`  B`  ADM-Message TBX-Buffer: Function &5&5 returns value &5&5
+E`  BB`  C`  Nametab-Inconsistency for Table &5&5 regarding buffering of database views
+E`  BB`  D`  Reset buffer &5&5; mode and status: &5&5
+E`  BB`  E`  Reset the Export/Import buffers; work processes &5&5 &5&5
+E`  BB`  F`  Internal Error in Export/Import Buffer: &5&5 &5&5
+E`  BB`  G`  Error in synchronization function &5&5
+E`  BB`  H`  Runtime object inconsistency in DB view &5&5
+E`  BD`  0`  ALE: IDoc registry counter changed for object channel &A: &B set to &C
+E`  BD`  1`  User has deleted entries from the IDoc queue (&A; Direction '&B')
+E`  BD`  2`  RBDLSMAP called without required parameters. Old &A, new &B
+E`  BD`  3`  Could not determine the old logical system name.
+E`  BD`  4`  Could not determine the new logical system name.
+E`  BD`  5`  The old and new logical system names are identical.
+E`  BG`  0`  bgRFC conversion failed for unit &A of destination &B.
+E`  BG`  1`  bgRFC conversion for destination &A started.
+E`  BG`  2`  bgRFC conversion for destination &A successfully completed.
+E`  BG`  3`  Job for bgRFC conversion for destination &A failed to be released.
+E`  BG`  4`  Temporary destination to obtain FM metadata successfully deleted.
+E`  BG`  5`  Temporary destination to obtain FM metadata failed to be deleted.
+E`  BG`  6`  bgRFC conversion failed for destination &A.
+E`  BG`  7`  No bgRFC monitor API authorization for destination $A.
+E`  BG`  8`  bgRFC conversion for destination &A failed.
+E`  BI`  0`  X MESSAGE BRAIN 299: &A &B
+E`  BI`  1`  &9&9&9&9&9&9&9&1
+E`  BP`  0`  Buffer load process at server start: Dispatcher does not know server &a.
+E`  BP`  1`  Buffer load process at server start: Parameter error at dispatcher call.
+E`  BP`  2`  Buffer load process at server start: Missing authorization.
+E`  BP`  3`  Communication error &a at start of buffer load operation.
+E`  BP`  4`  System error &a at start of buffer load operation.
+E`  BP`  5`  Error at start of buffer load operation.
+E`  BP`  6`  Communication error &a at end of buffer load operation.
+E`  BP`  7`  System error &a at end of buffer load operation.
+E`  BP`  8`  Error at end of buffer load operation &a.
+E`  BP`  9`  Buffer load operation &c returned incomplete statistics data (&b/&a).
+E`  BP`  A`  Buffer load operation &a took more than an hour to end.
+E`  BP`  B`  A second buffer load process "&a/&b" was started.
+E`  BP`  C`  Communication error when saving buffer assignment: &a
+E`  BP`  D`  System error when saving buffer assignment: &a
+E`  BP`  E`  Error when saving buffer assignment.
+E`  BP`  F`  Buffer load process "&a/&b/&c" was started.
+E`  BP`  G`  Buffer load process "&a/&b/&c" was ended.
+E`  BP`  H`  Error when saving to buffer assignment: &a
+E`  BR`  A`  &a&b&c&d&e&f&g&h
+E`  BS`  0`  Memory overflow in buffer synchronization
+E`  BS`  1`  Invalid synchronization class &5&5
+E`  BS`  2`  The synchronization module cannot allocate temporary auxiliary memory
+E`  BS`  3`  Semaphore error in the buffer synchronization
+E`  BS`  4`  Invalid length in DDLOG-NOTEBOOK field: &5&5
+E`  BS`  5`  The buffer synchronization has not been called for &5&5 seconds
+E`  BS`  6`  Synchronization record with number &5&5 could not be found in table DDLOG
+E`  BU`  0`  RAL configuration access: Action: &A, type: &B, name &C
+E`  BU`  1`  Password check failed for user &B in client &A
+E`  BU`  2`  Password changed for user &B in client &A
+E`  BU`  3`  Security check changed in export: Old value &A, new value &B
+E`  BU`  4`  Dynamic ABAP code: Event &A, event type &B, check total &C
+E`  BU`  5`  ICF recorder entry executed for user &A (activity &B)
+E`  BU`  6`  ICF recorder entry executed by user &A (&B, &C) (activity &D).
+E`  BU`  7`  Administration setting was changed for ICF Recorder (Activity: &A)
+E`  BU`  8`  Virus Scan Interface: Virus "&C" found by profile &A (step &B)
+E`  BU`  9`  Virus Scan Interface: Error "&C" occurred in profile &A (step &B)
+E`  BU`  A`  WS: Signature check error (reason &B, WP &C). Refer to Web service log &A.
+E`  BU`  B`  WS: Signature insufficient (WP &C). Refer to Web service log &A.
+E`  BU`  C`  WS: Time stamp is invalid. Refer to Web service log &A.
+E`  BU`  D`  WS: Delayed logon failed (type &B, WP &C). Refer to Web service log &A.
+E`  BU`  E`  WS: Delayed logon successful (type &B, WP &C). Refer to Web service log &A.
+E`  BU`  F`  HTTP Security Session Management was activated for client &A.
+E`  BU`  G`  HTTP Security Session Management was deactivated for client &A.
+E`  BU`  H`  HTTP Security Session of user &A (client &B) was hard exited
+E`  BU`  I`  SPNego replay attack detected (UPN=&A)
+E`  BU`  J`  Non-encrypted &A communication (&B)
+E`  BU`  K`  &A assertion used
+E`  BU`  L`   &A: &B
+E`  BU`  M`    Name ID of a subject
+E`  BU`  N`  Attribute
+E`  BU`  O`  Authentication assertion
+E`  BU`  P`   &A
+E`  BU`  Q`  Signed LogoutRequest accepted
+E`  BU`  R`  Unsigned LogoutRequest accepted
+E`  BU`  S`  &A: Request without sufficient security characteristic of address &B.
+E`  BU`  T`  CRL download failed with error code &A
+E`  BU`  U`  Certificate check for subject "&A" with profile &B failed (status &C)
+E`  BU`  V`  Invalid hash value &A. The context contains &B.
+E`  BU`  W`  A refresh token issued to client &A was used by client &B.
+E`  BU`  X`  Test message
+E`  BU`  Y`  Field contents changed: &5&9&9&9&9&9
+E`  BU`  Z`  > in program &A, line &B, event &C
+E`  BV`  0`  Record length of the table &5&5 exceeds the &5&5 bytes maximum.
+E`  BV`  1`  Inconsistent number of blocks in BLOB table &5&5
+E`  BV`  2`  Return value &5 when reading a dynamic string
+E`  BV`  3`  SQL error &5 occurred (possible network problems?). Work process is stopped
+E`  BV`  4`  Work process is in reconnect status
+E`  BV`  5`  Conversion error during &3 database access for table &7&5&5
+E`  BV`  6`  Runtime objects of tables &5&5 and &5&5 have identical UUIDs
+E`  BX`  A`  No logging information in TMCOL for table &9&9&9&3
+E`  BX`  B`  Data record of table &9&9&9&3 already contained in log table &5&5
+E`  BX`  C`  Data record of table &9&9&9&3 does not fit in log table &5&5
+E`  BX`  D`  The log table &5&5 does not match the SAP kernel
+E`  BX`  E`  Log table &5&5 cannot be logged itself
+E`  BX`  F`  Table logging in program &5&5 disabled by user &5&5
+E`  BX`  G`  Key length of matchcode root table exceeds the maximum length
+E`  BY`  0`  > &6&6&6&6&6&6&6&6&6&6
+E`  BY`  1`  Database error &6
+E`  BY`  2`  Database error &6 at &7
+E`  BY`  3`  Database error &6 when accessing table &9&9&9&3
+E`  BY`  4`  Database error &6 with &3 access to table &9&9&9&3
+E`  BY`  5`  Parameter &5&5 missing when calling up database interface
+E`  BY`  6`  READ ONLY view &5&5 cannot be modified
+E`  BY`  7`  Database Operation with Invalid Cursor &5&5
+E`  BY`  8`  All cursors defined
+E`  BY`  9`  Physical table &5&5 for logical table &5&5 is not in the name table
+E`  BY`  A`  Details of database connection &9&9&9&3 could not be read
+E`  BY`  B`  Open SQL statement on structure &5&5 not allowed
+E`  BY`  C`  Field name discrepancy between projection view &5&5 and table &5&5
+E`  BY`  D`  Primary key in view &5&5 and table &5&5 are different
+E`  BY`  E`  Invalid parameter &5&5 passed to database interface
+E`  BY`  F`  Internal error in cluster interface
+E`  BY`  G`  No shared library found for the database with ID &9&9&9&3
+E`  BY`  H`  Invalid access mode &5&5
+E`  BY`  I`  Connect to the database with ID &9&9&9&3 failed
+E`  BY`  J`  Function &5&5 on connection &5&5 failed
+E`  BY`  K`  SQL statement violates database system restriction
+E`  BY`  L`  Database error &6 requires database administrator to intervene
+E`  BY`  M`  SQL error &6 occurred; work process in reconnect status
+E`  BY`  N`  The description of requirements passed has errors (operator &5&5)
+E`  BY`  O`  Deadlock occurred
+E`  BY`  P`  The long field &5&5 was converted into a SET or WHERE condition
+E`  BY`  Q`  Invalid parameter(s) passed to the database interface
+E`  BY`  R`  Maximum length of the long field of table &5&5 exceeded
+E`  BY`  S`  The work area passed is incorrectly set up
+E`  BY`  T`  The runtime element (nametab) of table &5&5 is invalid
+E`  BY`  U`  The length of complex object &5&5 (&5&5) is inconsistent
+E`  BY`  V`  The number of blocks of complex object &5&5 (&5&5) is inconsistent
+E`  BY`  W`  Occurred in table &5&5
+E`  BY`  X`  Forbidden access to the user master table &5&5 by program &8
+E`  BY`  Y`  Work process has left reconnect status
+E`  BY`  Z`  Cluster buffer commit unsuccessful
+E`  BZ`  0`  Invalid operation ID &5&5
+E`  BZ`  1`  Invalid input buffer
+E`  BZ`  2`  Field &5&5 in table &5&5 must be specified in full
+E`  BZ`  3`  Return value &5 not expected
+E`  BZ`  4`  Synchronization of the queue buffer failed due to unsuccessful database commit
+E`  BZ`  5`  No. of columns in table &5&5 exceeds internal limit of &5&5
+E`  BZ`  6`  Nametab of table &5&5 has fewer fields than expected
+E`  BZ`  7`  Storage request (&5&5 bytes) failed
+E`  BZ`  8`  Output buffer (&5&5 bytes) is too small for the record (&5&5 bytes)
+E`  BZ`  9`  Table &5&5 is not in the name table
+E`  BZ`  A`  Table &9&9&9&3 does not exist on the database with ID &9&9&9&3
+E`  BZ`  B`  The specified access type requires the complete primary key
+E`  BZ`  C`  INSERT, UPDATE and MODIFY in work are mode require the complete record
+E`  BZ`  D`  Table &5&5 : Insertion of key &5&5&5&5&5&5&5&5 results in a duplicate
+E`  BZ`  E`  Type conversion for field &9&9&9&3 : &9 not permitted
+E`  BZ`  F`  Failed to read a record in table &5&5 in the buffer
+E`  BZ`  G`  Failed to load table &5&5 into the buffer
+E`  BZ`  H`  Incompletely buffered table &5&5 may not be loaded into buffer
+E`  BZ`  I`  Condition in an SQL statement returns the value 'FALSE'
+E`  BZ`  J`  A nametab restriction for cluster tables was violated (table &5&5)
+E`  BZ`  K`  UPDATE without SET list
+E`  BZ`  L`  Internal error in table buffer: &5&5 &5&5
+E`  BZ`  M`  The maximum size allowed for cluster records was exceeded
+E`  BZ`  N`  UPDATE of key fields for table &5&5 not permitted
+E`  BZ`  O`  Invalid ORDER-BY clause
+E`  BZ`  P`  SELECT lists are presently not supported for this table type
+E`  BZ`  Q`  Invalid statement mode for &5&5: &5&5
+E`  BZ`  R`  Operator &5&5 for field &5&5 not permitted
+E`  BZ`  S`  ABAP type &5&5 is unknown
+E`  BZ`  T`  Field no. in table &5&5 has no key field in the pool
+E`  BZ`  U`  Length info in database > data length in name table
+E`  BZ`  V`  Return value &5 when modifying a dynamic string
+E`  BZ`  W`  Error &5 during compression/decompression (&5&5)
+E`  BZ`  X`  Field &5&5 does not exist in table &5&5
+E`  BZ`  Y`  Unexpected return value &5 when calling up &5&5
+E`  BZ`  Z`  Statement type (&5&5) is only supported on the default database connection
+E`  C0`  0`  Reset program was started
+E`  C0`  1`  Logon lock for archive was set
+E`  C0`  2`  Logon lock for archive was reset
+E`  C4`  0`  Plausibility check was deactivated for view &A
+E`  C4`  1`  Application &A warns: &B &C &D &E
+E`  CA`  1`  Unable to buffer factory calendar &A (exception &B, return code &C)
+E`  CA`  2`  Unable to buffer public holiday calendar &A (exception &B, return code &C)
+E`  CB`  0`  ABAP Language Version of class &a not ABAP for Key Users
+E`  CB`  1`  Active version of key user class &a does not exist
+E`  CC`  1`  User SAP* in client &A deleted after canceled client copy
+E`  CF`  1`  Contents of queue &a were changed (details in application log under &b )
+E`  CM`  0`  CRM MW R&R Queue-Handling: &a
+E`  CM`  1`  CRM MW R&R Queue-Handling: &a
+E`  CM`  2`  CRM MW Critical Action: &a
+E`  CP`  0`  &B records inserted in table &A:  &C
+E`  CP`  1`  &B records changed in table &A:  &C
+E`  CP`  2`  In table &A, there are &B entries
+E`  CP`  3`  Character set '&A' does not appear in table '&B'
+E`  CP`  4`  Table TCPDB has &A entries, but MNLS mechanism has state '&B'
+E`  CP`  5`  &B entries deleted from table &A: &C
+E`  CP`  6`  CCC initialization: &9&9&9&9&9&8
+E`  CP`  7`  Length or address of a text is incorrect: &A
+E`  CP`  8`  Aux. memory of length &A (bytes) not available
+E`  CP`  9`  Invalid parameters: &A &B &C &D &E &F: For code page converter
+E`  CP`  A`  Load CCC (code page &A): Error number &E>B for file &a&b&c&d&e&f&g&h&i
+E`  CP`  B`  The F4 map from &A of table TCP00 does not contain a character set
+E`  CP`  C`  CCC: Read TCP00: error number &E>A in file &a&b&c&d&e&f&g&h&i
+E`  CP`  D`  Character set "&A" is not in F4 memory of &B
+E`  CP`  E`  Maximum recursion depth (&B) exceeded after loading character set "&A"
+E`  CP`  F`  h_rscp_use_db is FALSE, but CCC is compiled with DB interface only
+E`  CP`  G`  Failed to set environment for language &A, code page &B locale &C
+E`  CP`  H`  Failed to get environment for language &A
+E`  CP`  I`  Failed to reset language environment
+E`  CP`  J`  No GUI code page (language &A, GUI type &B; &C &D )
+E`  CP`  K`  Shared memory not stable: lang=&A, code page=&B, &C <> &D : &a&b&c&d&e&f&g&h&i
+E`  CP`  L`  No code page allowed; required: &B for language &A
+E`  CP`  M`  ABAP TEXTENV initialization:&D errors already suppressed (lang.=&A, cd.pg.=&B)
+E`  CP`  N`  Invalid value '&1' for segment '&5' in TCPSEG-KIND
+E`  CP`  O`  Code page '&A' is contained in &B. This is not valid for the current converter
+E`  CP`  P`  SAP character &B is not defined in character set &A
+E`  CP`  Q`  Code page '&A' is empty, or not completely defined: &B
+E`  CP`  R`  No code page conversion '&A'->'&B' : &C->&D
+E`  CP`  S`  Active ICU Version &6; Compiled With ICU &6; Unicode Version &6
+E`  CP`  T`  ICU shared libraries will not be used
+E`  CP`  U`  Table &A Field &B Key &C with Wrong Content "&D"
+E`  CP`  V`  Function &9&9&9&9&9&9&9&1 is not yet implemented
+E`  CP`  W`  Input buffer does not have enough bytes for a single character
+E`  CP`  X`  Not even the blank character is known by this code page
+E`  CP`  Y`  Table &A is missing in control table &B
+E`  CQ`  0`  -< Reserved for Packages SCP and NLS >-
+E`  CQ`  1`  Language cannot be identified
+E`  CQ`  2`  Language "&A" is not known
+E`  CQ`  3`  Table "&A" is missing in the database
+E`  CQ`  4`  Inconsistent software state: &A &B &C &D &E
+E`  CQ`  5`  Cannot read name tab type "&B" for "&C". rc=&A
+E`  CQ`  6`  Too many different code pages in env. control tables. Cp.=&A, Max.No.=&B
+E`  CQ`  7`  Table "&A" is empty
+E`  CQ`  8`  Table '&A' is empty or missing from the database
+E`  CQ`  9`  Problem with UMGCONTAINER: A=&A, B=&B, C=&C, D=&D
+E`  CQ`  A`  Reading for &B: Error number &>EA for file &a&b&c&d&e&f&g&h&i
+E`  CQ`  B`  No database is open; &A cannot be read
+E`  CQ`  C`  Function &A is not needed in a Unicode system
+E`  CQ`  D`  Code page converter has lost the database connection
+E`  CQ`  E`  Code page converter was reinitialized.
+E`  CQ`  F`  Alternative name tab entry for table/structure &A is too old: &B < &C
+E`  CQ`  H`  SAPPARAM(rsts/ccc/&A) = &B is too big. (Maximum=&C)
+E`  CQ`  I`  Inconsistent entry &C between tables &A and &B
+E`  CQ`  J`  Unicode conversion from &A to &C is not possible for database import
+E`  CQ`  K`  UMGCONTAINER  specifies an unsuitable field "&A": &B , &C , &D
+E`  CQ`  L`  Character size is not known for container handling of &A
+E`  CQ`  M`  The &B name tab entry is missing for container field &C
+E`  CQ`  N`  Presently no access to database table &A
+E`  CQ`  O`  &B contains too many common characters: &A
+E`  CQ`  P`  There are no common characters for code pages &A
+E`  CQ`  Q`  Code pages to identify common characters are unknown
+E`  CQ`  R`  T1 in CCC cache is not formatted for ISO 2022
+E`  CQ`  S`  Conflicting requirements of the code page converter
+E`  CR`  0`  -< CR1 .. CRZ to be used for I18n, code pages, NLS,... >--
+E`  CS`  1`  Application &B was created by program &A
+E`  CU`  0`  RAL Log Access: Action: &A
+E`  CU`  1`  CU Test Message
+E`  CU`  2`  OAuth 2.0: Invalid access token received (reason=&A)
+E`  CU`  3`  OAuth 2.0: Insufficient OAuth 2.0 scope for requested resource (user=&A)
+E`  CU`  4`  OAuth 2.0: Logged-on client user &A not same as parameter client ID &B
+E`  CU`  5`  OAuth 2.0: Client &A requested invalid access grant type &B
+E`  CU`  6`  OAuth 2.0: Client ID &A in SAML assertion not same as client ID &B in request
+E`  CU`  7`  OAuth 2.0: Scope &B not permitted for client &C, user &D (cause=&A)
+E`  CU`  8`  OAuth 2.0: Access token issued (client=&A, user=&B, grant type=&C)
+E`  CU`  9`  OAuth 2.0: Valid access token received for user &A
+E`  CU`  A`  Rejected Assertion
+E`  CU`  B`   &A: &B
+E`  CU`  C`   &A
+E`  CU`  D`    Name ID of a subject
+E`  CU`  E`  Attribute
+E`  CU`  F`  Authentication Assertion
+E`  CU`  G`  Signed LogoutRequest rejected
+E`  CU`  H`  Unsigned LogoutRequest rejected
+E`  CU`  I`  Application &A started
+E`  CU`  J`  Failed to start application &A (reason =&B)
+E`  CU`  K`  C debugging activated
+E`  CU`  L`  Field content in debugger changed by user &A: &B (&C)
+E`  CU`  M`  Jump to ABAP Debugger by user &A: &B (&C)
+E`  CU`  N`  A process was stopped from the debugger by user &A (&C)
+E`  CU`  O`  Explicit database operation in debugger by user &A: &B (&C)
+E`  CU`  P`  Non-exclusive debugging session started by user &A (&C)
+E`  CU`  Q`  Logical file name &A not configured. Physical file name &B not checked.
+E`  CU`  R`  Physical file name &B does not fulfill requirements from logical file name &A
+E`  CU`  S`  Logical file name &B is not a valid alias for logical file name &A
+E`  CU`  T`  Validation for logical file name &A is not active
+E`  CU`  U`  Payload of PI/WS message &A was read | &B
+E`  CU`  V`  Successful WS Call (service = &A, operation &B)
+E`  CU`  W`  Failed Web service call (service = &A, operation = &B, reason = &C)
+E`  CU`  X`  Payload of postprocessing request &A read
+E`  CU`  Y`  > &A
+E`  CU`  Z`  Generic table access by RFC to &A with activity &B
+E`  D0`  1`  Transaction canceled &9&9&5 ( &a &b &c &d &e &f &g &h &i )
+E`  D0`  2`  DB error Mod:&8(&3) T100:&4 SQL-F:&1 Tab:&9&7 SQL-C:&5(&1)
+E`  D0`  3`  Unable to set parameter &A (length &B)
+E`  D0`  4`  Area for generating dynpro texts is too small: &A
+E`  D0`  5`  > Dynpro &A &B, language &C
+E`  D0`  6`  INITIALIZATION COMPLETE
+E`  D1`  2`  Error creating batch input session $$$$$$$$$$$$
+E`  D1`  3`  Error processing batch input session $$$$$$$$$$$$
+E`  D1`  4`  > Queue ID: $$$$$$$$$$$$$$$$$$$$
+E`  D1`  5`  > Transaction no. $$$$$, block no. $$$$$
+E`  D1`  7`  > Queue error, function $$$$$$$, RC $$$, SQL-RC $$$$$
+E`  D1`  9`  > Memory area for dynpro &9&9&9&9&4 &4 is too small
+E`  D1`  A`  > Separator character in DYNPROTAB line &5, field &4 in position &5
+E`  D2`  0`  > Error in transaction data
+E`  D2`  1`  > Error in dynpro data
+E`  D2`  2`  > Length error in transaction data
+E`  D2`  3`  > Length error in screen data
+E`  D2`  4`  > Unable to create batch input log
+E`  D2`  5`  > Unable to create batch input log
+E`  D2`  6`  Processing Batch Input Folder Canceled
+E`  D2`  7`  Batch input log cannot be created
+E`  D2`  8`  Error creating batch input log
+E`  D3`  0`  Profile variable 'dbs/db2/hosttcp' not found
+E`  D3`  1`  Open for file &a&b&c&d failed
+E`  D3`  2`  Reason: &a&b&c&d
+E`  D3`  3`  &a&b
+E`  D3`  4`  JCL submission service: User &1 not found in table DB2JU
+E`  D3`  5`  JCL submission service: Error $$$ occurred
+E`  D3`  6`  JCL submission service: No connection to OS/390 host
+E`  D3`  7`  JCL submission service: No valid host (IP address)
+E`  D3`  8`  JCL submission service: No valid user
+E`  D3`  9`  JCL submission service: No valid password
+E`  D3`  A`  Database administration(XDB): Could not insert/update table &9
+E`  D3`  B`  DB02: LISTCAT job for HLQ &a ended with JCL condition code &b. Refresh aborted
+E`  D3`  C`  Error &a in SlICLIGetTrace (trying to get directory)
+E`  D3`  D`  Error &a in SlICLIGetTrace (trying to get file &b)
+E`  D3`  E`  Failover to <&A> occurred.
+E`  D3`  F`  &a&b
+E`  D3`  H`  DB2 performance monitor: Error &a occurred
+E`  D3`  I`  DB2/390: Exception &a in SALI function module
+E`  D3`  J`  Database administration(XDB): Could not get the current DB2 system id.
+E`  D3`  S`  &a&b
+E`  D4`  0`  RSDB2MAS: conversion of table &A cancelled
+E`  D4`  1`  DB2 version >= 7.1; RUNSTATS and other DB2 utilities may not be available!
+E`  D4`  2`  DB2 version >= 7.1; the following DB2 utilities are available:
+E`  D4`  3`  &A &B &C &D &E
+E`  D4`  4`  DB2 utility &A is not available
+E`  D4`  5`  Output of &A
+E`  D4`  6`  DB2 version <= 6.1; all DB2 utilities on board!
+E`  D5`  1`  The database monitor was not started (&A)
+E`  D5`  2`  Package Overflow Handled (&A)
+E`  D6`  0`  Reserved for DB6
+E`  D6`  1`  Function &a failed for &b . Reason: &c
+E`  D6`  2`  Access to database &a via Command Line Processor  (see DBA Cockpit  Audit Log)
+E`  D6`  3`  &a: &b (see SLG1 object DBACOCKPIT)
+E`  DA`  1`  &A  '&B' was deleted
+E`  DC`  L`  ACM Runtime exception: &A, &B, &C
+E`  DD`  1`  DICT SQL error during $$$$$$$$$$$
+E`  DD`  2`  DICT DDERR $$$$$$$$$$$ returned
+E`  DD`  3`  DDIC function "Unlock table" executed for table &A.
+E`  DD`  4`  No errors/warnings detected in SICK check for DCVs
+E`  DD`  5`  Problems were detected in prerequisites for DCVs
+E`  DF`  1`  Error occurred: &A
+E`  DF`  2`  Maximum number of ABAP Daemons reached (&a Daemons started)
+E`  DF`  3`  Restart of ABAP Daemon &a (&b) after error: &c (&d)
+E`  DF`  4`  Restart of ABAP Daemon &a (&b) by user &c (&d)
+E`  DF`  5`  Termination of ABAP Daemon &a (&b) by user &c (&d)
+E`  DF`  6`  Removed daemon runtime entries of server &a
+E`  DF`  7`  Startup of ABAP Daemon failed (&a)
+E`  DF`  8`  > Reason: &a
+E`  DG`  1`  Log buffer overflow (dynpro &9&9&9&9&4 &4)
+E`  DU`  0`  Invalid SAP GUI data
+E`  DU`  1`  FTP server whitelist is empty
+E`  DU`  2`  FTP server whitelist is non-secure due to use of placeholders
+E`  DU`  3`  Server &A is not contained in the whitelist
+E`  DU`  4`  Connection to server &A failed
+E`  DU`  5`  There is no logical file name for path &A
+E`  DU`  6`  Validation for &A successful
+E`  DU`  7`  Validation for &A failed
+E`  DU`  8`  FTP connection request for server &A successful
+E`  DU`  9`  Generic table access call to &A with activity &B (auth. check: &C )
+E`  DU`  A`  EHS-SADM: Service &A created on host &B
+E`  DU`  B`  EHS-SADM: Service &A started on host &B
+E`  DU`  C`  EHS-SADM: Service &A ended on host &B
+E`  DU`  D`  EHS-SADM: Service &A deleted on host &B
+E`  DU`  E`  EHS-SADM: Configuration of service &A changed on host &B
+E`  DU`  F`  EHS-SADM: File &A transferred from host &B
+E`  DU`  G`  EHS-SADM: File &A transferred to host &B
+E`  DU`  H`  OAuth 2.0: Token declared invalid (OAuth client=&A, user=&B, token type=&C)
+E`  DU`  I`  RFC callback executed (destination &A, called &B, callback &C)
+E`  DU`  J`  RFC callback rejected (destination &A, called &B, callback &C)
+E`  DU`  K`  RFC callback in simulation mode (destination &A, called &B, callback &C)
+E`  DU`  L`  Check for &A in whitelist &B was successful
+E`  DU`  M`  Check for &A in whitelist &B failed
+E`  DU`  N`  Active whitelist &A changed ( &B )
+E`  DU`  O`  Authorization check for object &A in scenario &B successful
+E`  DU`  P`  Authorization check for object &A in scenario &B failed
+E`  DU`  Q`  Active scenario &A for switchable authorization checks changed - &B
+E`  DU`  R`  JSON RPC call of function module &A succeeded
+E`  DU`  S`  JSON RPC call of function module &A failed
+E`  DU`  T`  Critical JSON RPC call of function module &A (S_RFC * authorization)
+E`  DU`  U`  Authorization check for user &C on object &A in scenario &B successful
+E`  DU`  V`  Authorization check for user &C on object &A in scenario &B failed
+E`  DU`  W`  Data target accessed in BW &A
+E`  DU`  X`  TEMP: Customer-specific event DUX &A &B &C &D
+E`  DU`  Y`  TEMP: Customer-specific event DUY &A &B &C &D
+E`  DU`  Z`  TEMP: Customer-specific event DUZ &A &B &C &D
+E`  E0`  0`  New System Log File Started with Number &6
+E`  E0`  1`  Program &8 Started: &8&8&8
+E`  E0`  2`  Program &8 Ended: &8&8&8
+E`  E0`  3`  Program &8 Reports &8&8&8
+E`  E0`  5`  Program &8 Cannot Rename &8&8&8
+E`  E0`  6`  Assertion &9&9&9&9&9&8 in program &8, location &3 not fulfilled
+E`  E0`  7`  Error &>E6 : &7&8&8&8&8&8 in Module &8(&3)
+E`  E0`  9`  &4-&2-&2 &2:&2:&2 ==> /&a/&b/&c/&d/&e/&f/&g/6h/&i/
+E`  E0`  A`  < &2 &6&8&8&8&8&8&8&8
+E`  E0`  B`  Central System Log was Changed: &A
+E`  E0`  C`  Local System Log was Changed: &A
+E`  E0`  D`  Not Used
+E`  E0`  E`  File name &a&b&c&d&e&f&g&h&i is invalid: &A
+E`  E0`  F`  File &a&b&c&d&e&f&g&h&i deleted
+E`  E0`  G`  File &a&b&c&d&e&f&g&h&i was not deleted: &A
+E`  E1`  0`  Buffer &8 was created with length &9
+E`  E1`  1`  Buffer &8 could not be created
+E`  E1`  2`  Buffer &8 Deleted (Length=&9, Reason=&9&6&8&8&8&8)
+E`  E1`  3`  Test Entry a=&a A=&A 8=&8
+E`  E1`  4`  Reorganized Buffer &8 with Length &9 (&9&9&9&9)
+E`  E1`  5`  Buffer &8 Already Exists. (Length=&9)
+E`  E1`  6`  During Initialization of &A : &B
+E`  EA`  0`  Error processing the job log file
+E`  EA`  1`  Failed to open job log file with session $$
+E`  EA`  2`  Job log file ID not found
+E`  EA`  3`  Error accessing buffer
+E`  EA`  4`  Occupancy vector too small
+E`  EA`  5`  Illegally created memory, address $$$$$$$$
+E`  EA`  6`  Unknown exception, ID: $$$$
+E`  EA`  7`  Directory entry too big ($$$$$$), maximum $$$$$$
+E`  EA`  8`  Log partition already exists
+E`  EA`  9`  Data entry too big ($$$$$$), maximum $$$$$$
+E`  EA`  A`  Failed to open log partition
+E`  EA`  B`  Log partition does not exist
+E`  EA`  C`  Failed to remove the scheduling of job &A/&B
+E`  EA`  D`  Job &A/&B is cancelled because report &C does not exist.
+E`  EA`  J`  Widowed data block found, block index $$$$$$
+E`  EA`  K`  Failed to access parameter $$$$
+E`  EA`  L`  Character field too short for log file name
+E`  EA`  M`  Length of a job log directory entry <= 0
+E`  EA`  N`  Failed to expand internal table &9&9&9&3
+E`  EA`  O`  Job log consistency was restored
+E`  EA`  P`  Job log was reorganized
+E`  EA`  Q`  Failed to update last execution time of the job scheduler
+E`  EA`  R`  No background jobs to start
+E`  EA`  S`  Failed to reschedule a periodic job
+E`  EA`  T`  Job start initiated, execution date $$$$$$$$ $$$$$$
+E`  EA`  U`  Failed to remove scheduling of $$$ jobs
+E`  EA`  V`  Batch job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ started
+E`  EA`  W`  Failed to initiate start of job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EA`  X`  Failed to read successor no. $$$$$ of a job
+E`  EA`  Y`  Failed to read status entry for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EA`  Z`  Failed to define status entry for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EB`  0`  Failed to delete the internal report &9&9&9&9&4
+E`  EB`  1`  Failed to delete the status entry for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EB`  2`  Failed to delete log for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EB`  3`  Failed to start a subsequent job for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EB`  4`  > Scheduling of job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ not released
+E`  EB`  5`  Batch scheduler: Unable to lock table TBTCS
+E`  EB`  6`  > Cause: Table was already locked
+E`  EB`  7`  > Cause: Error within the lock operation
+E`  EB`  8`  > Action: End the current scheduler run
+E`  EB`  9`  Batch scheduler: Unable to perform job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EB`  A`  > Cause: Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is being processed
+E`  EB`  B`  > Cause: ... and is therefore locked
+E`  EB`  C`  > Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EB`  D`  > Cause: Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ was deleted
+E`  EB`  E`  Failed to read step $$$$$ of job (database error code: &B)
+E`  EB`  F`  Failed to activate authorization check for user $$$$$$$$$$$$
+E`  EB`  G`  Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ was not started
+E`  EB`  H`  > Cause: Preceding job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ was canceled
+E`  EB`  I`  Error scheduling a batch job
+E`  EB`  J`  > Program name not specified
+E`  EB`  K`  > Program &9&9&9&9&4 does not exist
+E`  EB`  L`  > Program &9&9&9&9&4 is not a schedulable program
+E`  EB`  M`  > Batch user name not specified
+E`  EB`  N`  > Unable to generate ID number for job
+E`  EB`  O`  > Internal reports are being processed, repeat $$$$$$$$$$$$
+E`  EB`  P`  > Start date is in the past &9&9&2
+E`  EB`  Q`  > The job is being processed, repeat $$$$$$$$$$$
+E`  EB`  R`  > $$$$$$$$$$$$ for job failed, error in lock operation
+E`  EB`  S`  > No authorization for batch user name $$$$$$$$$$$$
+E`  EB`  T`  > Batch user $$$$$$$$$$$$ does not exist
+E`  EB`  U`  > Batch user $$$$$$$$$$$$ has incorrect user type
+E`  EB`  V`  > Start date unclear
+E`  EB`  W`  > Job name not specified
+E`  EB`  X`  > The specified job does not exist
+E`  EB`  Y`  > Job group not specified
+E`  EB`  Z`  > No authorization for $$$$$$$$$$$$ of selected job
+E`  EC`  0`  > Parameter variant not specified
+E`  EC`  1`  > There are already multiple identical jobs
+E`  EC`  2`  > The internal report for the job was already deleted
+E`  EC`  3`  > Unable to generate the name for an internal report
+E`  EC`  4`  > Program &9&9&9&9&4 is being processed, repeat $$$$$$$$$$$$
+E`  EC`  5`  > Job ID number not specified
+E`  EC`  6`  > This job does not contain any steps
+E`  EC`  7`  System clean-up after unexpected batch job termination
+E`  EC`  8`  Failed to enter the spool list ID for step no. $$$$$
+E`  EC`  9`  > Log file $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EC`  A`  > Function $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EC`  B`  > Op. system message: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EC`  C`  > Failed to position on block number $$$$$
+E`  EC`  D`  > Failed to position at end of file
+E`  EC`  E`  > Failed to write to the log file
+E`  EC`  F`  Failed to create log for job &A/&B
+E`  EC`  G`  No batch request authorization for program &9&9&9&9&4
+E`  EC`  H`  Batch scheduler: Failed to re-schedule a periodic job
+E`  EC`  I`  Unable to read name of job log file
+E`  EC`  J`  Failed to enter message $$$ (application area $$) in job log
+E`  EC`  K`  Batch scheduler: Unable to process a job
+E`  EC`  L`  > Cause: Planned start date too far in the past
+E`  EC`  M`  > Action: De-allocate batch job
+E`  EC`  N`  > Program &9&9&9&9&4 contains syntax errors
+E`  EC`  O`  > Failed to generate program &9&9&9&9&4
+E`  EC`  P`  Background scheduler: $$$$$$$$$$. Error message with delay level $$$$$$$$$$
+E`  EC`  Q`  Background scheduler table was locked
+E`  EC`  R`  The last background scheduler execution time was updated
+E`  EC`  S`  Periodic job was rescheduled
+E`  EC`  T`  Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ was started
+E`  EC`  U`  External program: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EC`  V`  Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ was deleted
+E`  EC`  W`  Failed to receive log from external program
+E`  EC`  X`  Failed to determine the number of free batch work processes
+E`  EC`  Y`  $$$$$$$$-base job scheduler was deactivated
+E`  EC`  Z`  $$$$$$$$-based job scheduler was reactivated
+E`  ED`  0`  Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ has exceeded the latest start date
+E`  ED`  1`  > Variant &A is invalid
+E`  ED`  2`  > Program $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  ED`  3`  User $$$$$$$$$$$$ has started the BI-API test environment
+E`  ED`  4`  Unable to determine the name of the SAP system
+E`  ED`  5`  Unable to determine the name of the batch system
+E`  ED`  6`  No SAP system is currently active on computer $$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  ED`  7`  No SAP batch system is currently active on computer $$$$$$$$$$$$$$$$$$$$$
+E`  ED`  8`  Unalbe to check the name of target computer $$$$$$$$$$$$$$$$$$$
+E`  ED`  9`  > Latest start date was not specified fully
+E`  ED`  A`  > Latest start date is before the scheduled start date
+E`  ED`  B`  > Start date and latest start date are more than 1 year apart
+E`  ED`  C`  Event handler: Job cannot be processed
+E`  ED`  D`  > Reason: Failed to enter security mark
+E`  ED`  E`  Event handler: Security mark could be entered
+E`  ED`  F`  > Reason: Failed to remove event scheduling
+E`  ED`  G`  Event handler: Event scheduling was removed
+E`  ED`  H`  > Reason: Database Commit for central control tables failed
+E`  ED`  I`  Event handler: Database Commit was successful
+E`  ED`  J`  > Reason: Failed to update event scheduling
+E`  ED`  K`  Event handler: Event scheduling was updated
+E`  ED`  L`  Event handler: Event could not be processed
+E`  ED`  M`  > Reason: Unable to find ID os triggered event
+E`  ED`  N`  Program &9&9&9&9&4 has a syntax error
+E`  ED`  O`  Failed to generate program &9&9&9&9&4
+E`  ED`  P`  Error reading variant catalog for program &9&9&9&9&4
+E`  ED`  Q`  > Start date type = 'After predecessor job', but job name is missing
+E`  ED`  R`  > Predecessor job name $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is invalid
+E`  ED`  S`  > Predecessor job name $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is not unique
+E`  ED`  T`  > Start date/time is not complete
+E`  ED`  U`  > Start date type = 'Event'; Event ID is not specified
+E`  ED`  V`  > Event ID $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is invalid
+E`  ED`  W`  > Start date/time is missing
+E`  ED`  X`  BP_START_DATE_EDITOR: invalid start date detected. Reason:
+E`  ED`  Y`  > Periodic start date without period dates
+E`  ED`  Z`  > Period values are not unique
+E`  EE`  0`  Reserved for computer center control station
+E`  EE`  1`  PFL_PROFILE_EDITOR: Internal processing error. Reason:
+E`  EE`  2`  >the following status transition is unknown: $$$$$$$$$$$$$$$$$$$$
+E`  EE`  3`  > Parameter switching (&9&9&7) triggered
+E`  EE`  4`  > Switching of profile parameters (&9&9&9&3) failed
+E`  EE`  5`  > Parameters switched (&9&9&7)
+E`  EE`  6`  > Value for roll area switching (&9&3) is too big
+E`  EE`  A`  OPERATION MODES: Switch to operation mode  &A  triggered
+E`  EF`  0`  > Invalid system log ID ($$$) found during start date check
+E`  EF`  1`  > Start date 'Start after previous job' is not possible with period
+E`  EF`  2`  BP_STEPLIST_EDITOR: Invalid step values (step $$$$) found. Reason:
+E`  EF`  3`  > Unknown system log ID ($$$) found during step value check
+E`  EF`  4`  > Invalid step type ($)
+E`  EF`  5`  > Invalid step status ($)
+E`  EF`  6`  > Program name is missing
+E`  EF`  7`  > User name is missing
+E`  EF`  8`  > User name $$$$$$$$$$$$ is invalid
+E`  EF`  9`  > Program name &9&9&9&9&4 is invalid
+E`  EF`  A`  > No variants were defined for &9&9&9&9&4
+E`  EF`  B`  > Program &9&9&9&9&4 cannot be scheduled as a background job
+E`  EF`  C`  > Program &9&9&9&9&4 has no variants, but a variant was specified
+E`  EF`  D`  > Check of variant $$$$$$$$$$$$$$ failed
+E`  EF`  E`  > No variant was specified for program &9&9&9&9&4
+E`  EF`  F`  > Name of external program is missing
+E`  EF`  G`  > Name of target computer is missing
+E`  EF`  H`  > Function module was called with an invalid dialog mode ($)
+E`  EF`  I`  > Invalid step number ($$$$) was specified in the step list
+E`  EF`  J`  > Step no. $$$$ could not be read from the step list
+E`  EF`  K`  BP_CHECK_REPORT_VALUES: invalid report values detected. Reason:
+E`  EF`  L`  > Invalid CHECK_TYPE ($)
+E`  EF`  M`  > Unknown system log ID ($$$) during program and variant check
+E`  EF`  N`  BP_JOB_EDITOR: Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is invalid. Reason:
+E`  EF`  O`  > Job name is missing
+E`  EF`  P`  > Function module was called with an invalid operation code ($$$$)
+E`  EF`  Q`  > Unknown system log ID ($$$) in job value check
+E`  EF`  R`  > Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ cannot be edited due to its status
+E`  EF`  S`  > No steps were specified for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EF`  T`  > Step $$$$ contains illegal values
+E`  EF`  U`  > Invalid job status ($)
+E`  EF`  V`  > User $$$$$$$$$$$$ cannot be scheduled due to its type
+E`  EF`  W`  Cannot generate a job count for job &A
+E`  EF`  X`  > No event count can be generated for event $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EF`  Y`  > Job has no job class ($)
+E`  EF`  Z`  > Failed to read print parameters for user $$$$$$$$$$$$
+E`  EG`  0`  > No authorization to schedule program &A for user &B
+E`  EG`  1`  > User &A is not authorized to schedule program &B in the background
+E`  EG`  2`  > You are not authorized to release background jobs
+E`  EG`  3`  > Target computer check failed
+E`  EG`  4`  > No free work process on target computer $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EG`  5`  > All servers for background processing are in use
+E`  EG`  6`  > No background processing active on $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EG`  7`  BP_JOB_CREATE: Job cannot be created. Reason:
+E`  EG`  8`  > Unknown system log ID ($$$) within BP_JOB_CREATE
+E`  EG`  9`  > Could not create new job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EG`  A`  > Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ contains invalid data
+E`  EG`  B`  > Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is already in table TBTCO
+E`  EG`  C`  Job &A/&B is locked by user &C
+E`  EG`  D`  > Error locking table &9&9&9&3
+E`  EG`  E`  > Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is not in table TBTCO
+E`  EG`  F`  > Previous job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is not in TBTCO
+E`  EG`  G`  > Error at INSERT job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ in table TBTCO
+E`  EG`  H`  > Error at UPDATE job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ in table TBTCO
+E`  EG`  I`  > Error deleting job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ from table TBTCO
+E`  EG`  J`  > Error at step INSERT (Job &A/&B in table TBTCP)
+E`  EG`  K`  > Error at step UPDATE (job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ in table TBTCP)
+E`  EG`  L`  > Error at step DELETE (job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ in table TBTCP)
+E`  EG`  M`  > Error: INSERT background sched. table (job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$)
+E`  EG`  N`  > Error at UPDATE background sched. table ($$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$)
+E`  EG`  O`  > Error deleting background scheduler table ($$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$)
+E`  EG`  P`  > Error inserting event control table ($$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$)
+E`  EG`  Q`  > Error updating event control table  ($$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$)
+E`  EG`  R`  > Error deleting event control table  ($$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$)
+E`  EG`  S`  > Event $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is currently locked
+E`  EG`  T`  > Event for previous/subsequent job control is currently locked
+E`  EG`  U`  > User $$$$$$$$$$$$ cannot release jobs for background processing
+E`  EG`  V`  > Unknown job log message ($$$) for a 'simulated' job
+E`  EG`  W`  > Failed to start 'simulated job' $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EG`  X`  > Target host $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is not defined in an op.type
+E`  EG`  Y`  > Error at event $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EG`  Z`  &B: Cannot modify job &A; reason:
+E`  EH`  0`  Reserved for CC control station
+E`  EH`  1`  Event handler: Event $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is not defined
+E`  EH`  2`  Event handler: Error in event $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EH`  3`  Event handler: Scheduling for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ was deleted
+E`  EH`  4`  Event 'End of job' could not be triggered
+E`  EH`  5`  Event handler: Pseudo start of job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ failed
+E`  EH`  6`  Event handler: Status of job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ unknown
+E`  EH`  7`  Event 'Start SAP system' could not be triggered
+E`  EH`  8`  Failed to delete op.type switch for op.type $$$$$$$$$$$$$$$$$$$$
+E`  EH`  9`  Failed to insert op.type switch for op.type $$$$$$$$$$$$$$$$$$$$
+E`  EH`  A`  Failed to trigger op.type switch for op.type $$$$$$$$$$$$$$$$$$$$
+E`  EH`  B`  Failed to delete scheduling of exception op.type $$$$$$$$$$$$$$$$$$$$
+E`  EH`  C`  Unable to determine name of operation type
+E`  EH`  D`  Failed to switch to operation type $$$$$$$$$$$$$$$$$$$$
+E`  EH`  E`  > Name of external command missing
+E`  EH`  F`  > Operating system not specified
+E`  EH`  G`  > External command unknown
+E`  EH`  H`  > Parameter of external command too long
+E`  EH`  I`  > External command contains security risks (characters or check routine)
+E`  EH`  J`  > User-defined check routine has wrong interface
+E`  EH`  K`  > Internal error occurred when checking the external command
+E`  EH`  L`  > Too many parameters for external command
+E`  EH`  M`  > Expected parameters for external command
+E`  EH`  N`  > External command not modified by specified transaction
+E`  EH`  O`  > Internal communication error when checking external command
+E`  EH`  P`  Failed to trigger an event: server &A unknown
+E`  EH`  Q`  Failed to trigger event &A: &B/&C
+E`  EH`  R`  Event History: Access to criteria manager failed. Error: &9&9&9&9&9&9&9
+E`  EH`  S`  Event History: Error when writing to DB table BTCEVTHISTORY
+E`  EH`  T`  Could not lock the &A entry of job &B/&C
+E`  EH`  U`  Could not unlock the &A entry of job &B/&C
+E`  EH`  V`  All jobs locked by consistency check
+E`  EH`  W`  All jobs unlocked after consistency check
+E`  EI`  0`  > Last workday before non-workday $$$$$$$$$$ is in past
+E`  EI`  1`  > Unknown system log ID ($$$) in module BP_JOB_MODIFY
+E`  EI`  2`  > Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ cannot be modified
+E`  EI`  3`  > No steps are exist in the DB for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  4`  > Unknown error reading job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  5`  > No change authorization for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  6`  > New ID for job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is not compatible
+E`  EI`  7`  BP_JOB_COPY: Job copy failed. Reason:
+E`  EI`  8`  BP_JOB_MAINTENANCE: Job control/monitoring failed. Reason:
+E`  EI`  9`  > Unknown error at job selectin (BP_JOB_SELECT)
+E`  EI`  A`  > Job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ cannot be released without start date
+E`  EI`  B`  BP_JOBLOG_SHOW: Failed to display jobs. Reason:
+E`  EI`  C`  > Job count is missing
+E`  EI`  D`  > Error reading job log $$$$$$$$$$$$$$$$$$$$
+E`  EI`  E`  BP_JOBLIST_PROCESSOR: Failed to edit job list. Reason:
+E`  EI`  F`  > Definition of job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ is not complete
+E`  EI`  G`  BP_JOB_SELECT: Job selection from database failed. Reason:
+E`  EI`  H`  > Unknown system log ID ($$$) in function module BP_JOB_SELECT
+E`  EI`  I`  > No authorization to copy job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  J`  OMS_OMSET_EDITOR has found invalid operation type set data. Reason:
+E`  EI`  K`  > Unknown system log ID ($$$)
+E`  EI`  L`  > Function module was called with an invalid mode parameter ($)
+E`  EI`  M`  BP_JOB_ABORT: Failed to cancel job. Reason:
+E`  EI`  N`  > No authorization to cancel job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  O`  > Active check of job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ failed
+E`  EI`  P`  > Failed to cancel job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  Q`  BP_JOB_CHECKSTAT: Failed to correct status of job. Reason:
+E`  EI`  R`  > No authorization to correct job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  S`  > Failed to check job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EI`  T`  > Operation mode $$$$$$$$$$$$$$$$$$$$ is invalid
+E`  EI`  U`  > Failed to determine default calendar ID
+E`  EI`  V`  > Computer $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ only processes class A jobs
+E`  EI`  W`  > Date $$$$$$$$$$ is not in the range defined for the factory calendar
+E`  EI`  X`  > Factory calendar $$ is not defined
+E`  EI`  Y`  > Unknown error in factory calendar check ( ID = $$ )
+E`  EI`  Z`  > Date $$$$$$$$$$ is a public holiday. Job cannot be executed.
+E`  EJ`  0`  Reserved for background processing
+E`  EJ`  1`  > Invalid start date restriction ( $ )
+E`  EJ`  2`  > User $$$$$$$$$$$$ is not authorized to schedule jobs
+E`  EJ`  3`  > Period values < 1 week with restriction 'Bring forward' is not allowed
+E`  EJ`  4`  BP_JOB_MOVE: Error moving job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EJ`  5`  > No authorization to move job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EJ`  6`  > Target host is not specified to move job $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EJ`  7`  > Installed system languages could not be determined
+E`  EJ`  8`  > The language with the key $ is not installed
+E`  EJ`  9`  > invalid value for a work-day number: $$
+E`  EJ`  A`  > invalid count direction for the start date type 'on work-day'
+E`  EJ`  B`  > Work-day not specified
+E`  EJ`  C`  > earliest start date for start date 'on work-day' missing
+E`  EJ`  D`  BP_CHECK_STARTDATE: Errors detected in start date data. Reason:
+E`  EJ`  E`  > Cannot determine print parameters for report $$$$$$$$
+E`  EJ`  F`  Could not find or load print parameters for step &C, job &A/&B
+E`  EJ`  G`  Print parameters for step &C, job &A/&B repaired
+E`  EJ`  H`  Status of job &A, number &B corrected (&C -> &D)
+E`  EJ`  I`  Error &A when reading the factory calendar &B (Job &C)
+E`  EJ`  K`  < Job Count $$$$$$$$
+E`  EJ`  L`  > client &3
+E`  EJ`  M`  > User &9&3 is locked
+E`  EJ`  N`  No valid user is entered in table CLMS_TENANT.
+E`  EK`  0`  Reserved for background processing
+E`  EK`  1`  Error found in PBT environment, FM = $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EK`  2`  > Environment for parallel background tasks was already initialized
+E`  EK`  3`  > Invalid PBT server group name: $$$$$$$$$$$$$$$$$$$$$$$
+E`  EK`  4`  > Failed to determine server information
+E`  EK`  5`  > Failure checking whether server is active/inactive
+E`  EK`  6`  Environment for parallel background tasks not yet initialized
+E`  EK`  7`  Failed to read resource table (index = $$$$$)
+E`  EK`  8`  > Invalid server name: $$$$$$$$$$$$$$$$$$$$$$
+E`  EK`  9`  > Invalid values: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EK`  A`  Internal error in XMI API
+E`  EK`  B`  Failed to save XMI log entry in database ( &9&9&9&3 )
+E`  EK`  C`  Inconsistency detected in tables &A and &B
+E`  EK`  D`  > Job: &A &B
+E`  EK`  F`  > Cannot determine information on server &9&9&2
+E`  EK`  G`  > Failed to read spool request &9&1
+E`  EK`  H`  Cannot read overview of all servers (message server problem?) (XMB)
+E`  EK`  I`  'List of work processes' external query could not be answered (XMB)
+E`  EK`  J`  'Reset alert' external query could not be executed (XMB)
+E`  EK`  K`  Copying spool list recipient for job &A failed
+E`  EK`  L`  Bckgrnd def.srvr grp SAP_DEFAULT_BTC does not contain any active bckgrnd srvrs
+E`  EK`  M`  Background default server group SAP_DEFAULT_BTC also contains inactive servers
+E`  EK`  N`  BP_SOLMAN_JOBDEFINITON: Return Code $$$
+E`  EM`  0`  > Predecessor job &A does not have status 'planned', 'released', or 'active'
+E`  EM`  E`  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EM`  F`  Logon of Jobstep User Failed
+E`  EM`  G`  Job &A &B from deleted client &C will not be scheduled again.
+E`  EM`  H`  BTCAUX10: Rescheduling of job &A failed.
+E`  EM`  I`  > $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  EU`  0`  Test Message for Class EU
+E`  EU`  1`  System change options changed ( &A to &B )
+E`  EU`  2`  Client &A settings changed ( &B )
+E`  EU`  3`  &A change documents deleted without archiving (&B)
+E`  EU`  4`  Validation successful for logical file name &A (physical: &B)
+E`  EU`  5`  Audit log data of &A was deleted (&B data records)
+E`  EU`  A`  S/2 Cloud SDK ABAP component called
+E`  EU`  B`  Could not verify the digital signature: &A
+E`  EU`  C`  OAuth scope &A not assigned to the user
+E`  EU`  D`  HTTP request not received from trustworthy cloud connector (reason &A)
+E`  EU`  E`  RFC function module &A called successfully
+E`  EU`  F`  Could not call RFC function module &A
+E`  EU`  G`  User does not have authorization to run RFC function module &A
+E`  EU`  H`  Authorizations of user &A for authorization object &B detected
+E`  EU`  I`  Setup of UCON HTTP whitelist changed
+E`  EU`  J`  Phase of UCON HTTP whitelist of context type &A changed
+E`  EU`  K`  Access to UCON HTTP whitelist of context type &A was refused
+E`  EU`  L`  HTTP security header register was changed for &A
+E`  EU`  M`  Trusted site list &A for HTTP security header was changed
+E`  EU`  N`  Content security policy for service &A was violated
+E`  EU`  O`  UCON HTTP whitelist of context type &A was changed
+E`  EU`  P`  Virtual user client=&A type=&B action=&C &D
+E`  EU`  V`  CDS view &A (field &B) was published
+E`  EU`  W`  Blacklisting is activated (connection/table/field: &A &B &C)
+E`  EU`  X`  Blacklisting is deactivated (connection/table/field: &A &B &C)
+E`  EU`  Y`  Data blocking activated for &A
+E`  EU`  Z`  Data blocking deactivated for &A
+E`  F0`  0`  DB table $$$$$$$$$$ was created
+E`  F0`  1`  $$$$$ system installed
+E`  F0`  2`  DB table $$$$$$$$$$ could not be created
+E`  F0`  3`  $$$$$ system installed with errors
+E`  F0`  4`  DB table $$$$$$$$$$ deleted
+E`  F0`  5`  DB table $$$$$$$$$$ could not be deleted
+E`  F0`  6`  $$$$$ system was deinstalled
+E`  F0`  7`  Unknown state of $$$$$ system
+E`  F0`  8`  $$$$$ system was already installed
+E`  F0`  9`  $$$$$ system validated
+E`  F1`  0`  $$$$$ system Validation Failed
+E`  F1`  1`  $$$$$ system Is Not Installed
+E`  F1`  2`  DB Table &9&7 Not Found
+E`  F1`  3`  Invalid Data in Table &9&7, Line &9&9&5
+E`  F1`  4`  Table &A Does Not Have Enough Fields: &B
+E`  F1`  A`  SAPPARAM(rsts/ccc/&A) = &B Is Small
+E`  F1`  B`  INITIALIZATION COMPLETE
+E`  F2`  0`  Calling program reports invalid handle for TemSe object (magic==X'&8')
+E`  F2`  1`  Empty TemSe object handle
+E`  F2`  2`  Field &5&5 in table &5 has an illegal value
+E`  F2`  3`  Field &5&5 in table &5 is outside the permitted range
+E`  F2`  4`  SAPPARAM(rsts/ccc/cache size) = &9 too small
+E`  F2`  5`  TemSe object "&a" not found
+E`  F2`  6`  Tried to ignore a rollback
+E`  F2`  7`  Table TCP00 contains no character set
+E`  F2`  8`  Character set converter cannot get semaphore (SemRq->&5)
+E`  F2`  9`  Character set converter cannot release semaphore (SemRel->&5)
+E`  F2`  A`  Invalid object kind
+E`  F2`  B`  Invalid object cache permission
+E`  F2`  C`  Illegal object status
+E`  F2`  D`  Illegal append rule
+E`  F2`  E`  Illegal delete rule
+E`  F2`  F`  Illegal read rule
+E`  F2`  G`  An illegal storage type was specified
+E`  F2`  H`  Line length mismatch
+E`  F2`  I`  Unable to convert type "&8&4" to "&8&4"
+E`  F2`  J`  Unable to convert record format "&7" to "&7"
+E`  F2`  K`  Unable to convert character set "&4" to "&4"
+E`  F2`  L`  Data was already deleted
+E`  F2`  M`  TemSe object "&8&8&4" is being processed
+E`  F2`  N`  Invalid part number for TemSe object "&8&8&4"
+E`  F2`  P`  Invalid parameter combination for TemSe object "&8&8&4"
+E`  F2`  Q`  Attribute mismatch for TemSe object "&8&8&4"
+E`  F2`  R`  Cannot delete parts of TemSe objects
+E`  F2`  S`  Cannot change name
+E`  F2`  T`  Cannot change part numbers
+E`  F2`  U`  Cannot change client
+E`  F2`  V`  Cannot change TemSe object type
+E`  F2`  W`  Cannot change TemSe object kind
+E`  F2`  X`  Cannot change TemSe object language
+E`  F2`  Y`  Cannot change creation date/time
+E`  F2`  Z`  Cannot change remaining lifetime
+E`  F3`  0`  Char code converter cannot detach shared buffer (ShmDelete->$$$$$)
+E`  F3`  1`  Char code converter cannot init semaphore mngt (SemInMgt->$$$$$)
+E`  F3`  2`  Cannot create char code convert cache (ShmCreate->$$$$$)
+E`  F3`  3`  Cannot attach char code convert cache (ShmCreate->$$$$$)
+E`  F3`  4`  Char code convert cache not proper initialized
+E`  F3`  5`  Char code convert table inconsistent
+E`  F3`  6`  Char code converter damaged
+E`  F3`  7`  Char code convert cache version should be $$$$$$$$$, but is $$$$$$$$$
+E`  F3`  8`  Missing char code parameter
+E`  F3`  9`  Char code convert buffer overflow
+E`  F3`  A`  Cannot change cache permission
+E`  F3`  B`  Cannot change object state
+E`  F3`  C`  Cannot change creator name
+E`  F3`  D`  Cannot change CPU type
+E`  F3`  E`  Cannot change TemSe attribute "Creation tool"
+E`  F3`  F`  Cannot change size
+E`  F3`  G`  Cannot change release number
+E`  F3`  H`  Cannot change record format
+E`  F3`  I`  Cannot change character code
+E`  F3`  J`  May not change line length
+E`  F3`  K`  May not change page length
+E`  F3`  L`  Cannot change number of parts
+E`  F3`  M`  Cannot change storage type
+E`  F3`  N`  Cannot change storage location
+E`  F3`  O`  2 GB limit for TemSe object reached
+E`  F3`  P`  Cannot change number of database rows
+E`  F3`  Q`  Cannot change begin point of object
+E`  F3`  R`  Writers may not set position
+E`  F3`  S`  May not position before begin
+E`  F3`  T`  Invalid object name for TemSe object: "&8&8&4"
+E`  F3`  U`  Database I/O error
+E`  F3`  V`  Error &>E5 for write/read access to a file. File = &a&b&c&d&e&f
+E`  F3`  W`  Unsupported media
+E`  F3`  X`  No more data in this part of the TemSe object
+E`  F3`  Y`  No read authorization for TemSe object "&8&8&4"
+E`  F3`  Z`  No append authorization for TemSe object "&8&8&4"
+E`  F4`  0`  Character is not convertible
+E`  F4`  1`  In character set &4, SAP character &5 is not defined
+E`  F4`  2`  Character representation is greater than the output buffer
+E`  F4`  3`  Character set &4 is unknown
+E`  F4`  4`  The character set translation buffer (CCC) has an illegal state
+E`  F4`  5`  Compression mode mismatch
+E`  F4`  6`  7-ASCII escapes or non-printables not acceptable here
+E`  F4`  7`  7-ASCII nation mismatch
+E`  F4`  8`  "$$$$$$" to "$$$$$$" incompatible char code
+E`  F4`  9`  "$$$$$$$" to "$$$$$$$" incompatible record format
+E`  F4`  A`  No delete authorization TemSe object "&8&8&4"
+E`  F4`  B`  Not enough $$$$$ memory for $$$$$ block
+E`  F4`  C`  Procedure &1&9&2&8&3&7&4&6&5&5 is not implemented
+E`  F4`  D`  Fixed record size disallows substitution strings
+E`  F4`  E`  Internal case selection confused
+E`  F4`  F`  Illegal switch between line strategies
+E`  F4`  G`  Record format "$$$$$$$" unknown
+E`  F4`  H`  Partial line at EOD
+E`  F4`  I`  Partial line header at EOD
+E`  F4`  J`  Column0 with illegal char code
+E`  F4`  K`  Wrong line length
+E`  F4`  L`  Record not terminated
+E`  F4`  M`  Record type has no lines
+E`  F4`  N`  No space for byte of column0
+E`  F4`  P`  You are not a reader
+E`  F4`  Q`  1st stop byte, but no 2nd
+E`  F4`  S`  Illegal state transition
+E`  F4`  T`  Rule longer than rule buffer
+E`  F4`  U`  Type unknown
+E`  F4`  V`  Buffers freed during usage
+E`  F4`  W`  Fetch with cursor error $$$$$
+E`  F4`  X`  Close cursor error $$$$$
+E`  F4`  Y`  DB_RSQL error &5 at table &5
+E`  F4`  Z`  Cannot prepare select for table $$$$$
+E`  F5`  0`  Type conversion from &8&4 to &8&4 is not possible
+E`  F5`  1`  '0x1c' escape is not permitted here
+E`  F5`  2`  No multiple client access
+E`  F5`  3`  No match in the TemSe directory
+E`  F5`  4`  Invalid handle for TemSe search
+E`  F5`  5`  End of TemSe is already reached
+E`  F5`  6`  No further objects in TemSe
+E`  F5`  7`  Read buffer is too small
+E`  F5`  8`  This TemSe object is not open for read
+E`  F5`  9`  This TemSe object is not open for write
+E`  F5`  A`  Database error &5 at RT_UPDATE for table &5
+E`  F5`  B`  Database error &5 at RT_SETB for table &5
+E`  F5`  C`  Database error &5 at RT_GET for table &5
+E`  F5`  D`  Database error: TemSe->RSQL(FETCH)->&5
+E`  F5`  E`  Database error &5 at RT_INSERT for table &5
+E`  F5`  F`  Database error &5 at RT_DELETE for table &5
+E`  F5`  G`  TemSe software is not compatible with DD: &8&8&4
+E`  F5`  H`  Illegal line length: &5&5
+E`  F5`  I`  Character set converter cannot initialize semaphore (SemInit->&5)
+E`  F5`  J`  SAPPARAM(rsts/ccc/max_sapcode): Value is too small
+E`  F5`  K`  CCC: Ambiguous byte encoding for multiple characters
+E`  F5`  L`  Character set &4: Ambiguous byte encoding for multiple characters (e.g. &5)
+E`  F5`  M`  Character set conversion buffer was not fully initialized
+E`  F5`  N`  CCC: Buffer version changed from &9 to &9
+E`  F5`  O`  Unable to connect to database
+E`  F5`  P`  Illegal TemSe processing mode
+E`  F5`  Q`  TemSe callback: Invalid reason &8 or object &8
+E`  F5`  R`  Too many TemSe objects open per external mode
+E`  F5`  S`  Double usage of buffer is not possible
+E`  F5`  T`  This buffer cannot be released yet
+E`  F5`  U`  Missing SAPPARAM parameter: &8&8&2
+E`  F5`  V`  Missing SAPPARAM parameter: &8&8&2
+E`  F5`  W`  Incorrect length in a SAPPARAM parameter rsts/file...
+E`  F5`  X`  Incorrect length in a SAPPARAM parameter rsts/file name
+E`  F5`  Y`  Incorrect characters in a SAPPARAM parameter rsts/file...
+E`  F5`  Z`  TemSe callback: Invalid reason &8 for object &8
+E`  F6`  0`  TemSe object file name is too long
+E`  F6`  1`  TemSe input/output to unopened file
+E`  F6`  2`  Positioning error in a file for a TemSe object
+E`  F6`  3`  Unable to access I/O buffer for TemSe object file
+E`  F6`  4`  Cannot close the file of a TemSe object (error no &>E5)
+E`  F6`  5`  No further data in TemSe object file
+E`  F6`  6`  Path name does not contain a directory
+E`  F6`  7`  Directory &a&b&c&d&e was created
+E`  F6`  8`  Missing directory for path &a&b&c&d&e
+E`  F6`  9`  Unable to create directory &a&b&c&d&e. Error no. &5
+E`  F6`  A`  Unable to find root for directory &a&b&c&d&e
+E`  F6`  B`  File name is longer than &5 and does not fit in the database table
+E`  F6`  C`  Error deleting a TemSe object file. &a&b&c&d&e, error &5
+E`  F6`  D`  Objects stored in the database cannot be rolled out after ROLLBACK
+E`  F6`  E`  Error synchronizing file &a&b&c&d&e. Error &5
+E`  F6`  F`  TemSe object &8&8&4 was closed remotely
+E`  F6`  G`  TemSe object file missing in delete operation. &a&b&c&d&e, error &5
+E`  F6`  H`  Database error: TemSe->&A(&B)->&C for table &D key &a
+E`  F6`  I`  TemSe object '&8&8&4': Rollback is not allowed for public data
+E`  F6`  J`  TemSe object '&8&8&4' for public file cannot contain a wildcard
+E`  F6`  K`  TemSe object '&8&8&4' already exists
+E`  F6`  L`  Character set '&4' cannot be converted to '&4'. (NLS problem)
+E`  F6`  M`  TemSe error repair: &8&8&5 (Module &8, location &3)
+E`  F6`  N`  Repost table TST01 (TemSe->&B(&C)->&D; Flag: &A; Key &a)
+E`  F6`  O`  No authorization for program &8 for operating system user &8&5.
+E`  F6`  P`  Recursion while initializing the character set converter (CCC)
+E`  F6`  Q`  Cannot read nametab for &9&7 (rc=&5)
+E`  F6`  R`  Table &9&7 has unknown buffering type "&1"
+E`  F6`  S`  &1 error "&9&5&5" in TemSe software
+E`  F6`  T`  Row not found in TemSe table &A
+E`  F6`  U`  Row already exists or duplicated in TemSe table &A
+E`  F6`  V`  Invalid address (NULL) was passed
+E`  F7`  0`  Spool: Attempt to continue processing after ROLLBACK rejected
+E`  F7`  1`  Error in TemSe management
+E`  F7`  2`  No authorization to create
+E`  F7`  3`  No authorization to delete
+E`  F7`  4`  No Authorization
+E`  F7`  5`  No authorization to change
+E`  F7`  6`  Spool: Invalid name of spool request
+E`  F7`  7`  Spool: Invalid output device
+E`  F7`  8`  Spool: Invalid disposition 1
+E`  F7`  9`  Spool: Invalid disposition 2
+E`  F7`  A`  Spool: Invalid disposition 3
+E`  F7`  B`  Spool: Invalid owner
+E`  F7`  C`  Spool: Invalid name of spool request (Suffix1)
+E`  F7`  D`  Spool: Invalid name of spool request (Suffix2)
+E`  F7`  E`  Spool: Invalid create authorization protection
+E`  F7`  F`  Spool: Invalid delete authorization protection
+E`  F7`  G`  Spool: Invalid change authorization protection
+E`  F7`  H`  Spool: Invalid read authorization protection
+E`  F7`  I`  Spool: RT_UPDATE reports error &5 for table &9&9&7
+E`  F7`  J`  &a &b is already locked
+E`  F7`  K`  Spool: RT_READ_FOR_UPDATE reports error &5 for table &9&9&7
+E`  F7`  L`  Spool: RT_READ_... reports error &5 for table &9&9&7
+E`  F7`  M`  Spool: RT_INSERT reports error &5 for table &9&9&7
+E`  F7`  N`  Spool: RT_DELETE reports error &5 for table &9&9&7
+E`  F7`  O`  Invalid enqueue arguments &a &b
+E`  F7`  P`  Output request not found in list of output requests
+E`  F7`  Q`  Spool: Output device not found
+E`  F7`  R`  Spool: Multiple client search is not permitted
+E`  F7`  S`  Spool: Database read error: fetch &5
+E`  F7`  T`  Spool: Database read error: close cursor &5
+E`  F7`  U`  Spool: Database access error: db_rsql &5 in table &9&9&7
+E`  F7`  V`  Spool: Before a database access: prepare select in table &9&7
+E`  F7`  W`  End of data in directory of all spool requests
+E`  F7`  X`  End of data in directory of all output requests
+E`  F7`  Y`  Spool: Database is inconsistent
+E`  F7`  Z`  Invalid handle for reading a spool catalog
+E`  F8`  0`  Directory Scan Already at End
+E`  F8`  1`  No Further Request(s)
+E`  F8`  2`  Invalid Writer Count
+E`  F8`  3`  Printer Form Description Too Long
+E`  F8`  4`  Spool request was not found
+E`  F8`  5`  Special Character &5 Missing From Character Set &4
+E`  F8`  6`  No Normal Line Indicator Definition
+E`  F8`  7`  No Page Break Definition
+E`  F8`  8`  No Print Control Indicator Definition
+E`  F8`  9`  End of Data in Directory of Printers
+E`  F8`  A`  Get Next Print Job: Database Problem
+E`  F8`  B`  Destination Already Installed
+E`  F8`  C`  Procedure $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ Not Yet Implemented
+E`  F8`  D`  No Spool Request to be Deleted
+E`  F8`  E`  Spool Request is Currently Being Accessed
+E`  F8`  F`  Spool request was not found
+E`  F8`  G`  Print request was not found
+E`  F8`  H`  Output Device &4 Not Found
+E`  F8`  I`  Printer description was not found
+E`  F8`  J`  Indirect printer name was not found
+E`  F8`  K`  Spool Request Attribute Block Missing
+E`  F8`  L`  Cannot Connect to Printer
+E`  F8`  M`  Cannot Send Data to Printer
+E`  F8`  N`  Cannot Close Connection to Printer
+E`  F8`  P`  Cannot Create Spool File. Error &A, File Name &B
+E`  F8`  Q`  Cannot Spool Data to Host Spool
+E`  F8`  R`  Cannot Query Host Spool
+E`  F8`  S`  Error Accessing Spool Request
+E`  F8`  T`  RSPO Versus DD Mismatch: $$$$$$$$$$$$$$$$$$$$$
+E`  F8`  U`  Unable to Log On to Database
+E`  F8`  V`  Unable to Send Data to Printer (Disk Full?)
+E`  F8`  W`  Unable to Log Off Database
+E`  F8`  X`  Commit to Database Failed
+E`  F8`  Y`  Bad TSP0A entry for printer or printer type
+E`  F8`  Z`  Printer Type Not Found
+E`  F9`  0`  Sequence Error in RSPO-ABAP Interface
+E`  F9`  1`  There is no Format &8&8 for Printer Type &8
+E`  F9`  2`  Spool: "Do Not Process EOL" Indicator Missing from First Column
+E`  F9`  3`  Error Writing Error Log $$$$$$, Spool ID = $$$$$
+E`  F9`  4`  Character Set &4, Character &5 is Very Long
+E`  FA`  0`  Computer $$$$$$$$: No Printer can be Used
+E`  FA`  1`  Computer $$$$$$$$: No Printer is Defined
+E`  FA`  2`  Failed to Create Socket. Error &>EA
+E`  FA`  3`  Operating System Call "bind(2)" Failed. Error &A, Port &B
+E`  FA`  4`  Are All Socket Ports from &A to &B occupied?
+E`  FA`  5`  Computer Name for Connection is Missing
+E`  FA`  6`  Computer &A is Unknown
+E`  FA`  7`  Service Printer/tcp is Unknown
+E`  FA`  8`  Connect(2) Failed. Error &A, Rport &B, Lport &C, Computer Name &D
+E`  FA`  9`  Unable to Establish Connection to SAPLPD or lpd
+E`  FA`  A`  Connection Closed by Remote SAPLPD/lpd
+E`  FA`  B`  Unable to Send Data to SAPLPD/lpd. Error &C, Target &A, Sent &B
+E`  FA`  C`  Connection to SAPLPD/lpd Broken. Error &A
+E`  FA`  D`  Connection Closed by SAPLPD/lpd. Code &A
+E`  FA`  E`  SAPLPD/lpd was Unable to Print. Code &A
+E`  FA`  F`  Invalid Print Destination: $$$$
+E`  FA`  G`  Access Method &A to Printer &B is Not Supported for This Platform
+E`  FA`  H`  Error Writing to Microfiche File. Error &A
+E`  FA`  I`  Insufficient Main Memory
+E`  FA`  J`  Internal Error in Spool Work Process
+E`  FA`  K`  Error Creating Archive File &A. Error &B
+E`  FA`  L`  Extension Record for Archiving is Missing. Spool ID &A
+E`  FA`  M`  Error Opening Archive Queue &B (Eerror &A)
+E`  FA`  N`  Error Writing to Archive Queue &B. Error &A
+E`  FA`  O`  Error Closing Archive Queue &B. Error &A
+E`  FA`  P`  ***** Spool Inconsistency: Field &A Does Not Match Field &B *****
+E`  FA`  Q`  Computer &A Cannot be Accessed
+E`  FA`  S`  Connection to SAPLPD Broken
+E`  FA`  T`  Error at 'Select'. Error &A
+E`  FA`  U`  Connection to SAPLPD Broken
+E`  FA`  V`  Archive ID was Not Found
+E`  FA`  W`  Format Error in Database Interface Found (&A)
+E`  FA`  X`  Dummy Function Called
+E`  FA`  Y`  Overflow in Internal Spool Data Structure &A
+E`  FA`  Z`  Error Writing to File &B, Error &>EA
+E`  FB`  0`  Spool: Shared memory is partly initialized.
+E`  FB`  1`  Spool: Init Cannot Initialize Semaphore Management: &A
+E`  FB`  2`  Spool: Cannot Initialize Semaphore: &A
+E`  FB`  3`  Spool: Error Waiting for Semaphore: &A
+E`  FB`  4`  Printer List is Set Too Small: &A (&B Min.)
+E`  FB`  5`  Spool: Request List is Too Small: &A (&B Min.)
+E`  FB`  6`  Cannot Create Shared Memory: Key &A, Size &B, Error &C
+E`  FB`  7`  Error Deleting Uninitialized Shared Memory, Key &A, Error &B
+E`  FB`  8`  Error Releasing From Uninitialized Shared Memory, Key &A.
+E`  FB`  9`  Semaphore Cannot be Released, Error &A
+E`  FB`  A`  Version of Shared Memory is Incorrect (Spool Administration)
+E`  FB`  B`  Spool Component is Not Ready
+E`  FB`  C`  Cannot Create Temporary Printer Entry, Name=&A
+E`  FB`  D`  Failed to Send to LPD on &D, rc=&C, &B of &A Bytes Sent
+E`  FB`  E`  Connection to SAPLPD or LPD Broken; Computer &A.
+E`  FB`  F`  Failed to Receive SAPLPD or LPD on &B; RC = &A.
+E`  FB`  G`  Internal Printer List Inconsistent
+E`  FB`  H`  Compressor CsCompr Reported Error, RC=&A, LEN=&B, Read=&C
+E`  FB`  I`  Internal Error in Spool, Code &A, Arg1=&B, Arg2=&C, Arg3=&D
+E`  FB`  J`  DB_RTAB_ERROR at Table &A, Error &B
+E`  FB`  K`  Parameter Validation Failed, Text=&A
+E`  FB`  L`  Print Request Query at Printer &A is Too Slow (&B Seconds)
+E`  FB`  M`  Printer &A Temporarily Locked Due to Connection Problem
+E`  FB`  N`  Spool is Full
+E`  FB`  O`  No Spool Request Number Obtained from Number Range Administrator. Code &A
+E`  FB`  P`  Network Error Transmitting Saved Data. NI Error &A
+E`  FB`  Q`  Error Transmitting Saved Data. SNC Error Code &A
+E`  FB`  R`  Initializing Saved Connection Failed  RC= &A
+E`  FB`  S`  Profile Value "&A" is Not Allowed for "RSPO/STORE_LOCATION"
+E`  FB`  T`  Error Determining Own Identity, RC=&A, Time = &B
+E`  FB`  U`  Internal Job Queue Full for Synchronous Processing of Print Requests
+E`  FB`  V`  Error Message from Spool Error History
+E`  FC`  0`  Overflow loading the calendar buffer. Enlarge ZCSA/calendar_area.
+E`  FC`  1`  Temporary memory request for factory calendar failed
+E`  FC`  2`  Read error for factory or public holiday calendar
+E`  FC`  A`  Shared memory calendar buffer (Key: 11) not available
+E`  FC`  B`  Semaphore request and release error (Semaphore: &5&5)
+E`  FC`  C`  Inconsistency found in calendar buffer, buffer &5&5 reset
+E`  FC`  D`  Corrupt buffer entries found in calendar buffer in function &5&5
+E`  FC`  E`  Shared memory for calendar buffer administration too small
+E`  FC`  F`  Directory overflow in calendar buffer CALE (Mode: &5&5 &5&5)
+E`  FC`  G`  Data buffer overflow in calendar buffer CALE (Mode: &5&5 &5&5)
+E`  FC`  H`  Table &5&5 with inconsistent nametab
+E`  FC`  I`  Calendar too big for calendar buffer (calendar: &3)
+E`  FC`  J`  Internal buffer too small for calendar &3
+E`  FC`  K`  Calendar buffer &5&5 was reset (Mode: &5)
+E`  FC`  L`  Invalid year &5&5 found in table &5&5
+E`  FD`  0`  Definition of output device &A does not contain OMS name of external device
+E`  FD`  1`  Invalid real output management system selected (&A)
+E`  FD`  2`  Invalid logical output management system selected (&A)
+E`  FD`  3`  Operating system detection not activated in the work process.
+E`  FD`  4`  No command defined for command &B of the logical OMS &A.
+E`  FD`  5`  Invalid OMS command line parameter (&A) for logical OMS &B
+E`  FD`  6`  Internal error in OMS polling handling
+E`  FD`  7`  Missing output of an OMS command (&B) for access method "E" for device &A
+E`  FD`  8`  Missing memory for requests using access method "E" for device &A
+E`  FD`  9`  Missing response to a job entry of external command (&B) of LOMS &A
+E`  FD`  A`  Could not bind output management system &A (status &B)
+E`  FD`  B`  Format error in output &B (device &A): &C fields (&D necessary, &E possible)
+E`  FE`  0`  Test
+E`  FE`  F`  Error when flushing at end of internal session. Program: &A. Dynpro: &B.
+E`  FF`  0`  Test
+E`  FF`  E`  Test Message
+E`  FF`  F`  Test Message
+E`  FP`  0`  Repeat ADS Call: &a
+E`  FP`  1`  Successful repetition of ADS call
+E`  FU`  0`  Exclusive security audit log medium changed (new status &1)
+E`  FU`  1`  RFC function &B with dynamic destination &C was called in program &A
+E`  FU`  2`  Parsing of an XML data stream canceled for security reasons (reason = &A)
+E`  FU`  3`  Template &A (&B) loaded
+E`  FU`  4`  Could not upload template &A
+E`  FU`  8`  Lock entry deleted for user &A
+E`  FZ`  0`  FZ* reserved for Technical Job Repository
+E`  FZ`  1`  Client &A - no Job Repository User assigned (Note 2664638)
+E`  FZ`  2`  Client &A - Job Repository User is invalid or locked (Note 2664638)
+E`  GC`  0`  GC0 ... GDZ reserved for CCMS
+E`  GC`  1`  &8 skipped: Timeout
+E`  GC`  2`  &8 canceled due to timeout
+E`  GC`  3`  The active profile was modified
+E`  GC`  4`  >>> Profile name = &a&b&c&d
+E`  GE`  0`  Enqueue: Invalid parameter length $$$$$$$$$$$$
+E`  GE`  1`  Enqueue: OpCode $, missing parameter $$$$$$$$$$$$
+E`  GE`  2`  Enqueue wildcard line: Missing parameter $$$$
+E`  GE`  3`  Enqueue: OpCode $, length exceeded for parameter  $$$$$$$$$$$$
+E`  GE`  4`  Enqueue: Opcode $, max.number of elementary locks exceeds lock object $$$$$$$$
+E`  GE`  5`  Enqueue: Opcode $, missing elementary lock parameter, lock object $$$$$$$$
+E`  GE`  6`  Enqueue: Invalid op.code $
+E`  GE`  7`  Enqueue: Multiple elementary locks with the same name in one request
+E`  GE`  8`  Enqueue: Elementary lock $$$ has invalid lock mode $; lock object $$$$$$$$
+E`  GE`  9`  Enqueue: Accumulated wait time for lock: $$$$$$$$$$$ seconds
+E`  GE`  A`  Internal lock administration error
+E`  GE`  B`  Enqueue: Length USER_SIZE and SAP_EN_KEY_LN do not match
+E`  GE`  C`  Lock entries in the lock table are not compressed
+E`  GE`  D`  Memory snapshot of lock table created
+E`  GE`  F`  Error setting up the lock table
+E`  GE`  G`  Lock table overflow
+E`  GE`  H`  Enqueue: Transfer error while reading lock entries
+E`  GE`  I`  Enqueue: Initialization error
+E`  GE`  J`  Error opening a lock handler file
+E`  GE`  K`  Error positioning on a lock handler file
+E`  GE`  L`  Error occurred while reading a lock handler file
+E`  GE`  M`  Error while writing to a lock handler file
+E`  GE`  N`  Enqueue: SM12 test/diagnosis mode was activated
+E`  GE`  O`  Lock entry deleted manually: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  GE`  P`  Enqueue logging was activated
+E`  GE`  Q`  Enqueue logging was deactivated
+E`  GE`  R`  Enqueue: Lock administration was activated manually
+E`  GE`  S`  Enqueue: Lock administration was activated manually: Minimum operation
+E`  GE`  T`  Dummy system log for error text module in long text
+E`  GE`  U`  Enqueue: Report file $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  GE`  V`  Enqueue: Backup file $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  GE`  W`  Authorization check in transaction sm12 was deactivated
+E`  GE`  X`  Lock entry deleted: $$$$$$$$$$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  GE`  Y`  Enqueue: &a
+E`  GE`  Z`  Enqueue: &a
+E`  GH`  0`  Error in Central Lock Handler
+E`  GH`  1`  > Lock Request with Inconsistent Length
+E`  GH`  2`  > Overlap Between Request and Response Area
+E`  GH`  3`  > Length of Request Area Exceeds the Maximum Value
+E`  GH`  4`  > Request Area Lost Due to Address Change
+E`  GH`  5`  > Length of Response Area Exceeds the Maximum Value
+E`  GH`  6`  > Error Response was Generated
+E`  GH`  A`  Initialization of the Lock Table was Established
+E`  GH`  Z`  > Previous Message was Suppressed &6 Times
+E`  GI`  0`  Error calling the central lock handler
+E`  GI`  1`  > Lock response with inconsistent length
+E`  GI`  2`  > Unable to reach central lock handler
+E`  GI`  3`  > Failed to clean up lock entries
+E`  GI`  4`  > Dequeue All call failed
+E`  GI`  5`  > Dequeue All call with invalid lock owner
+E`  GI`  6`  Central lock handler can be accessed again
+E`  GI`  7`  > Request to update the report file failed
+E`  GJ`  0`  Error in lock handler configuration
+E`  GJ`  1`  > No. of enqueue processes in the lock server must be greater than 0
+E`  GJ`  2`  > No. of enqueue processes in non-lock servers must be 0
+E`  GK`  0`  Error in call of central lock handler. Operation code = $
+E`  GK`  1`  Error accessing lock handler file
+E`  GO`  0`  &A
+E`  GO`  1`  &A started on host &B (PID: &C)
+E`  GO`  2`  &A terminated on host &B (PID: &C)
+E`  GO`  3`  &A is ready for operation (PID: &B)
+E`  GO`  4`  Port &A could not be started for protocol &B
+E`  GO`  5`  Network connection could not be accepted
+E`  GO`  A`  Request trace activated by &C/&D for client '&A' and user '&B'
+E`  GO`  B`  Request trace deactivated by &B/&C (delete=&A)
+E`  GO`  C`  Parameter '&A' changed by &C/&D to '&B'
+E`  GO`  D`  Replication suspended
+E`  GO`  E`  Replication resumed
+E`  GO`  F`  Replica configured with &A locks and &B threads (LID=&C; RN=&D)
+E`  GO`  G`  Replica updated with &A locks in &B milliseconds (LID=&C; RN=&D)
+E`  GO`  H`  Replica taken over with &A locks in &B milliseconds (LID=&C; RN=&D)
+E`  GO`  I`  Developer trace changed by &A/&B to level &C
+E`  GZ`  0`  Cleanup action for enqueue contexts has been running for more than &A minutes
+E`  GZ`  Z`  > $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  H0`  1`  Enqueue for work item &A deleted by called application
+E`  H0`  2`  Attempt to restore enqueue for work item &A failed
+E`  H1`  1`  Event linkage was deactivated : &A.&B-&C -> &D
+E`  H2`  1`  Problem "&A" when creating workflow DDIC types
+E`  IC`  0`  ICF Recorder entry executed by user &A (activity: &B)
+E`  IC`  1`  ICF recorder entry executed by user &A (&B, &C) (activity &D).
+E`  IC`  2`  Administration settings for ICF Recorder changed by user
+E`  IC`  3`  Administration settings for ICF Recorder deleted by user
+E`  IC`  4`  Debugging of &A created for URL &B
+E`  IC`  5`  Debugging of &A deleted for URL &B
+E`  IC`  6`  Trace entry of USER &A created for USER &B and URL &C
+E`  IC`  7`  Trace entry of USER &A created for URL &B
+E`  IC`  8`  Trace entry of USER &A deleted for USER &B and URL &C
+E`  IC`  9`  Trace entry of USER &A deleted for URL &B
+E`  IC`  A`  ATRA entry of USER &A created for USER &B and URL &C
+E`  IC`  B`  ATRA entry of USER &A created for URL &B
+E`  IC`  C`  ATRA entry of USER &A deleted for USER &B and URL &C
+E`  IC`  D`  ATRA entry of USER &A deleted for URL &B
+E`  IC`  F`  RECORD entry of USER &A created for USER &B and URL &C
+E`  IC`  G`  RECORD entry of USER &A created for URL &B
+E`  IC`  H`  ATRA entry of USER &A deleted for USER &B and URL &C
+E`  IC`  I`  ATRA entry of USER &A deleted for URL &B
+E`  IC`  J`  Debugging entry was created by User &A for requirements of User &B.
+E`  IC`  K`  Debugging entry was deleted by User &A for requirements of User &B.
+E`  IC`  N`  Error when saving change documents for service &A
+E`  ID`  0`  Status of IDoc &a has been changed by &b from &c to &d
+E`  IM`  0`  &A
+E`  IM`  1`  &A started on host &B (PID: &C)
+E`  IM`  2`  &A terminated on host &B (PID: &C)
+E`  IM`  3`  &A is ready for operation (PID: &B)
+E`  IM`  4`  Port &A could not be started for protocol &B
+E`  IM`  5`  Network connection could not be accepted
+E`  IM`  6`  Deadlock detected in &A
+E`  IM`  7`  SAP Web Dispatcher could not connect to server &A
+E`  IM`  8`  Request from MPI memory failed
+E`  IM`  9`  Connection closed due to MPI memory bottleneck
+E`  IM`  A`  WARN limit for connections from client IP address &a was exceeded: &c>&b
+E`  IM`  B`  REJECT limit for connections from client IP address &a reached: &b
+E`  IM`  C`  Web Dispatcher: WARN limit for outstanding requests exceeded (&B>&C) (&A)
+E`  IM`  D`  Web Dispatcher: REJECT limit for outstanding requests exceeded (&B>&C) (&A)
+E`  IM`  E`  ICM / Web Dispatcher - Parameter &A is out-of-date or obsolete (Note &B)
+E`  LC`  0`  Logical command "&A" executed for "&B" on "&i": "&a&b&c&d&e&f&g&h"
+E`  LC`  1`  Illegal log. command  "&A" rejected for "&B" on "&i": "&a&b&c&d&e&f&g&g&h"
+E`  LC`  2`  &C when executing external command &A on &B (&a&b&c&d&e&f&g&h&i)
+E`  LC`  3`  &B when executing external program on &A (&a&b&c&d&e&f&g&h&i)
+E`  LC`  4`  &B when calling internal RFC on &A in BP runtime system (&a&b&c&d&e&f&g&h&i)
+E`  LD`  0`  Could not send SLD data
+E`  LQ`  1`  Queue &A deleted from LDQ application &B
+E`  MQ`  1`  Error occurred: &A
+E`  MS`  0`  Start Message Server (PID &a)
+E`  NK`  1`  &A &B &C &D &E: Main memory buffer bypassed
+E`  NK`  2`  &A &B &C &D: ROLLBACK in Italian buffering
+E`  NK`  3`  &A &B &C &D: Mixed requests for numbers (Italian and parallel)
+E`  NK`  4`  &A &B &C &D: Italian buffering
+E`  NK`  5`  &A &B &C &D: UPDATE error table NRIV
+E`  NK`  9`  Number range error: &A &B &C &D
+E`  NU`  0`  Audit - Test. Text: &A
+E`  O0`  1`  Optical archiving: Error at &A
+E`  O0`  2`  Optical archiving: Error at &A
+E`  P0`  0`  Role file $$$$$$$$$$$$$$ could not be opened
+E`  P0`  1`  Error in roll chain: Subsequent block to [$$$$$$,$$$$$$] missing
+E`  P0`  2`  No block found for role area $
+E`  P0`  3`  Role File Overflow ($$$$$$ Blocks)
+E`  P0`  4`  Error in call of rrol_free
+E`  P0`  5`  Memory request (malloc) failed
+E`  P0`  6`  Error in memory chain during roll out
+E`  P0`  8`  Status: 80% of $$$$$$$$ is in use
+E`  P0`  9`  Status: 90% of $$$$$$$$ is in use
+E`  P0`  A`  Paging file $$$$$$$$$$$$$$ could not be opened
+E`  P0`  B`  Overflow of Paging File ($$$$$$ Blocks)
+E`  P0`  C`  Invalid paging access to block $$$$$$
+E`  P0`  D`  No free block in paging buffer ($$$$$$ blocks)
+E`  P0`  E`  Unpermitted release of paging block $$$$$$,$$$$$$
+E`  P0`  F`  Inconsistent paging system administration
+E`  P0`  G`  Error in call of pg_free_all
+E`  P0`  R`  Failed to position on operating system file (error no. = &>E5)
+E`  P0`  S`  Failed to read operating system file (error no. = &>E5)
+E`  P0`  T`  Failed to write to operating system file (error no. &>E5)
+E`  PC`  1`  APC cross origin access has failed for origin &A
+E`  PC`  2`  APC cross origin entry with host "&A" port "&B" protocol "&C" has been deleted
+E`  PM`  1`  Validity of certificate with PSE type >&A< ends in &B days
+E`  PM`  2`  Certificate with PSE type >&A< has been invalid for &B days
+E`  PM`  3`  At least &A errors found when certificates checked
+E`  PM`  4`  Validity of certificate from list with PSE type >&A< ends in &B days
+E`  Q0`  0`  Start AS ABAP instance (Dispatcher PID &b)
+E`  Q0`  1`  Starts work process &a (PID = &b, &c start since start of instance)
+E`  Q0`  2`  Stops work process &a (PID = &b, Info = &c)
+E`  Q0`  3`  No free block found in the WP communication area
+E`  Q0`  4`  Connection to terminal &a closed (user = &b, logon ID = &c)
+E`  Q0`  5`  Stop AS ABAP instance &a (PID Dispatcher &b)
+E`  Q0`  6`  Profile parameter &a could not be read
+E`  Q0`  7`  Request has an error, (logon ID &a is invalid)
+E`  Q0`  8`  Request has an error (session ID &a is invalid, terminal ID = &b)
+E`  Q0`  9`  Host name $$$$$$$$$$$$$$$$$$$$ not known
+E`  Q0`  A`  Service $$$$$$$$$$$$$$$$$$$$ not known
+E`  Q0`  B`  Failed to establish connection to terminal $$$$$$$$$$$$$$$$$$$$
+E`  Q0`  C`  Start of SAP gateway failed ($$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$)
+E`  Q0`  D`  New request for current session $, user $$$$$ ($$$$$$$$$$$$), work process $$
+E`  Q0`  E`  Signal $$$ received by operating system
+E`  Q0`  F`  Message handling component is not activated
+E`  Q0`  G`  Request for process type &a cannot be processed
+E`  Q0`  H`  Error adding a request to the dispatcher queue (info  = &a)
+E`  Q0`  I`  Operating system call &5&5&4 failed (error no. &>E5)
+E`  Q0`  J`  Work process type required for request handling does not exist
+E`  Q0`  K`  Connection to message server (mshost = &a) opened
+E`  Q0`  L`  Connection to message server failed
+E`  Q0`  M`  Message server disconnected
+E`  Q0`  N`  Failed to send a request to the message server
+E`  Q0`  O`  Multiple Client logon ($$$$$$$$$$$$$$$$$$$$) for message server
+E`  Q0`  P`  Maximum number of permitted user sessions reached (maximum is &a)
+E`  Q0`  Q`  Starting work process &a (PID = &b)
+E`  Q0`  R`  Failed to call function $$$$$$$$$$$$; rc: $$$$
+E`  Q0`  S`  Connection to SAP gateway closed
+E`  Q0`  T`  Connection to SAP gateway is disrupted
+E`  Q0`  U`  Client $$$$$$$$$$$$$$$$$$$$ is not known to the message server
+E`  Q0`  V`  Work process &a switched from request type &b to &c
+E`  Q0`  W`  User &A is deleting RFC destination &B
+E`  Q0`  X`  Connection to client &1 of message server closed due to timeout
+E`  Q0`  Y`  Unknown op. code &1 received
+E`  Q0`  Z`  Versions of dplib are different (&a)
+E`  Q1`  0`  Alarm thread terminated
+E`  Q1`  1`  Host address $$$$$$$$$$$$$$$ is unknown
+E`  Q1`  2`  Buffer for host address is too small (required: $$$, available: $$$)
+E`  Q1`  3`  Connection request received by unknown SAP gateway
+E`  Q1`  4`  Maximum number of &6 SAP gateways that can be connected was reached
+E`  Q1`  5`  External partner (&A) tried to log on with a message type
+E`  Q1`  6`  Msg server hardware ID missing ($$$$$$$$$$$$)
+E`  Q1`  8`  Work process &a was exclusively locked by user &b
+E`  Q1`  9`  The profile parameter &a&b&c&d was changed in productive operation
+E`  Q1`  A`  >>> Old/New value : &a&b&c&d
+E`  Q1`  B`  The dynamic changeability of the profile parameter &a&b&c&d was deactivated
+E`  Q1`  C`  MsgServer Hardware ID Was Determined
+E`  Q1`  D`  System startup procedure started
+E`  Q1`  E`  System startup procedure executed.
+E`  Q1`  F`  Server status changed to &A
+E`  Q1`  G`  Soft shutdown of ICM was started
+E`  Q1`  H`  Hard shutdown (kill) of ICM starting
+E`  Q1`  I`  &72
+E`  Q1`  J`  Inactive terminal $$$$ is being logged off  ($$$$$$$$$$$$$$$)
+E`  Q1`  K`  Kernel Version Incompatable with System
+E`  Q1`  L`  Soft shutdown of server started (reason is &a)
+E`  Q1`  M`  Soft Shutdown of Server &A
+E`  Q1`  N`  Shutdown of Server &A
+E`  Q1`  O`  The configuration of the work processes will be changed
+E`  Q1`  P`  An error has occurred when configuring the work processes
+E`  Q1`  Q`  > &a
+E`  Q1`  R`  Configuration of work processes was already changed (e.g. for process &a)
+E`  Q1`  S`  System startup procedure terminated; reason: &a
+E`  Q1`  T`  User &a in client &b (application: &c) could not be logged on
+E`  Q1`  U`  Current task of user &a / &b terminated because of a deadlock resolution
+E`  Q1`  V`  Server stopped (reason is &a)
+E`  Q1`  W`  Server is running again
+E`  Q1`  X`  Entry in RFC connection table could not be created (reason = &a)
+E`  Q1`  Y`  Tenant shutdown, user session &a (logon=&b, ID=&c) is closing
+E`  Q1`  Z`  Tenant &a is shutting down, open sessions are closing
+E`  Q2`  0`  User &A is deleting tRFC TID &B
+E`  Q2`  1`  User &A is reorganizing the outbound queue table
+E`  Q2`  2`  User &A is deleting outbound queue &B
+E`  Q2`  3`  User &A is deleting TID &B in outbound queue &C
+E`  Q2`  4`  User &A is reorganizing the inbound queue table
+E`  Q2`  5`  User &A is deleting inbound queue &B
+E`  Q2`  6`  User &A is deleting TID &B in inbound queue &C
+E`  Q2`  7`  User &A is reorganizing the table of the saved inbound queue
+E`  Q2`  8`  User &A is deleting the saved inbound queue &B
+E`  Q2`  9`  User &A is deleting TID &B in the saved inbound queue &C
+E`  Q2`  A`  User &A is deleting the first part of the saved inbound queue &B
+E`  Q2`  B`  User &A is reorganizing the tRFC tables
+E`  Q2`  C`  User &A is deleting the tRFC and qRFC tables (outbound queue)
+E`  Q2`  D`  User &A has deleted the tRFC/qRFC table for logs received
+E`  Q2`  E`  User &A is deleting TID &B in the tRFC-/qRFC confirmation table
+E`  Q2`  F`  User &A is reorganizing the table of tRFC and qRFC confirmations
+E`  Q2`  G`  User &A is deleting the qRFC tables (inbound queue)
+E`  Q2`  H`  User &A is reorganizing all GET tables
+E`  Q2`  I`  User &A deleted the queue &B of the GET table &C
+E`  Q2`  J`  User &A changed TID &B to tRFC TID &C
+E`  Q2`  K`  User &A deleted table &B with report &C
+E`  Q2`  L`  User &A reset &B &C in queue &D
+E`  Q2`  X`  &A &B &C
+E`  Q3`  0`  Error in value for profile parameter: &a
+E`  Q3`  1`  > Value: &a
+E`  Q3`  2`  > Cause: &a
+E`  Q4`  0`  Server resources are exhausted (&a)
+E`  Q4`  1`  Snapshot &a created; reason: &b
+E`  Q4`  2`  Configured, secure, internal system communication is not supported
+E`  Q4`  3`  Configure secure internal system communication
+E`  Q4`  4`  Server startup procedure (session &a) canceled after timeout
+E`  Q4`  5`  Secure communication between internal systems was deactivated
+E`  Q4`  6`  Server is closing down (reason: &a)
+E`  Q4`  7`  &a connection errors have occurred in succession
+E`  Q4`  8`  Maximum number of AMC registrations reached (&a Registrations)
+E`  Q4`  9`  Maximum number of APC connections reached (&a connections)
+E`  Q4`  A`  AMC entries of server &a were deleted
+E`  Q4`  B`  Enqueue locks of server &a were deleted
+E`  Q4`  C`  &a requests of server &b were distributed to other servers
+E`  Q4`  D`  Work process &a cannot be started
+E`  Q4`  E`  The status of AS ABAP instance has been changed from &a to &b.
+E`  R0`  0`  Failed to lock semaphore &a (return code = &b)
+E`  R0`  1`  Failed to release semaphore &a (return code = &b)
+E`  R0`  2`  ABAP session $$$ is already active
+E`  R0`  3`  Invalid ABAP session $$$
+E`  R0`  4`  ABAP session $$$ is not active
+E`  R0`  5`  No active ABAP session  exists for user session &a
+E`  R0`  6`  Administration of user session &a is not working (info = &b)
+E`  R0`  7`  Currently not used
+E`  R0`  8`  Currently not used
+E`  R0`  9`  Currently not used
+E`  R0`  A`  Maximum number $$ of internal ABAP sessions reached
+E`  R0`  B`  Rollout of ABAP session &a failed (return code = &b)
+E`  R0`  C`  Roll-in of ABAP session &a failed (return code = &b)
+E`  R0`  D`  Roll-free failed; RC=$$$
+E`  R0`  E`  Page-free failed; RC=$$$
+E`  R0`  F`  Error accessing $$$$$$$$ in table TXCOM
+E`  R0`  G`  Input with incorrect message type $$$ received
+E`  R0`  H`  Error handling canceled
+E`  R0`  J`  Work process &a (PID = &b) is terminating manually
+E`  R0`  K`  ABAP session &a is manually terminating (name = &b)
+E`  R0`  L`  Program &a of user &b moved manually to debug mode
+E`  R0`  M`  Program &a of user &b is manually terminating
+E`  R0`  N`  HTTP user session deleted after timeout
+E`  R0`  O`  No active update server exists (context = &a)
+E`  R0`  P`  Entries in the number range buffer were deleted (number: $$$$$$)
+E`  R0`  Q`  $$$-Eye-Catchers of the number range buffer were destroyed
+E`  R0`  R`  The update was deactivated following a system error
+E`  R0`  S`  The update was deactivated manually
+E`  R0`  T`  The update was activated
+E`  R0`  U`  Update requests were deleted (VBKEY = &A, VBUSR = &B)
+E`  R0`  V`  Updates were triggered manually
+E`  R0`  W`  Canceled update requests updated
+E`  R0`  X`  An update request was carried out in debugging mode
+E`  R0`  Y`  Update data was displayed
+E`  R0`  Z`  The update dispatch info was reset
+E`  R1`  0`  Writing to connection table failed
+E`  R1`  1`  No active connection found in connection table
+E`  R1`  2`  Connection closed
+E`  R1`  3`  Error in program flow
+E`  R1`  4`  Signal $$ received
+E`  R1`  5`  Function signal failed; errno=&>E5
+E`  R1`  6`  open failed; ERR=$$$
+E`  R1`  7`  Failed to read from a file; ERR=$$$$$
+E`  R1`  8`  SAP commit failed
+E`  R1`  9`  Initialization &a failed (return code  = &b)
+E`  R1`  A`  $$$ logon failed
+E`  R1`  B`  SAP-DEXT loop, message key: &>M5
+E`  R1`  C`  No terminal ID exists
+E`  R1`  D`  Eyecatcher in task handler destroyed
+E`  R1`  E`  Roll-Open failed
+E`  R1`  F`  Page-Open failed
+E`  R1`  G`  The update statistics were reset
+E`  R1`  H`  Action &a failed (reason = &b)
+E`  R1`  I`  The session was canceled following loss of lock table.
+E`  R1`  J`  User/session &A/&B is being reset following loss of lock table
+E`  R1`  K`  Trace activated for user &A
+E`  R1`  L`  Trace deactivated for user &A
+E`  R1`  M`  Trace passed from remote client
+E`  R1`  N`  Session of user / client &A / &B cannot be passed
+E`  R1`  O`  Update request restarted after internal error
+E`  R1`  P`  Error in the enqueue configuration
+E`  R1`  Q`  SNC Active (SNC Name &A)
+E`  R1`  R`  Update server &a activated
+E`  R1`  S`  Update server &a deactivated
+E`  R1`  T`  Update request (key = &A) was passed to server &B
+E`  R1`  U`  &A occurred in update task
+E`  R1`  V`  The tests were deactivated before post-updates
+E`  R1`  W`  Trace file(s) &A of user &B reset
+E`  R1`  X`  Debugging session of user/mode &A/&B reset
+E`  R1`  Y`  Update data was reorganized
+E`  R2`  0`  Insufficient shared memory
+E`  R2`  1`  Abnormal end of region $$
+E`  R2`  2`  SAPASRV failed; OP=$$, RC=$$$
+E`  R2`  3`  Process table overflow (wp_adm), max. size $$ processes
+E`  R2`  4`  malloc failed; errno=&>E3
+E`  R2`  5`  Different $$$$ addresses
+E`  R2`  6`  ctdli failed; RC=$$$
+E`  R2`  7`  Preceding error $$$
+E`  R2`  8`  Different time stamps
+E`  R2`  9`  No shared memory exists
+E`  R2`  A`  > File: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  R2`  B`  No memory for $$$$
+E`  R2`  C`  Terminal $$$$$ in status $$$$
+E`  R2`  D`  Session $$$ was already disconnected
+E`  R2`  E`  ABAP session is waiting for APPC input
+E`  R2`  F`  ABAP session is waiting for terminal input
+E`  R2`  G`  HTTP/RFC session was deleted following timeout
+E`  R2`  H`  Active &A file deleted
+E`  R2`  I`  &A files older than &B deleted
+E`  R2`  J`  High resource usage ascertained (Resource=&a, Limit=&b, Curr.=&c)
+E`  R2`  K`  Resource usage exceeds limit (Resource=&a, Limit=&b, Curr.=&c)
+E`  R2`  L`  High resource usage ascertained (Resource=&a, Limit=&b, Curr.=&c)
+E`  R2`  M`  Resource usage exceeds limit (Resource=&a, Limit=&b, Curr.=&c)
+E`  R2`  N`  Errors were found when checking data structure &a.
+E`  R2`  O`  Dispatching changed due to resource usage (Resource=&a, Limit=&b, Curr.=&c)
+E`  R3`  0`  Incorrect UID/mode $$$$$$/$$$ in SPA
+E`  R3`  1`  Status of a semaphore was not received (semaphore = &a, return code = &b)
+E`  R3`  2`  Locked semaphore found (semaphore = &a, number of locks = &b)
+E`  R3`  3`  RSTG chain defective, return code $$$
+E`  R3`  4`  Paging commit failed; RC=$$$
+E`  R3`  5`  $$$$ block not released
+E`  R3`  6`  No $$$$ block received
+E`  R3`  7`  Error in T100, MSG: $$$$$
+E`  R3`  8`  Error at DB commit, return code $$$$$$$
+E`  R3`  9`  Currently not used
+E`  R3`  A`  Eyecatcher $$ destroyed
+E`  R3`  B`  RSTS: Failed to prepare for commit, return code $$$
+E`  R3`  C`  Maximum no. users $$$$ reached
+E`  R3`  D`  tm_adm full ($$$$)
+E`  R3`  E`  DB function &a failed (return code = &b)
+E`  R3`  F`  No TTRAN entry for $$$$$$$$
+E`  R3`  G`  Incomplete update request was deleted
+E`  R4`  0`  Incorrect transaction index $$
+E`  R4`  1`  Illegal CPIC request $$
+E`  R4`  2`  RSTS: Commit failed; RC=$$$
+E`  R4`  3`  RSTS: Rollback failed; RC=$$$
+E`  R4`  4`  RSTS: Rollout failed; RC=$$$
+E`  R4`  5`  Shared memory destroyed
+E`  R4`  6`  Restart after IMS-ABEND
+E`  R4`  7`  Delete ABAP session &a (Info = &b
+E`  R4`  8`  Invalid UID $$$$$$
+E`  R4`  9`  Communication error, CPIC-RC=&a, SAP-RC=&b
+E`  R4`  A`  Incorrect UID/session $$$$$$/$$$ in TM_ADM
+E`  R4`  B`  TM_ADM and SPA destroyed
+E`  R4`  C`  Static UID save destroyed
+E`  R4`  D`  Incorrect TID $$$$$$ in process table (wp_adm)
+E`  R4`  E`  Session is waiting for a message
+E`  R4`  F`  Failed to write to a file; ERR=$$$$$
+E`  R5`  0`  Failed to delete file $$$$$$$$; ERR=$$$
+E`  R5`  1`  Statistics: Buffer overflow
+E`  R5`  2`  > Table: &9&9&7
+E`  R5`  3`  No work area for update dynpro
+E`  R5`  4`  Invalid APPC header version $$$
+E`  R5`  5`  Invalid terminal ID $$$$$$
+E`  R5`  6`  Enqueue: Rollback failed; RC=$$$
+E`  R5`  7`  No output for background processing, task type $$$
+E`  R5`  8`  Incorrect update mode $$
+E`  R5`  9`  No update header in SPA
+E`  R5`  A`  > Conversation ID: &a
+E`  R5`  B`  $$$$ Output Area Overflow
+E`  R5`  C`  Terminal type $$$: Incorrect output destination/message type $$$$$$
+E`  R5`  E`  Incorrect parameter $$$$$$: $$$$$$
+E`  R5`  F`  Incorrect task type $$$
+E`  R6`  0`  Error in communications type $$$$
+E`  R6`  1`  > RFC Destination = &a
+E`  R6`  2`  > Request type: $$$$$$$$$$$$
+E`  R6`  3`  Work process &a is being terminated
+E`  R6`  4`  > CPI-C function: &a
+E`  R6`  5`  Update terminated, (return code = &a)
+E`  R6`  6`  > Update key: &a
+E`  R6`  7`  > Update module: &a
+E`  R6`  8`  Perform rollback
+E`  R6`  9`  VM container was deactivated by the system
+E`  R6`  A`  VM container was deactivated by the user
+E`  R6`  B`  VM container was reset by the user
+E`  R6`  C`  VM &a was terminated by the user
+E`  R6`  D`  Current processing of VM &a was terminated by the user
+E`  R6`  E`  VM &a has terminated (exit/abort)
+E`  R6`  F`  Error occurred during execution of Java in VM &a
+E`  R6`  G`  > &a
+E`  R6`  H`  VM &a was moved to the debug mode
+E`  R6`  I`  Stack dump for VM &a was triggered
+E`  R6`  J`  Trace flags for VM &a were changed
+E`  R6`  L`  Java session error occurred: &a
+E`  R6`  M`  Maximum number of unsuccessful shared GCs exceeded
+E`  R6`  N`  VM Container activated by the user
+E`  R6`  Q`  &a
+E`  R6`  R`  &a
+E`  R6`  S`  &a
+E`  R6`  T`  &a
+E`  RD`  0`  &A: Incorrect Parameter &B Value &C
+E`  RD`  1`  &A: RFC Error &B Occurred
+E`  RD`  2`  &A: Kernel Error &B Occurred
+E`  RD`  3`  &A: Function Returned &B
+E`  RD`  4`  &A: Sign Return Code &B
+E`  RL`  0`  System in maintenance mode. For details check table RLFW_LOGGING.
+E`  RL`  1`  Startup into mode: &A. &B
+E`  RL`  2`  System switched to maintenance mode.
+E`  RL`  3`  Maintenance mode switched off.
+E`  RL`  4`  Server startup refused: Online Import running, phase = &A.
+E`  RL`  5`  Server startup during Online Import, phase = &A.
+E`  RO`  Z`  Runtime analysis in program &9&9&9&9&4 switched on by user &9&3
+E`  S0`  0`  SAP gateway started (PID: $$$$$$$$$$)
+E`  S0`  1`  Maximum number $$$$$ of connections reached
+E`  S0`  2`  Receive failed; RC=$$$
+E`  S0`  3`  Initialization of signal handling failed
+E`  S0`  4`  No PID received, return code $$$
+E`  S0`  5`  Profile error, return code $$$
+E`  S0`  6`  Semaphore Init failed; RC=$$$
+E`  S0`  7`  Failed to create shared tables
+E`  S0`  8`  Event-Init failed; RC=$$$
+E`  S0`  9`  Event-Open failed; EVT=$$$, RC=$$$
+E`  S0`  A`  Timeout for function $$$$$$
+E`  S0`  B`  Maximum number $$$$$ of requests per CPI-C connection reached
+E`  S0`  C`  Connection cannot be established, return code $$$
+E`  S0`  D`  gethostname failed; ERR=$$$
+E`  S0`  E`  Overflow block $$$ not found
+E`  S0`  F`  Signal $$ received
+E`  S0`  G`  Invalid session number $$$ received
+E`  S0`  H`  fwrite failed; ERR=$$$$
+E`  S0`  I`  > Partner TP name: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  S0`  J`  Failed to open side info file, ERR=$$$
+E`  S0`  K`  > File: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  S0`  L`  No entry found for destination $$$$$$$$ in side info file
+E`  S0`  M`  No value for $$$$$$$$ in side info entry of $$$$$$$$
+E`  S0`  N`  Function LU62ATTCH failed; RC=$$$$$$$$
+E`  S0`  O`  No free space in overflow area of gateway
+E`  S0`  P`  rexec failed; ERR=$$$
+E`  S0`  Q`  > $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  S0`  R`  > Host: &a&b&c&d&e
+E`  S0`  S`  > Service: $$$$$$$$
+E`  S0`  T`  NiConnect failed; rc: $$$$$
+E`  S0`  U`  Gateway SNA process (GWWP) started (number: $$$, PID: $$$$$$$$$$)
+E`  S0`  V`  Error, gateway closed
+E`  S1`  0`  Service-Init failed
+E`  S1`  1`  Storing GW-PID failed; RC=$$$
+E`  S1`  2`  Select failed, error $$$
+E`  S1`  3`  Gateway write process (gwwr) terminated
+E`  S1`  4`  No CPI-C request block received
+E`  S1`  5`  Failed to write a CPIC request
+E`  S1`  6`  Failed to enter CPI-C request in the process stack
+E`  S1`  7`  Event error, return code $$$
+E`  S1`  8`  Failed to read datagramm; RC=$$$
+E`  S1`  9`  Maximum no. $$$ of systems reached
+E`  S1`  A`  No system found for select flag
+E`  S1`  B`  Unknown APPC header version $$$
+E`  S1`  C`  System and APPC header versions ($$$/$$$) are different
+E`  S1`  D`  Unknown APPC-DG version $$$
+E`  S1`  E`  Incorrect APPC datagram length $$$$$$
+E`  S1`  F`  Failed to initialize $$$$$$$$
+E`  S1`  G`  Attempt to take over conversation Id $$$$$$$$ by computer $$$$$$$$$$$$$$$$
+E`  S1`  H`  Simulation mode activated
+E`  S1`  I`  Simulation mode deactivated
+E`  S2`  0`  Connect failed
+E`  S2`  1`  Datagram with unknown type $$$ received
+E`  S2`  2`  Failed to read CPIC request; RC=$$$
+E`  S2`  3`  Connection to CPI-C client $$$ was closed
+E`  S2`  4`  Error in datagram, return code $$$
+E`  S2`  5`  Connection table full
+E`  S2`  6`  Unknown conversation ID $$$$$$$$
+E`  S2`  7`  No free gateway work process
+E`  S2`  8`  Incorrect connection type $$$
+E`  S2`  9`  Error starting the gateway work process (gwwp)
+E`  S2`  A`  Error in protocol value $$$
+E`  S3`  0`  SAP gateway was closed
+E`  S3`  1`  bind failed; ERR=$$$
+E`  S3`  2`  Start of gateway write processes (gwwr) failed
+E`  S3`  3`  fork failed; ERR=$$$
+E`  S3`  4`  exec failed; ERR=$$$$, TP=$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  S3`  5`  Opening of $$$$$$$$ failed; ERR=$$$
+E`  S3`  6`  Failed to write GW-PID file; ERR=$$$
+E`  S3`  7`  Failed to close GW-PID file; ERR=$$$
+E`  S3`  8`  Failed to delete GW-PID file; ERR=$$$
+E`  S3`  9`  Invalid output data
+E`  S4`  0`  Failed to create request pool
+E`  S4`  1`  Failed to create GW tables; RC=$$$
+E`  S4`  2`  Semaphore error, return code $$$
+E`  S4`  3`  No free request index block
+E`  S4`  4`  EvtCreate failed; RC=$$$
+E`  S4`  5`  No event for gateway work process $$$
+E`  S4`  6`  Invalid CPIC length $$$$$$$$$$
+E`  S4`  7`  Error sending reply, return code $$$
+E`  S4`  8`  Too few parameters
+E`  S4`  9`  gethostname failed; ERR=$$$
+E`  S5`  0`  Initialization to send a data program failed
+E`  S5`  1`  sendto failed; ERR=$$$
+E`  S5`  2`  getservbyname failed; Service=$$$$$$$$, ERR=$$$
+E`  S5`  3`  gethostbyname failed; Host=$$$$$$$$, ERR=$$$
+E`  S5`  4`  socket failed; ERR=$$$
+E`  S5`  5`  Connection does not exist or was disconnected
+E`  S5`  6`  CPIC-Fkt $$$$$$ failed; RC=$$$
+E`  S5`  7`  Error in $$$. Gateway request $$$
+E`  S5`  8`  APPC blocks too big
+E`  S5`  9`  malloc failed; ERR=$$$
+E`  S6`  0`  realloc failed; ERR=$$$
+E`  S6`  1`  ShmCreate failed; KEY=$$$, RC=$$$
+E`  S6`  2`  fread failed; RC=$$$$
+E`  S6`  3`  rfopen failed; RC=$$$$, ERR=$$$
+E`  S6`  4`  No segment key for SHM pool $$$, Seg=$$$
+E`  S6`  5`  Unable to determine path name for the executable $$$$$$$$
+E`  S7`  0`  Max. no. $$$ of links per gateway process reached
+E`  S7`  1`  malloc failed; ERR=$$$
+E`  S7`  2`  No CMINIT/CMACCP performed before CPIC function $$$$$$
+E`  S7`  3`  snaopen failed; ERR=$$$
+E`  S7`  4`  > Partner LU Name: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  S7`  5`  signal failed; ERR=$$$
+E`  S7`  6`  Timeout at CMALLC
+E`  S7`  7`  snalloc failed; ERR=$$$
+E`  S7`  8`  snawrit failed; ERR=$$$
+E`  S7`  9`  snactl failed; ERR=$$$
+E`  S7`  A`  flush is not supported in an IBM enironment
+E`  S7`  B`  snaread failed; ERR=$$$
+E`  S7`  C`  snadel failed; ERR=$$$
+E`  S7`  D`  snaclse failed; ERR=$$$
+E`  S7`  E`  CPIC state error, function $$, state $$
+E`  S7`  F`  Parameter $$$$$$$$ is missing
+E`  S8`  0`  Connection to conversation ID $$$$$$$$ not found
+E`  S8`  1`  tp_start failed; RC=$$$$$$$$
+E`  S8`  2`  getlu failed; RC=$$$$
+E`  S8`  3`  Allocate failed; RC=$$$$$$$$
+E`  S8`  4`  Send failed; RC=$$$$$$$$
+E`  S8`  5`  Prepare-To-Recceive failed; RC=$$$$$$$$
+E`  S8`  6`  Flush failed; RC=$$$$$$$$
+E`  S8`  7`  Receive failed; RC=$$$$$$$$
+E`  S8`  8`  CMACCP: No argument -l
+E`  S8`  9`  get_allocate/receive_allocate/LU62CVCt failed, return code $$$$$$$$
+E`  S8`  A`  Deallocate failed; RC=$$$$$$$$
+E`  S8`  B`  freelu failed; RC=$$$$
+E`  S8`  C`  Tp-End failed; RC=$$$$$$$$
+E`  S8`  D`  Maximum number $$$ of connections reached
+E`  S8`  E`  Program name too long
+E`  S8`  F`  GwGetLocHost failed; ERR=$$$$
+E`  S9`  0`  AsGwConnect failed; RC=$$$
+E`  S9`  1`  AsSendToGw failed; RC=$$$
+E`  S9`  2`  AsRcvFromGw failed; RC=$$$
+E`  S9`  3`  No SAP_CMACCP before CMACCP
+E`  S9`  4`  NiRead failed; RC=$$$$$
+E`  S9`  5`  tcp_read failed; ERR=$$$$
+E`  S9`  6`  Parameter $$$$$$$$$$ too long
+E`  S9`  7`  Invalid value $$$ for parameter PROTOCOL
+E`  S9`  8`  Incorrect conversation ID $$$$$$$$
+E`  S9`  9`  Incorrect CPIC send length $$$$$$$$$$$$
+E`  S9`  A`  Incorrect requested length $$$$$$$$$$$$
+E`  S9`  B`  Incorrect LU length $$$
+E`  S9`  C`  Incorrect TP length $$$
+E`  S9`  D`  Incorrect security password length $$$
+E`  S9`  E`  Incorrect security ID length $$$
+E`  S9`  F`  Incorrect security type $$$
+E`  S9`  G`  Incorrect log mode length $$$
+E`  S9`  H`  Incorrect LU length $$$
+E`  S9`  I`  Incorrect TP length $$$
+E`  S9`  J`  Incorrect log mode length $$$
+E`  S9`  K`  Logical name SAPCPIC_SYMDEST is not defined
+E`  S9`  L`  Conversion failed $$$$$$$$ return code = $$$$$$$$
+E`  S9`  M`  Synchronization type $$ does not match, type $$, value $$
+E`  S9`  N`  Incorrect synchronization type $$$
+E`  S9`  O`  Function $$$$$$ is not implemented
+E`  S9`  P`  LU6.2 call $$$$$$$$$$$$$$$$$$$$ failed. Return code $$$$$$$$ (hex)
+E`  S9`  Q`  > $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  S9`  R`  Incorrect conversation type $$$$
+E`  S9`  S`  Gateway shut down (soft)
+E`  S9`  T`  Gateway shut down (hard)
+E`  SA`  0`  Confirmed failed, RC=$$$$$$$$
+E`  SA`  1`  No overflow block received
+E`  SA`  2`  > Conversation ID: $$$$$$$$
+E`  SA`  3`  Time limit exceeded; connection closed
+E`  SA`  4`  Session was disconnected by the administrator
+E`  SA`  5`  Communication error, CPIC return code $$$, SAP return code $$$
+E`  SH`  0`  Shared Objects: DETACH for Area: &A
+E`  SH`  1`  Shared Objects: INVALIDATE for Area/Instance: &A &B &C
+E`  SH`  2`  Shared Objects: FREE for Area/Instance: &A &B &C
+E`  SH`  3`  Shared Objects: Deletion of a Lock: &A &B &C &D &E
+E`  SH`  4`  Shared Objects: PROPAGATE for Area/Instance: &A &B &C
+E`  SH`  5`  Shared Objects: System-Wide Deletion of Area: &A &B &C
+E`  SH`  6`  Shared Objects: FREE_ALL_AREAS_IN_CLIENT &A
+E`  SH`  7`  Shared Objects: INVALIDATE_ALL_AREAS_OF_USER &A
+E`  SK`  0`  SAPcomm: Error
+E`  SK`  1`  SAPcomm: Transmission error
+E`  SK`  2`  SAPcomm: Processing error
+E`  SK`  3`  >Error( &A ) at status update (spool open &B &C &D &E).
+E`  SK`  4`  >Error( &A ) at status update (Spool close &B &C ).
+E`  SK`  5`  >Error( &A ) while printing a received message (open &B &C)
+E`  SK`  6`  >Error( &A ) while printing a received message (close &B &C)
+E`  SK`  7`  > SAP user &A is not an SAPoffice user!
+E`  SK`  8`  > Error assigning SAP name &A to SAPoffice name.
+E`  SK`  9`  > Message for &A / &B could not be sent: &C &D.
+E`  SK`  A`  > Output request &A.&B could not be passed to the SAPcomm server.
+E`  SK`  B`  > Incoming message could not be delivered, forwarded to &A by SAPmail.
+E`  SK`  C`  SAP user &A has no &B authorization.
+E`  SK`  D`  > CPI-C 'RECEIVE' error &A.
+E`  SK`  E`  > Status message incomplete. (Error in state &A.)
+E`  SK`  F`  > Document is incomplete. (Error in state &A.)
+E`  SK`  G`  > Spool could not be read.
+E`  SK`  H`  > Spool entry &A.&B is not a valid SAPcomm request.
+E`  SK`  I`  > Message for &A / &B could not be sent by &C.
+E`  SK`  J`  > Spool entry &A.&B could not be refreshed (&C).
+E`  SL`  0`  System operation allowed with temporary license until $$$$$$$$
+E`  SL`  1`  Temporary license until $$$$$$$$ created automatically
+E`  SL`  2`  License check rejected for technical reasons
+E`  SL`  3`  No license found for hardware ID $$$$$$$$$$$
+E`  SL`  4`  Error in network ID update => switch to local hardware ID
+E`  SL`  5`  Network ID changed, new ID is '&11'
+E`  SL`  6`  Update of the network ID failed
+E`  SM`  0`  SAML: Path "&a", Code &b, Class &c, Number &d, Text: &e&f&g&h&i
+E`  SM`  1`  SAML Trace: &a&b&c&d&e&f&g&h
+E`  SN`  0`  SPNego Authenticator Expired (CreationTime=&A, CurrentTime=&B, UPN=&C)
+E`  SN`  1`  SPNego Authenticator NotYetValid (CreationTime=&A, CurrentTime=&B, UPN=&C)
+E`  SN`  2`  SPNego Authentication received unsupported NTLM Token
+E`  SN`  3`  SPNego Authentication Ticket Expired (UPN=&A)
+E`  SN`  4`  SPNego Authentication Ticket NotYetValid (UPN=&A)
+E`  SN`  5`  SPNego Authentication used unsupported algorithm (Algorithm Id=&A)
+E`  SN`  6`  SPNego Authentication failed due to missing Keytab entry
+E`  SN`  7`  SPNego Authentication failed since received token could not be decrypted
+E`  SN`  8`  SPNego Authentication failed (SPNego Library RC=&A)
+E`  SO`  1`  Send Error, Exception &A
+E`  SO`  2`  Fax inbox: Error transmitting to &B &C. Exception &A.
+E`  SO`  3`  Error deleting fax &A &B from server
+E`  SQ`  1`  SQL Monitor - Defined limit of records exceeded
+E`  SQ`  2`  SQL Monitor - Defined limit of records exceeded - Error
+E`  SR`  0`  SOAP Runtime: &A &B &C &D &E &a &b &c &d &e &f &g &h &i
+E`  SR`  1`  SOAP Runtime: &A &B &C &D &E &a &b &c &d &e &f &g &h &i
+E`  SR`  2`  SOAP Runtime: &A &B &C &D &E &a &b &c &d &e &f &g &h &i
+E`  SR`  3`  SOAP Runtime: &A &B &C &D &E &a &b &c &d &e &f &g &h &i
+E`  ST`  0`  No free memory available in class &5. Memory block ID "&6", &9 bytes.
+E`  ST`  1`  > Memory requirement: $$$$$$$$ bytes
+E`  ST`  2`  > Memory block ID: $$$$$$
+E`  TE`  0`  Non-reproducible error in INFORMIX:
+E`  TE`  1`  > $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+E`  TM`  H`  Hard delete on database for &B instances of TM BO &A
+E`  TM`  I`  > &A
+E`  TO`  0`  Function locked, update running in parallel.
+E`  TP`  0`  Tp call failed (RFC RC = &A: RFC message = &B...)
+E`  TP`  1`  Tp call failed (&B; RC= &A)
+E`  TR`  1`  &A
+E`  TR`  2`  &A
+E`  TR`  3`  &A
+E`  TT`  0`  Access granted to SECKEY for trusted system &A, installation number &B
+E`  TT`  1`  Illegal access to SECKEY for trusted system &A, installation number &B
+E`  TT`  2`  Access granted to SECKEY of dest=&A, ip=&B, whoami=&C
+E`  TT`  3`  Illegal access: dest=&A, ip=&B, whoami=&C
+E`  TZ`  0`  Time Zone &A is Set Automatically. Change Using STZAC.
+E`  TZ`  1`  The System's Time Zone Cannot be Determined. Enter it Using STZAC.
+E`  TZ`  2`  Suitable Time Zone was not Found. Contact SAP.
+E`  UC`  1`  SEM-BCS: Transaction Data Inconsistent, &A &B &C &D &E
+E`  UF`  0`  liveCache Administration: LC Server "&A", LC Name "&B", CON Name "&C"
+E`  UF`  1`  Application Server "&A": Action "Stop" performed for liveCache "&B"
+E`  UF`  2`  Application Server "&A": Action "Initialize" performed for liveCache "&B"
+E`  UF`  3`  Application Server "&A": Integration data for liveCache "&B" changed.
+E`  UF`  4`  Application Server "&A": Action "Start" performed for liveCache "&B"
+E`  UH`  0`  Wildcard for UCON-HTTP
+E`  UI`  1`  MDS license is not installed. Contact SAP Support
+E`  UR`  A`  &A;&B;&C;&D
+E`  UR`  D`  Internal statistics memory limit reached
+E`  UR`  S`  Stat file limit has been reached
+E`  UR`  T`  Verification Test for Unified Connectivity
+E`  US`  1`  User $$$$$$$$$$$$ locked due to incorrect logon
+E`  US`  2`  User SAP* was deleted by user $$$$$$$$$$$$
+E`  US`  3`  Logon attempt for locked user $$$$$$$$$$$$
+E`  US`  4`  Maximum number of users reached
+E`  US`  5`  Problems occurred building user buffer for user $$$$$$$$$$$$
+E`  US`  6`  User buffer is too small for user $$$$$$$$$$$$
+E`  US`  8`  Delete usr41 with: $$$ $$$$$$$$$$$$ $$$$$$$$$$$$$$$$$$$$
+E`  US`  9`  License check: Hardware ID of message server could not be read
+E`  US`  A`  The SAP password encryption was called more than once
+E`  US`  B`  > Report: $$$$$$$$
+E`  US`  C`  The SAP password encryption was called from an external program
+E`  US`  D`  Issuer &A of the logon ticket could not be checked (rc=&>E2)
+E`  US`  E`  Issuer &A of the logon tickter is not in ACL
+E`  US`  F`  Non-interpretable logon ticket received
+E`  US`  G`  Password-based logon deactivated - Logon attempt rejected
+E`  US`  H`  Password trunctated / converted: &a &b &c &d &e &f &g &h &i &j
+E`  US`  I`  HTTP security context cache is full
+E`  US`  T`  Error while saving authorization &A for object &B (field &C)
+E`  W0`  0`  ITS, User session terminated
+E`  W0`  1`  ITS, User session terminated
+E`  W0`  2`  ITS, Service &A could not be found
+E`  W0`  3`  ITS, User session could not be created
+E`  W0`  4`  ITS, Required feature not available
+E`  W0`  6`  ITS, Requested memory not available
+E`  W0`  7`  ITS, Invalid path &A
+E`  W0`  8`  ITS, Invalid request method &A
+E`  W0`  9`  ITS, Invalid cookie
+E`  W0`  A`  ITS, &A buffer too small, increase profile parameter &B
+E`  W0`  B`  ITS, Memory not available, increase profile parameter &B
+E`  W0`  C`  ITS, GUI interface not switched on. See transaction SICF.
+E`  W0`  D`  ITS, New user session denied due to memory bottleneck.
+E`  W0`  E`  ITS, Template generation due to memory bottleneck - Performance WARNING!
+E`  W1`  0`  &A
+E`  W1`  1`  Performance: template `%s', function `%s', parameter `%s' is undefined.
+E`  W1`  2`  ITS, Error during character conversion (internally), replaced character by #
+E`  W1`  3`  ITS, Error during character conversion (input), replaced character by #
+E`  W1`  4`  ITS, Error during character conversion (output), replaced character by #
+E`  WA`  0`  Configuration error in SOAP Runtime: &A
+E`  WS`  0`  Error in processing queue of Web service configuration
+E`  WS`  1`  Operation &A; assignment &B; type &C [see application log as well]
+E`  WS`  2`  Operation &A; proxy: &B; LP: &C; task ID: &D
+E`  WS`  3`  Operation &A; URL: &B&C&D
+E`  WS`  4`  Error in technical configuration:  &A &B &C &D &E
+E`  WS`  5`  SOAP Runtime Monitoring: &A &B &C &D &E &a &b &c &d &e &f &g &h &i
+E`  WS`  6`  SOAP Runtime Protocol: &A &B &C &D &E &a &b &c &d &e &f &g &h &i
+E`  WS`  7`  Error in asynchronous mass web service configuration. &A&B&C&D&E
+E`  WS`  8`  DT-RT: &A
+E`  WS`  9`  SRT persistence initialization. &A&B&C&D&E
+E`  XI`  1`  Attempt by &A to access Integration Engine unauthorized
+E`  XI`  2`  Error when updating XI configuration cache. Category: &A, Id: &B
+E`  XI`  3`  A complete cache refresh was started in the background
+E`  XI`  4`  Error when creating license data &A
+E`  XI`  5`  XI unable to access SLD: "&A"
+E`  XI`  7`  Lock against multiple-execution triggered: &A
+E`  XI`  8`  XI Processing: &A

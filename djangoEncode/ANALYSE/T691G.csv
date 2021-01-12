@@ -1,0 +1,48 @@
+﻿SPRAS [C(00002)]`MANDT [C(00006)]`CRMGR [C(00004)]`CTLPC [C(00006)]`KKBER [C(00008)]`PRBEZ [C(00060)]
+E`  400`  01`  001`  0001`  High Risk Sales Orders
+E`  400`  02`  001`  0001`  High Risk Deliveries
+E`  400`  03`  001`  0001`  High Risk Goods Issue
+E`  400`  01`  A`  1000`  No Default Risk Orders
+E`  400`  01`  B`  1000`  Low Default Risk Orders
+E`  400`  01`  C`  1000`  Medium Default Risk Orders
+E`  400`  01`  D`  1000`  High Default Risk Orders
+E`  400`  01`  E`  1000`  Very High Default Risk Orders
+E`  400`  01`  A`  8570`  No Default Risk Orders
+E`  400`  01`  B`  8570`  Low Default Risk Orders
+E`  400`  01`  C`  8570`  Medium Default Risk Orders
+E`  400`  01`  D`  8570`  High Default Risk Orders
+E`  400`  01`  E`  8570`  Very High Default Risk Orders
+E`  400`  01`  A`  9700`  No Default Risk Orders
+E`  400`  01`  B`  9700`  Low Default Risk Orders
+E`  400`  01`  C`  9700`  Medium Default Risk Orders
+E`  400`  01`  D`  9700`  High Default Risk Orders
+E`  400`  01`  E`  9700`  Very High Default Risk Orders
+E`  400`  01`  KO1`  9700`  High Risk Sales Orders
+E`  400`  02`  KO1`  9700`  High Risk Delivery
+E`  400`  01`  KO2`  9700`  Middle Risk Sales Orders
+E`  400`  02`  KO2`  9700`  Middle Risk Delivery
+E`  400`  01`  KO3`  9700`  Low Risk Sales Orders
+E`  400`  02`  KO3`  9700`  Low Risk Delivery
+E`  400`  01`  A`  A930`  No Default Risk Orders
+E`  400`  02`  A`  A930`  No Default Risk Orders
+E`  400`  03`  A`  A930`  No Default Risk Orders
+E`  400`  01`  B`  A930`  Low Default Risk Orders
+E`  400`  01`  E`  A930`  Very High Default Risk Orders
+E`  400`  H1`  D`  H001`  High Risk Sales Orders
+E`  400`  H1`  H01`  H001`  High Risk Sales Orders
+E`  400`  H1`  H02`  H001`  High Risk Sales Orders
+E`  400`  01`  A`  ZF01`  No Default Risk Orders
+E`  400`  01`  B`  ZF01`  Low Default Risk Orders
+E`  400`  01`  C`  ZF01`  Medium Default Risk Orders
+E`  400`  01`  D`  ZF01`  High Default Risk Orders
+E`  400`  01`  E`  ZF01`  Very High Default Risk Orders
+E`  400`  01`  A`  ZS01`  No Default Risk Orders
+E`  400`  01`  B`  ZS01`  Low Default Risk Orders
+E`  400`  01`  C`  ZS01`  Medium Default Risk Orders
+E`  400`  01`  D`  ZS01`  High Default Risk Orders
+E`  400`  01`  E`  ZS01`  Very High Default Risk Orders
+E`  400`  01`  A`  ZZ40`  No Default Risk Orders
+E`  400`  01`  B`  ZZ40`  Low Default Risk Orders
+E`  400`  01`  C`  ZZ40`  Medium Default Risk Orders
+E`  400`  01`  D`  ZZ40`  High Default Risk Orders
+E`  400`  01`  E`  ZZ40`  Very High Default Risk Orders

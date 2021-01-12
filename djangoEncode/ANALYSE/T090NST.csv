@@ -1,0 +1,3292 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`AFAPL [C(00008)]`METSTU [C(00006)]`STUTXT [C(00100)]
+400`  E`  0JP`  222`  Straight-Line/Percent using Useful Life, 4,6000%
+400`  E`  0JP`  223`  Straight-Line/Percent using Useful Life, 4,4000%
+400`  E`  0JP`  224`  Straight-Line/Percent using Useful Life, 4,2000%
+400`  E`  0JP`  225`  Straight-Line/Percent using Useful Life, 4,0000%
+400`  E`  0JP`  226`  Straight-Line/Percent using Useful Life, 3,9000%
+400`  E`  0JP`  227`  Straight-Line/Percent using Useful Life, 3,8000%
+400`  E`  0JP`  228`  Straight-Line/Percent using Useful Life, 3,6000%
+400`  E`  0JP`  229`  Straight-Line/Percent using Useful Life, 3,5000%
+400`  E`  0JP`  230`  Straight-Line/Percent using Useful Life, 3,4000%
+400`  E`  0JP`  231`  Straight-Line/Percent using Useful Life, 3,3000%
+400`  E`  0JP`  232`  Straight-Line/Percent using Useful Life, 3,2000%
+400`  E`  0JP`  233`  Straight-Line/Percent using Useful Life, 3,1000%
+400`  E`  0JP`  234`  Straight-Line/Percent using Useful Life, 3,0000%
+400`  E`  0JP`  235`  Straight-Line/Percent using Useful Life, 2,9000%
+400`  E`  0JP`  236`  Straight-Line/Percent using Useful Life, 2,8000%
+400`  E`  0JP`  237`  Straight-Line/Percent using Useful Life, 2,7000%
+400`  E`  0JP`  238`  Straight-Line/Percent using Useful Life, 2,6000%
+400`  E`  0JP`  239`  Straight-Line/Percent using Useful Life, 2,5000%
+400`  E`  0JP`  242`  Straight-Line/Percent using Useful Life, 2,2000%
+400`  E`  0JP`  243`  Straight-Line/Percent using Useful Life, 2,1000%
+400`  E`  0JP`  244`  Straight-Line/Percent using Useful Life, 2,0000%
+400`  E`  0JP`  245`  Straight-Line/Percent using Useful Life, 1,9000%
+400`  E`  0JP`  246`  Straight-Line/Percent using Useful Life, 1,8000%
+400`  E`  0JP`  247`  Straight-Line/Percent using Useful Life, 1,7000%
+400`  E`  0JP`  248`  Straight-Line/Percent using Useful Life, 1,6000%
+400`  E`  0JP`  249`  Straight-Line/Percent using Useful Life, 1,5000%
+400`  E`  0JP`  250`  Straight-Line/Percent using Useful Life, 1,4000%
+400`  E`  0JP`  251`  Straight-Line/Percent using Useful Life, 1,3000%
+400`  E`  0JP`  252`  Straight-Line/Percent using Useful Life, 1,2000%
+400`  E`  0JP`  253`  Straight-Line/Percent using Useful Life, 1,1000%
+400`  E`  0JP`  254`  Straight-Line/Percent using Useful Life, 1,0000%
+400`  E`  0JP`  302`  Declining Balance using Useful Life, 100,0000%
+400`  E`  0JP`  303`  Declining Balance using Useful Life, 83,3000%
+400`  E`  0JP`  304`  Declining Balance using Useful Life, 62,5000%
+400`  E`  0JP`  305`  Declining Balance using Useful Life, 50,0000%
+400`  E`  0JP`  306`  Declining Balance using Useful Life, 41,7000%
+400`  E`  0JP`  307`  Declining Balance using Useful Life, 35,7000%
+400`  E`  0JP`  308`  Declining Balance using Useful Life, 31,3000%
+400`  E`  0JP`  309`  Declining Balance using Useful Life, 27,8000%
+400`  E`  0JP`  310`  Declining Balance using Useful Life, 25,0000%
+400`  E`  0JP`  311`  Declining Balance using Useful Life, 22,7000%
+400`  E`  0JP`  312`  Declining Balance using Useful Life, 20,8000%
+400`  E`  0JP`  313`  Declining Balance using Useful Life, 19,2000%
+400`  E`  0JP`  314`  Declining Balance using Useful Life, 17,9000%
+400`  E`  0JP`  315`  Declining Balance using Useful Life, 16,7000%
+400`  E`  0JP`  316`  Declining Balance using Useful Life, 15,6000%
+400`  E`  0JP`  317`  Declining Balance using Useful Life, 14,7000%
+400`  E`  0JP`  318`  Declining Balance using Useful Life, 13,9000%
+400`  E`  0JP`  319`  Declining Balance using Useful Life, 13,2000%
+400`  E`  0JP`  320`  Declining Balance using Useful Life, 12,5000%
+400`  E`  0JP`  321`  Declining Balance using Useful Life, 11,9000%
+400`  E`  0JP`  322`  Declining Balance using Useful Life, 11,4000%
+400`  E`  0JP`  323`  Declining Balance using Useful Life, 10,9000%
+400`  E`  0JP`  324`  Declining Balance using Useful Life, 10,4000%
+400`  E`  0JP`  325`  Declining Balance using Useful Life, 10,0000%
+400`  E`  0JP`  326`  Declining Balance using Useful Life, 9,6000%
+400`  E`  0JP`  327`  Declining Balance using Useful Life, 9,3000%
+400`  E`  0JP`  328`  Declining Balance using Useful Life, 8,9000%
+400`  E`  0JP`  329`  Declining Balance using Useful Life, 8,6000%
+400`  E`  0JP`  330`  Declining Balance using Useful Life, 8,3000%
+400`  E`  0JP`  331`  Declining Balance using Useful Life, 8,1000%
+400`  E`  0JP`  332`  Declining Balance using Useful Life, 7,8000%
+400`  E`  0JP`  333`  Declining Balance using Useful Life, 7,6000%
+400`  E`  0JP`  334`  Declining Balance using Useful Life, 7,4000%
+400`  E`  0JP`  335`  Declining Balance using Useful Life, 7,1000%
+400`  E`  0JP`  336`  Declining Balance using Useful Life, 6,9000%
+400`  E`  0JP`  337`  Declining Balance using Useful Life, 6,8000%
+400`  E`  0JP`  338`  Declining Balance using Useful Life, 6,6000%
+400`  E`  0JP`  339`  Declining Balance using Useful Life, 6,4000%
+400`  E`  0JP`  340`  Declining Balance using Useful Life, 6,3000%
+400`  E`  0JP`  001`   0.0000%,  net book value with remaining life
+400`  E`  0JP`  005`  Decl-bal. over useful life 2 yrs  68.4000%
+400`  E`  0JP`  006`  Decl-bal. over useful life 3 yrs  53.6000%
+400`  E`  0JP`  007`  Decl-bal. over useful life 4 yrs  43.8000%
+400`  E`  0JP`  008`  Decl-bal. over useful life 5 yrs  36.9000%
+400`  E`  0JP`  009`  Decl-bal. over useful life 6 yrs  31.9000%
+400`  E`  0JP`  010`  Decl-bal. over useful life 7 yrs  28.0000%
+400`  E`  0JP`  011`  Decl-bal. over useful life 8 yrs  25.0000%
+400`  E`  0JP`  012`  Decl-bal. over useful life 9 yrs  22.6000%
+400`  E`  0JP`  013`  Decl-bal. over useful life 10 yrs  20.6000%
+400`  E`  0JP`  014`  Decl-bal. over useful life 11 yrs 18.9000%
+400`  E`  0JP`  015`  Decl-bal. over useful life 12 yrs 17.5000%
+400`  E`  0JP`  016`  Decl-bal. over useful life 13 yrs  16.2000%
+400`  E`  0JP`  017`  Decl-bal. over useful life 14 yrs  15.2000%
+400`  E`  0JP`  018`  Decl-bal. over useful life 15 yrs  14.2000%
+400`  E`  0JP`  019`  Decl-bal. over useful life 16 yrs  13.4000%
+400`  E`  0JP`  020`  Decl-bal. over useful life 17 yrs  12.7000%
+400`  E`  0JP`  021`  Decl-bal. over useful life 18 yrs  12.0000%
+400`  E`  0JP`  022`  Decl-bal. over useful life 19 yrs  11.4000%
+400`  E`  0JP`  023`  Decl-bal. over useful life 20 yrs  10.9000%
+400`  E`  0JP`  024`  Decl-bal. over useful life 21 yrs 10.4000%
+400`  E`  0JP`  025`  Decl-bal. over useful life 22 yrs   9.9000%
+400`  E`  0JP`  026`  Decl-bal. over useful life 23 yrs   9.5000%
+400`  E`  0JP`  027`  Decl-bal. over useful life 24 yrs   9.2000%
+400`  E`  0JP`  028`  Decl-bal. over useful life 25 yrs   8.8000%
+400`  E`  0JP`  029`  Decl-bal. over useful life 26 yrs   8.5000%
+400`  E`  0JP`  030`  Decl-bal. over useful life 27 yrs   8.2000%
+400`  E`  0JP`  031`  Decl-bal. over useful life 28 yrs   7.9000%
+400`  E`  0JP`  032`  Decl-bal. over useful life 29 yrs   7.6000%
+400`  E`  0JP`  033`  Decl-bal. over useful life 30 yrs   7.4000%
+400`  E`  0JP`  034`  Decl-bal. over useful life 31 yrs   7.2000%
+400`  E`  0JP`  035`  Decl-bal. over useful life 32 yrs   6.9000%
+400`  E`  0JP`  036`  Decl-bal. over useful life 33 yrs   6.7000%
+400`  E`  0JP`  037`  Decl-bal. over useful life 34 yrs   6.6000%
+400`  E`  0JP`  038`  Decl-bal. over useful life 35 yrs   6.4000%
+400`  E`  0JP`  039`  Decl-bal. over useful life 36 yrs   6.2000%
+400`  E`  0JP`  040`  Decl-bal. over useful life 37 yrs   6.0000%
+400`  E`  0JP`  041`  Decl-bal. over useful life 38 yrs   5.9000%
+400`  E`  0JP`  042`  Decl-bal. over useful life 39 yrs   5.7000%
+400`  E`  0JP`  043`  Decl-bal. over useful life 40 yrs   5.6000%
+400`  E`  0JP`  044`  Decl-bal. over useful life 41 yrs   5.5000%
+400`  E`  0JP`  045`  Decl-bal. over useful life 42 yrs   5.3000%
+400`  E`  0JP`  046`  Decl-bal. over useful life 43 yrs   5.2000%
+400`  E`  0JP`  047`  Decl-bal. over useful life 44 yrs   5.1000%
+400`  E`  0JP`  048`  Decl-bal. over useful life 45 yrs   5.0000%
+400`  E`  0JP`  049`  Decl-bal. over useful life 46 yrs   4.9000%
+400`  E`  0JP`  050`  Decl-bal. over useful life 47 yrs   4.8000%
+400`  E`  0JP`  051`  Decl-bal. over useful life 48 yrs   4.7000%
+400`  E`  0JP`  052`  Decl-bal. over useful life 49 yrs   4.6000%
+400`  E`  0JP`  053`  Decl-bal. over useful life 50 yrs   4.5000%
+400`  E`  0JP`  054`  Decl-bal. over useful life 51 yrs   4.4000%
+400`  E`  0JP`  055`  Decl-bal. over useful life 52-53 yrs  4.3000%
+400`  E`  0JP`  056`  Decl-bal. over useful life 54 yrs   4.2000%
+400`  E`  0JP`  057`  Decl-bal. over useful life 55 yrs   4.1000%
+400`  E`  0JP`  058`  Decl-bal. over useful life 56-57 yrs   4.0000%
+400`  E`  0JP`  059`  Decl-bal. over useful life 58 yrs   3.9000%
+400`  E`  0JP`  060`  Decl-bal. over useful life 59-60 yrs   3.8000%
+400`  E`  0JP`  061`  Decl-bal. over useful life 61 yrs   3.7000%
+400`  E`  0JP`  062`  Decl-bal. over useful life 62-63 yrs   3.6000%
+400`  E`  0JP`  063`  Decl-bal. over useful life 64-65 yrs   3.5000%
+400`  E`  0JP`  064`  Decl-bal. over useful life 66-67 yrs   3.4000%
+400`  E`  0JP`  065`  Decl-bal. over useful life 68-69 yrs   3.3000%
+400`  E`  0JP`  066`  Decl-bal. over useful life 70-72 yrs   3.2000%
+400`  E`  0JP`  067`  Decl-bal. over useful life 73-74 yrs   3.1000%
+400`  E`  0JP`  068`  Decl-bal. over useful life 75-77 yrs   3.0000%
+400`  E`  0JP`  069`  Decl-bal. over useful life 78 yrs   2.9000%
+400`  E`  0JP`  070`  Decl-bal. over useful life 79 yrs   2.8000%
+400`  E`  0JP`  071`  Str.-line/prct over useful life 2 yrs    50.0000%
+400`  E`  0JP`  072`  Str.-line/prct over useful life 3 yrs    33.3000%
+400`  E`  0JP`  073`  Str.-line/prct over useful life 4 yrs  25.0000%
+400`  E`  0JP`  074`  Str.-line/prct over useful life 5 yrs  20.0000%
+400`  E`  0JP`  075`  Str.-line/prct over useful life 6 yrs  16.6000%
+400`  E`  0JP`  076`  Str.-line/prct over useful life 7 yrs  14.2000%
+400`  E`  0JP`  077`  Str.-line/prct over useful life 8 yrs  12.5000%
+400`  E`  0JP`  078`  Str.-line/prct over useful life 9 yrs  11.1000%
+400`  E`  0JP`  079`  Str.-line/prct over useful life 10 yrs 10.0000%
+400`  E`  0JP`  080`  Str.-line/prct over useful life 11 yrs   9.0000%
+400`  E`  0JP`  081`  Str.-line/prct over useful life 12 yrs   8.3000%
+400`  E`  0JP`  082`  Str.-line/prct over useful life 13 yrs   7.6000%
+400`  E`  0JP`  083`  Str.-line/prct over useful life 14 yrs   7.1000%
+400`  E`  0JP`  084`  Str.-line/prct over useful life 15 yrs   6.6000%
+400`  E`  0JP`  085`  Str.-line/prct over useful life 16 yrs   6.2000%
+400`  E`  0JP`  086`  Str.-line/prct over useful life 17 yrs   5.8000%
+400`  E`  0JP`  087`  Str.-line/prct over useful life 18 yrs   5.5000%
+400`  E`  0JP`  088`  Str.-line/prct over useful life 19 yrs   5.2000%
+400`  E`  0JP`  089`  Str.-line/prct over useful life 20 yrs   5.0000%
+400`  E`  0JP`  090`  Str.-line/prct over useful life 21 yrs   4.8000%
+400`  E`  0JP`  091`  Str.-line/prct over useful life 22 yrs   4.6000%
+400`  E`  0JP`  092`  Str.-line/prct over useful life 23 yrs   4.4000%
+400`  E`  0JP`  093`  Str.-line/prct over useful life 24 yrs   4.2000%
+400`  E`  0JP`  094`  Str.-line/prct over useful life 25 yrs   4.0000%
+400`  E`  0JP`  095`  Str.-line/prct over useful life 26 yrs   3.9000%
+400`  E`  0JP`  096`  Str.-line/prct over useful life 27 yrs   3.7000%
+400`  E`  0JP`  097`  Str.-line/prct over useful life 28 yrs   3.6000%
+400`  E`  0JP`  098`  Str.-line/prct over useful life 29 yrs   3.5000%
+400`  E`  0JP`  099`  Str.-line/prct over useful life 30 yrs   3.4000%
+400`  E`  0JP`  100`  Str.-line/prct over useful life 31 yrs   3.3000%
+400`  E`  0JP`  101`  Str.-line/prct over useful life 32 yrs   3.2000%
+400`  E`  0JP`  102`  Str.-line/prct over useful life 33 yrs   3.1000%
+400`  E`  0JP`  103`  Str.-line/prct over useful life 34 yrs   3.0000%
+400`  E`  0JP`  104`  Str.-line/prct over useful life 35 yrs   2.9000%
+400`  E`  0JP`  105`  Str.-line/prct over useful life 36 yrs   2.8000%
+400`  E`  0JP`  106`  Str.-line/prct ovr useful life 37-38 yrs  2.7000%
+400`  E`  0JP`  107`  Str.-line/prct over useful life 39 yrs   2.6000%
+400`  E`  0JP`  108`  Str.-line/prct ovr useful life 40-41 yrs  2.5000%
+400`  E`  0JP`  109`  Str.-line/prct ovr useful life 42-43 yrs  2.4000%
+400`  E`  0JP`  110`  Str.-line/prct ovr useful life 44-45 yrs  2.3000%
+400`  E`  0JP`  111`  Str.-line/prct ovr useful life 46-47 yrs  2.2000%
+400`  E`  0JP`  112`  Str.-line/prct ovr useful life 48-49 yrs  2.1000%
+400`  E`  0JP`  113`  Str.-line/prct ovr useful life 50-52 yrs  2.0000%
+400`  E`  0JP`  114`  Str.-line/prct ovr useful life 53-55 yrs  1.9000%
+400`  E`  0JP`  115`  Str.-line/prct ovr useful life 56-58 yrs  1.8000%
+400`  E`  0JP`  116`  Str.-line/prct ovr useful life 59-62 yrs  1.7000%
+400`  E`  0JP`  117`  Str.-line/prct ovr useful life 63-66 yrs  1.6000%
+400`  E`  0JP`  118`  Str.-line/prct ovr useful life 67-70 yrs  1.5000%
+400`  E`  0JP`  119`  Str.-line/prct ovr useful life 71-76 yrs  1.4000%
+400`  E`  0JP`  120`  Str.-line/prct ovr useful life 77-80 yrs  1.3000%
+400`  E`  0JP`  121`   0.0000%, replacement value
+400`  E`  0JP`  125`   0.0000%, acquisition value
+400`  E`  0JP`  128`  Japanese Straight-Line, Base Reduction G1
+400`  E`  0JP`  129`  Japanese Straight-Line, Base Reduction 0%
+400`  E`  0JP`  130`  Japanese Declining Balance Japanese
+400`  E`  0JP`  131`  Japanese Straight-Line, Base Reduction -2006
+400`  E`  0JP`  132`  Japanese Impairment, Declining Balance Japanese
+400`  E`  0JP`  133`  Japanese Impairment, Straight-Line
+400`  E`  0JP`  202`  Straight-Line/Percent using Useful Life, 50,0000%
+400`  E`  0JP`  203`  Straight-Line/Percent using Useful Life, 33,4000%
+400`  E`  0JP`  204`  Straight-Line/Percent using Useful Life, 25,0000%
+400`  E`  0JP`  205`  Straight-Line/Percent using Useful Life, 20,0000%
+400`  E`  0JP`  206`  Straight-Line/Percent using Useful Life, 16,7000%
+400`  E`  0JP`  207`  Straight-Line/Percent using Useful Life, 14,3000%
+400`  E`  0JP`  208`  Straight-Line/Percent using Useful Life, 12,5000%
+400`  E`  0JP`  209`  Straight-Line/Percent using Useful Life, 11,2000%
+400`  E`  0JP`  210`  Straight-Line/Percent using Useful Life, 10,0000%
+400`  E`  0JP`  211`  Straight-Line/Percent using Useful Life, 9,1000%
+400`  E`  0JP`  212`  Straight-Line/Percent using Useful Life, 8,4000%
+400`  E`  0JP`  213`  Straight-Line/Percent using Useful Life, 7,7000%
+400`  E`  0JP`  214`  Straight-Line/Percent using Useful Life, 7,2000%
+400`  E`  0JP`  215`  Straight-Line/Percent using Useful Life, 6,7000%
+400`  E`  0JP`  216`  Straight-Line/Percent using Useful Life, 6,3000%
+400`  E`  0JP`  217`  Straight-Line/Percent using Useful Life, 5,9000%
+400`  E`  0JP`  218`  Straight-Line/Percent using Useful Life, 5,6000%
+400`  E`  0JP`  219`  Straight-Line/Percent using Useful Life, 5,3000%
+400`  E`  0JP`  220`  Straight-Line/Percent using Useful Life, 5,0000%
+400`  E`  0JP`  221`  Straight-Line/Percent using Useful Life, 4,8000%
+400`  E`  0JP`  240`  Straight-Line/Percent using Useful Life, 2,4000%
+400`  E`  0JP`  241`  Straight-Line/Percent using Useful Life, 2,3000%
+400`  E`  0JP`  341`  Declining Balance using Useful Life, 6,1000%
+400`  E`  0JP`  342`  Declining Balance using Useful Life, 6,0000%
+400`  E`  0JP`  343`  Declining Balance using Useful Life, 5,8000%
+400`  E`  0JP`  344`  Declining Balance using Useful Life, 5,7000%
+400`  E`  0JP`  345`  Declining Balance using Useful Life, 5,6000%
+400`  E`  0JP`  346`  Declining Balance using Useful Life, 5,4000%
+400`  E`  0JP`  347`  Declining Balance using Useful Life, 5,3000%
+400`  E`  0JP`  348`  Declining Balance using Useful Life, 5,2000%
+400`  E`  0JP`  349`  Declining Balance using Useful Life, 5,1000%
+400`  E`  0JP`  350`  Declining Balance using Useful Life, 5,0000%
+400`  E`  0JP`  351`  Declining Balance using Useful Life, 4,9000%
+400`  E`  0JP`  352`  Declining Balance using Useful Life, 4,8000%
+400`  E`  0JP`  353`  Declining Balance using Useful Life, 4,7000%
+400`  E`  0JP`  354`  Declining Balance using Useful Life, 4,6000%
+400`  E`  0JP`  355`  Declining Balance using Useful Life, 4,5000%
+400`  E`  0JP`  356`  Declining Balance using Useful Life, 4,4000%
+400`  E`  0JP`  357`  Declining Balance using Useful Life, 4,3000%
+400`  E`  0JP`  358`  Declining Balance using Useful Life, 4,2000%
+400`  E`  0JP`  359`  Declining Balance using Useful Life, 4,1000%
+400`  E`  0JP`  360`  Declining Balance using Useful Life, 4,0000%
+400`  E`  0JP`  361`  Declining Balance using Useful Life, 3,9000%
+400`  E`  0JP`  362`  Declining Balance using Useful Life, 3,8000%
+400`  E`  0JP`  363`  Declining Balance using Useful Life, 3,7000%
+400`  E`  0JP`  364`  Declining Balance using Useful Life, 3,6000%
+400`  E`  0JP`  365`  Declining Balance using Useful Life, 3,5000%
+400`  E`  0JP`  366`  Declining Balance using Useful Life, 3,4000%
+400`  E`  0JP`  367`  Declining Balance using Useful Life, 3,3000%
+400`  E`  0JP`  368`  Declining Balance using Useful Life, 3,2000%
+400`  E`  0JP`  369`  Declining Balance using Useful Life, 3,1000%
+400`  E`  0JP`  370`  Declining Balance using Useful Life, 3,0000%
+400`  E`  0JP`  371`  Declining Balance using Useful Life, 2,9000%
+400`  E`  0JP`  372`  Declining Balance using Useful Life, 2,8000%
+400`  E`  0JP`  373`  Declining Balance using Useful Life, 2,7000%
+400`  E`  0JP`  374`  Declining Balance using Useful Life, 2,6000%
+400`  E`  0JP`  375`  Declining Balance using Useful Life, 2,5000%
+400`  E`  0JP`  401`  Revised/Percent using Useful Life, 100,0000%
+400`  E`  0JP`  402`  Revised/Percent using Useful Life, 50,0000%
+400`  E`  0JP`  403`  Revised/Percent using Useful Life, 33,4000%
+400`  E`  0JP`  404`  Revised/Percent using Useful Life, 25,0000%
+400`  E`  0JP`  405`  Revised/Percent using Useful Life, 20,0000%
+400`  E`  0JP`  406`  Revised/Percent using Useful Life, 16,7000%
+400`  E`  0JP`  407`  Revised/Percent using Useful Life, 14,3000%
+400`  E`  0JP`  408`  Revised/Percent using Useful Life, 12,5000%
+400`  E`  0JP`  409`  Revised/Percent using Useful Life, 11,2000%
+400`  E`  0JP`  410`  Revised/Percent using Useful Life, 10,0000%
+400`  E`  0JP`  411`  Revised/Percent using Useful Life, 9,1000%
+400`  E`  0JP`  412`  Revised/Percent using Useful Life, 8,4000%
+400`  E`  0JP`  413`  Revised/Percent using Useful Life, 7,7000%
+400`  E`  0JP`  414`  Revised/Percent using Useful Life, 7,2000%
+400`  E`  0JP`  415`  Revised/Percent using Useful Life, 6,7000%
+400`  E`  0JP`  416`  Revised/Percent using Useful Life, 6,3000%
+400`  E`  0JP`  417`  Revised/Percent using Useful Life, 5,9000%
+400`  E`  0JP`  418`  Revised/Percent using Useful Life, 5,6000%
+400`  E`  0JP`  419`  Revised/Percent using Useful Life, 5,3000%
+400`  E`  0JP`  420`  Revised/Percent using Useful Life, 5,0000%
+400`  E`  0JP`  421`  Revised/Percent using Useful Life, 4,8000%
+400`  E`  0JP`  422`  Revised/Percent using Useful Life, 4,6000%
+400`  E`  0JP`  423`  Revised/Percent using Useful Life, 4,4000%
+400`  E`  0JP`  424`  Revised/Percent using Useful Life, 4,2000%
+400`  E`  0JP`  425`  Revised/Percent using Useful Life, 4,0000%
+400`  E`  0JP`  426`  Revised/Percent using Useful Life, 3,9000%
+400`  E`  0JP`  427`  Revised/Percent using Useful Life, 3,8000%
+400`  E`  0JP`  428`  Revised/Percent using Useful Life, 3,6000%
+400`  E`  0JP`  429`  Revised/Percent using Useful Life, 3,5000%
+400`  E`  0JP`  430`  Revised/Percent using Useful Life, 3,4000%
+400`  E`  0JP`  431`  Revised/Percent using Useful Life, 3,3000%
+400`  E`  0JP`  432`  Revised/Percent using Useful Life, 3,2000%
+400`  E`  0JP`  433`  Revised/Percent using Useful Life, 3,1000%
+400`  E`  0JP`  434`  Revised/Percent using Useful Life, 3,0000%
+400`  E`  0JP`  435`  Revised/Percent using Useful Life, 2,9000%
+400`  E`  0JP`  436`  Revised/Percent using Useful Life, 2,7000%
+400`  E`  0JP`  437`  Revised/Percent using Useful Life, 2,6000%
+400`  E`  0AR`  001`   0.0000%
+400`  E`  0AT`  001`   0.0000%
+400`  E`  0BE`  001`   0.0000%
+400`  E`  0BR`  001`   0.0000%
+400`  E`  0CA`  001`   0.0000%
+400`  E`  0CH`  001`   0.0000%
+400`  E`  0CN`  001`   0.0000%
+400`  E`  0CO`  001`   0.0000%
+400`  E`  0CZ`  001`   0.0000%
+400`  E`  0DE`  001`   0.0000%
+400`  E`  0DK`  001`   0.0000%
+400`  E`  0ES`  001`   0.0000%
+400`  E`  0FI`  001`   0.0000%
+400`  E`  0FR`  001`   0.0000%
+400`  E`  0GB`  001`   0.0000%
+400`  E`  0HK`  001`   0.0000%
+400`  E`  0IE`  001`   0.0000%
+400`  E`  0IN`  001`   0.0000%
+400`  E`  0IT`  001`   0.0000%
+400`  E`  0KR`  001`   0.0000%
+400`  E`  0LU`  001`   0.0000%
+400`  E`  0MX`  001`   0.0000%
+400`  E`  0MY`  001`   0.0000%
+400`  E`  0NL`  001`   0.0000%
+400`  E`  0PE`  001`   0.0000%
+400`  E`  0PH`  001`   0.0000%
+400`  E`  0PL`  001`   0.0000%
+400`  E`  0PT`  001`   0.0000%
+400`  E`  0RU`  001`   0.0000%
+400`  E`  0SE`  001`   0.0000%
+400`  E`  0SG`  001`   0.0000%
+400`  E`  0SK`  001`   0.0000%
+400`  E`  0TH`  001`   0.0000%
+400`  E`  0TW`  001`   0.0000%
+400`  E`  0US`  001`   0.0000%
+400`  E`  0VE`  001`   0.0000%
+400`  E`  0ZA`  001`   0.0000%
+400`  E`  BJDM`  001`   0.0000%
+400`  E`  CN02`  001`   0.0000%
+400`  E`  XXGS`  001`   0.0000%
+400`  E`  M009`  001`   0.0000%
+400`  E`  0AR`  002`   0.0000%
+400`  E`  0BE`  002`   0.0000%
+400`  E`  0CA`  002`   0.0000%
+400`  E`  0CN`  002`   0.0000%
+400`  E`  0CO`  002`   0.0000%
+400`  E`  0CZ`  002`   0.0000%
+400`  E`  0DE`  002`   0.0000%
+400`  E`  0DK`  002`   0.0000%
+400`  E`  0FR`  002`   0.0000%
+400`  E`  0GB`  002`   0.0000%
+400`  E`  0HK`  002`   0.0000%
+400`  E`  0IE`  002`   0.0000%
+400`  E`  0IN`  002`   0.0000%
+400`  E`  0KR`  002`   0.0000%
+400`  E`  0LU`  002`   0.0000%
+400`  E`  0MX`  002`   0.0000%
+400`  E`  0MY`  002`   0.0000%
+400`  E`  0NL`  002`   0.0000%
+400`  E`  0PE`  002`   0.0000%
+400`  E`  0PH`  002`   0.0000%
+400`  E`  0PL`  002`   0.0000%
+400`  E`  0SE`  002`   0.0000%
+400`  E`  0SG`  002`   0.0000%
+400`  E`  0SK`  002`   0.0000%
+400`  E`  0TH`  002`   0.0000%
+400`  E`  0TW`  002`   0.0000%
+400`  E`  0VE`  002`   0.0000%
+400`  E`  0ZA`  002`   0.0000%
+400`  E`  BJDM`  002`   0.0000%
+400`  E`  CN02`  002`   0.0000%
+400`  E`  XXGS`  002`   0.0000%
+400`  E`  M009`  002`   0.0000%
+400`  E`  0AT`  005`   0.0000%
+400`  E`  0BR`  005`   0.0000%
+400`  E`  0CN`  005`   0.0000%
+400`  E`  0HK`  005`   0.0000%
+400`  E`  0MX`  005`   0.0000%
+400`  E`  0PE`  005`   0.0000%
+400`  E`  0SE`  005`   0.0000%
+400`  E`  0VE`  005`   0.0000%
+400`  E`  BJDM`  005`   0.0000%
+400`  E`  CN02`  005`   0.0000%
+400`  E`  XXGS`  005`   0.0000%
+400`  E`  M009`  005`   0.0000%
+400`  E`  0AT`  003`   0.0000%
+400`  E`  0BE`  003`   0.0000%
+400`  E`  0BR`  003`   0.0000%
+400`  E`  0ES`  003`   0.0000%
+400`  E`  0FR`  003`   0.0000%
+400`  E`  0IT`  003`   0.0000%
+400`  E`  0LU`  003`   0.0000%
+400`  E`  0PL`  003`   0.0000%
+400`  E`  0PT`  003`   0.0000%
+400`  E`  0AR`  009`   0.0000%
+400`  E`  0CA`  009`   0.0000%
+400`  E`  0DK`  009`   0.0000%
+400`  E`  0FI`  009`   0.0000%
+400`  E`  0KR`  009`   0.0000%
+400`  E`  0MY`  009`   0.0000%
+400`  E`  0PH`  009`   0.0000%
+400`  E`  0DE`  010`   0.0000%
+400`  E`  0GB`  010`   0.0000%
+400`  E`  0IE`  010`   0.0000%
+400`  E`  0IN`  010`   0.0000%
+400`  E`  0SG`  010`   0.0000%
+400`  E`  0ZA`  010`   0.0000%
+400`  E`  0BE`  006`   0.0000%
+400`  E`  0BR`  006`   0.0000%
+400`  E`  0FR`  006`   0.0000%
+400`  E`  0LU`  006`   0.0000%
+400`  E`  0NL`  006`   0.0000%
+400`  E`  0CO`  011`   0.0000%
+400`  E`  0CZ`  011`   0.0000%
+400`  E`  0KR`  011`   0.0000%
+400`  E`  0PH`  011`   0.0000%
+400`  E`  0SK`  011`   0.0000%
+400`  E`  0CN`  008`   0.0000%
+400`  E`  0FR`  008`   0.0000%
+400`  E`  0SE`  008`   0.0000%
+400`  E`  BJDM`  008`   0.0000%
+400`  E`  CN02`  008`   0.0000%
+400`  E`  XXGS`  008`   0.0000%
+400`  E`  M009`  008`   0.0000%
+400`  E`  0GB`  016`   0.0000%
+400`  E`  0IE`  016`   0.0000%
+400`  E`  0IN`  016`   0.0000%
+400`  E`  0MY`  016`   0.0000%
+400`  E`  0SG`  016`   0.0000%
+400`  E`  0AR`  012`   0.0000%
+400`  E`  0CA`  012`   0.0000%
+400`  E`  0DK`  012`   0.0000%
+400`  E`  0MY`  012`   0.0000%
+400`  E`  0AR`  013`   0.0000%
+400`  E`  0AR`  018`   0.0000%
+400`  E`  0DE`  013`   0.0000%
+400`  E`  0DE`  018`   0.0000%
+400`  E`  0FI`  018`   0.0000%
+400`  E`  0IT`  013`   0.0000%
+400`  E`  0AR`  026`   0.0000%
+400`  E`  0CO`  007`   0.0000%
+400`  E`  0CZ`  015`   0.0000%
+400`  E`  0DE`  026`   0.0000%
+400`  E`  0FI`  007`   0.0000%
+400`  E`  0FI`  017`   0.0000%
+400`  E`  0MY`  017`   0.0000%
+400`  E`  0SK`  015`   0.0000%
+400`  E`  0TW`  125`   0.0000%
+400`  E`  0CH`  029`   0.0000%
+400`  E`  0CH`  031`   0.0000%
+400`  E`  0RU`  074`   0.0000%
+400`  E`  0RU`  075`   0.0000%
+400`  E`  0TW`  121`   0.0000%
+400`  E`  0TW`  124`   0.0000%
+400`  E`  0US`  045`   0.0000%
+400`  E`  0US`  052`   0.0000%
+400`  E`  0MY`  019`   0.0000%
+400`  E`  0AR`  011`  10.0000%
+400`  E`  0CA`  011`  10.0000%
+400`  E`  0DE`  011`  10.0000%
+400`  E`  0DK`  011`  10.0000%
+400`  E`  0GB`  011`  10.0000%
+400`  E`  0IE`  011`  10.0000%
+400`  E`  0IN`  011`  10.0000%
+400`  E`  0IT`  011`  10.0000%
+400`  E`  0MY`  011`  10.0000%
+400`  E`  0SG`  011`  10.0000%
+400`  E`  0ZA`  011`  10.0000%
+400`  E`  1010`  011`  10.0000%
+400`  E`  4410`  011`  10.0000%
+400`  E`  6410`  011`  10.0000%
+400`  E`  1310`  011`  10.0000%
+400`  E`  1110`  011`  10.0000%
+400`  E`  6310`  011`  10.0000%
+400`  E`  3610`  011`  10.0000%
+400`  E`  6110`  011`  10.0000%
+400`  E`  1910`  011`  10.0000%
+400`  E`  5910`  011`  10.0000%
+400`  E`  1610`  011`  10.0000%
+400`  E`  2810`  011`  10.0000%
+400`  E`  5810`  011`  10.0000%
+400`  E`  6910`  011`  10.0000%
+400`  E`  3710`  011`  10.0000%
+400`  E`  5410`  011`  10.0000%
+400`  E`  5510`  011`  10.0000%
+400`  E`  3310`  011`  10.0000%
+400`  E`  4310`  011`  10.0000%
+400`  E`  2310`  011`  10.0000%
+400`  E`  1810`  011`  10.0000%
+400`  E`  4210`  011`  10.0000%
+400`  E`  5110`  011`  10.0000%
+400`  E`  6210`  011`  10.0000%
+400`  E`  2410`  011`  10.0000%
+400`  E`  3010`  011`  10.0000%
+400`  E`  3910`  011`  10.0000%
+400`  E`  0DE`  012`  10.0000%
+400`  E`  0GB`  012`  10.0000%
+400`  E`  0IE`  012`  10.0000%
+400`  E`  0IN`  012`  10.0000%
+400`  E`  0SG`  012`  10.0000%
+400`  E`  0ZA`  012`  10.0000%
+400`  E`  1010`  012`  10.0000%
+400`  E`  4410`  012`  10.0000%
+400`  E`  6410`  012`  10.0000%
+400`  E`  1310`  012`  10.0000%
+400`  E`  1110`  012`  10.0000%
+400`  E`  6310`  012`  10.0000%
+400`  E`  3610`  012`  10.0000%
+400`  E`  6110`  012`  10.0000%
+400`  E`  1910`  012`  10.0000%
+400`  E`  5910`  012`  10.0000%
+400`  E`  1610`  012`  10.0000%
+400`  E`  2810`  012`  10.0000%
+400`  E`  3010`  012`  10.0000%
+400`  E`  3910`  012`  10.0000%
+400`  E`  5810`  012`  10.0000%
+400`  E`  6910`  012`  10.0000%
+400`  E`  3710`  012`  10.0000%
+400`  E`  5410`  012`  10.0000%
+400`  E`  5510`  012`  10.0000%
+400`  E`  3310`  012`  10.0000%
+400`  E`  4310`  012`  10.0000%
+400`  E`  2310`  012`  10.0000%
+400`  E`  1810`  012`  10.0000%
+400`  E`  4210`  012`  10.0000%
+400`  E`  5110`  012`  10.0000%
+400`  E`  6210`  012`  10.0000%
+400`  E`  2410`  012`  10.0000%
+400`  E`  0CL`  007`  10.0000%
+400`  E`  0CN`  007`  10.0000%
+400`  E`  0ES`  007`  10.0000%
+400`  E`  0MX`  007`  10.0000%
+400`  E`  0NL`  007`  10.0000%
+400`  E`  0PE`  007`  10.0000%
+400`  E`  0PT`  007`  10.0000%
+400`  E`  0SE`  007`  10.0000%
+400`  E`  0VE`  007`  10.0000%
+400`  E`  BJDM`  007`  10.0000%
+400`  E`  CN02`  007`  10.0000%
+400`  E`  XXGS`  007`  10.0000%
+400`  E`  M009`  007`  10.0000%
+400`  E`  0AT`  004`  10.0000%
+400`  E`  0BE`  004`  10.0000%
+400`  E`  0BR`  004`  10.0000%
+400`  E`  0CL`  004`  10.0000%
+400`  E`  0HK`  004`  10.0000%
+400`  E`  0LU`  004`  10.0000%
+400`  E`  0MX`  004`  10.0000%
+400`  E`  0PE`  004`  10.0000%
+400`  E`  0VE`  004`  10.0000%
+400`  E`  0CL`  003`  10.0000%
+400`  E`  0CO`  003`  10.0000%
+400`  E`  0HK`  003`  10.0000%
+400`  E`  0MX`  003`  10.0000%
+400`  E`  0PE`  003`  10.0000%
+400`  E`  0VE`  003`  10.0000%
+400`  E`  0ES`  008`  10.0000%
+400`  E`  0FI`  008`  10.0000%
+400`  E`  0NL`  008`  10.0000%
+400`  E`  0PL`  008`  10.0000%
+400`  E`  0PT`  008`  10.0000%
+400`  E`  4510`  008`  10.0000%
+400`  E`  0AR`  010`  10.0000%
+400`  E`  0CA`  010`  10.0000%
+400`  E`  0DK`  010`  10.0000%
+400`  E`  0IT`  010`  10.0000%
+400`  E`  0MY`  010`  10.0000%
+400`  E`  0CN`  006`  10.0000%
+400`  E`  0SE`  006`  10.0000%
+400`  E`  BJDM`  006`  10.0000%
+400`  E`  CN02`  006`  10.0000%
+400`  E`  XXGS`  006`  10.0000%
+400`  E`  M009`  006`  10.0000%
+400`  E`  0BE`  005`  10.0000%
+400`  E`  0CZ`  016`  10.0000%
+400`  E`  0CZ`  017`  10.0000%
+400`  E`  0FI`  016`  10.0000%
+400`  E`  0LU`  005`  10.0000%
+400`  E`  0SK`  016`  10.0000%
+400`  E`  0SK`  017`  10.0000%
+400`  E`  0CH`  024`  10.0000%
+400`  E`  2110`  016`  10.0000%
+400`  E`  2110`  017`  10.0000%
+400`  E`  4510`  016`  10.0000%
+400`  E`  2210`  024`  10.0000%
+400`  E`  0CH`  030`  10.0000%
+400`  E`  0RU`  050`  10.0000%
+400`  E`  0TW`  122`  10.0000%
+400`  E`  0TW`  123`  10.0000%
+400`  E`  2610`  043`  10.0000%
+400`  E`  2110`  X07`  10.0000%
+400`  E`  2210`  030`  10.0000%
+400`  E`  0AR`  024`  ---
+400`  E`  0DE`  024`  ---
+400`  E`  0MY`  024`  ---
+400`  E`  1010`  024`  ---
+400`  E`  4410`  024`  ---
+400`  E`  6410`  024`  ---
+400`  E`  1310`  024`  ---
+400`  E`  1110`  024`  ---
+400`  E`  6310`  024`  ---
+400`  E`  3610`  024`  ---
+400`  E`  6110`  024`  ---
+400`  E`  1910`  024`  ---
+400`  E`  5910`  024`  ---
+400`  E`  1610`  024`  ---
+400`  E`  2810`  024`  ---
+400`  E`  5810`  024`  ---
+400`  E`  6910`  024`  ---
+400`  E`  3710`  024`  ---
+400`  E`  5410`  024`  ---
+400`  E`  5510`  024`  ---
+400`  E`  3310`  024`  ---
+400`  E`  4310`  024`  ---
+400`  E`  2310`  024`  ---
+400`  E`  1810`  024`  ---
+400`  E`  4210`  024`  ---
+400`  E`  5110`  024`  ---
+400`  E`  6210`  024`  ---
+400`  E`  2410`  024`  ---
+400`  E`  3010`  024`  ---
+400`  E`  3910`  024`  ---
+400`  E`  1410`  024`  ---
+400`  E`  0AR`  023`  ---
+400`  E`  0DE`  023`  ---
+400`  E`  1010`  023`  ---
+400`  E`  4410`  023`  ---
+400`  E`  6410`  023`  ---
+400`  E`  1310`  023`  ---
+400`  E`  1110`  023`  ---
+400`  E`  6310`  023`  ---
+400`  E`  3610`  023`  ---
+400`  E`  6110`  023`  ---
+400`  E`  1910`  023`  ---
+400`  E`  5910`  023`  ---
+400`  E`  1610`  023`  ---
+400`  E`  2810`  023`  ---
+400`  E`  5810`  023`  ---
+400`  E`  6910`  023`  ---
+400`  E`  3710`  023`  ---
+400`  E`  5410`  023`  ---
+400`  E`  5510`  023`  ---
+400`  E`  3310`  023`  ---
+400`  E`  4310`  023`  ---
+400`  E`  2310`  023`  ---
+400`  E`  1810`  023`  ---
+400`  E`  4210`  023`  ---
+400`  E`  5110`  023`  ---
+400`  E`  6210`  023`  ---
+400`  E`  2410`  023`  ---
+400`  E`  3010`  023`  ---
+400`  E`  3910`  023`  ---
+400`  E`  1410`  023`  ---
+400`  E`  0AR`  032`  ---
+400`  E`  0DE`  032`  ---
+400`  E`  1010`  032`  ---
+400`  E`  4410`  032`  ---
+400`  E`  6410`  032`  ---
+400`  E`  1310`  032`  ---
+400`  E`  1110`  032`  ---
+400`  E`  6310`  032`  ---
+400`  E`  3610`  032`  ---
+400`  E`  6110`  032`  ---
+400`  E`  1910`  032`  ---
+400`  E`  5910`  032`  ---
+400`  E`  1610`  032`  ---
+400`  E`  2810`  032`  ---
+400`  E`  5810`  032`  ---
+400`  E`  6910`  032`  ---
+400`  E`  3710`  032`  ---
+400`  E`  5410`  032`  ---
+400`  E`  5510`  032`  ---
+400`  E`  3310`  032`  ---
+400`  E`  4310`  032`  ---
+400`  E`  2310`  032`  ---
+400`  E`  1810`  032`  ---
+400`  E`  4210`  032`  ---
+400`  E`  5110`  032`  ---
+400`  E`  6210`  032`  ---
+400`  E`  2410`  032`  ---
+400`  E`  3010`  032`  ---
+400`  E`  3910`  032`  ---
+400`  E`  1410`  032`  ---
+400`  E`  0GB`  021`  ---
+400`  E`  0GB`  022`  ---
+400`  E`  0IE`  021`  ---
+400`  E`  0IE`  022`  ---
+400`  E`  0IN`  021`  ---
+400`  E`  0IN`  022`  ---
+400`  E`  0SG`  021`  ---
+400`  E`  0SG`  022`  ---
+400`  E`  0ES`  013`  ---
+400`  E`  0PT`  013`  ---
+400`  E`  0ES`  014`  ---
+400`  E`  0MY`  025`  ---
+400`  E`  0PT`  014`  ---
+400`  E`  0US`  053`  ---
+400`  E`  0UA`  001`  0.0000%
+400`  E`  1010`  001`  0.0000%
+400`  E`  4410`  001`  0.0000%
+400`  E`  6410`  001`  0.0000%
+400`  E`  1310`  001`  0.0000%
+400`  E`  1110`  001`  0.0000%
+400`  E`  6310`  001`  0.0000%
+400`  E`  3610`  001`  0.0000%
+400`  E`  6110`  001`  0.0000%
+400`  E`  1910`  001`  0.0000%
+400`  E`  5910`  001`  0.0000%
+400`  E`  1610`  001`  0.0000%
+400`  E`  2810`  001`  0.0000%
+400`  E`  3510`  001`  0.0000%
+400`  E`  2610`  001`  0.0000%
+400`  E`  5810`  001`  0.0000%
+400`  E`  6910`  001`  0.0000%
+400`  E`  3710`  001`  0.0000%
+400`  E`  5410`  001`  0.0000%
+400`  E`  5510`  001`  0.0000%
+400`  E`  3310`  001`  0.0000%
+400`  E`  1210`  001`  0.0000%
+400`  E`  4310`  001`  0.0000%
+400`  E`  2310`  001`  0.0000%
+400`  E`  1810`  001`  0.0000%
+400`  E`  4210`  001`  0.0000%
+400`  E`  5110`  001`  0.0000%
+400`  E`  6210`  001`  0.0000%
+400`  E`  4510`  001`  0.0000%
+400`  E`  2410`  001`  0.0000%
+400`  E`  3210`  001`  0.0000%
+400`  E`  2210`  001`  0.0000%
+400`  E`  3010`  001`  0.0000%
+400`  E`  3910`  001`  0.0000%
+400`  E`  1010`  013`  0.0000%
+400`  E`  4410`  013`  0.0000%
+400`  E`  6410`  013`  0.0000%
+400`  E`  1310`  013`  0.0000%
+400`  E`  1110`  013`  0.0000%
+400`  E`  6310`  013`  0.0000%
+400`  E`  3610`  013`  0.0000%
+400`  E`  6110`  013`  0.0000%
+400`  E`  1910`  013`  0.0000%
+400`  E`  5910`  013`  0.0000%
+400`  E`  1610`  013`  0.0000%
+400`  E`  2810`  013`  0.0000%
+400`  E`  2610`  013`  0.0000%
+400`  E`  5810`  013`  0.0000%
+400`  E`  6910`  013`  0.0000%
+400`  E`  3710`  013`  0.0000%
+400`  E`  5410`  013`  0.0000%
+400`  E`  5510`  013`  0.0000%
+400`  E`  3310`  013`  0.0000%
+400`  E`  7K10`  013`  0.0000%
+400`  E`  4310`  013`  0.0000%
+400`  E`  2310`  013`  0.0000%
+400`  E`  1810`  013`  0.0000%
+400`  E`  4210`  013`  0.0000%
+400`  E`  5110`  013`  0.0000%
+400`  E`  2110`  013`  0.0000%
+400`  E`  6210`  013`  0.0000%
+400`  E`  2410`  013`  0.0000%
+400`  E`  3210`  013`  0.0000%
+400`  E`  2210`  013`  0.0000%
+400`  E`  2510`  013`  0.0000%
+400`  E`  3010`  013`  0.0000%
+400`  E`  3910`  013`  0.0000%
+400`  E`  0UA`  002`  0.0000%
+400`  E`  1010`  002`  0.0000%
+400`  E`  4410`  002`  0.0000%
+400`  E`  6410`  002`  0.0000%
+400`  E`  1310`  002`  0.0000%
+400`  E`  1110`  002`  0.0000%
+400`  E`  6310`  002`  0.0000%
+400`  E`  3610`  002`  0.0000%
+400`  E`  6110`  002`  0.0000%
+400`  E`  1910`  002`  0.0000%
+400`  E`  5910`  002`  0.0000%
+400`  E`  1610`  002`  0.0000%
+400`  E`  2810`  002`  0.0000%
+400`  E`  5810`  002`  0.0000%
+400`  E`  6910`  002`  0.0000%
+400`  E`  3710`  002`  0.0000%
+400`  E`  5410`  002`  0.0000%
+400`  E`  5510`  002`  0.0000%
+400`  E`  3310`  002`  0.0000%
+400`  E`  1210`  002`  0.0000%
+400`  E`  4310`  002`  0.0000%
+400`  E`  2310`  002`  0.0000%
+400`  E`  1810`  002`  0.0000%
+400`  E`  4210`  002`  0.0000%
+400`  E`  5110`  002`  0.0000%
+400`  E`  6210`  002`  0.0000%
+400`  E`  2410`  002`  0.0000%
+400`  E`  3010`  002`  0.0000%
+400`  E`  3910`  002`  0.0000%
+400`  E`  1010`  010`  0.0000%
+400`  E`  4410`  010`  0.0000%
+400`  E`  6410`  010`  0.0000%
+400`  E`  1310`  010`  0.0000%
+400`  E`  1110`  010`  0.0000%
+400`  E`  6310`  010`  0.0000%
+400`  E`  3610`  010`  0.0000%
+400`  E`  6110`  010`  0.0000%
+400`  E`  1910`  010`  0.0000%
+400`  E`  5910`  010`  0.0000%
+400`  E`  1610`  010`  0.0000%
+400`  E`  2810`  010`  0.0000%
+400`  E`  5810`  010`  0.0000%
+400`  E`  6910`  010`  0.0000%
+400`  E`  3710`  010`  0.0000%
+400`  E`  5410`  010`  0.0000%
+400`  E`  5510`  010`  0.0000%
+400`  E`  3310`  010`  0.0000%
+400`  E`  4310`  010`  0.0000%
+400`  E`  2310`  010`  0.0000%
+400`  E`  1810`  010`  0.0000%
+400`  E`  4210`  010`  0.0000%
+400`  E`  5110`  010`  0.0000%
+400`  E`  6210`  010`  0.0000%
+400`  E`  2410`  010`  0.0000%
+400`  E`  3210`  010`  0.0000%
+400`  E`  3010`  010`  0.0000%
+400`  E`  3910`  010`  0.0000%
+400`  E`  1010`  018`  0.0000%
+400`  E`  4410`  018`  0.0000%
+400`  E`  6410`  018`  0.0000%
+400`  E`  1310`  018`  0.0000%
+400`  E`  1110`  018`  0.0000%
+400`  E`  6310`  018`  0.0000%
+400`  E`  3610`  018`  0.0000%
+400`  E`  6110`  018`  0.0000%
+400`  E`  1910`  018`  0.0000%
+400`  E`  5910`  018`  0.0000%
+400`  E`  1610`  018`  0.0000%
+400`  E`  2810`  018`  0.0000%
+400`  E`  5810`  018`  0.0000%
+400`  E`  6910`  018`  0.0000%
+400`  E`  3710`  018`  0.0000%
+400`  E`  5410`  018`  0.0000%
+400`  E`  5510`  018`  0.0000%
+400`  E`  3310`  018`  0.0000%
+400`  E`  4310`  018`  0.0000%
+400`  E`  2310`  018`  0.0000%
+400`  E`  1810`  018`  0.0000%
+400`  E`  4210`  018`  0.0000%
+400`  E`  5110`  018`  0.0000%
+400`  E`  6210`  018`  0.0000%
+400`  E`  4510`  018`  0.0000%
+400`  E`  2410`  018`  0.0000%
+400`  E`  3010`  018`  0.0000%
+400`  E`  3910`  018`  0.0000%
+400`  E`  1010`  026`  0.0000%
+400`  E`  4410`  026`  0.0000%
+400`  E`  6410`  026`  0.0000%
+400`  E`  1310`  026`  0.0000%
+400`  E`  1110`  026`  0.0000%
+400`  E`  6310`  026`  0.0000%
+400`  E`  3610`  026`  0.0000%
+400`  E`  6110`  026`  0.0000%
+400`  E`  1910`  026`  0.0000%
+400`  E`  5910`  026`  0.0000%
+400`  E`  1610`  026`  0.0000%
+400`  E`  2810`  026`  0.0000%
+400`  E`  5810`  026`  0.0000%
+400`  E`  6910`  026`  0.0000%
+400`  E`  3710`  026`  0.0000%
+400`  E`  5410`  026`  0.0000%
+400`  E`  5510`  026`  0.0000%
+400`  E`  3310`  026`  0.0000%
+400`  E`  4310`  026`  0.0000%
+400`  E`  2310`  026`  0.0000%
+400`  E`  1810`  026`  0.0000%
+400`  E`  4210`  026`  0.0000%
+400`  E`  5110`  026`  0.0000%
+400`  E`  6210`  026`  0.0000%
+400`  E`  2410`  026`  0.0000%
+400`  E`  3010`  026`  0.0000%
+400`  E`  3910`  026`  0.0000%
+400`  E`  0TW`  129`  0.0000%
+400`  E`  0UA`  003`  0.0000%
+400`  E`  0UA`  004`  0.0000%
+400`  E`  2610`  057`  0.0000%
+400`  E`  2110`  011`  0.0000%
+400`  E`  2110`  012`  0.0000%
+400`  E`  2110`  015`  0.0000%
+400`  E`  2110`  X00`  0.0000%
+400`  E`  2110`  Z01`  0.0000%
+400`  E`  4510`  009`  0.0000%
+400`  E`  4510`  017`  0.0000%
+400`  E`  2210`  029`  0.0000%
+400`  E`  2210`  031`  0.0000%
+400`  E`  IFRS`  001`  0,0000%
+400`  E`  1210`  006`  0.0000%
+400`  E`  1210`  008`  0.0000%
+400`  E`  2110`  001`  0,0000%
+400`  E`  4510`  007`  0.0000%
+400`  E`  IFRS`  013`  0,0000%
+400`  E`  IFRS`  010`  0,0000%
+400`  E`  2110`  002`  0,0000%
+400`  E`  1210`  003`  0,0000%
+400`  E`  0AR`  017`  20.0000%
+400`  E`  0DE`  017`  20.0000%
+400`  E`  1010`  017`  20.0000%
+400`  E`  4410`  017`  20.0000%
+400`  E`  6410`  017`  20.0000%
+400`  E`  1310`  017`  20.0000%
+400`  E`  1110`  017`  20.0000%
+400`  E`  6310`  017`  20.0000%
+400`  E`  3610`  017`  20.0000%
+400`  E`  6110`  017`  20.0000%
+400`  E`  1910`  017`  20.0000%
+400`  E`  5910`  017`  20.0000%
+400`  E`  1610`  017`  20.0000%
+400`  E`  2810`  017`  20.0000%
+400`  E`  5810`  017`  20.0000%
+400`  E`  6910`  017`  20.0000%
+400`  E`  3710`  017`  20.0000%
+400`  E`  5410`  017`  20.0000%
+400`  E`  5510`  017`  20.0000%
+400`  E`  3310`  017`  20.0000%
+400`  E`  4310`  017`  20.0000%
+400`  E`  2310`  017`  20.0000%
+400`  E`  1810`  017`  20.0000%
+400`  E`  4210`  017`  20.0000%
+400`  E`  5110`  017`  20.0000%
+400`  E`  6210`  017`  20.0000%
+400`  E`  2410`  017`  20.0000%
+400`  E`  3010`  017`  20.0000%
+400`  E`  3910`  017`  20.0000%
+400`  E`  0AR`  030`  20.0000%
+400`  E`  0DE`  030`  20.0000%
+400`  E`  1010`  030`  20.0000%
+400`  E`  4410`  030`  20.0000%
+400`  E`  6410`  030`  20.0000%
+400`  E`  1310`  030`  20.0000%
+400`  E`  1110`  030`  20.0000%
+400`  E`  6310`  030`  20.0000%
+400`  E`  3610`  030`  20.0000%
+400`  E`  6110`  030`  20.0000%
+400`  E`  1910`  030`  20.0000%
+400`  E`  5910`  030`  20.0000%
+400`  E`  1610`  030`  20.0000%
+400`  E`  2810`  030`  20.0000%
+400`  E`  5810`  030`  20.0000%
+400`  E`  6910`  030`  20.0000%
+400`  E`  3710`  030`  20.0000%
+400`  E`  5410`  030`  20.0000%
+400`  E`  5510`  030`  20.0000%
+400`  E`  3310`  030`  20.0000%
+400`  E`  4310`  030`  20.0000%
+400`  E`  2310`  030`  20.0000%
+400`  E`  1810`  030`  20.0000%
+400`  E`  4210`  030`  20.0000%
+400`  E`  3010`  030`  20.0000%
+400`  E`  3910`  030`  20.0000%
+400`  E`  0GB`  015`  20.0000%
+400`  E`  0IE`  015`  20.0000%
+400`  E`  0IN`  015`  20.0000%
+400`  E`  0SG`  015`  20.0000%
+400`  E`  5110`  030`  20.0000%
+400`  E`  6210`  030`  20.0000%
+400`  E`  2410`  030`  20.0000%
+400`  E`  0CH`  010`  20.0000%
+400`  E`  0CO`  004`  20.0000%
+400`  E`  0ES`  002`  20.0000%
+400`  E`  0FI`  004`  20.0000%
+400`  E`  0IT`  002`  20.0000%
+400`  E`  0PT`  002`  20.0000%
+400`  E`  0CH`  027`  20.0000%
+400`  E`  0PL`  012`  20.0000%
+400`  E`  4510`  004`  20.0000%
+400`  E`  2210`  010`  20.0000%
+400`  E`  2210`  027`  20.0000%
+400`  E`  0GB`  008`   2.0000%
+400`  E`  0IE`  008`   2.0000%
+400`  E`  0IN`  008`   2.0000%
+400`  E`  0MY`  018`  20.0000%
+400`  E`  0RU`  069`  20.0000%
+400`  E`  0SG`  008`   2.0000%
+400`  E`  0ZA`  008`   2.0000%
+400`  E`  2610`  049`  20.0000%
+400`  E`  2110`  X20`  20.0000%
+400`  E`  BJDM`  003`   2.0000%
+400`  E`  0AR`  007`   2.0000%
+400`  E`  0CA`  007`   2.0000%
+400`  E`  0DE`  007`   2.0000%
+400`  E`  0MY`  007`   2.0000%
+400`  E`  0CH`  003`   2.0000%
+400`  E`  0CN`  003`   2.0000%
+400`  E`  CN02`  003`   2.0000%
+400`  E`  XXGS`  003`   2.0000%
+400`  E`  M009`  003`   2.0000%
+400`  E`  0AR`  025`   2.0000%
+400`  E`  0CZ`  014`   2.0000%
+400`  E`  0DE`  025`   2.0000%
+400`  E`  0FI`  014`   2.0000%
+400`  E`  0GB`  023`   2.0000%
+400`  E`  0IE`  023`   2.0000%
+400`  E`  0IN`  023`   2.0000%
+400`  E`  0SG`  023`   2.0000%
+400`  E`  0SK`  014`   2.0000%
+400`  E`  0SE`  004`   2.0000%
+400`  E`  0CH`  019`   2.0000%
+400`  E`  0DK`  006`   2.0000%
+400`  E`  0MY`  026`   2.0000%
+400`  E`  0NL`  005`   2.0000%
+400`  E`  0RU`  010`   2.0000%
+400`  E`  0US`  050`   2.0000%
+400`  E`  0AR`  022`  40.0000%
+400`  E`  0DE`  022`  40.0000%
+400`  E`  1010`  022`  40.0000%
+400`  E`  4410`  022`  40.0000%
+400`  E`  3010`  022`  40.0000%
+400`  E`  3910`  022`  40.0000%
+400`  E`  6410`  022`  40.0000%
+400`  E`  1310`  022`  40.0000%
+400`  E`  1110`  022`  40.0000%
+400`  E`  6310`  022`  40.0000%
+400`  E`  3610`  022`  40.0000%
+400`  E`  6110`  022`  40.0000%
+400`  E`  1910`  022`  40.0000%
+400`  E`  5910`  022`  40.0000%
+400`  E`  1610`  022`  40.0000%
+400`  E`  2810`  022`  40.0000%
+400`  E`  5810`  022`  40.0000%
+400`  E`  6910`  022`  40.0000%
+400`  E`  3710`  022`  40.0000%
+400`  E`  5410`  022`  40.0000%
+400`  E`  5510`  022`  40.0000%
+400`  E`  3310`  022`  40.0000%
+400`  E`  4310`  022`  40.0000%
+400`  E`  2310`  022`  40.0000%
+400`  E`  1810`  022`  40.0000%
+400`  E`  4210`  022`  40.0000%
+400`  E`  5110`  022`  40.0000%
+400`  E`  6210`  022`  40.0000%
+400`  E`  2410`  022`  40.0000%
+400`  E`  3010`  029`  40.0000%
+400`  E`  3910`  029`  40.0000%
+400`  E`  0AR`  029`  40.0000%
+400`  E`  0DE`  029`  40.0000%
+400`  E`  1010`  029`  40.0000%
+400`  E`  4410`  029`  40.0000%
+400`  E`  6410`  029`  40.0000%
+400`  E`  1310`  029`  40.0000%
+400`  E`  1110`  029`  40.0000%
+400`  E`  6310`  029`  40.0000%
+400`  E`  3610`  029`  40.0000%
+400`  E`  6110`  029`  40.0000%
+400`  E`  1910`  029`  40.0000%
+400`  E`  5910`  029`  40.0000%
+400`  E`  1610`  029`  40.0000%
+400`  E`  2810`  029`  40.0000%
+400`  E`  5810`  029`  40.0000%
+400`  E`  6910`  029`  40.0000%
+400`  E`  3710`  029`  40.0000%
+400`  E`  5410`  029`  40.0000%
+400`  E`  5510`  029`  40.0000%
+400`  E`  3310`  029`  40.0000%
+400`  E`  4310`  029`  40.0000%
+400`  E`  2310`  029`  40.0000%
+400`  E`  1810`  029`  40.0000%
+400`  E`  4210`  029`  40.0000%
+400`  E`  5110`  029`  40.0000%
+400`  E`  6210`  029`  40.0000%
+400`  E`  2410`  029`  40.0000%
+400`  E`  0CO`  005`  40.0000%
+400`  E`  0ES`  012`  40.0000%
+400`  E`  0GB`  020`  40.0000%
+400`  E`  0IE`  020`  40.0000%
+400`  E`  0IN`  020`  40.0000%
+400`  E`  0MY`  023`  40.0000%
+400`  E`  0PT`  012`  40.0000%
+400`  E`  0SG`  020`  40.0000%
+400`  E`  0CH`  013`  40.0000%
+400`  E`  2610`  053`  40.0000%
+400`  E`  0AR`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0CA`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0DE`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0MY`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0SE`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  1010`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  4410`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  6410`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  1310`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  1110`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  6310`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  3610`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  6110`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  1910`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  5910`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  1610`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  2810`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  5810`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  6910`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  3710`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  5410`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  5510`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  3310`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  4310`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  2310`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  1810`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  4210`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  5110`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  6210`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  2410`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  3010`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  3910`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0GB`  004`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0IE`  004`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0IN`  004`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0NL`  004`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0SG`  004`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0ZA`  004`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0CO`  008`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0CZ`  013`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0ES`  006`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0FI`  010`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0FR`  005`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0PT`  006`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0SK`  013`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  1210`  005`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  4510`  010`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0US`  046`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  0AR`  031`  25.0000%
+400`  E`  0DE`  031`  25.0000%
+400`  E`  1010`  031`  25.0000%
+400`  E`  4410`  031`  25.0000%
+400`  E`  6410`  031`  25.0000%
+400`  E`  1310`  031`  25.0000%
+400`  E`  1110`  031`  25.0000%
+400`  E`  6310`  031`  25.0000%
+400`  E`  3610`  031`  25.0000%
+400`  E`  6110`  031`  25.0000%
+400`  E`  1910`  031`  25.0000%
+400`  E`  5910`  031`  25.0000%
+400`  E`  1610`  031`  25.0000%
+400`  E`  2810`  031`  25.0000%
+400`  E`  5810`  031`  25.0000%
+400`  E`  6910`  031`  25.0000%
+400`  E`  3710`  031`  25.0000%
+400`  E`  5410`  031`  25.0000%
+400`  E`  5510`  031`  25.0000%
+400`  E`  3310`  031`  25.0000%
+400`  E`  4310`  031`  25.0000%
+400`  E`  2310`  031`  25.0000%
+400`  E`  1810`  031`  25.0000%
+400`  E`  4210`  031`  25.0000%
+400`  E`  5110`  031`  25.0000%
+400`  E`  6210`  031`  25.0000%
+400`  E`  2410`  031`  25.0000%
+400`  E`  3010`  031`  25.0000%
+400`  E`  3910`  031`  25.0000%
+400`  E`  0CL`  008`  25.0000%
+400`  E`  0CZ`  004`  25.0000%
+400`  E`  0MX`  008`  25.0000%
+400`  E`  0PE`  008`  25.0000%
+400`  E`  0SK`  004`  25.0000%
+400`  E`  0VE`  008`  25.0000%
+400`  E`  2110`  004`  25.0000%
+400`  E`  0CH`  011`  25.0000%
+400`  E`  0FI`  005`  25.0000%
+400`  E`  0IT`  006`  25.0000%
+400`  E`  0IT`  007`  25.0000%
+400`  E`  0PL`  013`  25.0000%
+400`  E`  0RU`  071`  25.0000%
+400`  E`  2610`  050`  25.0000%
+400`  E`  2110`  X11`  25.0000%
+400`  E`  4510`  005`  25.0000%
+400`  E`  2210`  011`  25.0000%
+400`  E`  0AR`  028`  50.0000%
+400`  E`  0DE`  028`  50.0000%
+400`  E`  1010`  028`  50.0000%
+400`  E`  4410`  028`  50.0000%
+400`  E`  6410`  028`  50.0000%
+400`  E`  1310`  028`  50.0000%
+400`  E`  1110`  028`  50.0000%
+400`  E`  6310`  028`  50.0000%
+400`  E`  3610`  028`  50.0000%
+400`  E`  6110`  028`  50.0000%
+400`  E`  1910`  028`  50.0000%
+400`  E`  3010`  028`  50.0000%
+400`  E`  3910`  028`  50.0000%
+400`  E`  0AR`  033`  50.0000%
+400`  E`  0DE`  033`  50.0000%
+400`  E`  1010`  033`  50.0000%
+400`  E`  4410`  033`  50.0000%
+400`  E`  6410`  033`  50.0000%
+400`  E`  5910`  028`  50.0000%
+400`  E`  1610`  028`  50.0000%
+400`  E`  2810`  028`  50.0000%
+400`  E`  5810`  028`  50.0000%
+400`  E`  6910`  028`  50.0000%
+400`  E`  3710`  028`  50.0000%
+400`  E`  5410`  028`  50.0000%
+400`  E`  5510`  028`  50.0000%
+400`  E`  3310`  028`  50.0000%
+400`  E`  4310`  028`  50.0000%
+400`  E`  2310`  028`  50.0000%
+400`  E`  1810`  028`  50.0000%
+400`  E`  4210`  028`  50.0000%
+400`  E`  5110`  028`  50.0000%
+400`  E`  6210`  028`  50.0000%
+400`  E`  2410`  028`  50.0000%
+400`  E`  3010`  033`  50.0000%
+400`  E`  3910`  033`  50.0000%
+400`  E`  0IT`  009`  50.0000%
+400`  E`  1310`  033`  50.0000%
+400`  E`  1110`  033`  50.0000%
+400`  E`  6310`  033`  50.0000%
+400`  E`  3610`  033`  50.0000%
+400`  E`  6110`  033`  50.0000%
+400`  E`  1910`  033`  50.0000%
+400`  E`  5910`  033`  50.0000%
+400`  E`  1610`  033`  50.0000%
+400`  E`  2810`  033`  50.0000%
+400`  E`  5810`  033`  50.0000%
+400`  E`  6910`  033`  50.0000%
+400`  E`  3710`  033`  50.0000%
+400`  E`  5410`  033`  50.0000%
+400`  E`  5510`  033`  50.0000%
+400`  E`  3310`  033`  50.0000%
+400`  E`  4310`  033`  50.0000%
+400`  E`  2310`  033`  50.0000%
+400`  E`  1810`  033`  50.0000%
+400`  E`  4210`  033`  50.0000%
+400`  E`  5110`  033`  50.0000%
+400`  E`  6210`  033`  50.0000%
+400`  E`  2410`  033`  50.0000%
+400`  E`  0AR`  021`  15.0000%
+400`  E`  0DE`  021`  15.0000%
+400`  E`  0MY`  027`  50.0000%
+400`  E`  0PL`  016`  50.0000%
+400`  E`  1010`  021`  15.0000%
+400`  E`  4410`  021`  15.0000%
+400`  E`  6410`  021`  15.0000%
+400`  E`  1310`  021`  15.0000%
+400`  E`  1110`  021`  15.0000%
+400`  E`  6310`  021`  15.0000%
+400`  E`  3610`  021`  15.0000%
+400`  E`  6110`  021`  15.0000%
+400`  E`  1910`  021`  15.0000%
+400`  E`  5910`  021`  15.0000%
+400`  E`  1610`  021`  15.0000%
+400`  E`  2810`  021`  15.0000%
+400`  E`  2610`  054`  50.0000%
+400`  E`  5810`  021`  15.0000%
+400`  E`  6910`  021`  15.0000%
+400`  E`  3710`  021`  15.0000%
+400`  E`  5410`  021`  15.0000%
+400`  E`  5510`  021`  15.0000%
+400`  E`  3310`  021`  15.0000%
+400`  E`  4310`  021`  15.0000%
+400`  E`  2310`  021`  15.0000%
+400`  E`  1810`  021`  15.0000%
+400`  E`  4210`  021`  15.0000%
+400`  E`  5110`  021`  15.0000%
+400`  E`  6210`  021`  15.0000%
+400`  E`  2410`  021`  15.0000%
+400`  E`  3010`  021`  15.0000%
+400`  E`  3910`  021`  15.0000%
+400`  E`  0CH`  009`  15.0000%
+400`  E`  0CH`  026`  15.0000%
+400`  E`  0GB`  019`  15.0000%
+400`  E`  0IE`  019`  15.0000%
+400`  E`  0IN`  019`  15.0000%
+400`  E`  0SG`  019`  15.0000%
+400`  E`  2210`  009`  15.0000%
+400`  E`  0AR`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0DE`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0IT`  008`  15.0000%
+400`  E`  0MY`  022`  15.0000%
+400`  E`  0RU`  063`  15.0000%
+400`  E`  0ZA`  015`  15.0000%
+400`  E`  1010`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  4410`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  6410`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  1310`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  1110`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  6310`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  3610`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  6110`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  1910`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  2110`  X08`  15.0000%
+400`  E`  2210`  026`  15.0000%
+400`  E`  3010`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  3910`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  1410`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  5910`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  1610`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  2810`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  5810`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  6910`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  3710`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  5410`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  5510`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  3310`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  4310`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  2310`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  1810`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  4210`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  5110`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  6210`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  2410`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0GB`  013`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0IE`  013`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0IN`  013`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0MY`  013`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0SG`  013`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0ZA`  013`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0ES`  009`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0PT`  009`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0SE`  009`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0TW`  126`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  0CN`  004`   2.5000%
+400`  E`  0GB`  009`   2.5000%
+400`  E`  0IE`  009`   2.5000%
+400`  E`  0IN`  009`   2.5000%
+400`  E`  0PL`  004`   2.5000%
+400`  E`  0SG`  009`   2.5000%
+400`  E`  0ZA`  009`   2.5000%
+400`  E`  BJDM`  004`   2.5000%
+400`  E`  CN02`  004`   2.5000%
+400`  E`  XXGS`  004`   2.5000%
+400`  E`  M009`  004`   2.5000%
+400`  E`  0AR`  008`   2.5000%
+400`  E`  0CA`  008`   2.5000%
+400`  E`  0DE`  008`   2.5000%
+400`  E`  0DK`  007`   2.5000%
+400`  E`  0MY`  008`   2.5000%
+400`  E`  0FI`  015`   2.5000%
+400`  E`  0RU`  011`   2.5000%
+400`  E`  0US`  051`   2.5000%
+400`  E`  0AR`  019`  75.0000%/ 0.0000%
+400`  E`  0DE`  019`  75.0000%/ 0.0000%
+400`  E`  1010`  019`  75.0000%/ 0.0000%
+400`  E`  4410`  019`  75.0000%/ 0.0000%
+400`  E`  1410`  019`  75.0000%/ 0.0000%
+400`  E`  0GB`  017`  75.0000%/ 0.0000%
+400`  E`  0IE`  017`  75.0000%/ 0.0000%
+400`  E`  0IN`  017`  75.0000%/ 0.0000%
+400`  E`  0SG`  017`  75.0000%/ 0.0000%
+400`  E`  6410`  019`  75.0000%/ 0.0000%
+400`  E`  1310`  019`  75.0000%/ 0.0000%
+400`  E`  1110`  019`  75.0000%/ 0.0000%
+400`  E`  6310`  019`  75.0000%/ 0.0000%
+400`  E`  3610`  019`  75.0000%/ 0.0000%
+400`  E`  6110`  019`  75.0000%/ 0.0000%
+400`  E`  1910`  019`  75.0000%/ 0.0000%
+400`  E`  5910`  019`  75.0000%/ 0.0000%
+400`  E`  1610`  019`  75.0000%/ 0.0000%
+400`  E`  2810`  019`  75.0000%/ 0.0000%
+400`  E`  5810`  019`  75.0000%/ 0.0000%
+400`  E`  6910`  019`  75.0000%/ 0.0000%
+400`  E`  3710`  019`  75.0000%/ 0.0000%
+400`  E`  5410`  019`  75.0000%/ 0.0000%
+400`  E`  5510`  019`  75.0000%/ 0.0000%
+400`  E`  3310`  019`  75.0000%/ 0.0000%
+400`  E`  4310`  019`  75.0000%/ 0.0000%
+400`  E`  2310`  019`  75.0000%/ 0.0000%
+400`  E`  1810`  019`  75.0000%/ 0.0000%
+400`  E`  4210`  019`  75.0000%/ 0.0000%
+400`  E`  5110`  019`  75.0000%/ 0.0000%
+400`  E`  6210`  019`  75.0000%/ 0.0000%
+400`  E`  2410`  019`  75.0000%/ 0.0000%
+400`  E`  3010`  019`  75.0000%/ 0.0000%
+400`  E`  3910`  019`  75.0000%/ 0.0000%
+400`  E`  0ES`  010`  75.0000%/ 0.0000%
+400`  E`  0MY`  020`  75.0000%/ 0.0000%
+400`  E`  0PT`  010`  75.0000%/ 0.0000%
+400`  E`  0SE`  010`  75.0000%/ 0.0000%
+400`  E`  1010`  007`  2.0000%
+400`  E`  4410`  007`  2.0000%
+400`  E`  6410`  007`  2.0000%
+400`  E`  1310`  007`  2.0000%
+400`  E`  1110`  007`  2.0000%
+400`  E`  6310`  007`  2.0000%
+400`  E`  3610`  007`  2.0000%
+400`  E`  6110`  007`  2.0000%
+400`  E`  1910`  007`  2.0000%
+400`  E`  5910`  007`  2.0000%
+400`  E`  1610`  007`  2.0000%
+400`  E`  2810`  007`  2.0000%
+400`  E`  5810`  007`  2.0000%
+400`  E`  6910`  007`  2.0000%
+400`  E`  3710`  007`  2.0000%
+400`  E`  5410`  007`  2.0000%
+400`  E`  5510`  007`  2.0000%
+400`  E`  3310`  007`  2.0000%
+400`  E`  4310`  007`  2.0000%
+400`  E`  1010`  025`  2.0000%
+400`  E`  4410`  025`  2.0000%
+400`  E`  6410`  025`  2.0000%
+400`  E`  1310`  025`  2.0000%
+400`  E`  1110`  025`  2.0000%
+400`  E`  6310`  025`  2.0000%
+400`  E`  3610`  025`  2.0000%
+400`  E`  6110`  025`  2.0000%
+400`  E`  1910`  025`  2.0000%
+400`  E`  5910`  025`  2.0000%
+400`  E`  1610`  025`  2.0000%
+400`  E`  2810`  025`  2.0000%
+400`  E`  5810`  025`  2.0000%
+400`  E`  6910`  025`  2.0000%
+400`  E`  3710`  025`  2.0000%
+400`  E`  5410`  025`  2.0000%
+400`  E`  5510`  025`  2.0000%
+400`  E`  3310`  025`  2.0000%
+400`  E`  4310`  025`  2.0000%
+400`  E`  2310`  007`  2.0000%
+400`  E`  2310`  025`  2.0000%
+400`  E`  1810`  007`  2.0000%
+400`  E`  1810`  025`  2.0000%
+400`  E`  4210`  007`  2.0000%
+400`  E`  4210`  025`  2.0000%
+400`  E`  5110`  007`  2.0000%
+400`  E`  5110`  025`  2.0000%
+400`  E`  6210`  007`  2.0000%
+400`  E`  6210`  025`  2.0000%
+400`  E`  2410`  007`  2.0000%
+400`  E`  2410`  025`  2.0000%
+400`  E`  3010`  007`  2.0000%
+400`  E`  3010`  025`  2.0000%
+400`  E`  3910`  007`  2.0000%
+400`  E`  3910`  025`  2.0000%
+400`  E`  2110`  014`  2.0000%
+400`  E`  4510`  014`  2.0000%
+400`  E`  2210`  003`  2.0000%
+400`  E`  2210`  019`  2.0000%
+400`  E`  0AR`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0DE`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  1010`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  4410`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  6410`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  1310`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  1110`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  6310`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  3610`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  6110`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  1910`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  5910`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  1610`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  2810`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  5810`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  6910`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  3710`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  5410`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  5510`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  3310`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  4310`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  2310`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  1810`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  4210`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  5110`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  6210`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  2410`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  1410`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0GB`  024`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0IE`  024`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0IN`  024`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0SG`  024`  60.0000%/ 0.0000%/100.0000%
+400`  E`  3010`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  3910`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0FI`  019`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0NL`  009`  60.0000%/ 0.0000%/100.0000%
+400`  E`  0AR`  015`  60.0000%
+400`  E`  0DE`  015`  60.0000%
+400`  E`  0GB`  014`  60.0000%
+400`  E`  0IE`  014`  60.0000%
+400`  E`  0IN`  014`  60.0000%
+400`  E`  0MY`  014`  60.0000%
+400`  E`  0SG`  014`  60.0000%
+400`  E`  1010`  015`  60.0000%
+400`  E`  4410`  015`  60.0000%
+400`  E`  6410`  015`  60.0000%
+400`  E`  1310`  015`  60.0000%
+400`  E`  1110`  015`  60.0000%
+400`  E`  6310`  015`  60.0000%
+400`  E`  3610`  015`  60.0000%
+400`  E`  6110`  015`  60.0000%
+400`  E`  1910`  015`  60.0000%
+400`  E`  5910`  015`  60.0000%
+400`  E`  1610`  015`  60.0000%
+400`  E`  2810`  015`  60.0000%
+400`  E`  5810`  015`  60.0000%
+400`  E`  6910`  015`  60.0000%
+400`  E`  3710`  015`  60.0000%
+400`  E`  5410`  015`  60.0000%
+400`  E`  5510`  015`  60.0000%
+400`  E`  3310`  015`  60.0000%
+400`  E`  4310`  015`  60.0000%
+400`  E`  2310`  015`  60.0000%
+400`  E`  1810`  015`  60.0000%
+400`  E`  4210`  015`  60.0000%
+400`  E`  5110`  015`  60.0000%
+400`  E`  6210`  015`  60.0000%
+400`  E`  4510`  019`  60.0000%/ 0.0000%/100.0000%
+400`  E`  2410`  015`  60.0000%
+400`  E`  3010`  015`  60.0000%
+400`  E`  3910`  015`  60.0000%
+400`  E`  0CL`  009`  30.0000%
+400`  E`  0MX`  009`  30.0000%
+400`  E`  0PE`  009`  30.0000%
+400`  E`  0VE`  009`  30.0000%
+400`  E`  0ES`  004`  30.0000%
+400`  E`  0FI`  006`  30.0000%
+400`  E`  0IT`  004`  30.0000%
+400`  E`  0PT`  004`  30.0000%
+400`  E`  4510`  006`  30.0000%
+400`  E`  0DK`  008`  30.0000%
+400`  E`  0PL`  014`  30.0000%
+400`  E`  0CH`  012`  30.0000%
+400`  E`  0AR`  016`  100.0000%
+400`  E`  0DE`  016`  100.0000%
+400`  E`  0MY`  015`  100.0000%
+400`  E`  0PL`  017`  100.0000%
+400`  E`  1010`  016`  100.0000%
+400`  E`  4410`  016`  100.0000%
+400`  E`  6410`  016`  100.0000%
+400`  E`  1310`  016`  100.0000%
+400`  E`  1110`  016`  100.0000%
+400`  E`  6310`  016`  100.0000%
+400`  E`  3610`  016`  100.0000%
+400`  E`  6110`  016`  100.0000%
+400`  E`  1910`  016`  100.0000%
+400`  E`  5910`  016`  100.0000%
+400`  E`  1610`  016`  100.0000%
+400`  E`  2810`  016`  100.0000%
+400`  E`  2610`  051`  100.0000%
+400`  E`  2610`  052`  30.0000%
+400`  E`  5810`  016`  100.0000%
+400`  E`  6910`  016`  100.0000%
+400`  E`  3710`  016`  100.0000%
+400`  E`  5410`  016`  100.0000%
+400`  E`  5510`  016`  100.0000%
+400`  E`  3310`  016`  100.0000%
+400`  E`  4310`  016`  100.0000%
+400`  E`  2310`  016`  100.0000%
+400`  E`  1810`  016`  100.0000%
+400`  E`  4210`  016`  100.0000%
+400`  E`  5110`  016`  100.0000%
+400`  E`  6210`  016`  100.0000%
+400`  E`  2410`  016`  100.0000%
+400`  E`  2210`  012`  30.0000%
+400`  E`  0GB`  005`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0IE`  005`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0IN`  005`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0SG`  005`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0ZA`  005`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  3010`  016`  100.0000%
+400`  E`  3910`  016`  100.0000%
+400`  E`  0AR`  004`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0CA`  004`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0DE`  004`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0MY`  004`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0CO`  009`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0US`  047`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0AR`  005`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0CA`  005`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0CO`  010`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0DE`  005`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0FI`  011`   3.5000%/ 2.0000%/ 1.0000%
+400`  E`  0FI`  012`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0GB`  006`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0IE`  006`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0IN`  006`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0MY`  005`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0SG`  006`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0US`  048`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0ZA`  006`   5.0000%/ 2.5000%/ 1.2500%
+400`  E`  0AR`  006`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0CA`  006`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0DE`  006`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0FI`  013`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0GB`  007`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0IE`  007`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0IN`  007`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0MY`  006`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0SG`  007`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0US`  049`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0ZA`  007`   7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  0AR`  020`   0.0000%/ 0.0000%
+400`  E`  0DE`  020`   0.0000%/ 0.0000%
+400`  E`  0ES`  011`   0.0000%/ 0.0000%
+400`  E`  0GB`  018`   0.0000%/ 0.0000%
+400`  E`  0IE`  018`   0.0000%/ 0.0000%
+400`  E`  0IN`  018`   0.0000%/ 0.0000%
+400`  E`  0MY`  021`   0.0000%/ 0.0000%
+400`  E`  0PT`  011`   0.0000%/ 0.0000%
+400`  E`  0SG`  018`   0.0000%/ 0.0000%
+400`  E`  0ZA`  014`   0.0000%/ 0.0000%
+400`  E`  1010`  009`  4.0000%
+400`  E`  4410`  009`  4.0000%
+400`  E`  6410`  009`  4.0000%
+400`  E`  1310`  009`  4.0000%
+400`  E`  1110`  009`  4.0000%
+400`  E`  6310`  009`  4.0000%
+400`  E`  3610`  009`  4.0000%
+400`  E`  6110`  009`  4.0000%
+400`  E`  1910`  009`  4.0000%
+400`  E`  5910`  009`  4.0000%
+400`  E`  1610`  009`  4.0000%
+400`  E`  2810`  009`  4.0000%
+400`  E`  2610`  040`  4.0000%
+400`  E`  5810`  009`  4.0000%
+400`  E`  6910`  009`  4.0000%
+400`  E`  3710`  009`  4.0000%
+400`  E`  5410`  009`  4.0000%
+400`  E`  5510`  009`  4.0000%
+400`  E`  3310`  009`  4.0000%
+400`  E`  4310`  009`  4.0000%
+400`  E`  2310`  009`  4.0000%
+400`  E`  1810`  009`  4.0000%
+400`  E`  4210`  009`  4.0000%
+400`  E`  5110`  009`  4.0000%
+400`  E`  6210`  009`  4.0000%
+400`  E`  4510`  002`  4.0000%
+400`  E`  2410`  009`  4.0000%
+400`  E`  2210`  005`  4.0000%
+400`  E`  2210`  022`  4.0000%
+400`  E`  3010`  009`  4.0000%
+400`  E`  3910`  009`  4.0000%
+400`  E`  3610`  SU2`
+400`  E`  5910`  SU2`
+400`  E`  2610`  055`
+400`  E`  2610`  056`
+400`  E`  5510`  SU2`
+400`  E`  3310`  SU2`
+400`  E`  1210`  Z07`
+400`  E`  1210`  ZVL`
+400`  E`  7K10`  SU2`
+400`  E`  2310`  SU2`
+400`  E`  6210`  SU2`
+400`  E`  2410`  SU2`
+400`  E`  1010`  008`  2.5000%
+400`  E`  4410`  008`  2.5000%
+400`  E`  6410`  008`  2.5000%
+400`  E`  1310`  008`  2.5000%
+400`  E`  1110`  008`  2.5000%
+400`  E`  6310`  008`  2.5000%
+400`  E`  3610`  008`  2.5000%
+400`  E`  6110`  008`  2.5000%
+400`  E`  1910`  008`  2.5000%
+400`  E`  5910`  008`  2.5000%
+400`  E`  1610`  008`  2.5000%
+400`  E`  2810`  008`  2.5000%
+400`  E`  2610`  038`  2.5000%
+400`  E`  5810`  008`  2.5000%
+400`  E`  6910`  008`  2.5000%
+400`  E`  3710`  008`  2.5000%
+400`  E`  5410`  008`  2.5000%
+400`  E`  5510`  008`  2.5000%
+400`  E`  3310`  008`  2.5000%
+400`  E`  4310`  008`  2.5000%
+400`  E`  2310`  008`  2.5000%
+400`  E`  1810`  008`  2.5000%
+400`  E`  4210`  008`  2.5000%
+400`  E`  5110`  008`  2.5000%
+400`  E`  6210`  008`  2.5000%
+400`  E`  4510`  015`  2.5000%
+400`  E`  2410`  008`  2.5000%
+400`  E`  3010`  008`  2.5000%
+400`  E`  3910`  008`  2.5000%
+400`  E`  1010`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  4410`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  6410`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  1310`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  1110`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  6310`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  3610`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  6110`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  1910`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  5910`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  1610`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  2810`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  5810`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  6910`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  3710`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  5410`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  5510`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  3310`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  4310`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  2310`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  1010`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  4410`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  6410`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  1310`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  1110`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  6310`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  3610`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  6110`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  1910`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  5910`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  1610`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  2810`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  5810`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  6910`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  3710`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  5410`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  5510`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  3310`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  4310`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  2310`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  1810`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  1810`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  4210`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  4210`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  5110`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  5110`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  6210`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  6210`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  4510`  011`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  4510`  013`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  2410`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  2410`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  3010`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  3010`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  3910`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  3910`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  1010`  020`  0.0000%/ 0.0000%
+400`  E`  4410`  020`  0.0000%/ 0.0000%
+400`  E`  6410`  020`  0.0000%/ 0.0000%
+400`  E`  1310`  020`  0.0000%/ 0.0000%
+400`  E`  1110`  020`  0.0000%/ 0.0000%
+400`  E`  6310`  020`  0.0000%/ 0.0000%
+400`  E`  3610`  020`  0.0000%/ 0.0000%
+400`  E`  6110`  020`  0.0000%/ 0.0000%
+400`  E`  1910`  020`  0.0000%/ 0.0000%
+400`  E`  5910`  020`  0.0000%/ 0.0000%
+400`  E`  1610`  020`  0.0000%/ 0.0000%
+400`  E`  2810`  020`  0.0000%/ 0.0000%
+400`  E`  5810`  020`  0.0000%/ 0.0000%
+400`  E`  6910`  020`  0.0000%/ 0.0000%
+400`  E`  3710`  020`  0.0000%/ 0.0000%
+400`  E`  5410`  020`  0.0000%/ 0.0000%
+400`  E`  5510`  020`  0.0000%/ 0.0000%
+400`  E`  3310`  020`  0.0000%/ 0.0000%
+400`  E`  4310`  020`  0.0000%/ 0.0000%
+400`  E`  2310`  020`  0.0000%/ 0.0000%
+400`  E`  1810`  020`  0.0000%/ 0.0000%
+400`  E`  4210`  020`  0.0000%/ 0.0000%
+400`  E`  5110`  020`  0.0000%/ 0.0000%
+400`  E`  6210`  020`  0.0000%/ 0.0000%
+400`  E`  2410`  020`  0.0000%/ 0.0000%
+400`  E`  3010`  020`  0.0000%/ 0.0000%
+400`  E`  3910`  020`  0.0000%/ 0.0000%
+400`  E`  1410`  020`  0.0000%/ 0.0000%
+400`  E`  0CH`  005`   4.0000%
+400`  E`  0CH`  022`   4.0000%
+400`  E`  0DE`  009`   4.0000%
+400`  E`  0FI`  002`   4.0000%
+400`  E`  0PL`  005`   4.0000%
+400`  E`  0RU`  022`   4.0000%
+400`  E`  1010`  027`  2.0000%/ 2.0000%
+400`  E`  4410`  027`  2.0000%/ 2.0000%
+400`  E`  6410`  027`  2.0000%/ 2.0000%
+400`  E`  1310`  027`  2.0000%/ 2.0000%
+400`  E`  1110`  027`  2.0000%/ 2.0000%
+400`  E`  1410`  027`  2.0000%/ 2.0000%
+400`  E`  1010`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  4410`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  6410`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  1310`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  1110`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  6310`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  6310`  027`  2.0000%/ 2.0000%
+400`  E`  3610`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  3610`  027`  2.0000%/ 2.0000%
+400`  E`  6110`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  6110`  027`  2.0000%/ 2.0000%
+400`  E`  1910`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  1910`  027`  2.0000%/ 2.0000%
+400`  E`  5910`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  5910`  027`  2.0000%/ 2.0000%
+400`  E`  1610`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  1610`  027`  2.0000%/ 2.0000%
+400`  E`  2810`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  2810`  027`  2.0000%/ 2.0000%
+400`  E`  5810`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  5810`  027`  2.0000%/ 2.0000%
+400`  E`  6910`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  6910`  027`  2.0000%/ 2.0000%
+400`  E`  3710`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  3710`  027`  2.0000%/ 2.0000%
+400`  E`  5410`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  5410`  027`  2.0000%/ 2.0000%
+400`  E`  5510`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  5510`  027`  2.0000%/ 2.0000%
+400`  E`  3310`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  3310`  027`  2.0000%/ 2.0000%
+400`  E`  4310`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  4310`  027`  2.0000%/ 2.0000%
+400`  E`  2310`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  2310`  027`  2.0000%/ 2.0000%
+400`  E`  1810`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  1810`  027`  2.0000%/ 2.0000%
+400`  E`  4210`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  4210`  027`  2.0000%/ 2.0000%
+400`  E`  5110`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  5110`  027`  2.0000%/ 2.0000%
+400`  E`  6210`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  6210`  027`  2.0000%/ 2.0000%
+400`  E`  4510`  012`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  2410`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  2410`  027`  2.0000%/ 2.0000%
+400`  E`  3010`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  3010`  027`  2.0000%/ 2.0000%
+400`  E`  3910`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  3910`  027`  2.0000%/ 2.0000%
+400`  E`  0CH`  025`  12.5000%
+400`  E`  0CZ`  006`  12.5000%
+400`  E`  0PL`  009`  12.5000%
+400`  E`  0RU`  058`  12.5000%
+400`  E`  0SK`  006`  12.5000%
+400`  E`  0US`  011`  ...> 9.0000%/ 8.0000%/ 7.00/ 6.0/ 5.0000%
+400`  E`  0US`  012`  ...> 9.0000%/ 8.0000%/ 7.00/ 6.0/ 5.0000%
+400`  E`  0US`  013`  ...> 9.0000%/ 8.0000%/ 7.00/ 6.0/ 5.0000%
+400`  E`  0US`  014`  ...> 9.0000%/ 8.0000%/ 7.00/ 6.0/ 5.0000%
+400`  E`  0US`  015`  ...> 9.0000%/ 8.0000%/ 7.00/ 6.0/ 5.0000%
+400`  E`  2110`  006`  12.5000%
+400`  E`  2210`  025`  12.5000%
+400`  E`  0CL`  006`   5.0000%
+400`  E`  0MX`  006`   5.0000%
+400`  E`  0PE`  006`   5.0000%
+400`  E`  0RU`  027`   5.0000%
+400`  E`  0VE`  006`   5.0000%
+400`  E`  0CH`  004`   3.0000%
+400`  E`  0CH`  020`   3.0000%
+400`  E`  0DE`  035`   3.0000%
+400`  E`  0RU`  014`   3.0000%
+400`  E`  0CH`  007`   7.0000%
+400`  E`  0FI`  003`   7.0000%
+400`  E`  0PL`  007`   7.0000%
+400`  E`  0RU`  038`   7.0000%
+400`  E`  0CL`  010`  20%
+400`  E`  0PE`  010`  20%
+400`  E`  0TW`  128`  20%
+400`  E`  1410`  001`  0.00%
+400`  E`  1410`  002`  0.00%
+400`  E`  1410`  003`  0.00%
+400`  E`  1410`  005`  0.00%
+400`  E`  1410`  006`  0.00%
+400`  E`  1410`  010`  0.00%
+400`  E`  1410`  013`  0.00%
+400`  E`  1410`  018`  0.00%
+400`  E`  1410`  026`  0.00%
+400`  E`  1410`  CO1`  0.00%
+400`  E`  1410`  CO2`  0.00%
+400`  E`  1410`  PS1`  0.00%
+400`  E`  1410`  PS2`  0.00%
+400`  E`  0US`  026`  ...> 8.0000%/ 7.0000%/ 6.00/ 5.0/ 4.0000%
+400`  E`  0US`  030`  ...> 8.0000%/ 7.0000%/ 6.00/ 5.0/ 4.0000%
+400`  E`  0US`  031`  ...> 8.0000%/ 7.0000%/ 6.00/ 5.0/ 4.0000%
+400`  E`  0US`  022`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 2.0000%
+400`  E`  0US`  023`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 2.0000%
+400`  E`  0US`  024`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 2.0000%
+400`  E`  0US`  019`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 1.0000%
+400`  E`  0US`  020`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 1.0000%
+400`  E`  0US`  021`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 1.0000%
+400`  E`  0CZ`  008`   6.7000%
+400`  E`  0ES`  005`  40.0000%/30.0000%/20.0000%/10.0000%/ 0.0000%
+400`  E`  0IT`  005`  40.0000%/30.0000%/20.0000%/10.0000%/ 0.0000%
+400`  E`  0PT`  005`  40.0000%/30.0000%/20.0000%/10.0000%/ 0.0000%
+400`  E`  0RU`  036`   6.7000%
+400`  E`  0SK`  008`   6.7000%
+400`  E`  0CZ`  003`  14.2000%/28.6000%
+400`  E`  0SK`  003`  14.2000%/28.6000%
+400`  E`  0PL`  010`  14.0000%
+400`  E`  0RU`  061`  14.0000%
+400`  E`  2610`  045`  14.0000%
+400`  E`  2110`  003`  14.2000%/28.6000%
+400`  E`  0KR`  006`   0.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0PH`  006`   0.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0US`  007`  ...> 9.0000%/ 8.0000%/ 7.0000%/ 6.00/ 5.0/ 1.0000%
+400`  E`  0US`  008`  ...> 9.0000%/ 8.0000%/ 7.0000%/ 6.00/ 5.0/ 1.0000%
+400`  E`  0PL`  011`  17.0000%
+400`  E`  0RU`  067`  17.0000%
+400`  E`  2610`  046`  17.0000%
+400`  E`  0KR`  008`   0.0000%/25.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0PH`  008`   0.0000%/25.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0KR`  004`  25.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0KR`  010`  50.0000%/ 0.0000%
+400`  E`  0PH`  004`  25.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0PH`  010`  50.0000%/ 0.0000%
+400`  E`  0KR`  003`  33.3333%/50.0000%/100.0000%
+400`  E`  0KR`  007`   0.0000%/ 0.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0PH`  003`  33.3333%/50.0000%/100.0000%
+400`  E`  0PH`  007`   0.0000%/ 0.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0KR`  005`  20.0000%/25.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0PH`  005`  20.0000%/25.0000%/33.3333%/50.0000%/100.0000%
+400`  E`  0US`  025`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 3.0000%
+400`  E`  0US`  029`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0/ 3.0000%
+400`  E`  0US`  005`  ...> 9.0000%/ 8.0000%/ 7.0000%/ 6.00/ 5.0
+400`  E`  0US`  006`  ...> 9.0000%/ 8.0000%/ 7.0000%/ 6.00/ 5.0
+400`  E`  0US`  009`  ...>10.0000%/ 8.0000%/ 7.0000%/ 6.00/ 5.0/ 2.0000%
+400`  E`  0US`  010`  ...>10.0000%/ 8.0000%/ 7.0000%/ 6.00/ 5.0/ 2.0000%
+400`  E`  0US`  017`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0
+400`  E`  0US`  018`  ...> 8.0000%/ 7.0000%/ 6.0000%/ 5.00/ 4.0
+400`  E`  0AR`  027`   2.0000%/ 2.0000%
+400`  E`  0AT`  002`   0.0000%/100.0000%
+400`  E`  0BR`  002`   0.0000%/100.0000%
+400`  E`  0DE`  027`   2.0000%/ 2.0000%
+400`  E`  0CH`  008`   8.0000%
+400`  E`  0RU`  044`   8.0000%
+400`  E`  0CH`  002`   1.5000%
+400`  E`  0CH`  017`   1.0000%
+400`  E`  0CH`  018`   1.5000%
+400`  E`  0RU`  006`   1.0000%
+400`  E`  0CH`  021`   3.5000%
+400`  E`  0RU`  018`   3.5000%
+400`  E`  0CZ`  005`   6.2000%/13.4000%
+400`  E`  0SK`  005`   6.2000%/13.4000%
+400`  E`  0CZ`  009`   1.4000%/ 3.4000%
+400`  E`  0CZ`  010`   1.0000%/ 2.2500%
+400`  E`  0SK`  009`   1.4000%/ 3.4000%
+400`  E`  0SK`  010`   1.0000%/ 2.2500%
+400`  E`  0CH`  006`   6.0000%
+400`  E`  0PL`  006`   6.0000%
+400`  E`  0CZ`  007`   3.4000%/ 6.9000%
+400`  E`  0SK`  007`   3.4000%/ 6.9000%
+400`  E`  0RU`  066`  16.7000%
+400`  E`  2110`  X02`  16.7000%
+400`  E`  0FR`  007`  50.0000%/50.0000%
+400`  E`  1210`  007`  50.0000%/50.0000%
+400`  E`  1010`  035`  3.0000%
+400`  E`  2610`  039`  3.0000%
+400`  E`  2110`  X03`  3.0000%
+400`  E`  2210`  004`  3.0000%
+400`  E`  2210`  020`  3.0000%
+400`  E`  0CH`  028`  22.5000%
+400`  E`  0RU`  056`  12.0000%
+400`  E`  0RU`  068`  18.0000%
+400`  E`  2610`  044`  12.0000%
+400`  E`  2610`  047`  18.0000%
+400`  E`  2210`  028`  22.5000%
+400`  E`  0CH`  014`  45.0000%
+400`  E`  0CH`  015`  50.0000%/ 8.0000%
+400`  E`  0CZ`  020`  CM45
+400`  E`  0CZ`  019`  CM30
+400`  E`  2210`  014`  45.0000%
+400`  E`  2210`  015`  50.0000%/ 8.0000%
+400`  E`  0PE`  011`  3%
+400`  E`  0US`  042`  ...> 6.8000%/ 6.20/ 5.6/ 5.1000%/ 4.2000%
+400`  E`  0US`  032`  ...> 6.9000%/ 6.3000%/ 5.70/ 5.2/ 4.7000%/ 0.2000%
+400`  E`  0US`  004`   8.0000%/14.0000%/12.0000%/10.0000%/ 9.0000%
+400`  E`  0RU`  065`  16.0000%
+400`  E`  0US`  028`  ...> 7.0000%/ 6.0000%/ 5.0000%/ 4.00/ 3.0/ 1.0000%
+400`  E`  0RU`  045`   8.3000%
+400`  E`  0RU`  055`  11.8000%
+400`  E`  0US`  043`  ...> 6.9000%/ 6.20/ 5.6/ 5.1000%/ 4.2000%
+400`  E`  0RU`  037`   6.8000%
+400`  E`  0US`  003`  15.0000%/22.0000%/21.0000%
+400`  E`  0RU`  073`  33.3000%
+400`  E`  0RU`  064`  15.4000%
+400`  E`  0RU`  013`   2.8000%
+400`  E`  0RU`  052`  11.0000%
+400`  E`  0RU`  053`  11.1000%
+400`  E`  0RU`  054`  11.5000%
+400`  E`  0RU`  003`   0.6500%
+400`  E`  0CO`  006`  66.6667%
+400`  E`  0RU`  002`   0.4000%
+400`  E`  0RU`  005`   0.8000%
+400`  E`  0RU`  051`  10.5000%
+400`  E`  0RU`  004`   0.7000%
+400`  E`  0RU`  047`   9.1000%
+400`  E`  0RU`  012`   2.7000%
+400`  E`  0RU`  070`  22.2000%
+400`  E`  0CH`  016`   0.7500%
+400`  E`  0CH`  023`   7.5000%
+400`  E`  0RU`  033`   6.4000%
+400`  E`  0RU`  040`   7.4000%
+400`  E`  0RU`  041`   7.6000%
+400`  E`  0RU`  039`   7.1000%
+400`  E`  0DK`  005`   8.0000%/ 5.0000%
+400`  E`  0IT`  012`   2.0000%/11.1111%/11.1111%/100.0000%
+400`  E`  0RU`  072`  31.3000%
+400`  E`  0RU`  023`   4.2000%
+400`  E`  0RU`  025`   4.5000%
+400`  E`  0RU`  032`   6.3000%
+400`  E`  0DK`  003`   4.0000%/ 1.0000%
+400`  E`  0RU`  024`   4.3000%
+400`  E`  0RU`  026`   4.7000%
+400`  E`  0RU`  057`  12.3000%
+400`  E`  0RU`  034`   6.5000%
+400`  E`  0RU`  021`   3.9000%
+400`  E`  0RU`  031`   6.2000%
+400`  E`  0DK`  004`   6.0000%/ 2.0000%
+400`  E`  0RU`  046`   8.7000%
+400`  E`  0RU`  059`  13.0000%
+400`  E`  0RU`  020`   3.8000%
+400`  E`  0RU`  019`   3.6000%
+400`  E`  0RU`  017`   3.3500%
+400`  E`  0US`  033`  ...> 6.3000%/ 5.70/ 5.2/ 4.7000%/ 4.2000%
+400`  E`  0RU`  035`   6.6000%
+400`  E`  0US`  035`  ...> 6.4000%/ 5.90/ 5.3/ 4.8000%/ 4.2000%
+400`  E`  0RU`  060`  13.3000%
+400`  E`  0RU`  015`   3.1000%
+400`  E`  0US`  034`  ...> 6.4000%/ 5.80/ 5.3/ 4.8000%/ 4.2000%
+400`  E`  0RU`  016`   3.3000%
+400`  E`  0US`  036`  ...> 6.5000%/ 5.90/ 5.3/ 4.8000%/ 4.2000%
+400`  E`  0US`  040`  ...> 6.7000%/ 6.10/ 5.5/ 5.0000%/ 4.2000%
+400`  E`  0US`  041`  ...> 6.8000%/ 6.10/ 5.6/ 5.1000%/ 4.2000%
+400`  E`  0US`  037`  ...> 6.5000%/ 5.90/ 5.4/ 4.9000%/ 4.2000%
+400`  E`  0US`  039`  ...> 6.6000%/ 6.00/ 5.5/ 5.0000%/ 4.2000%
+400`  E`  0US`  038`  ...> 6.6000%/ 6.00/ 5.4/ 4.9000%/ 4.2000%
+400`  E`  0US`  002`  25.0000%/38.0000%/37.0000%
+400`  E`  0RU`  028`   5.2000%
+400`  E`  0RU`  042`   7.7000%
+400`  E`  0RU`  043`   7.8000%
+400`  E`  0RU`  030`   5.9000%
+400`  E`  0RU`  048`   9.6000%
+400`  E`  0RU`  008`   1.3500%
+400`  E`  0US`  016`  ...>10.0000%/ 9.0000%/ 8.0000%/ 7.00/ 6.0/ 5.0000%
+400`  E`  0US`  027`  ...> 9.0000%/ 8.0000%/ 7.0000%/ 6.00/ 5.0/ 4.0000%
+400`  E`  0RU`  029`   5.6000%
+400`  E`  0RU`  049`   9.8000%
+400`  E`  0RU`  007`   1.2000%
+400`  E`  0RU`  009`   1.7000%
+400`  E`  0RU`  062`  14.3000%
+400`  E`  0SK`  018`   1.5000%/ 2.5000%
+400`  E`  0DE`  036`   4.0000%/ 2.5000%/ 1.2500%
+400`  E`  0PL`  015`  33.3333%
+400`  E`  1010`  LEA`  Leasing from Real Estate
+400`  E`  1710`  LEA`  Leasing from Real Estate
+400`  E`  4410`  LEA`  Leasing from Real Estate
+400`  E`  1310`  LEA`  Leasing from Real Estate
+400`  E`  6410`  LEA`  Leasing from Real Estate
+400`  E`  1110`  LEA`  Leasing from Real Estate
+400`  E`  6310`  LEA`  Leasing from Real Estate
+400`  E`  1910`  LEA`  Leasing from Real Estate
+400`  E`  5910`  LEA`  Leasing from Real Estate
+400`  E`  1610`  LEA`  Leasing from Real Estate
+400`  E`  2810`  LEA`  Leasing from Real Estate
+400`  E`  3510`  LEA`  Leasing from Real Estate
+400`  E`  2610`  LEA`  Leasing from Real Estate
+400`  E`  5810`  LEA`  Leasing from Real Estate
+400`  E`  6910`  LEA`  Leasing from Real Estate
+400`  E`  3710`  LEA`  Leasing from Real Estate
+400`  E`  5410`  LEA`  Leasing from Real Estate
+400`  E`  5510`  LEA`  Leasing from Real Estate
+400`  E`  3310`  LEA`  Leasing from Real Estate
+400`  E`  1210`  LEA`  Leasing from Real Estate
+400`  E`  7K10`  LEA`  Leasing from Real Estate
+400`  E`  4310`  LEA`  Leasing from Real Estate
+400`  E`  1510`  LEA`  Leasing from Real Estate
+400`  E`  2910`  LEA`  Leasing from Real Estate
+400`  E`  2310`  LEA`  Leasing from Real Estate
+400`  E`  4210`  LEA`  Leasing from Real Estate
+400`  E`  5110`  LEA`  Leasing from Real Estate
+400`  E`  2110`  LEA`  Leasing from Real Estate
+400`  E`  6210`  LEA`  Leasing from Real Estate
+400`  E`  4510`  LEA`  Leasing from Real Estate
+400`  E`  2410`  LEA`  Leasing from Real Estate
+400`  E`  3210`  LEA`  Leasing from Real Estate
+400`  E`  2210`  LEA`  Leasing from Real Estate
+400`  E`  2510`  LEA`  Leasing from Real Estate
+400`  E`  3010`  LEA`  Leasing from Real Estate
+400`  E`  3910`  LEA`  Leasing from Real Estate
+400`  E`  USGP`  SU2`  Base: acquisition value
+400`  E`  1010`  SU2`  Base: acquisition value
+400`  E`  1710`  SU2`  Base: acquisition value
+400`  E`  4410`  SU2`  Base: acquisition value
+400`  E`  6410`  SU2`  Base: acquisition value
+400`  E`  1310`  SU2`  Base: acquisition value
+400`  E`  1110`  SU2`  Base: acquisition value
+400`  E`  6310`  SU2`  Base: acquisition value
+400`  E`  6110`  SU2`  Base: acquisition value
+400`  E`  1910`  SU2`  Base: acquisition value
+400`  E`  1610`  SU2`  Base: acquisition value
+400`  E`  2810`  SU2`  Base: acquisition value
+400`  E`  2610`  SU2`  Base: acquisition value
+400`  E`  5810`  SU2`  Base: acquisition value
+400`  E`  6910`  SU2`  Base: acquisition value
+400`  E`  3710`  SU2`  Base: acquisition value
+400`  E`  5410`  SU2`  Base: acquisition value
+400`  E`  1210`  SU2`  Base: acquisition value
+400`  E`  4310`  SU2`  Base: acquisition value
+400`  E`  1510`  SU2`  Base: acquisition value
+400`  E`  2910`  SU2`  Base: acquisition value
+400`  E`  1810`  SU2`  Base: acquisition value
+400`  E`  4210`  SU2`  Base: acquisition value
+400`  E`  5110`  SU2`  Base: acquisition value
+400`  E`  2110`  SU2`  Base: acquisition value
+400`  E`  4510`  SU2`  Base: acquisition value
+400`  E`  3210`  SU2`  Base: acquisition value
+400`  E`  2210`  SU2`  Base: acquisition value
+400`  E`  2510`  SU2`  Base: acquisition value
+400`  E`  3010`  SU2`  Base: acquisition value
+400`  E`  3910`  SU2`  Base: acquisition value
+400`  E`  1410`  SU2`  Base: acquisition value
+400`  E`  0AU`  003`   0.0000% replacement value
+400`  E`  0GB`  003`  APC, any life
+400`  E`  0HU`  003`   2%, acquisition value
+400`  E`  0IE`  003`  APC, any life
+400`  E`  0IN`  003`  APC, any life
+400`  E`  0NL`  003`  APC, any life
+400`  E`  0NZ`  003`   0.0000% replacement value
+400`  E`  0SG`  003`  APC, any life
+400`  E`  0TH`  003`  0%; Base=05=Limit Repl.Value
+400`  E`  0TR`  003`    4%, net book value without revaluation
+400`  E`  0ZA`  003`  APC, any life
+400`  E`  3510`  003`  Useful life
+400`  E`  7K10`  003`  0% Replacement Value
+400`  E`  4510`  003`  7.0000%
+400`  E`  2510`  003`  0% Replacement Value
+400`  E`  0AU`  005`   0.0000% acquisition value
+400`  E`  0NZ`  005`   0.0000% acquisition value
+400`  E`  2110`  005`  6.2000%/13.4000%
+400`  E`  0CL`  005`   0.0000% - acquisition value
+400`  E`  0HU`  005`   4%, acquisition value
+400`  E`  0TH`  005`  0%; Base=01=Acq. value
+400`  E`  0TR`  005`   10%, replacement value
+400`  E`  0UA`  005`  5.0000% per year
+400`  E`  1510`  005`  Decl-bal. over useful life 2 yrs  68.4000%
+400`  E`  0HU`  006`   5%, acquisition value
+400`  E`  0TH`  006`  0%; Base=01=Acq. value; for Special Depr.
+400`  E`  0TR`  006`   20%, replacement value
+400`  E`  0UA`  006`  15.0000% per year
+400`  E`  7K10`  006`  0% Acquisition value
+400`  E`  1510`  006`  Decl-bal. over useful life 3 yrs  53.6000%
+400`  E`  2210`  006`  6.0000%
+400`  E`  2510`  006`  0% Acquisition value
+400`  E`  0TH`  007`  36.9043%; Base=05=Limit Repl.Val.(Declinig)
+400`  E`  2110`  007`  3.4000%/6.9000%
+400`  E`  2210`  007`  7.0000%
+400`  E`  1410`  007`  2.00%
+400`  E`  0HU`  007`   6%, acquisition value
+400`  E`  0TR`  007`   40%, net book value
+400`  E`  0UA`  007`  25.0000% per year
+400`  E`  0AU`  002`   0.0000% net book value
+400`  E`  0NZ`  002`   0.0000% net book value
+400`  E`  3510`  002`  APC, any life
+400`  E`  1510`  007`  Decl-bal. over useful life 4 yrs  43.8000%
+400`  E`  2210`  002`  1.5000%
+400`  E`  0CL`  002`   0.0000% - replacement value
+400`  E`  0TR`  002`    2%, acquisition value
+400`  E`  0HU`  002`   1%, acquisition value
+400`  E`  1710`  001`  Base: NBV over remaining life
+400`  E`  7K10`  002`  0% Net Book Value
+400`  E`  2910`  001`  Base: NBV over remaining life
+400`  E`  2510`  002`  0% Net Book Value
+400`  E`  0AU`  001`   0.0000%, net book value with remaining life
+400`  E`  0CL`  001`   0.0000% - net book value
+400`  E`  0HU`  001`   0%, net book value
+400`  E`  0NZ`  001`   0.0000% net book value with remaining life
+400`  E`  0TR`  001`    0%, net book value, rem. life
+400`  E`  7K10`  001`  0% Net Book Value - Rem. Life
+400`  E`  1510`  001`   0.0000%,  net book value with remaining life
+400`  E`  2510`  001`  0% Net Book Value - Rem. Life
+400`  E`  0HU`  008`  10%, acquisition value
+400`  E`  0TH`  008`  0%; Base=01=Acq.Value; Reduct.40%(R&D)
+400`  E`  0TR`  008`   40%, net book value pro rata
+400`  E`  0UA`  008`  1.2500% per quarter
+400`  E`  1510`  008`  Decl-bal. over useful life 5 yrs  36.9000%
+400`  E`  2110`  008`  6.7000%
+400`  E`  2210`  008`  8.0000%
+400`  E`  1410`  008`  2.50%
+400`  E`  0CZ`  012`  APC, any life
+400`  E`  0HU`  012`  20%, acquisition value
+400`  E`  0KR`  012`  Net book value, any life
+400`  E`  0PH`  012`  Net book value, any life
+400`  E`  0SK`  012`  APC, any life
+400`  E`  1410`  012`  10.00%
+400`  E`  0AU`  004`  20.0000% replacement value 20 %
+400`  E`  0FR`  004`  APC, any life
+400`  E`  0NZ`  004`  20.0000% replacement value 20%
+400`  E`  0TR`  012`  Remaining life for subnumbers
+400`  E`  1210`  004`  APC, any life
+400`  E`  1510`  012`  Decl-bal. over useful life 9 yrs  22.6000%
+400`  E`  1410`  004`  10.00%
+400`  E`  0HU`  004`   3%, acquisition value
+400`  E`  0TH`  004`  0%; Base=03=Repl.value
+400`  E`  2110`  009`  1.4000%/3.4000%
+400`  E`  1410`  009`  4.00%
+400`  E`  0HU`  009`  14.5%, acquisition value
+400`  E`  0UA`  009`  3.7500% per quarter
+400`  E`  0TR`  009`   20%, replacement value pro rata
+400`  E`  0ES`  015`  APC, any life
+400`  E`  0PT`  015`  APC, any life
+400`  E`  1510`  009`  Decl-bal. over useful life 6 yrs  31.9000%
+400`  E`  0UA`  010`  6.2500% per quarter
+400`  E`  0HU`  015`   0%, replacement value
+400`  E`  0HU`  010`  15%, acquisition value
+400`  E`  1510`  015`  Decl-bal. over useful life 12 yrs 17.5000%
+400`  E`  2110`  010`  2.2500%/0.0000%
+400`  E`  1410`  015`  60.00%
+400`  E`  0TR`  010`   5 % replacement value
+400`  E`  0CZ`  018`  APC, any life
+400`  E`  0HU`  018`  APC, any life
+400`  E`  1510`  010`  Decl-bal. over useful life 7 yrs  28.0000%
+400`  E`  1510`  018`  Decl-bal. over useful life 15 yrs  14.2000%
+400`  E`  2110`  018`  1.5000%/2.5000%
+400`  E`  2210`  018`  1.5000%
+400`  E`  0HU`  011`  16.66%, acquisition value
+400`  E`  0TR`  011`  25 % replacement value
+400`  E`  0HU`  016`  10%, half of acquisition value
+400`  E`  1510`  016`  Decl-bal. over useful life 13 yrs  16.2000%
+400`  E`  2210`  016`  0.7500%
+400`  E`  1410`  011`  10.00%
+400`  E`  1410`  016`  100.00%
+400`  E`  0HU`  013`  25%, acquisition value
+400`  E`  1710`  013`  Base: acquisition value
+400`  E`  1510`  011`  Decl-bal. over useful life 8 yrs  25.0000%
+400`  E`  1510`  013`  Decl-bal. over useful life 10 yrs  20.6000%
+400`  E`  2910`  013`  Base: NBV over remaining life
+400`  E`  1410`  021`  15.00%
+400`  E`  0US`  044`  APC, any life
+400`  E`  1710`  044`  Base: acquisition value
+400`  E`  1510`  020`  Decl-bal. over useful life 17 yrs  12.7000%
+400`  E`  1510`  021`  Decl-bal. over useful life 18 yrs  12.0000%
+400`  E`  2910`  044`  Base: acquisition value
+400`  E`  2210`  021`  3.5000%
+400`  E`  0HU`  014`  33%, acquisition value
+400`  E`  0HU`  017`  10%, mean net book value without special deprec.
+400`  E`  1510`  017`  Decl-bal. over useful life 14 yrs  15.2000%
+400`  E`  1510`  044`  Decl-bal. over useful life 41 yrs   5.5000%
+400`  E`  2210`  017`  1.0000%
+400`  E`  1410`  017`  20.00%
+400`  E`  1510`  014`  Decl-bal. over useful life 11 yrs 18.9000%
+400`  E`  1510`  019`  Decl-bal. over useful life 16 yrs  13.4000%
+400`  E`  1510`  031`  Decl-bal. over useful life 28 yrs   7.9000%
+400`  E`  1410`  031`  25.00%
+400`  E`  1710`  045`  Base: NBV
+400`  E`  1710`  052`  Base: replacement value
+400`  E`  1510`  025`  Decl-bal. over useful life 22 yrs   9.9000%
+400`  E`  1510`  028`  Decl-bal. over useful life 25 yrs   8.8000%
+400`  E`  1510`  045`  Decl-bal. over useful life 42 yrs   5.3000%
+400`  E`  2910`  045`  Base: NBV
+400`  E`  2910`  052`  Base: replacement value
+400`  E`  1410`  025`  2.00%
+400`  E`  1410`  028`  50.00%
+400`  E`  1710`  053`  Luxury auto percentages
+400`  E`  1510`  027`  Decl-bal. over useful life 24 yrs   9.2000%
+400`  E`  1510`  034`  Decl-bal. over useful life 31 yrs   7.2000%
+400`  E`  1510`  052`  Decl-bal. over useful life 49 yrs   4.6000%
+400`  E`  1510`  053`  Decl-bal. over useful life 50 yrs   4.5000%
+400`  E`  2910`  053`  Luxury auto percentages
+400`  E`  0US`  054`  30% special depreciation in first year
+400`  E`  0US`  055`  APC less special depreciation, any lives
+400`  E`  0RU`  076`  APC, any life
+400`  E`  1510`  022`  Decl-bal. over useful life 19 yrs  11.4000%
+400`  E`  1510`  054`  Decl-bal. over useful life 51 yrs   4.4000%
+400`  E`  1510`  055`  Decl-bal. over useful life 52-53 yrs  4.3000%
+400`  E`  1510`  076`  Str.-line/prct over useful life 7 yrs  14.2000%
+400`  E`  1510`  100`  Str.-line/prct over useful life 31 yrs   3.3000%
+400`  E`  1410`  022`  40.00%
+400`  E`  0TR`  100`  100% changeover key
+400`  E`  2610`  036`  1.0000%
+400`  E`  1510`  023`  Decl-bal. over useful life 20 yrs  10.9000%
+400`  E`  1510`  033`  Decl-bal. over useful life 30 yrs   7.4000%
+400`  E`  1510`  036`  Decl-bal. over useful life 33 yrs   6.7000%
+400`  E`  2210`  023`  7.5000%
+400`  E`  1410`  030`  20.00%
+400`  E`  1410`  033`  50.00%
+400`  E`  2610`  037`  1.5000%
+400`  E`  2610`  041`  4.5000%
+400`  E`  2610`  042`  7.0000%
+400`  E`  2610`  048`  19.0500%
+400`  E`  1510`  029`  Decl-bal. over useful life 26 yrs   8.5000%
+400`  E`  1510`  030`  Decl-bal. over useful life 27 yrs   8.2000%
+400`  E`  1510`  037`  Decl-bal. over useful life 34 yrs   6.6000%
+400`  E`  1510`  041`  Decl-bal. over useful life 38 yrs   5.9000%
+400`  E`  1510`  042`  Decl-bal. over useful life 39 yrs   5.7000%
+400`  E`  1410`  029`  40.00%
+400`  E`  0RU`  RUT`  Vehicle tax (Russia)
+400`  E`  1510`  024`  Decl-bal. over useful life 21 yrs 10.4000%
+400`  E`  1510`  035`  Decl-bal. over useful life 32 yrs   6.9000%
+400`  E`  1510`  039`  Decl-bal. over useful life 36 yrs   6.2000%
+400`  E`  1510`  046`  Decl-bal. over useful life 43 yrs   5.2000%
+400`  E`  1510`  047`  Decl-bal. over useful life 44 yrs   5.1000%
+400`  E`  1510`  048`  Decl-bal. over useful life 45 yrs   5.0000%
+400`  E`  1510`  026`  Decl-bal. over useful life 23 yrs   9.5000%
+400`  E`  0IN`  M1`  5% block, Income Tax Depreciation - India
+400`  E`  0IN`  M2`  10% block, Income Tax Depreciation - India
+400`  E`  0IN`  M3`  15% block, Income Tax Depreciation - India
+400`  E`  0IN`  M4`  20% block, Income Tax Depreciation - India
+400`  E`  0IN`  M5`  25% block, Income Tax Depreciation - India
+400`  E`  0IN`  M6`  40% block, Income Tax Depreciation - India
+400`  E`  0IN`  M7`  50% block, Income Tax Depreciation - India
+400`  E`  0IN`  M8`  60% block, Income Tax Depreciation - India
+400`  E`  0IN`  M9`  100% block, Income Tax Depreciation - India
+400`  E`  USGP`  SU1`  Base: NBV over remaining life
+400`  E`  1710`  753`  Luxury Auto Percentages
+400`  E`  1710`  801`  Bonus Depreciation
+400`  E`  1710`  844`  Base: acquisition value reduced by special deprec
+400`  E`  1710`  845`  Base: Acq Value Reduced by Special Deprec RL
+400`  E`  1710`  853`  Luxury Auto Bonus Percentage
+400`  E`  6410`  L16`  Straight Line Depreciation - 16,67%
+400`  E`  6410`  L20`  Straight Line Depreciation - 20%
+400`  E`  6410`  L25`  Straight Line Depreciation - 25%
+400`  E`  6410`  L33`  Straight Line Depreciation - 33,33%
+400`  E`  6410`  LAL`  100% in first year
+400`  E`  6410`  LPE`  0% from usefull life
+400`  E`  4310`  K01`  4.5100%
+400`  E`  1510`  032`  Decl-bal. over useful life 29 yrs   7.6000%
+400`  E`  1510`  038`  Decl-bal. over useful life 35 yrs   6.4000%
+400`  E`  1510`  040`  Decl-bal. over useful life 37 yrs   6.0000%
+400`  E`  1510`  043`  Decl-bal. over useful life 40 yrs   5.6000%
+400`  E`  1510`  049`  Decl-bal. over useful life 46 yrs   4.9000%
+400`  E`  1510`  050`  Decl-bal. over useful life 47 yrs   4.8000%
+400`  E`  1510`  051`  Decl-bal. over useful life 48 yrs   4.7000%
+400`  E`  1510`  056`  Decl-bal. over useful life 54 yrs   4.2000%
+400`  E`  1510`  057`  Decl-bal. over useful life 55 yrs   4.1000%
+400`  E`  1510`  058`  Decl-bal. over useful life 56-57 yrs   4.0000%
+400`  E`  1510`  059`  Decl-bal. over useful life 58 yrs   3.9000%
+400`  E`  1510`  060`  Decl-bal. over useful life 59-60 yrs   3.8000%
+400`  E`  1510`  061`  Decl-bal. over useful life 61 yrs   3.7000%
+400`  E`  1510`  062`  Decl-bal. over useful life 62-63 yrs   3.6000%
+400`  E`  1510`  063`  Decl-bal. over useful life 64-65 yrs   3.5000%
+400`  E`  1510`  064`  Decl-bal. over useful life 66-67 yrs   3.4000%
+400`  E`  1510`  065`  Decl-bal. over useful life 68-69 yrs   3.3000%
+400`  E`  1510`  066`  Decl-bal. over useful life 70-72 yrs   3.2000%
+400`  E`  1510`  067`  Decl-bal. over useful life 73-74 yrs   3.1000%
+400`  E`  1510`  068`  Decl-bal. over useful life 75-77 yrs   3.0000%
+400`  E`  1510`  069`  Decl-bal. over useful life 78 yrs   2.9000%
+400`  E`  1510`  070`  Decl-bal. over useful life 79 yrs   2.8000%
+400`  E`  1510`  071`  Str.-line/prct over useful life 2 yrs    50.0000%
+400`  E`  1510`  072`  Str.-line/prct over useful life 3 yrs    33.3000%
+400`  E`  1510`  073`  Str.-line/prct over useful life 4 yrs  25.0000%
+400`  E`  1510`  074`  Str.-line/prct over useful life 5 yrs  20.0000%
+400`  E`  1510`  075`  Str.-line/prct over useful life 6 yrs  16.6000%
+400`  E`  1510`  077`  Str.-line/prct over useful life 8 yrs  12.5000%
+400`  E`  1510`  078`  Str.-line/prct over useful life 9 yrs  11.1000%
+400`  E`  1510`  079`  Str.-line/prct over useful life 10 yrs 10.0000%
+400`  E`  1510`  080`  Str.-line/prct over useful life 11 yrs   9.0000%
+400`  E`  1510`  081`  Str.-line/prct over useful life 12 yrs   8.3000%
+400`  E`  1510`  082`  Str.-line/prct over useful life 13 yrs   7.6000%
+400`  E`  1510`  083`  Str.-line/prct over useful life 14 yrs   7.1000%
+400`  E`  1510`  084`  Str.-line/prct over useful life 15 yrs   6.6000%
+400`  E`  1510`  085`  Str.-line/prct over useful life 16 yrs   6.2000%
+400`  E`  1510`  086`  Str.-line/prct over useful life 17 yrs   5.8000%
+400`  E`  1510`  087`  Str.-line/prct over useful life 18 yrs   5.5000%
+400`  E`  1510`  088`  Str.-line/prct over useful life 19 yrs   5.2000%
+400`  E`  1510`  089`  Str.-line/prct over useful life 20 yrs   5.0000%
+400`  E`  1510`  090`  Str.-line/prct over useful life 21 yrs   4.8000%
+400`  E`  1510`  091`  Str.-line/prct over useful life 22 yrs   4.6000%
+400`  E`  1510`  092`  Str.-line/prct over useful life 23 yrs   4.4000%
+400`  E`  1510`  093`  Str.-line/prct over useful life 24 yrs   4.2000%
+400`  E`  1510`  094`  Str.-line/prct over useful life 25 yrs   4.0000%
+400`  E`  1510`  095`  Str.-line/prct over useful life 26 yrs   3.9000%
+400`  E`  1510`  096`  Str.-line/prct over useful life 27 yrs   3.7000%
+400`  E`  1510`  097`  Str.-line/prct over useful life 28 yrs   3.6000%
+400`  E`  1510`  098`  Str.-line/prct over useful life 29 yrs   3.5000%
+400`  E`  1510`  099`  Str.-line/prct over useful life 30 yrs   3.4000%
+400`  E`  1510`  101`  Str.-line/prct over useful life 32 yrs   3.2000%
+400`  E`  1510`  102`  Str.-line/prct over useful life 33 yrs   3.1000%
+400`  E`  1510`  103`  Str.-line/prct over useful life 34 yrs   3.0000%
+400`  E`  1510`  104`  Str.-line/prct over useful life 35 yrs   2.9000%
+400`  E`  1510`  105`  Str.-line/prct over useful life 36 yrs   2.8000%
+400`  E`  1510`  106`  Str.-line/prct ovr useful life 37-38 yrs  2.7000%
+400`  E`  1510`  107`  Str.-line/prct over useful life 39 yrs   2.6000%
+400`  E`  1510`  108`  Str.-line/prct ovr useful life 40-41 yrs  2.5000%
+400`  E`  1510`  109`  Str.-line/prct ovr useful life 42-43 yrs  2.4000%
+400`  E`  1510`  110`  Str.-line/prct ovr useful life 44-45 yrs  2.3000%
+400`  E`  1510`  111`  Str.-line/prct ovr useful life 46-47 yrs  2.2000%
+400`  E`  1510`  112`  Str.-line/prct ovr useful life 48-49 yrs  2.1000%
+400`  E`  1510`  113`  Str.-line/prct ovr useful life 50-52 yrs  2.0000%
+400`  E`  1510`  114`  Str.-line/prct ovr useful life 53-55 yrs  1.9000%
+400`  E`  1510`  115`  Str.-line/prct ovr useful life 56-58 yrs  1.8000%
+400`  E`  1510`  116`  Str.-line/prct ovr useful life 59-62 yrs  1.7000%
+400`  E`  1510`  117`  Str.-line/prct ovr useful life 63-66 yrs  1.6000%
+400`  E`  1510`  118`  Str.-line/prct ovr useful life 67-70 yrs  1.5000%
+400`  E`  1510`  119`  Str.-line/prct ovr useful life 71-76 yrs  1.4000%
+400`  E`  1510`  120`  Str.-line/prct ovr useful life 77-80 yrs  1.3000%
+400`  E`  1510`  121`  0.0000%, replacement value
+400`  E`  1510`  125`  0.0000%, acquisition value
+400`  E`  1510`  128`  250%/200% DBM Phase 2
+400`  E`  1510`  129`  SLM w/o Reduction
+400`  E`  1510`  130`  Old/250%/200% DBM Phase 1
+400`  E`  1510`  131`  Old SLM Phase 1
+400`  E`  1510`  132`  DBM after impairment
+400`  E`  1510`  133`  SLM after impairment
+400`  E`  1510`  Z05`  Old SLM/DBM Phase 2
+400`  E`  2910`  Y04`  Base: NBV Declining 4%
+400`  E`  2910`  Y05`  Base: NBV Declining 5%
+400`  E`  2910`  Y08`  Base: NBV Declining 8%
+400`  E`  2910`  Y10`  Base: NBV Declining 10%
+400`  E`  2910`  Y20`  Base: NBV Declining 20%
+400`  E`  2910`  Y29`  Straight line - 25+50+25
+400`  E`  2910`  Y30`  Base: NBV Declining 30%
+400`  E`  2910`  Y40`  Base: NBV Declining 40%
+400`  E`  2910`  Y45`  Base: NBV Declining 45%
+400`  E`  2910`  Y55`  Base: NBV Declining 55%
+400`  E`  2310`  I03`  Italy Fiscal depreciation 3%
+400`  E`  2310`  I04`  Italy Fiscal depreciation 12,5%
+400`  E`  2310`  I05`  Italy Fiscal depreciation 12%
+400`  E`  2310`  I06`  Italy Fiscal depreciation 25%
+400`  E`  2310`  I07`  Italy Fiscal depreciation 20%
+400`  E`  2310`  I08`  Italy Fiscal depreciation 100%
+400`  E`  2310`  I09`  Italy Fiscal depreciation 33,33%
+400`  E`  2310`  I10`  Surcharge depreciation 40% L.28/12/2015 n.20
+400`  E`  2310`  I11`  Surcharge deprec. 30%
+400`  E`  2310`  I12`  Italy Fiscal depreciation 6%
+400`  E`  2310`  I13`  Italy Fiscal depreciation 15%
+400`  E`  2310`  I14`  Italy Fiscal depreciation 24%
+400`  E`  2310`  I15`  Italy Fiscal depreciation 30%
+400`  E`  2310`  I16`  Italy Fiscal depreciation 40%
+400`  E`  2310`  I17`  Italy Fiscal depreciation 50%
+400`  E`  2310`  I18`  Italy Fiscal depreciation 7.5%
+400`  E`  2310`  I19`  Italy Fiscal depreciation 10%
+400`  E`  2310`  I20`  Italy Fiscal depreciation 16.67%
+400`  E`  2310`  I21`  Italy Fiscal depreciation 5.56%
+400`  E`  2310`  I22`  Italy Fiscal depreciation 2%
+400`  E`  2110`  X01`  8.5000%/18.3000%
+400`  E`  2110`  X04`  8.4000%
+400`  E`  2110`  X05`  2.1500%/501500%
+400`  E`  2110`  X06`  5.0000%
+400`  E`  2110`  X09`  3.4000%
+400`  E`  2110`  X10`  3.1000%/501000%
+400`  E`  2110`  X12`  16.6667%
+400`  E`  2110`  X13`  8.3334%
+400`  E`  2110`  X14`  14.5000%
+400`  E`  2110`  X16`  16.6700%
+400`  E`  2110`  X33`  33.0000%
+400`  E`  3010`  L01`  18.7500%/ 37.500%
+400`  E`  AR88`  001`   0.0000%
+400`  E`  AR88`  002`   0.0000%
+400`  E`  AR88`  005`   0.0000%
+400`  E`  AR88`  008`   0.0000%
+400`  E`  AR88`  007`  10.0000%
+400`  E`  AR88`  006`  10.0000%
+400`  E`  AR88`  003`   2.0000%
+400`  E`  AR88`  004`   2.5000%
+400`  E`  AR88`  Z01`   0.0000%
+400`  E`  TM99`  001`   0.0000%
+400`  E`  TM99`  002`   0.0000%
+400`  E`  TM99`  005`   0.0000%
+400`  E`  TM99`  008`   0.0000%
+400`  E`  TM99`  007`  10.0000%
+400`  E`  TM99`  006`  10.0000%
+400`  E`  TM99`  003`   2.0000%
+400`  E`  TM99`  004`   2.5000%
+400`  E`  7000`  001`   0.0000%
+400`  E`  7000`  002`   0.0000%
+400`  E`  7000`  005`   0.0000%
+400`  E`  7000`  008`   0.0000%
+400`  E`  7000`  007`  10.0000%
+400`  E`  7000`  006`  10.0000%
+400`  E`  7000`  003`   2.0000%
+400`  E`  7000`  004`   2.5000%
+400`  E`  7999`  001`   0.0000%
+400`  E`  7999`  002`   0.0000%
+400`  E`  7999`  005`   0.0000%
+400`  E`  7999`  008`   0.0000%
+400`  E`  7999`  007`  10.0000%
+400`  E`  7999`  006`  10.0000%
+400`  E`  7999`  003`   2.0000%
+400`  E`  7999`  004`   2.5000%
+400`  E`  TMHK`  001`   0.0000%
+400`  E`  TMHK`  002`   0.0000%
+400`  E`  TMHK`  005`   0.0000%
+400`  E`  TMHK`  004`  10.0000%
+400`  E`  TMHK`  003`  10.0000%
+400`  E`  4030`  001`   0.0000%
+400`  E`  4030`  002`   0.0000%
+400`  E`  4030`  005`   0.0000%
+400`  E`  4030`  008`   0.0000%
+400`  E`  4030`  007`  10.0000%
+400`  E`  4030`  006`  10.0000%
+400`  E`  4030`  003`   2.0000%
+400`  E`  4030`  004`   2.5000%
+400`  E`  ZJP`  222`  Straight-Line/Percent using Useful Life, 4,6000%
+400`  E`  ZJP`  223`  Straight-Line/Percent using Useful Life, 4,4000%
+400`  E`  ZJP`  224`  Straight-Line/Percent using Useful Life, 4,2000%
+400`  E`  ZJP`  225`  Straight-Line/Percent using Useful Life, 4,0000%
+400`  E`  ZJP`  226`  Straight-Line/Percent using Useful Life, 3,9000%
+400`  E`  ZJP`  227`  Straight-Line/Percent using Useful Life, 3,8000%
+400`  E`  ZJP`  228`  Straight-Line/Percent using Useful Life, 3,6000%
+400`  E`  ZJP`  229`  Straight-Line/Percent using Useful Life, 3,5000%
+400`  E`  ZJP`  230`  Straight-Line/Percent using Useful Life, 3,4000%
+400`  E`  ZJP`  231`  Straight-Line/Percent using Useful Life, 3,3000%
+400`  E`  ZJP`  232`  Straight-Line/Percent using Useful Life, 3,2000%
+400`  E`  ZJP`  233`  Straight-Line/Percent using Useful Life, 3,1000%
+400`  E`  ZJP`  234`  Straight-Line/Percent using Useful Life, 3,0000%
+400`  E`  ZJP`  235`  Straight-Line/Percent using Useful Life, 2,9000%
+400`  E`  ZJP`  236`  Straight-Line/Percent using Useful Life, 2,8000%
+400`  E`  ZJP`  237`  Straight-Line/Percent using Useful Life, 2,7000%
+400`  E`  ZJP`  238`  Straight-Line/Percent using Useful Life, 2,6000%
+400`  E`  ZJP`  239`  Straight-Line/Percent using Useful Life, 2,5000%
+400`  E`  ZJP`  242`  Straight-Line/Percent using Useful Life, 2,2000%
+400`  E`  ZJP`  243`  Straight-Line/Percent using Useful Life, 2,1000%
+400`  E`  ZJP`  244`  Straight-Line/Percent using Useful Life, 2,0000%
+400`  E`  ZJP`  245`  Straight-Line/Percent using Useful Life, 1,9000%
+400`  E`  ZJP`  246`  Straight-Line/Percent using Useful Life, 1,8000%
+400`  E`  ZJP`  247`  Straight-Line/Percent using Useful Life, 1,7000%
+400`  E`  ZJP`  248`  Straight-Line/Percent using Useful Life, 1,6000%
+400`  E`  ZJP`  249`  Straight-Line/Percent using Useful Life, 1,5000%
+400`  E`  ZJP`  250`  Straight-Line/Percent using Useful Life, 1,4000%
+400`  E`  ZJP`  251`  Straight-Line/Percent using Useful Life, 1,3000%
+400`  E`  ZJP`  252`  Straight-Line/Percent using Useful Life, 1,2000%
+400`  E`  ZJP`  253`  Straight-Line/Percent using Useful Life, 1,1000%
+400`  E`  ZJP`  254`  Straight-Line/Percent using Useful Life, 1,0000%
+400`  E`  ZJP`  302`  Declining Balance using Useful Life, 100,0000%
+400`  E`  ZJP`  303`  Declining Balance using Useful Life, 83,3000%
+400`  E`  ZJP`  304`  Declining Balance using Useful Life, 62,5000%
+400`  E`  ZJP`  305`  Declining Balance using Useful Life, 50,0000%
+400`  E`  ZJP`  306`  Declining Balance using Useful Life, 41,7000%
+400`  E`  ZJP`  307`  Declining Balance using Useful Life, 35,7000%
+400`  E`  ZJP`  308`  Declining Balance using Useful Life, 31,3000%
+400`  E`  ZJP`  309`  Declining Balance using Useful Life, 27,8000%
+400`  E`  ZJP`  310`  Declining Balance using Useful Life, 25,0000%
+400`  E`  ZJP`  311`  Declining Balance using Useful Life, 22,7000%
+400`  E`  ZJP`  312`  Declining Balance using Useful Life, 20,8000%
+400`  E`  ZJP`  313`  Declining Balance using Useful Life, 19,2000%
+400`  E`  ZJP`  314`  Declining Balance using Useful Life, 17,9000%
+400`  E`  ZJP`  315`  Declining Balance using Useful Life, 16,7000%
+400`  E`  ZJP`  316`  Declining Balance using Useful Life, 15,6000%
+400`  E`  ZJP`  317`  Declining Balance using Useful Life, 14,7000%
+400`  E`  ZJP`  318`  Declining Balance using Useful Life, 13,9000%
+400`  E`  ZJP`  319`  Declining Balance using Useful Life, 13,2000%
+400`  E`  ZJP`  320`  Declining Balance using Useful Life, 12,5000%
+400`  E`  ZJP`  321`  Declining Balance using Useful Life, 11,9000%
+400`  E`  ZJP`  322`  Declining Balance using Useful Life, 11,4000%
+400`  E`  ZJP`  323`  Declining Balance using Useful Life, 10,9000%
+400`  E`  ZJP`  324`  Declining Balance using Useful Life, 10,4000%
+400`  E`  ZJP`  325`  Declining Balance using Useful Life, 10,0000%
+400`  E`  ZJP`  326`  Declining Balance using Useful Life, 9,6000%
+400`  E`  ZJP`  327`  Declining Balance using Useful Life, 9,3000%
+400`  E`  ZJP`  328`  Declining Balance using Useful Life, 8,9000%
+400`  E`  ZJP`  329`  Declining Balance using Useful Life, 8,6000%
+400`  E`  ZJP`  330`  Declining Balance using Useful Life, 8,3000%
+400`  E`  ZJP`  331`  Declining Balance using Useful Life, 8,1000%
+400`  E`  ZJP`  332`  Declining Balance using Useful Life, 7,8000%
+400`  E`  ZJP`  333`  Declining Balance using Useful Life, 7,6000%
+400`  E`  ZJP`  334`  Declining Balance using Useful Life, 7,4000%
+400`  E`  ZJP`  335`  Declining Balance using Useful Life, 7,1000%
+400`  E`  ZJP`  336`  Declining Balance using Useful Life, 6,9000%
+400`  E`  ZJP`  337`  Declining Balance using Useful Life, 6,8000%
+400`  E`  ZJP`  338`  Declining Balance using Useful Life, 6,6000%
+400`  E`  ZJP`  339`  Declining Balance using Useful Life, 6,4000%
+400`  E`  ZJP`  340`  Declining Balance using Useful Life, 6,3000%
+400`  E`  ZJP`  001`   0.0000%,  net book value with remaining life
+400`  E`  ZJP`  005`  Decl-bal. over useful life 2 yrs  68.4000%
+400`  E`  ZJP`  006`  Decl-bal. over useful life 3 yrs  53.6000%
+400`  E`  ZJP`  007`  Decl-bal. over useful life 4 yrs  43.8000%
+400`  E`  ZJP`  008`  Decl-bal. over useful life 5 yrs  36.9000%
+400`  E`  ZJP`  009`  Decl-bal. over useful life 6 yrs  31.9000%
+400`  E`  ZJP`  010`  Decl-bal. over useful life 7 yrs  28.0000%
+400`  E`  ZJP`  011`  Decl-bal. over useful life 8 yrs  25.0000%
+400`  E`  ZJP`  012`  Decl-bal. over useful life 9 yrs  22.6000%
+400`  E`  ZJP`  013`  Decl-bal. over useful life 10 yrs  20.6000%
+400`  E`  ZJP`  014`  Decl-bal. over useful life 11 yrs 18.9000%
+400`  E`  ZJP`  015`  Decl-bal. over useful life 12 yrs 17.5000%
+400`  E`  ZJP`  016`  Decl-bal. over useful life 13 yrs  16.2000%
+400`  E`  ZJP`  017`  Decl-bal. over useful life 14 yrs  15.2000%
+400`  E`  ZJP`  018`  Decl-bal. over useful life 15 yrs  14.2000%
+400`  E`  ZJP`  019`  Decl-bal. over useful life 16 yrs  13.4000%
+400`  E`  ZJP`  020`  Decl-bal. over useful life 17 yrs  12.7000%
+400`  E`  ZJP`  021`  Decl-bal. over useful life 18 yrs  12.0000%
+400`  E`  ZJP`  022`  Decl-bal. over useful life 19 yrs  11.4000%
+400`  E`  ZJP`  023`  Decl-bal. over useful life 20 yrs  10.9000%
+400`  E`  ZJP`  024`  Decl-bal. over useful life 21 yrs 10.4000%
+400`  E`  ZJP`  025`  Decl-bal. over useful life 22 yrs   9.9000%
+400`  E`  ZJP`  026`  Decl-bal. over useful life 23 yrs   9.5000%
+400`  E`  ZJP`  027`  Decl-bal. over useful life 24 yrs   9.2000%
+400`  E`  ZJP`  028`  Decl-bal. over useful life 25 yrs   8.8000%
+400`  E`  ZJP`  029`  Decl-bal. over useful life 26 yrs   8.5000%
+400`  E`  ZJP`  030`  Decl-bal. over useful life 27 yrs   8.2000%
+400`  E`  ZJP`  031`  Decl-bal. over useful life 28 yrs   7.9000%
+400`  E`  ZJP`  032`  Decl-bal. over useful life 29 yrs   7.6000%
+400`  E`  ZJP`  033`  Decl-bal. over useful life 30 yrs   7.4000%
+400`  E`  ZJP`  034`  Decl-bal. over useful life 31 yrs   7.2000%
+400`  E`  ZJP`  035`  Decl-bal. over useful life 32 yrs   6.9000%
+400`  E`  ZJP`  036`  Decl-bal. over useful life 33 yrs   6.7000%
+400`  E`  ZJP`  037`  Decl-bal. over useful life 34 yrs   6.6000%
+400`  E`  ZJP`  038`  Decl-bal. over useful life 35 yrs   6.4000%
+400`  E`  ZJP`  039`  Decl-bal. over useful life 36 yrs   6.2000%
+400`  E`  ZJP`  040`  Decl-bal. over useful life 37 yrs   6.0000%
+400`  E`  ZJP`  041`  Decl-bal. over useful life 38 yrs   5.9000%
+400`  E`  ZJP`  042`  Decl-bal. over useful life 39 yrs   5.7000%
+400`  E`  ZJP`  043`  Decl-bal. over useful life 40 yrs   5.6000%
+400`  E`  ZJP`  044`  Decl-bal. over useful life 41 yrs   5.5000%
+400`  E`  ZJP`  045`  Decl-bal. over useful life 42 yrs   5.3000%
+400`  E`  ZJP`  046`  Decl-bal. over useful life 43 yrs   5.2000%
+400`  E`  ZJP`  047`  Decl-bal. over useful life 44 yrs   5.1000%
+400`  E`  ZJP`  048`  Decl-bal. over useful life 45 yrs   5.0000%
+400`  E`  ZJP`  049`  Decl-bal. over useful life 46 yrs   4.9000%
+400`  E`  ZJP`  050`  Decl-bal. over useful life 47 yrs   4.8000%
+400`  E`  ZJP`  051`  Decl-bal. over useful life 48 yrs   4.7000%
+400`  E`  ZJP`  052`  Decl-bal. over useful life 49 yrs   4.6000%
+400`  E`  ZJP`  053`  Decl-bal. over useful life 50 yrs   4.5000%
+400`  E`  ZJP`  054`  Decl-bal. over useful life 51 yrs   4.4000%
+400`  E`  ZJP`  055`  Decl-bal. over useful life 52-53 yrs  4.3000%
+400`  E`  ZJP`  056`  Decl-bal. over useful life 54 yrs   4.2000%
+400`  E`  ZJP`  057`  Decl-bal. over useful life 55 yrs   4.1000%
+400`  E`  ZJP`  058`  Decl-bal. over useful life 56-57 yrs   4.0000%
+400`  E`  ZJP`  059`  Decl-bal. over useful life 58 yrs   3.9000%
+400`  E`  ZJP`  060`  Decl-bal. over useful life 59-60 yrs   3.8000%
+400`  E`  ZJP`  061`  Decl-bal. over useful life 61 yrs   3.7000%
+400`  E`  ZJP`  062`  Decl-bal. over useful life 62-63 yrs   3.6000%
+400`  E`  ZJP`  063`  Decl-bal. over useful life 64-65 yrs   3.5000%
+400`  E`  ZJP`  064`  Decl-bal. over useful life 66-67 yrs   3.4000%
+400`  E`  ZJP`  065`  Decl-bal. over useful life 68-69 yrs   3.3000%
+400`  E`  ZJP`  066`  Decl-bal. over useful life 70-72 yrs   3.2000%
+400`  E`  ZJP`  067`  Decl-bal. over useful life 73-74 yrs   3.1000%
+400`  E`  ZJP`  068`  Decl-bal. over useful life 75-77 yrs   3.0000%
+400`  E`  ZJP`  069`  Decl-bal. over useful life 78 yrs   2.9000%
+400`  E`  ZJP`  070`  Decl-bal. over useful life 79 yrs   2.8000%
+400`  E`  ZJP`  071`  Str.-line/prct over useful life 2 yrs    50.0000%
+400`  E`  ZJP`  072`  Str.-line/prct over useful life 3 yrs    33.3000%
+400`  E`  ZJP`  073`  Str.-line/prct over useful life 4 yrs  25.0000%
+400`  E`  ZJP`  074`  Str.-line/prct over useful life 5 yrs  20.0000%
+400`  E`  ZJP`  075`  Str.-line/prct over useful life 6 yrs  16.6000%
+400`  E`  ZJP`  076`  Str.-line/prct over useful life 7 yrs  14.2000%
+400`  E`  ZJP`  077`  Str.-line/prct over useful life 8 yrs  12.5000%
+400`  E`  ZJP`  078`  Str.-line/prct over useful life 9 yrs  11.1000%
+400`  E`  ZJP`  079`  Str.-line/prct over useful life 10 yrs 10.0000%
+400`  E`  ZJP`  080`  Str.-line/prct over useful life 11 yrs   9.0000%
+400`  E`  ZJP`  081`  Str.-line/prct over useful life 12 yrs   8.3000%
+400`  E`  ZJP`  082`  Str.-line/prct over useful life 13 yrs   7.6000%
+400`  E`  ZJP`  083`  Str.-line/prct over useful life 14 yrs   7.1000%
+400`  E`  ZJP`  084`  Str.-line/prct over useful life 15 yrs   6.6000%
+400`  E`  ZJP`  085`  Str.-line/prct over useful life 16 yrs   6.2000%
+400`  E`  ZJP`  086`  Str.-line/prct over useful life 17 yrs   5.8000%
+400`  E`  ZJP`  087`  Str.-line/prct over useful life 18 yrs   5.5000%
+400`  E`  ZJP`  088`  Str.-line/prct over useful life 19 yrs   5.2000%
+400`  E`  ZJP`  089`  Str.-line/prct over useful life 20 yrs   5.0000%
+400`  E`  ZJP`  090`  Str.-line/prct over useful life 21 yrs   4.8000%
+400`  E`  ZJP`  091`  Str.-line/prct over useful life 22 yrs   4.6000%
+400`  E`  ZJP`  092`  Str.-line/prct over useful life 23 yrs   4.4000%
+400`  E`  ZJP`  093`  Str.-line/prct over useful life 24 yrs   4.2000%
+400`  E`  ZJP`  094`  Str.-line/prct over useful life 25 yrs   4.0000%
+400`  E`  ZJP`  095`  Str.-line/prct over useful life 26 yrs   3.9000%
+400`  E`  ZJP`  096`  Str.-line/prct over useful life 27 yrs   3.7000%
+400`  E`  ZJP`  097`  Str.-line/prct over useful life 28 yrs   3.6000%
+400`  E`  ZJP`  098`  Str.-line/prct over useful life 29 yrs   3.5000%
+400`  E`  ZJP`  099`  Str.-line/prct over useful life 30 yrs   3.4000%
+400`  E`  ZJP`  100`  Str.-line/prct over useful life 31 yrs   3.3000%
+400`  E`  ZJP`  101`  Str.-line/prct over useful life 32 yrs   3.2000%
+400`  E`  ZJP`  102`  Str.-line/prct over useful life 33 yrs   3.1000%
+400`  E`  ZJP`  103`  Str.-line/prct over useful life 34 yrs   3.0000%
+400`  E`  ZJP`  104`  Str.-line/prct over useful life 35 yrs   2.9000%
+400`  E`  ZJP`  105`  Str.-line/prct over useful life 36 yrs   2.8000%
+400`  E`  ZJP`  106`  Str.-line/prct ovr useful life 37-38 yrs  2.7000%
+400`  E`  ZJP`  107`  Str.-line/prct over useful life 39 yrs   2.6000%
+400`  E`  ZJP`  108`  Str.-line/prct ovr useful life 40-41 yrs  2.5000%
+400`  E`  ZJP`  109`  Str.-line/prct ovr useful life 42-43 yrs  2.4000%
+400`  E`  ZJP`  110`  Str.-line/prct ovr useful life 44-45 yrs  2.3000%
+400`  E`  ZJP`  111`  Str.-line/prct ovr useful life 46-47 yrs  2.2000%
+400`  E`  ZJP`  112`  Str.-line/prct ovr useful life 48-49 yrs  2.1000%
+400`  E`  ZJP`  113`  Str.-line/prct ovr useful life 50-52 yrs  2.0000%
+400`  E`  ZJP`  114`  Str.-line/prct ovr useful life 53-55 yrs  1.9000%
+400`  E`  ZJP`  115`  Str.-line/prct ovr useful life 56-58 yrs  1.8000%
+400`  E`  ZJP`  116`  Str.-line/prct ovr useful life 59-62 yrs  1.7000%
+400`  E`  ZJP`  117`  Str.-line/prct ovr useful life 63-66 yrs  1.6000%
+400`  E`  ZJP`  118`  Str.-line/prct ovr useful life 67-70 yrs  1.5000%
+400`  E`  ZJP`  119`  Str.-line/prct ovr useful life 71-76 yrs  1.4000%
+400`  E`  ZJP`  120`  Str.-line/prct ovr useful life 77-80 yrs  1.3000%
+400`  E`  ZJP`  121`   0.0000%, replacement value
+400`  E`  ZJP`  125`   0.0000%, acquisition value
+400`  E`  ZJP`  128`  Japanese Straight-Line, Base Reduction G1
+400`  E`  ZJP`  129`  Japanese Straight-Line, Base Reduction 0%
+400`  E`  ZJP`  130`  Japanese Declining Balance Japanese
+400`  E`  ZJP`  131`  Japanese Straight-Line, Base Reduction -2006
+400`  E`  ZJP`  132`  Japanese Impairment, Declining Balance Japanese
+400`  E`  ZJP`  133`  Japanese Impairment, Straight-Line
+400`  E`  ZJP`  202`  Straight-Line/Percent using Useful Life, 50,0000%
+400`  E`  ZJP`  203`  Straight-Line/Percent using Useful Life, 33,4000%
+400`  E`  ZJP`  204`  Straight-Line/Percent using Useful Life, 25,0000%
+400`  E`  ZJP`  205`  Straight-Line/Percent using Useful Life, 20,0000%
+400`  E`  ZJP`  206`  Straight-Line/Percent using Useful Life, 16,7000%
+400`  E`  ZJP`  207`  Straight-Line/Percent using Useful Life, 14,3000%
+400`  E`  ZJP`  208`  Straight-Line/Percent using Useful Life, 12,5000%
+400`  E`  ZJP`  209`  Straight-Line/Percent using Useful Life, 11,2000%
+400`  E`  ZJP`  210`  Straight-Line/Percent using Useful Life, 10,0000%
+400`  E`  ZJP`  211`  Straight-Line/Percent using Useful Life, 9,1000%
+400`  E`  ZJP`  212`  Straight-Line/Percent using Useful Life, 8,4000%
+400`  E`  ZJP`  213`  Straight-Line/Percent using Useful Life, 7,7000%
+400`  E`  ZJP`  214`  Straight-Line/Percent using Useful Life, 7,2000%
+400`  E`  ZJP`  215`  Straight-Line/Percent using Useful Life, 6,7000%
+400`  E`  ZJP`  216`  Straight-Line/Percent using Useful Life, 6,3000%
+400`  E`  ZJP`  217`  Straight-Line/Percent using Useful Life, 5,9000%
+400`  E`  ZJP`  218`  Straight-Line/Percent using Useful Life, 5,6000%
+400`  E`  ZJP`  219`  Straight-Line/Percent using Useful Life, 5,3000%
+400`  E`  ZJP`  220`  Straight-Line/Percent using Useful Life, 5,0000%
+400`  E`  ZJP`  221`  Straight-Line/Percent using Useful Life, 4,8000%
+400`  E`  ZJP`  240`  Straight-Line/Percent using Useful Life, 2,4000%
+400`  E`  ZJP`  241`  Straight-Line/Percent using Useful Life, 2,3000%
+400`  E`  ZJP`  341`  Declining Balance using Useful Life, 6,1000%
+400`  E`  ZJP`  342`  Declining Balance using Useful Life, 6,0000%
+400`  E`  ZJP`  343`  Declining Balance using Useful Life, 5,8000%
+400`  E`  ZJP`  344`  Declining Balance using Useful Life, 5,7000%
+400`  E`  ZJP`  345`  Declining Balance using Useful Life, 5,6000%
+400`  E`  ZJP`  346`  Declining Balance using Useful Life, 5,4000%
+400`  E`  ZJP`  347`  Declining Balance using Useful Life, 5,3000%
+400`  E`  ZJP`  348`  Declining Balance using Useful Life, 5,2000%
+400`  E`  ZJP`  349`  Declining Balance using Useful Life, 5,1000%
+400`  E`  ZJP`  350`  Declining Balance using Useful Life, 5,0000%
+400`  E`  ZJP`  351`  Declining Balance using Useful Life, 4,9000%
+400`  E`  ZJP`  352`  Declining Balance using Useful Life, 4,8000%
+400`  E`  ZJP`  353`  Declining Balance using Useful Life, 4,7000%
+400`  E`  ZJP`  354`  Declining Balance using Useful Life, 4,6000%
+400`  E`  ZJP`  355`  Declining Balance using Useful Life, 4,5000%
+400`  E`  ZJP`  356`  Declining Balance using Useful Life, 4,4000%
+400`  E`  ZJP`  357`  Declining Balance using Useful Life, 4,3000%
+400`  E`  ZJP`  358`  Declining Balance using Useful Life, 4,2000%
+400`  E`  ZJP`  359`  Declining Balance using Useful Life, 4,1000%
+400`  E`  ZJP`  360`  Declining Balance using Useful Life, 4,0000%
+400`  E`  ZJP`  361`  Declining Balance using Useful Life, 3,9000%
+400`  E`  ZJP`  362`  Declining Balance using Useful Life, 3,8000%
+400`  E`  ZJP`  363`  Declining Balance using Useful Life, 3,7000%
+400`  E`  ZJP`  364`  Declining Balance using Useful Life, 3,6000%
+400`  E`  ZJP`  365`  Declining Balance using Useful Life, 3,5000%
+400`  E`  ZJP`  366`  Declining Balance using Useful Life, 3,4000%
+400`  E`  ZJP`  367`  Declining Balance using Useful Life, 3,3000%
+400`  E`  ZJP`  368`  Declining Balance using Useful Life, 3,2000%
+400`  E`  ZJP`  369`  Declining Balance using Useful Life, 3,1000%
+400`  E`  ZJP`  370`  Declining Balance using Useful Life, 3,0000%
+400`  E`  ZJP`  371`  Declining Balance using Useful Life, 2,9000%
+400`  E`  ZJP`  372`  Declining Balance using Useful Life, 2,8000%
+400`  E`  ZJP`  373`  Declining Balance using Useful Life, 2,7000%
+400`  E`  ZJP`  374`  Declining Balance using Useful Life, 2,6000%
+400`  E`  ZJP`  375`  Declining Balance using Useful Life, 2,5000%
+400`  E`  ZJP`  401`  Revised/Percent using Useful Life, 100,0000%
+400`  E`  ZJP`  402`  Revised/Percent using Useful Life, 50,0000%
+400`  E`  ZJP`  403`  Revised/Percent using Useful Life, 33,4000%
+400`  E`  ZJP`  404`  Revised/Percent using Useful Life, 25,0000%
+400`  E`  ZJP`  405`  Revised/Percent using Useful Life, 20,0000%
+400`  E`  ZJP`  406`  Revised/Percent using Useful Life, 16,7000%
+400`  E`  ZJP`  407`  Revised/Percent using Useful Life, 14,3000%
+400`  E`  ZJP`  408`  Revised/Percent using Useful Life, 12,5000%
+400`  E`  ZJP`  409`  Revised/Percent using Useful Life, 11,2000%
+400`  E`  ZJP`  410`  Revised/Percent using Useful Life, 10,0000%
+400`  E`  ZJP`  411`  Revised/Percent using Useful Life, 9,1000%
+400`  E`  ZJP`  412`  Revised/Percent using Useful Life, 8,4000%
+400`  E`  ZJP`  413`  Revised/Percent using Useful Life, 7,7000%
+400`  E`  ZJP`  414`  Revised/Percent using Useful Life, 7,2000%
+400`  E`  ZJP`  415`  Revised/Percent using Useful Life, 6,7000%
+400`  E`  ZJP`  416`  Revised/Percent using Useful Life, 6,3000%
+400`  E`  ZJP`  417`  Revised/Percent using Useful Life, 5,9000%
+400`  E`  ZJP`  418`  Revised/Percent using Useful Life, 5,6000%
+400`  E`  ZJP`  419`  Revised/Percent using Useful Life, 5,3000%
+400`  E`  ZJP`  420`  Revised/Percent using Useful Life, 5,0000%
+400`  E`  ZJP`  421`  Revised/Percent using Useful Life, 4,8000%
+400`  E`  ZJP`  422`  Revised/Percent using Useful Life, 4,6000%
+400`  E`  ZJP`  423`  Revised/Percent using Useful Life, 4,4000%
+400`  E`  ZJP`  424`  Revised/Percent using Useful Life, 4,2000%
+400`  E`  ZJP`  425`  Revised/Percent using Useful Life, 4,0000%
+400`  E`  ZJP`  426`  Revised/Percent using Useful Life, 3,9000%
+400`  E`  ZJP`  427`  Revised/Percent using Useful Life, 3,8000%
+400`  E`  ZJP`  428`  Revised/Percent using Useful Life, 3,6000%
+400`  E`  ZJP`  429`  Revised/Percent using Useful Life, 3,5000%
+400`  E`  ZJP`  430`  Revised/Percent using Useful Life, 3,4000%
+400`  E`  ZJP`  431`  Revised/Percent using Useful Life, 3,3000%
+400`  E`  ZJP`  432`  Revised/Percent using Useful Life, 3,2000%
+400`  E`  ZJP`  433`  Revised/Percent using Useful Life, 3,1000%
+400`  E`  ZJP`  434`  Revised/Percent using Useful Life, 3,0000%
+400`  E`  ZJP`  435`  Revised/Percent using Useful Life, 2,9000%
+400`  E`  ZJP`  436`  Revised/Percent using Useful Life, 2,7000%
+400`  E`  ZJP`  437`  Revised/Percent using Useful Life, 2,6000%
+400`  E`  ZJP`  002`  0.0000%
+400`  E`  ZJP`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  ZJP`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  ZJP`  LEA`  Leasing from Real Estate
+400`  E`  ZJP`  SU2`  Base: acquisition value
+400`  E`  4020`  011`  10.0000%
+400`  E`  4020`  012`  10.0000%
+400`  E`  4020`  024`  ---
+400`  E`  4020`  023`  ---
+400`  E`  4020`  032`  ---
+400`  E`  4020`  001`  0.0000%
+400`  E`  4020`  013`  0.0000%
+400`  E`  4020`  002`  0.0000%
+400`  E`  4020`  010`  0.0000%
+400`  E`  4020`  018`  0.0000%
+400`  E`  4020`  026`  0.0000%
+400`  E`  4020`  017`  20.0000%
+400`  E`  4020`  030`  20.0000%
+400`  E`  4020`  022`  40.0000%
+400`  E`  4020`  029`  40.0000%
+400`  E`  4020`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  4020`  031`  25.0000%
+400`  E`  4020`  028`  50.0000%
+400`  E`  4020`  033`  50.0000%
+400`  E`  4020`  021`  15.0000%
+400`  E`  4020`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  4020`  019`  75.0000%/ 0.0000%
+400`  E`  4020`  007`  2.0000%
+400`  E`  4020`  025`  2.0000%
+400`  E`  4020`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  4020`  015`  60.0000%
+400`  E`  4020`  016`  100.0000%
+400`  E`  4020`  009`  4.0000%
+400`  E`  4020`  SU2`
+400`  E`  4020`  008`  2.5000%
+400`  E`  4020`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  4020`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  4020`  020`  0.0000%/ 0.0000%
+400`  E`  4020`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  4020`  027`  2.0000%/ 2.0000%
+400`  E`  4020`  LEA`  Leasing from Real Estate
+400`  E`  4020`  I03`  Italy Fiscal depreciation 3%
+400`  E`  4020`  I04`  Italy Fiscal depreciation 12,5%
+400`  E`  4020`  I05`  Italy Fiscal depreciation 12%
+400`  E`  4020`  I06`  Italy Fiscal depreciation 25%
+400`  E`  4020`  I07`  Italy Fiscal depreciation 20%
+400`  E`  4020`  I08`  Italy Fiscal depreciation 100%
+400`  E`  4020`  I09`  Italy Fiscal depreciation 33,33%
+400`  E`  4020`  I10`  Surcharge depreciation 40% L.28/12/2015 n.20
+400`  E`  4020`  I11`  Surcharge deprec. 30%
+400`  E`  4020`  I12`  Italy Fiscal depreciation 6%
+400`  E`  4020`  I13`  Italy Fiscal depreciation 15%
+400`  E`  4020`  I14`  Italy Fiscal depreciation 24%
+400`  E`  4020`  I15`  Italy Fiscal depreciation 30%
+400`  E`  4020`  I16`  Italy Fiscal depreciation 40%
+400`  E`  4020`  I17`  Italy Fiscal depreciation 50%
+400`  E`  4020`  I18`  Italy Fiscal depreciation 7.5%
+400`  E`  4020`  I19`  Italy Fiscal depreciation 10%
+400`  E`  4020`  I20`  Italy Fiscal depreciation 16.67%
+400`  E`  4020`  I21`  Italy Fiscal depreciation 5.56%
+400`  E`  4020`  I22`  Italy Fiscal depreciation 2%
+400`  E`  4040`  011`  10.0000%
+400`  E`  4040`  012`  10.0000%
+400`  E`  4040`  024`  ---
+400`  E`  4040`  023`  ---
+400`  E`  4040`  032`  ---
+400`  E`  4040`  001`  0.0000%
+400`  E`  4040`  013`  0.0000%
+400`  E`  4040`  002`  0.0000%
+400`  E`  4040`  010`  0.0000%
+400`  E`  4040`  018`  0.0000%
+400`  E`  4040`  026`  0.0000%
+400`  E`  4040`  017`  20.0000%
+400`  E`  4040`  030`  20.0000%
+400`  E`  4040`  022`  40.0000%
+400`  E`  4040`  029`  40.0000%
+400`  E`  4040`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  4040`  031`  25.0000%
+400`  E`  4040`  028`  50.0000%
+400`  E`  4040`  033`  50.0000%
+400`  E`  4040`  021`  15.0000%
+400`  E`  4040`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  4040`  019`  75.0000%/ 0.0000%
+400`  E`  4040`  007`  2.0000%
+400`  E`  4040`  025`  2.0000%
+400`  E`  4040`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  4040`  015`  60.0000%
+400`  E`  4040`  016`  100.0000%
+400`  E`  4040`  009`  4.0000%
+400`  E`  4040`  SU2`
+400`  E`  4040`  008`  2.5000%
+400`  E`  4040`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  4040`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  4040`  020`  0.0000%/ 0.0000%
+400`  E`  4040`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  4040`  027`  2.0000%/ 2.0000%
+400`  E`  4040`  LEA`  Leasing from Real Estate
+400`  E`  4040`  I03`  Italy Fiscal depreciation 3%
+400`  E`  4040`  I04`  Italy Fiscal depreciation 12,5%
+400`  E`  4040`  I05`  Italy Fiscal depreciation 12%
+400`  E`  4040`  I06`  Italy Fiscal depreciation 25%
+400`  E`  4040`  I07`  Italy Fiscal depreciation 20%
+400`  E`  4040`  I08`  Italy Fiscal depreciation 100%
+400`  E`  4040`  I09`  Italy Fiscal depreciation 33,33%
+400`  E`  4040`  I10`  Surcharge depreciation 40% L.28/12/2015 n.20
+400`  E`  4040`  I11`  Surcharge deprec. 30%
+400`  E`  4040`  I12`  Italy Fiscal depreciation 6%
+400`  E`  4040`  I13`  Italy Fiscal depreciation 15%
+400`  E`  4040`  I14`  Italy Fiscal depreciation 24%
+400`  E`  4040`  I15`  Italy Fiscal depreciation 30%
+400`  E`  4040`  I16`  Italy Fiscal depreciation 40%
+400`  E`  4040`  I17`  Italy Fiscal depreciation 50%
+400`  E`  4040`  I18`  Italy Fiscal depreciation 7.5%
+400`  E`  4040`  I19`  Italy Fiscal depreciation 10%
+400`  E`  4040`  I20`  Italy Fiscal depreciation 16.67%
+400`  E`  4040`  I21`  Italy Fiscal depreciation 5.56%
+400`  E`  4040`  I22`  Italy Fiscal depreciation 2%
+400`  E`  4010`  001`   0.0000%
+400`  E`  4010`  002`   0.0000%
+400`  E`  4010`  005`   0.0000%
+400`  E`  4010`  008`   0.0000%
+400`  E`  4010`  007`  10.0000%
+400`  E`  4010`  006`  10.0000%
+400`  E`  4010`  003`   2.0000%
+400`  E`  4010`  004`   2.5000%
+400`  E`  L000`  001`   0.0000%
+400`  E`  L000`  002`   0.0000%
+400`  E`  L000`  005`   0.0000%
+400`  E`  L000`  008`   0.0000%
+400`  E`  L000`  007`  10.0000%
+400`  E`  L000`  006`  10.0000%
+400`  E`  L000`  003`   2.0000%
+400`  E`  L000`  004`   2.5000%
+400`  E`  LL02`  001`   0.0000%
+400`  E`  LL02`  002`   0.0000%
+400`  E`  LL02`  005`   0.0000%
+400`  E`  LL02`  008`   0.0000%
+400`  E`  LL02`  007`  10.0000%
+400`  E`  LL02`  006`  10.0000%
+400`  E`  LL02`  003`   2.0000%
+400`  E`  LL02`  004`   2.5000%
+400`  E`  ZP00`  001`   0.0000%
+400`  E`  ZP00`  002`   0.0000%
+400`  E`  ZP00`  005`   0.0000%
+400`  E`  ZP00`  008`   0.0000%
+400`  E`  ZP00`  007`  10.0000%
+400`  E`  ZP00`  006`  10.0000%
+400`  E`  ZP00`  003`   2.0000%
+400`  E`  ZP00`  004`   2.5000%
+400`  E`  M110`  011`  10.0000%
+400`  E`  M110`  012`  10.0000%
+400`  E`  M110`  024`  ---
+400`  E`  M110`  023`  ---
+400`  E`  M110`  032`  ---
+400`  E`  M110`  001`  0.0000%
+400`  E`  M110`  013`  0.0000%
+400`  E`  M110`  002`  0.0000%
+400`  E`  M110`  010`  0.0000%
+400`  E`  M110`  018`  0.0000%
+400`  E`  M110`  026`  0.0000%
+400`  E`  M110`  017`  20.0000%
+400`  E`  M110`  030`  20.0000%
+400`  E`  M110`  022`  40.0000%
+400`  E`  M110`  029`  40.0000%
+400`  E`  M110`  003`  10.0000%/ 5.0000%/ 2.5000%
+400`  E`  M110`  031`  25.0000%
+400`  E`  M110`  028`  50.0000%
+400`  E`  M110`  033`  50.0000%
+400`  E`  M110`  021`  15.0000%
+400`  E`  M110`  014`  60.0000%/70.0000%/80.0000%/90.0000%/100.0000%
+400`  E`  M110`  019`  75.0000%/ 0.0000%
+400`  E`  M110`  007`  2.0000%
+400`  E`  M110`  025`  2.0000%
+400`  E`  M110`  034`  60.0000%/ 0.0000%/100.0000%
+400`  E`  M110`  015`  60.0000%
+400`  E`  M110`  016`  100.0000%
+400`  E`  M110`  009`  4.0000%
+400`  E`  M110`  008`  2.5000%
+400`  E`  M110`  006`  7.0000%/ 5.0000%/ 2.0000%/ 1.2500%
+400`  E`  M110`  004`  3.5000%/ 2.0000%/ 1.0000%
+400`  E`  M110`  020`  0.0000%/ 0.0000%
+400`  E`  M110`  027`  2.0000%/ 2.0000%
+400`  E`  M110`  005`  5.0000%/ 2.5000%/ 1.2500%
+400`  E`  M110`  LEA`  Leasing from Real Estate
+400`  E`  M110`  SU2`  Base: acquisition value
+400`  E`  2301`  001`   0.0000%
+400`  E`  2301`  002`   0.0000%
+400`  E`  2301`  005`   0.0000%
+400`  E`  2301`  008`   0.0000%
+400`  E`  2301`  007`  10.0000%
+400`  E`  2301`  006`  10.0000%
+400`  E`  2301`  003`   2.0000%
+400`  E`  2301`  004`   2.5000%
+400`  E`  2018`  001`   0.0000%
+400`  E`  2018`  002`   0.0000%
+400`  E`  2018`  005`   0.0000%
+400`  E`  2018`  008`   0.0000%
+400`  E`  2018`  007`  10.0000%
+400`  E`  2018`  006`  10.0000%
+400`  E`  2018`  003`   2.0000%
+400`  E`  2018`  004`   2.5000%
+400`  E`  AAA2`  001`   0.0000%
+400`  E`  AAA2`  002`   0.0000%
+400`  E`  AAA2`  005`   0.0000%
+400`  E`  AAA2`  008`   0.0000%
+400`  E`  AAA2`  007`  10.0000%
+400`  E`  AAA2`  006`  10.0000%
+400`  E`  AAA2`  003`   2.0000%
+400`  E`  AAA2`  004`   2.5000%
+400`  E`  YTLY`  001`   0.0000%
+400`  E`  YTLY`  002`   0.0000%
+400`  E`  YTLY`  005`   0.0000%
+400`  E`  YTLY`  008`   0.0000%
+400`  E`  YTLY`  007`  10.0000%
+400`  E`  YTLY`  006`  10.0000%
+400`  E`  YTLY`  003`   2.0000%
+400`  E`  YTLY`  004`   2.5000%
+400`  E`  LCN`  001`   0.0000%
+400`  E`  LCN`  002`   0.0000%
+400`  E`  LCN`  005`   0.0000%
+400`  E`  LCN`  008`   0.0000%
+400`  E`  LCN`  007`  10.0000%
+400`  E`  LCN`  006`  10.0000%
+400`  E`  LCN`  003`   2.0000%
+400`  E`  LCN`  004`   2.5000%
+400`  E`  2011`  001`   0.0000%
+400`  E`  2011`  002`   0.0000%
+400`  E`  2011`  005`   0.0000%
+400`  E`  2011`  008`   0.0000%
+400`  E`  2011`  007`  10.0000%
+400`  E`  2011`  006`  10.0000%
+400`  E`  2011`  003`   2.0000%
+400`  E`  2011`  004`   2.5000%
+400`  E`  ZZSY`  222`  Straight-Line/Percent using Useful Life, 4,6000%
+400`  E`  ZZSY`  223`  Straight-Line/Percent using Useful Life, 4,4000%
+400`  E`  ZZSY`  224`  Straight-Line/Percent using Useful Life, 4,2000%
+400`  E`  ZZSY`  225`  Straight-Line/Percent using Useful Life, 4,0000%
+400`  E`  ZZSY`  226`  Straight-Line/Percent using Useful Life, 3,9000%
+400`  E`  ZZSY`  227`  Straight-Line/Percent using Useful Life, 3,8000%
+400`  E`  ZZSY`  228`  Straight-Line/Percent using Useful Life, 3,6000%
+400`  E`  ZZSY`  229`  Straight-Line/Percent using Useful Life, 3,5000%
+400`  E`  ZZSY`  230`  Straight-Line/Percent using Useful Life, 3,4000%
+400`  E`  ZZSY`  231`  Straight-Line/Percent using Useful Life, 3,3000%
+400`  E`  ZZSY`  232`  Straight-Line/Percent using Useful Life, 3,2000%
+400`  E`  ZZSY`  233`  Straight-Line/Percent using Useful Life, 3,1000%
+400`  E`  ZZSY`  234`  Straight-Line/Percent using Useful Life, 3,0000%
+400`  E`  ZZSY`  235`  Straight-Line/Percent using Useful Life, 2,9000%
+400`  E`  ZZSY`  236`  Straight-Line/Percent using Useful Life, 2,8000%
+400`  E`  ZZSY`  237`  Straight-Line/Percent using Useful Life, 2,7000%
+400`  E`  ZZSY`  238`  Straight-Line/Percent using Useful Life, 2,6000%
+400`  E`  ZZSY`  239`  Straight-Line/Percent using Useful Life, 2,5000%
+400`  E`  ZZSY`  242`  Straight-Line/Percent using Useful Life, 2,2000%
+400`  E`  ZZSY`  243`  Straight-Line/Percent using Useful Life, 2,1000%
+400`  E`  ZZSY`  244`  Straight-Line/Percent using Useful Life, 2,0000%
+400`  E`  ZZSY`  245`  Straight-Line/Percent using Useful Life, 1,9000%
+400`  E`  ZZSY`  246`  Straight-Line/Percent using Useful Life, 1,8000%
+400`  E`  ZZSY`  247`  Straight-Line/Percent using Useful Life, 1,7000%
+400`  E`  ZZSY`  248`  Straight-Line/Percent using Useful Life, 1,6000%
+400`  E`  ZZSY`  249`  Straight-Line/Percent using Useful Life, 1,5000%
+400`  E`  ZZSY`  250`  Straight-Line/Percent using Useful Life, 1,4000%
+400`  E`  ZZSY`  251`  Straight-Line/Percent using Useful Life, 1,3000%
+400`  E`  ZZSY`  252`  Straight-Line/Percent using Useful Life, 1,2000%
+400`  E`  ZZSY`  253`  Straight-Line/Percent using Useful Life, 1,1000%
+400`  E`  ZZSY`  254`  Straight-Line/Percent using Useful Life, 1,0000%
+400`  E`  ZZSY`  302`  Declining Balance using Useful Life, 100,0000%
+400`  E`  ZZSY`  303`  Declining Balance using Useful Life, 83,3000%
+400`  E`  ZZSY`  304`  Declining Balance using Useful Life, 62,5000%
+400`  E`  ZZSY`  305`  Declining Balance using Useful Life, 50,0000%
+400`  E`  ZZSY`  306`  Declining Balance using Useful Life, 41,7000%
+400`  E`  ZZSY`  307`  Declining Balance using Useful Life, 35,7000%
+400`  E`  ZZSY`  308`  Declining Balance using Useful Life, 31,3000%
+400`  E`  ZZSY`  309`  Declining Balance using Useful Life, 27,8000%
+400`  E`  ZZSY`  310`  Declining Balance using Useful Life, 25,0000%
+400`  E`  ZZSY`  311`  Declining Balance using Useful Life, 22,7000%
+400`  E`  ZZSY`  312`  Declining Balance using Useful Life, 20,8000%
+400`  E`  ZZSY`  313`  Declining Balance using Useful Life, 19,2000%
+400`  E`  ZZSY`  314`  Declining Balance using Useful Life, 17,9000%
+400`  E`  ZZSY`  315`  Declining Balance using Useful Life, 16,7000%
+400`  E`  ZZSY`  316`  Declining Balance using Useful Life, 15,6000%
+400`  E`  ZZSY`  317`  Declining Balance using Useful Life, 14,7000%
+400`  E`  ZZSY`  318`  Declining Balance using Useful Life, 13,9000%
+400`  E`  ZZSY`  319`  Declining Balance using Useful Life, 13,2000%
+400`  E`  ZZSY`  320`  Declining Balance using Useful Life, 12,5000%
+400`  E`  ZZSY`  321`  Declining Balance using Useful Life, 11,9000%
+400`  E`  ZZSY`  322`  Declining Balance using Useful Life, 11,4000%
+400`  E`  ZZSY`  323`  Declining Balance using Useful Life, 10,9000%
+400`  E`  ZZSY`  324`  Declining Balance using Useful Life, 10,4000%
+400`  E`  ZZSY`  325`  Declining Balance using Useful Life, 10,0000%
+400`  E`  ZZSY`  326`  Declining Balance using Useful Life, 9,6000%
+400`  E`  ZZSY`  327`  Declining Balance using Useful Life, 9,3000%
+400`  E`  ZZSY`  328`  Declining Balance using Useful Life, 8,9000%
+400`  E`  ZZSY`  329`  Declining Balance using Useful Life, 8,6000%
+400`  E`  ZZSY`  330`  Declining Balance using Useful Life, 8,3000%
+400`  E`  ZZSY`  331`  Declining Balance using Useful Life, 8,1000%
+400`  E`  ZZSY`  332`  Declining Balance using Useful Life, 7,8000%
+400`  E`  ZZSY`  333`  Declining Balance using Useful Life, 7,6000%
+400`  E`  ZZSY`  334`  Declining Balance using Useful Life, 7,4000%
+400`  E`  ZZSY`  335`  Declining Balance using Useful Life, 7,1000%
+400`  E`  ZZSY`  336`  Declining Balance using Useful Life, 6,9000%
+400`  E`  ZZSY`  337`  Declining Balance using Useful Life, 6,8000%
+400`  E`  ZZSY`  338`  Declining Balance using Useful Life, 6,6000%
+400`  E`  ZZSY`  339`  Declining Balance using Useful Life, 6,4000%
+400`  E`  ZZSY`  340`  Declining Balance using Useful Life, 6,3000%
+400`  E`  ZZSY`  001`   0.0000%,  net book value with remaining life
+400`  E`  ZZSY`  005`  Decl-bal. over useful life 2 yrs  68.4000%
+400`  E`  ZZSY`  006`  Decl-bal. over useful life 3 yrs  53.6000%
+400`  E`  ZZSY`  007`  Decl-bal. over useful life 4 yrs  43.8000%
+400`  E`  ZZSY`  008`  Decl-bal. over useful life 5 yrs  36.9000%
+400`  E`  ZZSY`  009`  Decl-bal. over useful life 6 yrs  31.9000%
+400`  E`  ZZSY`  010`  Decl-bal. over useful life 7 yrs  28.0000%
+400`  E`  ZZSY`  011`  Decl-bal. over useful life 8 yrs  25.0000%
+400`  E`  ZZSY`  012`  Decl-bal. over useful life 9 yrs  22.6000%
+400`  E`  ZZSY`  013`  Decl-bal. over useful life 10 yrs  20.6000%
+400`  E`  ZZSY`  014`  Decl-bal. over useful life 11 yrs 18.9000%
+400`  E`  ZZSY`  015`  Decl-bal. over useful life 12 yrs 17.5000%
+400`  E`  ZZSY`  016`  Decl-bal. over useful life 13 yrs  16.2000%
+400`  E`  ZZSY`  017`  Decl-bal. over useful life 14 yrs  15.2000%
+400`  E`  ZZSY`  018`  Decl-bal. over useful life 15 yrs  14.2000%
+400`  E`  ZZSY`  019`  Decl-bal. over useful life 16 yrs  13.4000%
+400`  E`  ZZSY`  020`  Decl-bal. over useful life 17 yrs  12.7000%
+400`  E`  ZZSY`  021`  Decl-bal. over useful life 18 yrs  12.0000%
+400`  E`  ZZSY`  022`  Decl-bal. over useful life 19 yrs  11.4000%
+400`  E`  ZZSY`  023`  Decl-bal. over useful life 20 yrs  10.9000%
+400`  E`  ZZSY`  024`  Decl-bal. over useful life 21 yrs 10.4000%
+400`  E`  ZZSY`  025`  Decl-bal. over useful life 22 yrs   9.9000%
+400`  E`  ZZSY`  026`  Decl-bal. over useful life 23 yrs   9.5000%
+400`  E`  ZZSY`  027`  Decl-bal. over useful life 24 yrs   9.2000%
+400`  E`  ZZSY`  028`  Decl-bal. over useful life 25 yrs   8.8000%
+400`  E`  ZZSY`  029`  Decl-bal. over useful life 26 yrs   8.5000%
+400`  E`  ZZSY`  030`  Decl-bal. over useful life 27 yrs   8.2000%
+400`  E`  ZZSY`  031`  Decl-bal. over useful life 28 yrs   7.9000%
+400`  E`  ZZSY`  032`  Decl-bal. over useful life 29 yrs   7.6000%
+400`  E`  ZZSY`  033`  Decl-bal. over useful life 30 yrs   7.4000%
+400`  E`  ZZSY`  034`  Decl-bal. over useful life 31 yrs   7.2000%
+400`  E`  ZZSY`  035`  Decl-bal. over useful life 32 yrs   6.9000%
+400`  E`  ZZSY`  036`  Decl-bal. over useful life 33 yrs   6.7000%
+400`  E`  ZZSY`  037`  Decl-bal. over useful life 34 yrs   6.6000%
+400`  E`  ZZSY`  038`  Decl-bal. over useful life 35 yrs   6.4000%
+400`  E`  ZZSY`  039`  Decl-bal. over useful life 36 yrs   6.2000%
+400`  E`  ZZSY`  040`  Decl-bal. over useful life 37 yrs   6.0000%
+400`  E`  ZZSY`  041`  Decl-bal. over useful life 38 yrs   5.9000%
+400`  E`  ZZSY`  042`  Decl-bal. over useful life 39 yrs   5.7000%
+400`  E`  ZZSY`  043`  Decl-bal. over useful life 40 yrs   5.6000%
+400`  E`  ZZSY`  044`  Decl-bal. over useful life 41 yrs   5.5000%
+400`  E`  ZZSY`  045`  Decl-bal. over useful life 42 yrs   5.3000%
+400`  E`  ZZSY`  046`  Decl-bal. over useful life 43 yrs   5.2000%
+400`  E`  ZZSY`  047`  Decl-bal. over useful life 44 yrs   5.1000%
+400`  E`  ZZSY`  048`  Decl-bal. over useful life 45 yrs   5.0000%
+400`  E`  ZZSY`  049`  Decl-bal. over useful life 46 yrs   4.9000%
+400`  E`  ZZSY`  050`  Decl-bal. over useful life 47 yrs   4.8000%
+400`  E`  ZZSY`  051`  Decl-bal. over useful life 48 yrs   4.7000%
+400`  E`  ZZSY`  052`  Decl-bal. over useful life 49 yrs   4.6000%
+400`  E`  ZZSY`  053`  Decl-bal. over useful life 50 yrs   4.5000%
+400`  E`  ZZSY`  054`  Decl-bal. over useful life 51 yrs   4.4000%
+400`  E`  ZZSY`  055`  Decl-bal. over useful life 52-53 yrs  4.3000%
+400`  E`  ZZSY`  056`  Decl-bal. over useful life 54 yrs   4.2000%
+400`  E`  ZZSY`  057`  Decl-bal. over useful life 55 yrs   4.1000%
+400`  E`  ZZSY`  058`  Decl-bal. over useful life 56-57 yrs   4.0000%
+400`  E`  ZZSY`  059`  Decl-bal. over useful life 58 yrs   3.9000%
+400`  E`  ZZSY`  060`  Decl-bal. over useful life 59-60 yrs   3.8000%
+400`  E`  ZZSY`  061`  Decl-bal. over useful life 61 yrs   3.7000%
+400`  E`  ZZSY`  062`  Decl-bal. over useful life 62-63 yrs   3.6000%
+400`  E`  ZZSY`  063`  Decl-bal. over useful life 64-65 yrs   3.5000%
+400`  E`  ZZSY`  064`  Decl-bal. over useful life 66-67 yrs   3.4000%
+400`  E`  ZZSY`  065`  Decl-bal. over useful life 68-69 yrs   3.3000%
+400`  E`  ZZSY`  066`  Decl-bal. over useful life 70-72 yrs   3.2000%
+400`  E`  ZZSY`  067`  Decl-bal. over useful life 73-74 yrs   3.1000%
+400`  E`  ZZSY`  068`  Decl-bal. over useful life 75-77 yrs   3.0000%
+400`  E`  ZZSY`  069`  Decl-bal. over useful life 78 yrs   2.9000%
+400`  E`  ZZSY`  070`  Decl-bal. over useful life 79 yrs   2.8000%
+400`  E`  ZZSY`  071`  Str.-line/prct over useful life 2 yrs    50.0000%
+400`  E`  ZZSY`  072`  Str.-line/prct over useful life 3 yrs    33.3000%
+400`  E`  ZZSY`  073`  Str.-line/prct over useful life 4 yrs  25.0000%
+400`  E`  ZZSY`  074`  Str.-line/prct over useful life 5 yrs  20.0000%
+400`  E`  ZZSY`  075`  Str.-line/prct over useful life 6 yrs  16.6000%
+400`  E`  ZZSY`  076`  Str.-line/prct over useful life 7 yrs  14.2000%
+400`  E`  ZZSY`  077`  Str.-line/prct over useful life 8 yrs  12.5000%
+400`  E`  ZZSY`  078`  Str.-line/prct over useful life 9 yrs  11.1000%
+400`  E`  ZZSY`  079`  Str.-line/prct over useful life 10 yrs 10.0000%
+400`  E`  ZZSY`  080`  Str.-line/prct over useful life 11 yrs   9.0000%
+400`  E`  ZZSY`  081`  Str.-line/prct over useful life 12 yrs   8.3000%
+400`  E`  ZZSY`  082`  Str.-line/prct over useful life 13 yrs   7.6000%
+400`  E`  ZZSY`  083`  Str.-line/prct over useful life 14 yrs   7.1000%
+400`  E`  ZZSY`  084`  Str.-line/prct over useful life 15 yrs   6.6000%
+400`  E`  ZZSY`  085`  Str.-line/prct over useful life 16 yrs   6.2000%
+400`  E`  ZZSY`  086`  Str.-line/prct over useful life 17 yrs   5.8000%
+400`  E`  ZZSY`  087`  Str.-line/prct over useful life 18 yrs   5.5000%
+400`  E`  ZZSY`  088`  Str.-line/prct over useful life 19 yrs   5.2000%
+400`  E`  ZZSY`  089`  Str.-line/prct over useful life 20 yrs   5.0000%
+400`  E`  ZZSY`  090`  Str.-line/prct over useful life 21 yrs   4.8000%
+400`  E`  ZZSY`  091`  Str.-line/prct over useful life 22 yrs   4.6000%
+400`  E`  ZZSY`  092`  Str.-line/prct over useful life 23 yrs   4.4000%
+400`  E`  ZZSY`  093`  Str.-line/prct over useful life 24 yrs   4.2000%
+400`  E`  ZZSY`  094`  Str.-line/prct over useful life 25 yrs   4.0000%
+400`  E`  ZZSY`  095`  Str.-line/prct over useful life 26 yrs   3.9000%
+400`  E`  ZZSY`  096`  Str.-line/prct over useful life 27 yrs   3.7000%
+400`  E`  ZZSY`  097`  Str.-line/prct over useful life 28 yrs   3.6000%
+400`  E`  ZZSY`  098`  Str.-line/prct over useful life 29 yrs   3.5000%
+400`  E`  ZZSY`  099`  Str.-line/prct over useful life 30 yrs   3.4000%
+400`  E`  ZZSY`  100`  Str.-line/prct over useful life 31 yrs   3.3000%
+400`  E`  ZZSY`  101`  Str.-line/prct over useful life 32 yrs   3.2000%
+400`  E`  ZZSY`  102`  Str.-line/prct over useful life 33 yrs   3.1000%
+400`  E`  ZZSY`  103`  Str.-line/prct over useful life 34 yrs   3.0000%
+400`  E`  ZZSY`  104`  Str.-line/prct over useful life 35 yrs   2.9000%
+400`  E`  ZZSY`  105`  Str.-line/prct over useful life 36 yrs   2.8000%
+400`  E`  ZZSY`  106`  Str.-line/prct ovr useful life 37-38 yrs  2.7000%
+400`  E`  ZZSY`  107`  Str.-line/prct over useful life 39 yrs   2.6000%
+400`  E`  ZZSY`  108`  Str.-line/prct ovr useful life 40-41 yrs  2.5000%
+400`  E`  ZZSY`  109`  Str.-line/prct ovr useful life 42-43 yrs  2.4000%
+400`  E`  ZZSY`  110`  Str.-line/prct ovr useful life 44-45 yrs  2.3000%
+400`  E`  ZZSY`  111`  Str.-line/prct ovr useful life 46-47 yrs  2.2000%
+400`  E`  ZZSY`  112`  Str.-line/prct ovr useful life 48-49 yrs  2.1000%
+400`  E`  ZZSY`  113`  Str.-line/prct ovr useful life 50-52 yrs  2.0000%
+400`  E`  ZZSY`  114`  Str.-line/prct ovr useful life 53-55 yrs  1.9000%
+400`  E`  ZZSY`  115`  Str.-line/prct ovr useful life 56-58 yrs  1.8000%
+400`  E`  ZZSY`  116`  Str.-line/prct ovr useful life 59-62 yrs  1.7000%
+400`  E`  ZZSY`  117`  Str.-line/prct ovr useful life 63-66 yrs  1.6000%
+400`  E`  ZZSY`  118`  Str.-line/prct ovr useful life 67-70 yrs  1.5000%
+400`  E`  ZZSY`  119`  Str.-line/prct ovr useful life 71-76 yrs  1.4000%
+400`  E`  ZZSY`  120`  Str.-line/prct ovr useful life 77-80 yrs  1.3000%
+400`  E`  ZZSY`  121`   0.0000%, replacement value
+400`  E`  ZZSY`  125`   0.0000%, acquisition value
+400`  E`  ZZSY`  128`  Japanese Straight-Line, Base Reduction G1
+400`  E`  ZZSY`  129`  Japanese Straight-Line, Base Reduction 0%
+400`  E`  ZZSY`  130`  Japanese Declining Balance Japanese
+400`  E`  ZZSY`  131`  Japanese Straight-Line, Base Reduction -2006
+400`  E`  ZZSY`  132`  Japanese Impairment, Declining Balance Japanese
+400`  E`  ZZSY`  133`  Japanese Impairment, Straight-Line
+400`  E`  ZZSY`  202`  Straight-Line/Percent using Useful Life, 50,0000%
+400`  E`  ZZSY`  203`  Straight-Line/Percent using Useful Life, 33,4000%
+400`  E`  ZZSY`  204`  Straight-Line/Percent using Useful Life, 25,0000%
+400`  E`  ZZSY`  205`  Straight-Line/Percent using Useful Life, 20,0000%
+400`  E`  ZZSY`  206`  Straight-Line/Percent using Useful Life, 16,7000%
+400`  E`  ZZSY`  207`  Straight-Line/Percent using Useful Life, 14,3000%
+400`  E`  ZZSY`  208`  Straight-Line/Percent using Useful Life, 12,5000%
+400`  E`  ZZSY`  209`  Straight-Line/Percent using Useful Life, 11,2000%
+400`  E`  ZZSY`  210`  Straight-Line/Percent using Useful Life, 10,0000%
+400`  E`  ZZSY`  211`  Straight-Line/Percent using Useful Life, 9,1000%
+400`  E`  ZZSY`  212`  Straight-Line/Percent using Useful Life, 8,4000%
+400`  E`  ZZSY`  213`  Straight-Line/Percent using Useful Life, 7,7000%
+400`  E`  ZZSY`  214`  Straight-Line/Percent using Useful Life, 7,2000%
+400`  E`  ZZSY`  215`  Straight-Line/Percent using Useful Life, 6,7000%
+400`  E`  ZZSY`  216`  Straight-Line/Percent using Useful Life, 6,3000%
+400`  E`  ZZSY`  217`  Straight-Line/Percent using Useful Life, 5,9000%
+400`  E`  ZZSY`  218`  Straight-Line/Percent using Useful Life, 5,6000%
+400`  E`  ZZSY`  219`  Straight-Line/Percent using Useful Life, 5,3000%
+400`  E`  ZZSY`  220`  Straight-Line/Percent using Useful Life, 5,0000%
+400`  E`  ZZSY`  221`  Straight-Line/Percent using Useful Life, 4,8000%
+400`  E`  ZZSY`  240`  Straight-Line/Percent using Useful Life, 2,4000%
+400`  E`  ZZSY`  241`  Straight-Line/Percent using Useful Life, 2,3000%
+400`  E`  ZZSY`  341`  Declining Balance using Useful Life, 6,1000%
+400`  E`  ZZSY`  342`  Declining Balance using Useful Life, 6,0000%
+400`  E`  ZZSY`  343`  Declining Balance using Useful Life, 5,8000%
+400`  E`  ZZSY`  344`  Declining Balance using Useful Life, 5,7000%
+400`  E`  ZZSY`  345`  Declining Balance using Useful Life, 5,6000%
+400`  E`  ZZSY`  346`  Declining Balance using Useful Life, 5,4000%
+400`  E`  ZZSY`  347`  Declining Balance using Useful Life, 5,3000%
+400`  E`  ZZSY`  348`  Declining Balance using Useful Life, 5,2000%
+400`  E`  ZZSY`  349`  Declining Balance using Useful Life, 5,1000%
+400`  E`  ZZSY`  350`  Declining Balance using Useful Life, 5,0000%
+400`  E`  ZZSY`  351`  Declining Balance using Useful Life, 4,9000%
+400`  E`  ZZSY`  352`  Declining Balance using Useful Life, 4,8000%
+400`  E`  ZZSY`  353`  Declining Balance using Useful Life, 4,7000%
+400`  E`  ZZSY`  354`  Declining Balance using Useful Life, 4,6000%
+400`  E`  ZZSY`  355`  Declining Balance using Useful Life, 4,5000%
+400`  E`  ZZSY`  356`  Declining Balance using Useful Life, 4,4000%
+400`  E`  ZZSY`  357`  Declining Balance using Useful Life, 4,3000%
+400`  E`  ZZSY`  358`  Declining Balance using Useful Life, 4,2000%
+400`  E`  ZZSY`  359`  Declining Balance using Useful Life, 4,1000%
+400`  E`  ZZSY`  360`  Declining Balance using Useful Life, 4,0000%
+400`  E`  ZZSY`  361`  Declining Balance using Useful Life, 3,9000%
+400`  E`  ZZSY`  362`  Declining Balance using Useful Life, 3,8000%
+400`  E`  ZZSY`  363`  Declining Balance using Useful Life, 3,7000%
+400`  E`  ZZSY`  364`  Declining Balance using Useful Life, 3,6000%
+400`  E`  ZZSY`  365`  Declining Balance using Useful Life, 3,5000%
+400`  E`  ZZSY`  366`  Declining Balance using Useful Life, 3,4000%
+400`  E`  ZZSY`  367`  Declining Balance using Useful Life, 3,3000%
+400`  E`  ZZSY`  368`  Declining Balance using Useful Life, 3,2000%
+400`  E`  ZZSY`  369`  Declining Balance using Useful Life, 3,1000%
+400`  E`  ZZSY`  370`  Declining Balance using Useful Life, 3,0000%
+400`  E`  ZZSY`  371`  Declining Balance using Useful Life, 2,9000%
+400`  E`  ZZSY`  372`  Declining Balance using Useful Life, 2,8000%
+400`  E`  ZZSY`  373`  Declining Balance using Useful Life, 2,7000%
+400`  E`  ZZSY`  374`  Declining Balance using Useful Life, 2,6000%
+400`  E`  ZZSY`  375`  Declining Balance using Useful Life, 2,5000%
+400`  E`  ZZSY`  401`  Revised/Percent using Useful Life, 100,0000%
+400`  E`  ZZSY`  402`  Revised/Percent using Useful Life, 50,0000%
+400`  E`  ZZSY`  403`  Revised/Percent using Useful Life, 33,4000%
+400`  E`  ZZSY`  404`  Revised/Percent using Useful Life, 25,0000%
+400`  E`  ZZSY`  405`  Revised/Percent using Useful Life, 20,0000%
+400`  E`  ZZSY`  406`  Revised/Percent using Useful Life, 16,7000%
+400`  E`  ZZSY`  407`  Revised/Percent using Useful Life, 14,3000%
+400`  E`  ZZSY`  408`  Revised/Percent using Useful Life, 12,5000%
+400`  E`  ZZSY`  409`  Revised/Percent using Useful Life, 11,2000%
+400`  E`  ZZSY`  410`  Revised/Percent using Useful Life, 10,0000%
+400`  E`  ZZSY`  411`  Revised/Percent using Useful Life, 9,1000%
+400`  E`  ZZSY`  412`  Revised/Percent using Useful Life, 8,4000%
+400`  E`  ZZSY`  413`  Revised/Percent using Useful Life, 7,7000%
+400`  E`  ZZSY`  414`  Revised/Percent using Useful Life, 7,2000%
+400`  E`  ZZSY`  415`  Revised/Percent using Useful Life, 6,7000%
+400`  E`  ZZSY`  416`  Revised/Percent using Useful Life, 6,3000%
+400`  E`  ZZSY`  417`  Revised/Percent using Useful Life, 5,9000%
+400`  E`  ZZSY`  418`  Revised/Percent using Useful Life, 5,6000%
+400`  E`  ZZSY`  419`  Revised/Percent using Useful Life, 5,3000%
+400`  E`  ZZSY`  420`  Revised/Percent using Useful Life, 5,0000%
+400`  E`  ZZSY`  421`  Revised/Percent using Useful Life, 4,8000%
+400`  E`  ZZSY`  422`  Revised/Percent using Useful Life, 4,6000%
+400`  E`  ZZSY`  423`  Revised/Percent using Useful Life, 4,4000%
+400`  E`  ZZSY`  424`  Revised/Percent using Useful Life, 4,2000%
+400`  E`  ZZSY`  425`  Revised/Percent using Useful Life, 4,0000%
+400`  E`  ZZSY`  426`  Revised/Percent using Useful Life, 3,9000%
+400`  E`  ZZSY`  427`  Revised/Percent using Useful Life, 3,8000%
+400`  E`  ZZSY`  428`  Revised/Percent using Useful Life, 3,6000%
+400`  E`  ZZSY`  429`  Revised/Percent using Useful Life, 3,5000%
+400`  E`  ZZSY`  430`  Revised/Percent using Useful Life, 3,4000%
+400`  E`  ZZSY`  431`  Revised/Percent using Useful Life, 3,3000%
+400`  E`  ZZSY`  432`  Revised/Percent using Useful Life, 3,2000%
+400`  E`  ZZSY`  433`  Revised/Percent using Useful Life, 3,1000%
+400`  E`  ZZSY`  434`  Revised/Percent using Useful Life, 3,0000%
+400`  E`  ZZSY`  435`  Revised/Percent using Useful Life, 2,9000%
+400`  E`  ZZSY`  436`  Revised/Percent using Useful Life, 2,7000%
+400`  E`  ZZSY`  437`  Revised/Percent using Useful Life, 2,6000%
+400`  E`  CPCN`  001`   0.0000%
+400`  E`  CPCN`  002`   0.0000%
+400`  E`  CPCN`  005`   0.0000%
+400`  E`  CPCN`  008`   0.0000%
+400`  E`  CPCN`  007`  10.0000%
+400`  E`  CPCN`  006`  10.0000%
+400`  E`  CPCN`  003`   2.0000%
+400`  E`  CPCN`  004`   2.5000%
+400`  E`  Z010`  001`   0.0000%
+400`  E`  Z010`  002`   0.0000%
+400`  E`  Z010`  005`   0.0000%
+400`  E`  Z010`  008`   0.0000%
+400`  E`  Z010`  007`  10.0000%
+400`  E`  Z010`  006`  10.0000%
+400`  E`  Z010`  003`   2.0000%
+400`  E`  Z010`  004`   2.5000%
+400`  E`  HD01`  001`   0.0000%
+400`  E`  HD01`  002`   0.0000%
+400`  E`  HD01`  005`   0.0000%
+400`  E`  HD01`  008`   0.0000%
+400`  E`  HD01`  007`  10.0000%
+400`  E`  HD01`  006`  10.0000%
+400`  E`  HD01`  003`   2.0000%
+400`  E`  HD01`  004`   2.5000%
+400`  E`  0077`  001`   0.0000%
+400`  E`  0077`  002`   0.0000%
+400`  E`  0077`  005`   0.0000%
+400`  E`  0077`  008`   0.0000%
+400`  E`  0077`  007`  10.0000%
+400`  E`  0077`  006`  10.0000%
+400`  E`  0077`  003`   2.0000%
+400`  E`  0077`  004`   2.5000%

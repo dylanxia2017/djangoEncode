@@ -1,0 +1,121 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`FKART [C(00008)]`VTEXT [C(00080)]
+400`  E`  B1`  Rebate Credit Memo
+400`  E`  B1E`  Exp.RebateCreditMemo
+400`  E`  B2`  Rebate Correction
+400`  E`  B2E`  Exp. Rebate Correcn
+400`  E`  B3`  Rebate Part Settlmnt
+400`  E`  B3E`  Exp.RebatePartSettlm
+400`  E`  B4`  Rebate Manual Accrls
+400`  E`  BDR1`  External Billing Document Request
+400`  E`  BDRC`  Ext. Credit Billing Doc. Request
+400`  E`  BDRD`  Ext. Debit Billing Doc. Request
+400`  E`  BIND`  Indir. Invoice Reb.
+400`  E`  BINP`  Ind.Plan.SettlmntReb
+400`  E`  BK1`  Debit Memo Agreemnt
+400`  E`  BK3`  Debit Memo Agreemnt
+400`  E`  BM1`  Debit Memo Agreemnt
+400`  E`  BM3`  Debit Memo Agreemnt
+400`  E`  BV`  Cash Sales
+400`  E`  CBC1`  Invoice Cancellation
+400`  E`  CBD1`  Invoice
+400`  E`  CBD2`  Invoice
+400`  E`  CBRE`  Credit Memo for Returns
+400`  E`  CFB3`  CF Part.Rebate Sett.
+400`  E`  CFG2`  CF Credit Memo
+400`  E`  CHFK`  Bill.Ext.CH Trans. D
+400`  E`  CHFX`  Bill.Ext.CH Trans. C
+400`  E`  CICX`  Invoice Cancellation
+400`  E`  CIX1`  Invoice Ext. Transaction
+400`  E`  F1`  Invoice
+400`  E`  F2`  Invoice
+400`  E`  F5`  Pro Forma for Order
+400`  E`  F8`  Pro Forma Invoice for Delivery
+400`  E`  FA`  Advance Invoice BR
+400`  E`  FADP`  Down Dayment Request
+400`  E`  FAF`  PL DP Invoice
+400`  E`  FAR`  Fut. Dely Invoice BR
+400`  E`  FAS`  Down Payment Request Cancellation
+400`  E`  FAZ`  Down Payment Request
+400`  E`  FAZS`  BOS DownPaymentReqst
+400`  E`  FL`  Proforma for LB
+400`  E`  FP`  Billing POS-Interfce
+400`  E`  FR`  Invoice Repair
+400`  E`  FS`
+400`  E`  FST`  NF for Goods Shipment
+400`  E`  FV`  Invoice Contract
+400`  E`  FX`  Billing Ext Transact
+400`  E`  FXG`  Credit Memo S-b w.i.
+400`  E`  FXL`  Debit Memo S-b w.i.
+400`  E`  FXS`  Invoice S-b w.i.
+400`  E`  G2`  Credit Memo
+400`  E`  G2DP`  DP Correct. Inv.
+400`  E`  G2S`  Cred. Memo 3rd party
+400`  E`  HR`  Billing Training Adm
+400`  E`  IG`  Internal Credit Memo
+400`  E`  IG2`  Enh. Int. CreditMemo
+400`  E`  IGA`  ICM Order-Related
+400`  E`  IGS`  Internal Credit Memo Cancellation
+400`  E`  IV`  Intercompany Billing
+400`  E`  IVA`  IB Order-Related
+400`  E`  IVS`  Intercompany Billing Cancellation
+400`  E`  J001`  DRM COGS Adj.
+400`  E`  J3G1`  CEM Internal
+400`  E`  J3G2`  CEM External
+400`  E`  J3G3`  CEM Invoice List Int
+400`  E`  J3G4`  CEM Mat. Repur. Int.
+400`  E`  J3G6`  CEM Cancellation Int
+400`  E`  J3G7`  CEM Cancellation Ext
+400`  E`  J3G8`  CEM Mat. Sales Ext.
+400`  E`  J3G9`  CEM Mat. Repur. Ext.
+400`  E`  J3GA`  CEM Revrsl GC Int/Ex
+400`  E`  J3GB`  CEM GC Internal
+400`  E`  J3GC`  CEM GU External
+400`  E`  JEX`  Excise Invoice India
+400`  E`  JGL`  Credit Memo
+400`  E`  JLL`  Debit Memo
+400`  E`  JSN`  IN:Subcon Challan
+400`  E`  JSP`  IN:Subcon Invoice
+400`  E`  JSTO`  IN: STO billing
+400`  E`  L2`  Debit Memo
+400`  E`  LG`  Credit Memo List
+400`  E`  LGS`  Cancel Cred.Mem.List
+400`  E`  LR`  Invoice List
+400`  E`  LRS`  Invoice List Cancellation
+400`  E`  MF2`  Invoice
+400`  E`  RE`  Credit for Returns
+400`  E`  S1`  Invoice Cancellation
+400`  E`  S1B`  Cancel. Invoice BR
+400`  E`  S2`  Credit Memo Cancellation
+400`  E`  S2B`  Cancel of Cred Me BR
+400`  E`  S3`  Cancel Invoice
+400`  E`  SHR`  Cancel Training Adm
+400`  E`  SV`  Cancel Cash Sale
+400`  E`  SVCB`  Cust. Mgmt Service Conf. BDR
+400`  E`  SVOB`  Cust. Mgmt Service Order BDR
+400`  E`  SVTB`  Cust. Mgmt Service Con
+400`  E`  VLF2`
+400`  E`  VLG2`  VMS Returns Credit
+400`  E`  VLS1`
+400`  E`  WF2`  Invoice
+400`  E`  WG2`  Credit Memo
+400`  E`  WIA`  Plants Abroad
+400`  E`  WIG`  Internal Credit Memo
+400`  E`  WIGS`  Internal Credit Memo Cancellation
+400`  E`  WIV`  Intercompany Billing
+400`  E`  WIVS`  Intercompany Billing Cancellation
+400`  E`  WL2`  Debit Memo
+400`  E`  WRE`  Credit for Returns
+400`  E`  WS1`  Invoice Cancellation
+400`  E`  WS2`  Credit Memo Cancellation
+400`  E`  Z11`  Invoice
+400`  E`  ZAF2`  Invoice
+400`  E`  ZARE`  Credit for Returns
+400`  E`  ZAS1`  Invoice Cancellation
+400`  E`  ZAS2`  Credit Memo Cancellation
+400`  E`  ZF2`  Invoice
+400`  E`  ZF28`  Invoice
+400`  E`  ZF3`  Invoice
+400`  E`  ZF4`  Invoice
+400`  E`  ZFP1`  Invoice
+400`  E`  ZHF2`  Invoice
+400`  E`  ZIV`  Intercompany Billing

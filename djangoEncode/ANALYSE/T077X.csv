@@ -1,0 +1,64 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`KTOKD [C(00008)]`TXT30 [C(00060)]
+400`  E`  0001`  Sold-to party
+400`  E`  0002`  Goods recipient
+400`  E`  0003`  Payer
+400`  E`  0004`  Bill-to party
+400`  E`  0005`  Prospective customer
+400`  E`  0006`  Competitor
+400`  E`  0007`  Sales partners
+400`  E`  0012`  Hierarchy Node
+400`  E`  0020`  Named List Of Accounts
+400`  E`  0100`  Distribution center
+400`  E`  0110`  Branch w/o intercomp.billing
+400`  E`  0120`  Branch with intercomp.billing
+400`  E`  0130`  Branch with external billing
+400`  E`  0140`  Assortment (obsolete,don't use
+400`  E`  0150`  Franchisee
+400`  E`  0160`  Wholesale customer
+400`  E`  0170`  Consumer
+400`  E`  BILT`  Customer: Bill to Party (only)
+400`  E`  C1`  Customers
+400`  E`  CPD`  One-time Customer
+400`  E`  CPDA`  One-time cust.(ext.no.assgnmt)
+400`  E`  CU00`  Customer (ext.number assgnmnt)
+400`  E`  CUST`  Customers
+400`  E`  DC01`  Customers
+400`  E`  DC02`  Customers
+400`  E`  DC04`  One-time Customer
+400`  E`  DCV1`  Customers
+400`  E`  DEBI`  Customer (general)
+400`  E`  DK01`  Sold-to party
+400`  E`  H001`  Sold-to party
+400`  E`  H002`  Goods recipient
+400`  E`  H003`  Payer
+400`  E`  H004`  Sold-to party
+400`  E`  H005`  Goods recipient
+400`  E`  H006`  Payer
+400`  E`  J3G`  Construction site
+400`  E`  KUNA`  Customer (ext.number assgnmnt)
+400`  E`  LCMS`  Customer(Portal Role), Minimal
+400`  E`  LCMX`  Customer (Portal Role), Maxim.
+400`  E`  PAYR`  Customer: Payer (only)
+400`  E`  S001`  Customer (general)
+400`  E`  S1`  KOEPFER External
+400`  E`  S2`  KOEPFER Internal
+400`  E`  SHPT`  Customer: Ship to Party (only)
+400`  E`  TM01`  Customers
+400`  E`  TM02`  Customers
+400`  E`  TM04`  One-time Customer
+400`  E`  TMH1`  Customers
+400`  E`  VVD`  TR-LO customer
+400`  E`  Z012`  Sold-to party - 8570
+400`  E`  ZCH1`  Bill-to party
+400`  E`  ZD01`  Sold-to party - 8570
+400`  E`  ZD02`  Payer 8570
+400`  E`  ZD03`  Bill-to party 8570
+400`  E`  ZF01`  Sold-to party
+400`  E`  ZF02`  Goods recipient
+400`  E`  ZHFC`  Customers
+400`  E`  ZPLT`  Distribute Center
+400`  E`  ZSAC`  Customers
+400`  E`  ZZ20`  Sold-to party
+400`  E`  ZZ40`  Customer (ext.number assgnmnt)
+400`  E`  ZZSY`  Customers
+400`  E`  ZZZ2`  Sold-to party

@@ -1,0 +1,2713 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`BWART [C(00006)]`SOBKZ [C(00002)]`BTEXT [C(00040)]
+400`  E`  101`  `  GR goods receipt
+400`  E`  101`  `  GR for asset
+400`  E`  101`  `  GR for sales order
+400`  E`  101`  `  GR for sales ord.st.
+400`  E`  101`  `  GR for acct assgmnt
+400`  E`  101`  `  GR stock in transit
+400`  E`  101`  `  GR st.in trans:asset
+400`  E`  101`  `  GR st.in tr:ac.assg.
+400`  E`  101`  `  GR for order
+400`  E`  101`  `  GR for asset
+400`  E`  101`  `  GR for acct assgmnt
+400`  E`  101`  B`  GR for customer stk
+400`  E`  101`  B`  GR for customer stk
+400`  E`  101`  B`  GR STO for csmtr stk
+400`  E`  101`  B`  GR for customer stk
+400`  E`  101`  E`  GR for sales ord.st.
+400`  E`  101`  E`  GR for sales ord.st.
+400`  E`  101`  E`  GR for sales ord.st.
+400`  E`  101`  E`  GR for sales ord.st.
+400`  E`  101`  E`  GR STO for salesOrSt
+400`  E`  101`  E`  GR STO for salesOrSt
+400`  E`  101`  E`  GR STO for salesOrSt
+400`  E`  101`  E`  GR for sales ord.st.
+400`  E`  101`  E`  GR for sales ord.st.
+400`  E`  101`  E`  GR for sales ord.st.
+400`  E`  101`  K`  GR for consgt stock
+400`  E`  101`  K`  GR for consgt stock
+400`  E`  101`  K`  GR for consgt stock
+400`  E`  101`  M`  GR for pooled stock
+400`  E`  101`  M`  GR for pooled stock
+400`  E`  101`  O`  GR to SC supplier
+400`  E`  101`  O`  GR to SC supplier
+400`  E`  101`  O`  GR to SC vendor
+400`  E`  101`  O`  GR to SC vendor
+400`  E`  101`  Q`  GR for project stock
+400`  E`  101`  Q`  GR for project stock
+400`  E`  101`  Q`  GR for project stock
+400`  E`  101`  Q`  GR STO project stock
+400`  E`  101`  Q`  GR STO for project
+400`  E`  101`  Q`  GR for project stock
+400`  E`  101`  Q`  GR for project stock
+400`  E`  102`  `  GR for PO   reversal
+400`  E`  102`  `  GR for asset    rev.
+400`  E`  102`  `  GR for sales or. rev
+400`  E`  102`  `  GR for sales or. rev
+400`  E`  102`  `  GR for acc.assgt rev
+400`  E`  102`  `  GR:st.in transit rev
+400`  E`  102`  `  GR:st.in tr/asset rv
+400`  E`  102`  `  GR:st.in tr/a.ass rv
+400`  E`  102`  `  GR for order    rev.
+400`  E`  102`  `  GR for asset    rev.
+400`  E`  102`  `  GR for acc.assgt rev
+400`  E`  102`  B`  GR f. cstmr stk  rev
+400`  E`  102`  B`  GR f. cstmr stk  rev
+400`  E`  102`  B`  GR STO cstmr stk rev
+400`  E`  102`  B`  GR f. cstmr stk  rev
+400`  E`  102`  E`  GR f. sls.or.st. rev
+400`  E`  102`  E`  GR f. sls.or.st. rev
+400`  E`  102`  E`  GR f. sls.or.st. rev
+400`  E`  102`  E`  GR f. sls.or.st. rev
+400`  E`  102`  E`  GR STO salesOrSt rev
+400`  E`  102`  E`  GR STO salesOrSt rev
+400`  E`  102`  E`  GR STO salesOrSt rev
+400`  E`  102`  E`  GR f. sls.or.st. rev
+400`  E`  102`  E`  GR f. sls.or.st. rev
+400`  E`  102`  E`  GR f. sls.or.st. rev
+400`  E`  102`  K`  GR f. cons.stck rev.
+400`  E`  102`  K`  GR f. cons.stck rev.
+400`  E`  102`  K`  GR f. cons.stck rev.
+400`  E`  102`  M`  GR f. pool.stck rev.
+400`  E`  102`  M`  GR f. pool.stck rev.
+400`  E`  102`  O`  GR to SC suppl. rev.
+400`  E`  102`  O`  GR to SC suppl. rev.
+400`  E`  102`  O`  GR to SC suppl. rev.
+400`  E`  102`  O`  GR to SC vendor rev.
+400`  E`  102`  Q`  GR for proj.st. rev.
+400`  E`  102`  Q`  GR for proj.st. rev.
+400`  E`  102`  Q`  GR for proj.st. rev.
+400`  E`  102`  Q`  GR STO proj.st. rev.
+400`  E`  102`  Q`  GR STO proj.st. rev.
+400`  E`  102`  Q`  GR for proj.st. rev.
+400`  E`  102`  Q`  GR for proj.st. rev.
+400`  E`  103`  `  GR into blocked stck
+400`  E`  103`  `  GR asset to blkd st.
+400`  E`  103`  `  GR sales ord.to blkd
+400`  E`  103`  `  GR sales ord.to blkd
+400`  E`  103`  `  GR acct ass. to blkd
+400`  E`  103`  B`  GR cstmr stk to blkd
+400`  E`  103`  B`  GR cstmr stk to blkd
+400`  E`  103`  E`  GR sales ord.to blkd
+400`  E`  103`  E`  GR sales ord.to blkd
+400`  E`  103`  E`  GR sales ord.to blkd
+400`  E`  103`  E`  GR sales ord.to blkd
+400`  E`  103`  K`  GR consgt to blckd
+400`  E`  103`  K`  GR consgt to blckd
+400`  E`  103`  M`  GR RTP to blckd
+400`  E`  103`  O`  GR SC vend.to blockd
+400`  E`  103`  O`  GR SC vend.to blockd
+400`  E`  103`  O`  GR SC vend.to blockd
+400`  E`  103`  Q`  GR project to blockd
+400`  E`  103`  Q`  GR project to blockd
+400`  E`  103`  Q`  GR project to blockd
+400`  E`  104`  `  GR to blocked rev.
+400`  E`  104`  `  GR asset blocked rev
+400`  E`  104`  `  GR sls.or.to blk rev
+400`  E`  104`  `  GR sls.or.to blk rev
+400`  E`  104`  `  GR acc.ass.blckd rev
+400`  E`  104`  B`  GR cststk to blk.rev
+400`  E`  104`  B`  GR cststk to blk.rev
+400`  E`  104`  E`  GR sls.or.to blk rev
+400`  E`  104`  E`  GR sls.or.to blk rev
+400`  E`  104`  E`  GR sls.or.to blk rev
+400`  E`  104`  E`  GR sls.or.to blk rev
+400`  E`  104`  K`  GR consgt blckd rev.
+400`  E`  104`  K`  GR consgt blckd rev.
+400`  E`  104`  M`  GR RTP blckd rev.
+400`  E`  104`  O`  GR SC vend.to bl.rev
+400`  E`  104`  O`  GR SC vend.to bl.rev
+400`  E`  104`  O`  GR SC vend.to bl.rev
+400`  E`  104`  Q`  GR proj.to blkd rev.
+400`  E`  104`  Q`  GR proj.to blkd rev.
+400`  E`  104`  Q`  GR proj.to blkd rev.
+400`  E`  105`  `  GR from blocked stck
+400`  E`  105`  `  GR asset from blckd
+400`  E`  105`  `  GR sales ord.fm blkd
+400`  E`  105`  `  GR sales ord.fm blkd
+400`  E`  105`  `  GR acc.ass.fm blckd
+400`  E`  105`  B`  GR cust stck.fm blkd
+400`  E`  105`  B`  GR cust stck.fm blkd
+400`  E`  105`  E`  GR sales ord.fm blkd
+400`  E`  105`  E`  GR sales ord.fm blkd
+400`  E`  105`  E`  GR sales ord.fm blkd
+400`  E`  105`  E`  GR sales ord.fm blkd
+400`  E`  105`  K`  GR consgt from blckd
+400`  E`  105`  K`  GR consgt from blckd
+400`  E`  105`  M`  GR RTP from blckd
+400`  E`  105`  O`  GR SC vend.fm blockd
+400`  E`  105`  O`  GR SC vend.fm blockd
+400`  E`  105`  O`  GR SC vend.fm blockd
+400`  E`  105`  Q`  GR project fm blockd
+400`  E`  105`  Q`  GR project fm blockd
+400`  E`  105`  Q`  GR project fm blockd
+400`  E`  106`  `  GR from blocked rev.
+400`  E`  106`  `  GR asset blocked rev
+400`  E`  106`  `  GR sls.or.fm blk.rev
+400`  E`  106`  `  GR sls.or.fm blk.rev
+400`  E`  106`  `  GR acc.ass.blckd rev
+400`  E`  106`  B`  GR cust. fm blk.rev
+400`  E`  106`  B`  GR cust. fm blk.rev
+400`  E`  106`  E`  GR sls.or.fm blk.rev
+400`  E`  106`  E`  GR sls.or.fm blk.rev
+400`  E`  106`  E`  GR sls.or.fm blk.rev
+400`  E`  106`  E`  GR sls.or.fm blk.rev
+400`  E`  106`  K`  GR consgt blckd rev.
+400`  E`  106`  K`  GR consgt blckd rev.
+400`  E`  106`  M`  GR RTP blckd rev.
+400`  E`  106`  O`  GR SC vend.fm bl.rev
+400`  E`  106`  O`  GR SC vend.fm bl.rev
+400`  E`  106`  O`  GR SC vend.fm bl.rev
+400`  E`  106`  Q`  GR proj.fm blkd rev.
+400`  E`  106`  Q`  GR proj.fm blkd rev.
+400`  E`  106`  Q`  GR proj.fm blkd rev.
+400`  E`  107`  `  GR to Val. Bl. Stock
+400`  E`  107`  `  GR Asset Val. Blckd
+400`  E`  107`  `  GR Sls Ord. Val. Bl.
+400`  E`  107`  `  GR Sls Ord. Val. Bl.
+400`  E`  107`  `  GR AccAss Val. Blckd
+400`  E`  107`  E`  GR to Val.BlStk SO
+400`  E`  107`  E`  GR to Val.BlStk SO
+400`  E`  107`  E`  GR to Val.BlStk SO
+400`  E`  107`  Q`  GR to Val.BlStk Proj
+400`  E`  107`  Q`  GR to Val.BlStk Proj
+400`  E`  108`  `  GR to Val. Bl. Rev.
+400`  E`  108`  `  GR Asset Val. Bl. R.
+400`  E`  108`  `  GR Sls Ord Val.Bl.R.
+400`  E`  108`  `  GR Sls Ord Val.Bl.R.
+400`  E`  108`  `  GR AccAss Val. Blckd
+400`  E`  108`  E`  GR to ValBlSt SO Rev
+400`  E`  108`  E`  GR to ValBlSt SO Rev
+400`  E`  108`  E`  GR to ValBlSt SO Rev
+400`  E`  108`  Q`  GR to ValBlSt Pr Rev
+400`  E`  108`  Q`  GR to ValBlSt Pr Rev
+400`  E`  109`  `  GR fr. Val. Bl. St.
+400`  E`  109`  `  GR Asset fr. Val.Bl.
+400`  E`  109`  `  GR Sls Ord. fr. ValB
+400`  E`  109`  `  GR Sls Ord. fr. ValB
+400`  E`  109`  `  GR AccAss fr. Val.B.
+400`  E`  109`  `  GR fr. Val. Bl. St.
+400`  E`  109`  `  GR fr. Val. Bl. St.
+400`  E`  109`  `  GR fr. Val. Bl. St.
+400`  E`  109`  `  GR Asset fr. Val.Bl.
+400`  E`  109`  `  GR AccAss fr. Val.B.
+400`  E`  109`  `  GR fr. Val. Bl. St.
+400`  E`  109`  `  GR fr. Val. Bl. St.
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  E`  GR from Val.BlStk SO
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  109`  Q`  GR fr Val.BlStk Proj
+400`  E`  110`  `  GR fr. Val. Bl. Rev.
+400`  E`  110`  `  GR Asset fr. VBl. R.
+400`  E`  110`  `  GR SlsOrd fr. VBl.R.
+400`  E`  110`  `  GR SlsOrd fr. VBl.R.
+400`  E`  110`  `  GR AccAss fr. VBl.R.
+400`  E`  110`  `  GR fr. Val. Bl. Rev.
+400`  E`  110`  `  GR fr. Val. Bl. Rev.
+400`  E`  110`  `  GR fr. Val. Bl. Rev.
+400`  E`  110`  `  GR Asset fr. VBl. R.
+400`  E`  110`  `  GR AccAss fr. VBl.R.
+400`  E`  110`  `  GR fr. Val. Bl. Rev.
+400`  E`  110`  `  GR fr. Val. Bl. Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  E`  GR fr ValBlS SO Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  110`  Q`  GR fr ValBlS Pr Rev.
+400`  E`  121`  `  GR subseq. adjustm.
+400`  E`  121`  `  GR subseq. adjustm.
+400`  E`  121`  `  GR subseq. adjustm.
+400`  E`  121`  `  GR subseq. adjustm.
+400`  E`  121`  `  GR subseq. adjustm.
+400`  E`  121`  B`  GR subseq. adjustm.
+400`  E`  121`  B`  GR subseq. adjustm.
+400`  E`  121`  E`  GR subseq. adjustm.
+400`  E`  121`  E`  GR subseq. adjustm.
+400`  E`  121`  E`  GR subseq. adjustm.
+400`  E`  121`  E`  GR subseq. adjustm.
+400`  E`  121`  K`  GR subseq. adjustm.
+400`  E`  121`  K`  GR subseq. adjustm.
+400`  E`  121`  M`  GR subseq. adjustm.
+400`  E`  121`  M`  GR subseq. adjustm.
+400`  E`  121`  O`  GR subseq. adjustm.
+400`  E`  121`  O`  GR subseq. adjustm.
+400`  E`  121`  Q`  GR subseq. adjustm.
+400`  E`  121`  Q`  GR subseq. adjustm.
+400`  E`  121`  Q`  GR subseq. adjustm.
+400`  E`  122`  `  RE return to vendor
+400`  E`  122`  `  RE return to vendor
+400`  E`  122`  `  GR return to vendor
+400`  E`  122`  `  GR return to vendor
+400`  E`  122`  `  RE return to vendor
+400`  E`  122`  `  Return to st.inTrans
+400`  E`  122`  `  Return to st.inTrans
+400`  E`  122`  `  Return to st.inTrans
+400`  E`  122`  `  RE return to order
+400`  E`  122`  `  RE return to order
+400`  E`  122`  `  RE return to order
+400`  E`  122`  B`  GR return to vendor
+400`  E`  122`  B`  RE slsOr.to st.inTra
+400`  E`  122`  B`  GR return to vendor
+400`  E`  122`  E`  GR return to vendor
+400`  E`  122`  E`  GR return to vendor
+400`  E`  122`  E`  GR return to vendor
+400`  E`  122`  E`  GR return to vendor
+400`  E`  122`  E`  RE slsOr.to st.inTra
+400`  E`  122`  E`  RE slsOr.to st.inTra
+400`  E`  122`  E`  RE slsOr.to st.inTra
+400`  E`  122`  E`  GR return to vendor
+400`  E`  122`  E`  GR return to vendor
+400`  E`  122`  E`  GR return to vendor
+400`  E`  122`  K`  RE return to vendor
+400`  E`  122`  K`  RE return to vendor
+400`  E`  122`  K`  RE return to vendor
+400`  E`  122`  M`  RE return to vendor
+400`  E`  122`  M`  RE return to vendor
+400`  E`  122`  O`  RE return to vendor
+400`  E`  122`  O`  RE return to vendor
+400`  E`  122`  O`  RE return to vendor
+400`  E`  122`  Q`  GR return to vendor
+400`  E`  122`  Q`  GR return to vendor
+400`  E`  122`  Q`  GR return to vendor
+400`  E`  122`  Q`  RE proj.to st.inTran
+400`  E`  122`  Q`  RE proj.to st.inTran
+400`  E`  122`  Q`  GR return to vendor
+400`  E`  122`  Q`  GR return to vendor
+400`  E`  123`  `  RE rtrn vendor rev.
+400`  E`  123`  `  RE rtrn vendor rev.
+400`  E`  123`  `  GR rtrn vendor rev.
+400`  E`  123`  `  GR rtrn vendor rev.
+400`  E`  123`  `  RE rtrn vendor rev.
+400`  E`  123`  `  Rtrn stckInTrans rev
+400`  E`  123`  `  Rtrn stckInTrans rev
+400`  E`  123`  `  Rtrn stckInTrans rev
+400`  E`  123`  `  RE rtrn SalesOrd rev
+400`  E`  123`  `  RE rtrn SalesOrd rev
+400`  E`  123`  `  RE rtrn SalesOrd rev
+400`  E`  123`  B`  GR rtrn vendor rev.
+400`  E`  123`  B`  RE STO sls or.st.rev
+400`  E`  123`  B`  GR rtrn vendor rev.
+400`  E`  123`  E`  GR rtrn vendor rev.
+400`  E`  123`  E`  GR rtrn vendor rev.
+400`  E`  123`  E`  GR rtrn vendor rev.
+400`  E`  123`  E`  RE STO Sa.ord.st.rev
+400`  E`  123`  E`  RE STO Sa.ord.st.rev
+400`  E`  123`  E`  RE STO Sa.ord.st.rev
+400`  E`  123`  E`  GR rtrn vendor rev.
+400`  E`  123`  E`  GR rtrn vendor rev.
+400`  E`  123`  E`  GR rtrn vendor rev.
+400`  E`  123`  K`  RE rtrn vendor rev.
+400`  E`  123`  K`  RE rtrn vendor rev.
+400`  E`  123`  O`  RE rtrn vendor rev.
+400`  E`  123`  O`  RE rtrn vendor rev.
+400`  E`  123`  O`  RE rtrn vendor rev.
+400`  E`  123`  Q`  GR rtrn vendor rev.
+400`  E`  123`  Q`  GR rtrn vendor rev.
+400`  E`  123`  Q`  RE proj. transit rev
+400`  E`  123`  Q`  RE proj. transit rev
+400`  E`  123`  Q`  GR rtrn vendor rev.
+400`  E`  123`  Q`  GR rtrn vendor rev.
+400`  E`  124`  `  GR rtrn blocked stck
+400`  E`  124`  `  GR rtrn blocked stck
+400`  E`  124`  `  GR rtrn blocked stck
+400`  E`  124`  `  GR rtrn blocked stck
+400`  E`  124`  `  GR rtrn blocked stck
+400`  E`  124`  E`  GR rtrn blocked stck
+400`  E`  124`  E`  GR rtrn blocked stck
+400`  E`  124`  E`  GR rtrn blocked stck
+400`  E`  124`  K`  GR rtrn blocked stck
+400`  E`  124`  O`  GR rtrn blocked stck
+400`  E`  124`  O`  GR rtrn blocked stck
+400`  E`  124`  Q`  GR rtrn blocked stck
+400`  E`  124`  Q`  GR rtrn blocked stck
+400`  E`  125`  `  GR rtn blkd stck rev
+400`  E`  125`  `  GR rtn blkd stck rev
+400`  E`  125`  `  GR rtn blkd stck rev
+400`  E`  125`  `  GR rtn blkd stck rev
+400`  E`  125`  `  GR rtn blkd stck rev
+400`  E`  125`  E`  GR rtn blkd stck rev
+400`  E`  125`  E`  GR rtn blkd stck rev
+400`  E`  125`  E`  GR rtn blkd stck rev
+400`  E`  125`  K`  GR rtn blkd stck rev
+400`  E`  125`  O`  GR rtn blkd stck rev
+400`  E`  125`  O`  GR rtn blkd stck rev
+400`  E`  125`  Q`  GR rtn blkd stck rev
+400`  E`  125`  Q`  GR rtn blkd stck rev
+400`  E`  131`  `  Goods receipt
+400`  E`  131`  `  GR for asset
+400`  E`  131`  `  GR for acct assgmnt
+400`  E`  131`  E`  GR for sales ord.st.
+400`  E`  131`  E`  GR for sales ord.st.
+400`  E`  131`  E`  GR for sales ord.st.
+400`  E`  131`  Q`  GR for project
+400`  E`  131`  Q`  GR for project
+400`  E`  132`  `  Goods receipt
+400`  E`  132`  `  GR for asset
+400`  E`  132`  `  GR for acct assgmnt
+400`  E`  132`  E`  GR for sales ord.st.
+400`  E`  132`  E`  GR for sales ord.st.
+400`  E`  132`  E`  GR for sales ord.st.
+400`  E`  132`  Q`  GR for project
+400`  E`  132`  Q`  GR for project
+400`  E`  141`  `  GR G subseq. adjustm
+400`  E`  142`  `  GR G subseq. adjustm
+400`  E`  161`  `  GR returns
+400`  E`  161`  `  GR returns asset
+400`  E`  161`  `  GR retrns salOrdStck
+400`  E`  161`  `  GR retrns salOrdStck
+400`  E`  161`  `  GR retrns acct assgt
+400`  E`  161`  `  GR returns
+400`  E`  161`  `  GR returns to accass
+400`  E`  161`  `  GR returns to accass
+400`  E`  161`  B`  GR retrns salOrdStck
+400`  E`  161`  E`  GR retrns salOrdStck
+400`  E`  161`  E`  GR retrns salOrdStck
+400`  E`  161`  E`  GR retrns salOrdStck
+400`  E`  161`  E`  GR retrns salOrdStck
+400`  E`  161`  E`  GR TrPosting SOStock
+400`  E`  161`  E`  GR TrPosting SOStock
+400`  E`  161`  E`  GR TrPosting SOStock
+400`  E`  161`  K`  GR rtrns consgt stck
+400`  E`  161`  K`  GR rtrns consgt stck
+400`  E`  161`  K`  GR rtrns consgt stck
+400`  E`  161`  M`  GR rtrns RTP stock
+400`  E`  161`  M`  GR rtrns RTP stock
+400`  E`  161`  O`  GR rtrns SC vendor
+400`  E`  161`  O`  GR rtrns SC vendor
+400`  E`  161`  O`  GR rtrns SC vendor
+400`  E`  161`  Q`  GR rtrns proj. stock
+400`  E`  161`  Q`  GR rtrns proj. stock
+400`  E`  161`  Q`  GR rtrns proj. stock
+400`  E`  161`  Q`  Rev.GR TrPost.PrjStk
+400`  E`  161`  Q`  Rev.GR TrPost.PrjStk
+400`  E`  162`  `  GR rtrns reversal
+400`  E`  162`  `  GR rtns asset rev.
+400`  E`  162`  `  GR rtns SaOrdStk rev
+400`  E`  162`  `  GR rtns SaOrdStk rev
+400`  E`  162`  `  GR rtns acctasst rev
+400`  E`  162`  `  GR rtrns reversal
+400`  E`  162`  `  GR rtns acct ass rev
+400`  E`  162`  `  GR rtns acct ass rev
+400`  E`  162`  B`  GR rtns SaOrdStk rev
+400`  E`  162`  E`  GR rtns SaOrdStk rev
+400`  E`  162`  E`  GR rtns SaOrdStk rev
+400`  E`  162`  E`  GR rtns SaOrdStk rev
+400`  E`  162`  E`  GR rtns SaOrdStk rev
+400`  E`  162`  E`  Rtn TrPosting SO Stk
+400`  E`  162`  E`  Rtn TrPosting SO Stk
+400`  E`  162`  E`  Rtn TrPosting SO Stk
+400`  E`  162`  K`  GR rtns cons.stk rev
+400`  E`  162`  K`  GR rtns cons.stk rev
+400`  E`  162`  K`  GR rtns cons.stk rev
+400`  E`  162`  M`  GR rtns RTP stck rev
+400`  E`  162`  M`  GR rtns RTP stck rev
+400`  E`  162`  O`  GR rtns SC vendr rev
+400`  E`  162`  O`  GR rtns SC vendr rev
+400`  E`  162`  O`  GR rtns SC vendr rev
+400`  E`  162`  Q`  GR ret.projStck rev.
+400`  E`  162`  Q`  GR ret.projStck rev.
+400`  E`  162`  Q`  GR ret.projStck rev.
+400`  E`  162`  Q`  GR TrPosting Project
+400`  E`  162`  Q`  GR TrPosting Project
+400`  E`  167`  `  GR Ret.frm Val.BlStk
+400`  E`  167`  E`  GR Ret. fr VlBlSt SO
+400`  E`  167`  Q`  GR Ret.fr VlBlSt Prj
+400`  E`  168`  `  GRRet fr ValBlS Rev.
+400`  E`  168`  E`  GR Ret BlSt SO Rev.
+400`  E`  168`  Q`  GR Ret BlSt Prj Rev.
+400`  E`  169`  `  GR Ret. to Val.BlStk
+400`  E`  169`  E`  GR Ret to VlBlSt SO
+400`  E`  169`  Q`  GR Ret to VlBlSt Prj
+400`  E`  170`  `  GRRet to ValBlS Rev.
+400`  E`  170`  E`  GRRet to VlBS SO Rev
+400`  E`  170`  Q`  GRRet to BlSt Pr Rev
+400`  E`  201`  `  GI for cost center
+400`  E`  201`  K`  GI cst cnt.fm consgt
+400`  E`  201`  P`  GI pipel.for cst cnt
+400`  E`  202`  `  RE for cost center
+400`  E`  202`  K`  RE cst cnt.fm consgt
+400`  E`  202`  P`  RE pipel.for cst cnt
+400`  E`  221`  `  GI for project
+400`  E`  221`  K`  GI consgt f. project
+400`  E`  221`  Q`  GI project for proj.
+400`  E`  221`  Q`  GI project for proj.
+400`  E`  221`  Q`  GI project for proj.
+400`  E`  221`  Q`  GI project for proj.
+400`  E`  222`  `  RE for project
+400`  E`  222`  K`  RE consgt f. project
+400`  E`  222`  Q`  RE project for proj.
+400`  E`  222`  Q`  RE project for proj.
+400`  E`  222`  Q`  RE project for proj.
+400`  E`  222`  Q`  RE project for proj.
+400`  E`  231`  `  GI for sales order
+400`  E`  231`  E`  GI sls or.fm sls or.
+400`  E`  231`  E`  GI sls or.fm sls or.
+400`  E`  231`  K`  GI sls ord.fm consgt
+400`  E`  231`  Q`  GI sales ord.fm proj
+400`  E`  231`  Q`  GI sales ord.fm proj
+400`  E`  232`  `  RE for sales order
+400`  E`  232`  E`  RE sls or.fm sls or.
+400`  E`  232`  E`  RE sls or.fm sls or.
+400`  E`  232`  K`  RE sls ord.fm consgt
+400`  E`  232`  Q`  RE sales ord.fm proj
+400`  E`  232`  Q`  RE sales ord.fm proj
+400`  E`  241`  `  GI for asset
+400`  E`  241`  K`  GI asset from consgt
+400`  E`  242`  `  RE for asset
+400`  E`  242`  K`  RE asset from consgt
+400`  E`  251`  `  GI for sales
+400`  E`  251`  K`  GI sales from consgt
+400`  E`  252`  `  RE for sales
+400`  E`  252`  K`  RE sales from consgt
+400`  E`  261`  `  GI for order
+400`  E`  261`  `  GI for order
+400`  E`  261`  B`  GI order fm cst. stk
+400`  E`  261`  E`  GI order frm sls or.
+400`  E`  261`  E`  GI order frm sls or.
+400`  E`  261`  E`  GI order frm sls or.
+400`  E`  261`  E`  GI order frm sls or.
+400`  E`  261`  E`  GI order frm sls or.
+400`  E`  261`  E`  GI order frm sls or.
+400`  E`  261`  K`  GI order from consgt
+400`  E`  261`  K`  GI order from consgt
+400`  E`  261`  M`  GI order from RTP
+400`  E`  261`  M`  GI order from RTP
+400`  E`  261`  M`  GI order from RTP
+400`  E`  261`  M`  GI order from RTP
+400`  E`  261`  P`  GI order fm pipeline
+400`  E`  261`  P`  GI order fm pipeline
+400`  E`  261`  Q`  GI order frm project
+400`  E`  261`  Q`  GI order frm project
+400`  E`  261`  Q`  GI order frm project
+400`  E`  261`  Q`  GI order frm project
+400`  E`  261`  W`  GI order fm cu.cons.
+400`  E`  261`  W`  GI order fm cu.cons.
+400`  E`  262`  `  RE for order
+400`  E`  262`  `  RE for order
+400`  E`  262`  B`  RE order fm cust.stk
+400`  E`  262`  E`  RE order frm sls or.
+400`  E`  262`  E`  RE order frm sls or.
+400`  E`  262`  E`  RE order frm sls or.
+400`  E`  262`  E`  RE order frm sls or.
+400`  E`  262`  E`  RE order frm sls or.
+400`  E`  262`  E`  RE order frm sls or.
+400`  E`  262`  K`  RE order from consgt
+400`  E`  262`  K`  RE order from consgt
+400`  E`  262`  M`  RE order from pool
+400`  E`  262`  M`  RE order from pool
+400`  E`  262`  P`  RE order fm pipeline
+400`  E`  262`  P`  RE order fm pipeline
+400`  E`  262`  Q`  RE order frm project
+400`  E`  262`  Q`  RE order frm project
+400`  E`  262`  Q`  RE order frm project
+400`  E`  262`  Q`  RE order frm project
+400`  E`  262`  W`  RE order fm cu.cons.
+400`  E`  262`  W`  RE order fm cu.cons.
+400`  E`  281`  `  GI for network
+400`  E`  281`  `  GI for network
+400`  E`  281`  E`  GI netw. frm sls or.
+400`  E`  281`  E`  GI netw. frm sls or.
+400`  E`  281`  E`  GI netw. frm sls or.
+400`  E`  281`  E`  GI netw. frm sls or.
+400`  E`  281`  E`  GI netw. frm sls or.
+400`  E`  281`  E`  GI netw. frm sls or.
+400`  E`  281`  K`  GI netw. frm consgmt
+400`  E`  281`  K`  GI netw. frm consgmt
+400`  E`  281`  P`  GI netw. fm pipeline
+400`  E`  281`  P`  GI netw. fm pipeline
+400`  E`  281`  Q`  GI netw. frm project
+400`  E`  281`  Q`  GI netw. frm project
+400`  E`  281`  Q`  GI netw. frm project
+400`  E`  281`  Q`  GI netw. frm project
+400`  E`  282`  `  RE for network
+400`  E`  282`  `  RE for network
+400`  E`  282`  E`  RE netw. frm sls or.
+400`  E`  282`  E`  RE netw. frm sls or.
+400`  E`  282`  E`  RE netw. frm sls or.
+400`  E`  282`  E`  RE netw. frm sls or.
+400`  E`  282`  E`  RE netw. frm sls or.
+400`  E`  282`  E`  RE netw. frm sls or.
+400`  E`  282`  K`  RE netw. frm consgmt
+400`  E`  282`  K`  RE netw. frm consgmt
+400`  E`  282`  P`  RE netw. fm pipeline
+400`  E`  282`  P`  RE netw. fm pipeline
+400`  E`  282`  Q`  RE netw. frm project
+400`  E`  282`  Q`  RE netw. frm project
+400`  E`  282`  Q`  RE netw. frm project
+400`  E`  282`  Q`  RE netw. frm project
+400`  E`  291`  `  GI all acc. assigmts
+400`  E`  291`  E`  GI acc.ass.fm sls or
+400`  E`  291`  E`  GI acc.ass.fm sls or
+400`  E`  291`  K`  GI acc.ass.fm consgt
+400`  E`  291`  P`  GI acct ass.fm pipel
+400`  E`  291`  Q`  GI acct ass.fm proj.
+400`  E`  291`  Q`  GI acct ass.fm proj.
+400`  E`  291`  Q`  GI acct ass.fm proj.
+400`  E`  291`  Q`  GI acct ass.fm proj.
+400`  E`  291`  W`  GR ac.ass.consi.cust
+400`  E`  291`  W`  GR ac.ass.consi.cust
+400`  E`  292`  `  RE all acct assigmts
+400`  E`  292`  E`  RE ac.ass.fm sls or.
+400`  E`  292`  E`  RE ac.ass.fm sls or.
+400`  E`  292`  K`  RE acc.ass.fm consgt
+400`  E`  292`  P`  RE acct ass.fm pipel
+400`  E`  292`  Q`  RE acct ass.fm proj.
+400`  E`  292`  Q`  RE acct ass.fm proj.
+400`  E`  292`  Q`  RE acct ass.fm proj.
+400`  E`  292`  Q`  RE acct ass.fm proj.
+400`  E`  292`  W`  RE ac.ass.consi.cust
+400`  E`  292`  W`  RE ac.ass.consi.cust
+400`  E`  301`  `  TF trfr plnt to plnt
+400`  E`  301`  B`  TF trfr plnt to plnt
+400`  E`  301`  C`  TF trfr plnt to plnt
+400`  E`  301`  E`  TF trfr plnt to plnt
+400`  E`  301`  E`  TF trfr plnt to plnt
+400`  E`  301`  F`  TF trfr plnt to plnt
+400`  E`  301`  I`  TF trfr plnt to plnt
+400`  E`  301`  J`  TF trfr plnt to plnt
+400`  E`  301`  K`  TF trfr plnt to plnt
+400`  E`  301`  O`  TF trfr plnt to plnt
+400`  E`  301`  Q`  TF trfr plnt to plnt
+400`  E`  301`  Q`  TF trfr plnt to plnt
+400`  E`  301`  R`  TF trfr plnt to plnt
+400`  E`  301`  V`  TF trfr plnt to plnt
+400`  E`  301`  W`  TF trfr plnt to plnt
+400`  E`  302`  `  TR trfr plnt to plnt
+400`  E`  302`  B`  TR trfr plnt to plnt
+400`  E`  302`  C`  TR trfr plnt to plnt
+400`  E`  302`  E`  TR trfr plnt to plnt
+400`  E`  302`  E`  TR trfr plnt to plnt
+400`  E`  302`  F`  TR trfr plnt to plnt
+400`  E`  302`  I`  TR trfr plnt to plnt
+400`  E`  302`  J`  TR trfr plnt to plnt
+400`  E`  302`  K`  TF trfr plnt to plnt
+400`  E`  302`  O`  TR trfr plnt to plnt
+400`  E`  302`  Q`  TR trfr plnt to plnt
+400`  E`  302`  Q`  TR trfr plnt to plnt
+400`  E`  302`  R`  TR trfr plnt to plnt
+400`  E`  302`  V`  TR trfr plnt to plnt
+400`  E`  302`  W`  TR trfr plnt to plnt
+400`  E`  303`  `  TF rem.fm stor.to pl
+400`  E`  303`  `  TF rem.fm stor.to pl
+400`  E`  303`  B`  TF rem.fm stor.to pl
+400`  E`  303`  B`  TF rem.fm stor.to pl
+400`  E`  304`  `  TR rem.fm stor.to pl
+400`  E`  304`  `  TR rem.fm stor.to pl
+400`  E`  304`  B`  TR rem.fm stor.to pl
+400`  E`  304`  B`  TR rem.fm stor.to pl
+400`  E`  305`  `  TF pl.in stor.in pl.
+400`  E`  305`  `  TF pl.in stor.in pl.
+400`  E`  305`  B`  TF pl.in stor.in pl.
+400`  E`  305`  B`  TF pl.in stor.in pl.
+400`  E`  306`  `  TR pl.in stor.in pl.
+400`  E`  306`  `  TR pl.in stor.in pl.
+400`  E`  306`  B`  TR pl.in stor.in pl.
+400`  E`  306`  B`  TR pl.in stor.in pl.
+400`  E`  309`  `  TF tfr ps.mat.to mat
+400`  E`  309`  B`  TF tfr ps.mat.to mat
+400`  E`  309`  C`  TF tfr ps.mat.to mat
+400`  E`  309`  E`  TF tfr ps.mat.to mat
+400`  E`  309`  E`  TF tfr ps.mat.to mat
+400`  E`  309`  F`  TF tfr ps.mat.to mat
+400`  E`  309`  I`  TF tfr ps.mat.to mat
+400`  E`  309`  J`  TF tfr ps.mat.to mat
+400`  E`  309`  O`  TF tfr ps.mat.to mat
+400`  E`  309`  Q`  TF tfr ps.mat.to mat
+400`  E`  309`  Q`  TF tfr ps.mat.to mat
+400`  E`  309`  R`  TF tfr ps.mat.to mat
+400`  E`  309`  V`  TF tfr ps.mat.to mat
+400`  E`  309`  W`  TF tfr ps.mat.to mat
+400`  E`  30A`  `  ST Remove to SC
+400`  E`  30A`  `  ST Remove to SC
+400`  E`  30A`  O`  ST Remove to SC
+400`  E`  30A`  O`  ST Remove to SC
+400`  E`  30B`  `  SR Remove to SC
+400`  E`  30B`  `  SR Remove to SC
+400`  E`  30B`  O`  SR Remove to SC
+400`  E`  30B`  O`  SR Remove to SC
+400`  E`  30C`  O`  ST Put Away to SC
+400`  E`  30C`  O`  ST Put Away to SC
+400`  E`  30D`  O`  SR Put Away to SC
+400`  E`  30D`  O`  SR Put Away to SC
+400`  E`  310`  `  TR tfr ps.mat.to mat
+400`  E`  310`  B`  TR tfr ps.mat.to mat
+400`  E`  310`  C`  TR tfr ps.mat.to mat
+400`  E`  310`  E`  TR tfr ps.mat.to mat
+400`  E`  310`  E`  TR tfr ps.mat.to mat
+400`  E`  310`  F`  TR tfr ps.mat.to mat
+400`  E`  310`  I`  TR tfr ps.mat.to mat
+400`  E`  310`  J`  TR tfr ps.mat.to mat
+400`  E`  310`  O`  TR tfr ps.mat.to mat
+400`  E`  310`  Q`  TR tfr ps.mat.to mat
+400`  E`  310`  Q`  TR tfr ps.mat.to mat
+400`  E`  310`  R`  TR tfr ps.mat.to mat
+400`  E`  310`  V`  TR tfr ps.mat.to mat
+400`  E`  310`  W`  TR tfr ps.mat.to mat
+400`  E`  311`  `  TF trfr within plant
+400`  E`  311`  `  TF trfr within plant
+400`  E`  311`  B`  TF cust.stk in plant
+400`  E`  311`  E`  TF sls ord. in plant
+400`  E`  311`  E`  TF sls ord. in plant
+400`  E`  311`  K`  TF consgmnt in plant
+400`  E`  311`  M`  TF RTP in plant
+400`  E`  311`  Q`  TF project in plant
+400`  E`  311`  Q`  TF project in plant
+400`  E`  312`  `  TR transfer in plant
+400`  E`  312`  `  TR transfer in plant
+400`  E`  312`  B`  TR cust.stk in plant
+400`  E`  312`  E`  TR sls ord. in plant
+400`  E`  312`  E`  TR sls ord. in plant
+400`  E`  312`  K`  TR consgmnt in plant
+400`  E`  312`  M`  TR RTP in plant
+400`  E`  312`  Q`  TR project in plant
+400`  E`  312`  Q`  TR project in plant
+400`  E`  313`  `  TF rem.fm str.toSLoc
+400`  E`  313`  `  TF rem.fm str.toSLoc
+400`  E`  313`  `  TF rem.fm str.toSLoc
+400`  E`  313`  B`  TF rem.fm str.toSLoc
+400`  E`  313`  B`  TF rem.fm str.toSLoc
+400`  E`  313`  E`  TF rem.fm str.toSLoc
+400`  E`  313`  E`  TF rem.fm str.toSLoc
+400`  E`  313`  E`  TF rem.fm str.toSLoc
+400`  E`  313`  E`  TF rem.fm str.toSLoc
+400`  E`  313`  K`  TF rem.fm str.toSLoc
+400`  E`  313`  K`  TF rem.fm str.to Loc
+400`  E`  313`  K`  TF rem.fm str.to Loc
+400`  E`  313`  K`  TF rem.fm str.to Loc
+400`  E`  313`  K`  TF rem.fm str.toSLoc
+400`  E`  313`  Q`  TF rem.fm str.toSLoc
+400`  E`  313`  Q`  TF rem.fm str.toSLoc
+400`  E`  313`  Q`  TF rem.fm str.toSLoc
+400`  E`  313`  Q`  TF rem.fm str.toSLoc
+400`  E`  314`  `  TR rem.fm str.toSLoc
+400`  E`  314`  `  TR rem.fm str.toSLoc
+400`  E`  314`  `  TR rem.fm str.toSLoc
+400`  E`  314`  B`  TR rem.fm str.toSLoc
+400`  E`  314`  B`  TR rem.fm str.toSLoc
+400`  E`  314`  E`  TR rem.fm str.toSLoc
+400`  E`  314`  E`  TR rem.fm str.toSLoc
+400`  E`  314`  E`  TR rem.fm str.toSLoc
+400`  E`  314`  E`  TR rem.fm str.toSLoc
+400`  E`  314`  K`  TR rem.fm str.toSLoc
+400`  E`  314`  K`  TR rem.fm str.to Loc
+400`  E`  314`  K`  TR rem.fm str.toSLoc
+400`  E`  314`  Q`  TR rem.fm str.toSLoc
+400`  E`  314`  Q`  TR rem.fm str.toSLoc
+400`  E`  314`  Q`  TR rem.fm str.toSLoc
+400`  E`  314`  Q`  TR rem.fm str.toSLoc
+400`  E`  315`  `  TF pl.in str.in SLoc
+400`  E`  315`  `  TF pl.in stor.inSLoc
+400`  E`  315`  `  TF pl.in str.in SLoc
+400`  E`  315`  B`  TF pl.in stor.inSLoc
+400`  E`  315`  B`  TF pl.in stor.inSLoc
+400`  E`  315`  B`  TF pl.in stor.inSLoc
+400`  E`  315`  E`  TF pl.in stor.inSLoc
+400`  E`  315`  E`  TF pl.in stor.inSLoc
+400`  E`  315`  E`  TF pl.in stor.inSLoc
+400`  E`  315`  E`  TF pl.in stor.inSLoc
+400`  E`  315`  E`  TF pl.in stor.inSLoc
+400`  E`  315`  K`  TF pl.in stor.inSLoc
+400`  E`  315`  K`  TF pl.in str. in Loc
+400`  E`  315`  K`  TF pl.in str. in Loc
+400`  E`  315`  K`  TF pl.in str. in Loc
+400`  E`  315`  K`  TF pl.in stor.inSLoc
+400`  E`  315`  K`  TF pl.in stor.inSLoc
+400`  E`  315`  Q`  TF pl.in stor.inSLoc
+400`  E`  315`  Q`  TF pl.in stor.inSLoc
+400`  E`  315`  Q`  TF pl.in stor.inSLoc
+400`  E`  315`  Q`  TF pl.in stor.inSLoc
+400`  E`  316`  `  TR pl.in stor.inSLoc
+400`  E`  316`  `  TR pl.in stor.inSLoc
+400`  E`  316`  `  TR pl.in stor.inSLoc
+400`  E`  316`  B`  TR pl.in stor.inSLoc
+400`  E`  316`  B`  TR pl.in stor.inSLoc
+400`  E`  316`  E`  TR pl.in stor.inSLoc
+400`  E`  316`  E`  TR pl.in stor.inSLoc
+400`  E`  316`  E`  TR pl.in stor.inSLoc
+400`  E`  316`  E`  TR pl.in stor.inSLoc
+400`  E`  316`  E`  TR pl.in stor.inSLoc
+400`  E`  316`  K`  TR pl.in stor.inSLoc
+400`  E`  316`  K`  TR pl.in stor.in Loc
+400`  E`  316`  K`  TR pl.in stor.inSLoc
+400`  E`  316`  Q`  TR pl.in stor.inSLoc
+400`  E`  316`  Q`  TR pl.in stor.inSLoc
+400`  E`  316`  Q`  TR pl.in stor.inSLoc
+400`  E`  316`  Q`  TR pl.in stor.inSLoc
+400`  E`  317`  `  Create struct. mat.
+400`  E`  318`  `  RE create struc. mat
+400`  E`  319`  `  Split structured mat
+400`  E`  320`  `  RE split struct.mat.
+400`  E`  321`  `  TF quality to unrest
+400`  E`  321`  B`  TF CstStk: QI to unr
+400`  E`  321`  C`  TF QI to unrestr.
+400`  E`  321`  E`  TF sls or.:QI to unr
+400`  E`  321`  E`  TF sls or.:QI to unr
+400`  E`  321`  F`  TF QI to unrestr.
+400`  E`  321`  I`  TF QI to unrestr.
+400`  E`  321`  J`  TF QI to unrestr.
+400`  E`  321`  K`  TF cons.: QI to unr.
+400`  E`  321`  O`  TF SC ord. QI to unr
+400`  E`  321`  Q`  TF proj.: QI to unr.
+400`  E`  321`  Q`  TF proj.: QI to unr.
+400`  E`  321`  R`  TF QI to unrestr.
+400`  E`  321`  V`  TF ret.pack:QI to un
+400`  E`  321`  W`  TF cu.cons:QI to unr
+400`  E`  322`  `  TR quality to unr.
+400`  E`  322`  B`  TR CstStk: QI to unr
+400`  E`  322`  C`  TR QI to unrestr.
+400`  E`  322`  E`  TR sls ord:QI to unr
+400`  E`  322`  E`  TR sls ord:QI to unr
+400`  E`  322`  F`  TR QI to unrestr.
+400`  E`  322`  I`  TR QI to unrestr.
+400`  E`  322`  J`  TR QI to unrestr.
+400`  E`  322`  K`  TR cons.: QI to unr.
+400`  E`  322`  O`  TR SC ord. QI to unr
+400`  E`  322`  Q`  TR proj.: QI to unr.
+400`  E`  322`  Q`  TR proj.: QI to unr.
+400`  E`  322`  R`  TR QI to unrestr.
+400`  E`  322`  V`  TR ret.pack:QI to un
+400`  E`  322`  W`  TR cu.cons:QI to unr
+400`  E`  323`  `  TF quality in plant
+400`  E`  323`  E`  TF QI sls ord.in plt
+400`  E`  323`  E`  TF QI sls ord.in plt
+400`  E`  323`  K`  TF QI cnsgmt in plnt
+400`  E`  323`  Q`  TF QI proj. in plant
+400`  E`  323`  Q`  TF QI proj. in plant
+400`  E`  324`  `  TR quality in plant
+400`  E`  324`  E`  TR QI sls or.in plnt
+400`  E`  324`  E`  TR QI sls or.in plnt
+400`  E`  324`  K`  TR cons:QI in plant
+400`  E`  324`  Q`  TR QI proj. in plant
+400`  E`  324`  Q`  TR QI proj. in plant
+400`  E`  325`  `  TF blocked in plant
+400`  E`  325`  E`  TF blkd sls or.in pl
+400`  E`  325`  E`  TF blkd sls or.in pl
+400`  E`  325`  K`  TF blkd cons.in plnt
+400`  E`  325`  Q`  TF blkd proj.in plnt
+400`  E`  325`  Q`  TF blkd proj.in plnt
+400`  E`  326`  `  TR blocked in plant
+400`  E`  326`  E`  TR blkd sls or.in pl
+400`  E`  326`  E`  TR blkd sls or.in pl
+400`  E`  326`  K`  TR blkd cons.in plnt
+400`  E`  326`  Q`  TR blkd proj.in plnt
+400`  E`  326`  Q`  TR blkd proj.in plnt
+400`  E`  331`  `  GI to sampling QI
+400`  E`  331`  `  GI to sampling QI
+400`  E`  331`  E`  GI sampl.: sls or.QI
+400`  E`  331`  E`  GI sampl.: sls or.QI
+400`  E`  331`  E`  GI sampl.: sls or.QI
+400`  E`  331`  K`  GI sampl.: consgt QI
+400`  E`  331`  K`  GI sampl.: consgt QI
+400`  E`  331`  Q`  GI sampl.: proj. QI
+400`  E`  331`  Q`  GI sampl.: proj. QI
+400`  E`  331`  Q`  GI sampl.: proj. QI
+400`  E`  331`  V`  GI sampl.:re.pack.QI
+400`  E`  331`  V`  GI sampl.:re.pack.QI
+400`  E`  331`  W`  GI sampl.:cu.cons.QI
+400`  E`  331`  W`  GI sampl.:cu.cons.QI
+400`  E`  332`  `  RE to sampling QI
+400`  E`  332`  `  RE to sampling QI
+400`  E`  332`  E`  RE sampl.: sls or.QI
+400`  E`  332`  E`  RE sampl.: sls or.QI
+400`  E`  332`  E`  RE sampl.: sls or.QI
+400`  E`  332`  K`  RE sampl.: consgt QI
+400`  E`  332`  K`  RE sampl.: consgt QI
+400`  E`  332`  Q`  RE sampl.: proj. QI
+400`  E`  332`  Q`  RE sampl.: proj. QI
+400`  E`  332`  Q`  RE sampl.: proj. QI
+400`  E`  332`  V`  RE sampl.:re.pack.QI
+400`  E`  332`  V`  RE sampl.:re.pack.QI
+400`  E`  332`  W`  RE sampl.:cu.cons.QI
+400`  E`  332`  W`  RE sampl.:cu.cons.QI
+400`  E`  333`  `  GI to sampling unre.
+400`  E`  333`  `  GI to sampling unre.
+400`  E`  333`  E`  GI sampl. sls or.unr
+400`  E`  333`  E`  GI sampl. sls or.unr
+400`  E`  333`  E`  GI sampl. sls or.unr
+400`  E`  333`  K`  GI sampl.consgmt unr
+400`  E`  333`  K`  GI sampl.consgmt unr
+400`  E`  333`  Q`  GI sampl. pro. unr.
+400`  E`  333`  Q`  GI sampl. pro. unr.
+400`  E`  333`  Q`  GI sampl. pro. unr.
+400`  E`  333`  V`  GI sampl.re.pack.unr
+400`  E`  333`  V`  GI sampl.re.pack.unr
+400`  E`  333`  W`  GI sampl.cu.cons.unr
+400`  E`  333`  W`  GI sampl.cu.cons.unr
+400`  E`  334`  `  RE to sampling unre.
+400`  E`  334`  `  RE to sampling unre.
+400`  E`  334`  E`  RE sampl.sls or.unr.
+400`  E`  334`  E`  RE sampl.sls or.unr.
+400`  E`  334`  E`  RE sampl.sls or.unr.
+400`  E`  334`  K`  RE sampl.consgmt unr
+400`  E`  334`  K`  RE sampl.consgmt unr
+400`  E`  334`  Q`  RE sampl. proj. unr.
+400`  E`  334`  Q`  RE sampl. proj. unr.
+400`  E`  334`  Q`  RE sampl. proj. unr.
+400`  E`  334`  V`  RE sampl.re.pack unr
+400`  E`  334`  V`  RE sampl.re.pack unr
+400`  E`  334`  W`  RE sampl.cu.cons.unr
+400`  E`  334`  W`  RE sampl.cu.cons.unr
+400`  E`  335`  `  GI to sampl. blocked
+400`  E`  335`  `  GI to sampl. blocked
+400`  E`  335`  E`  GI sampl.sls or.blkd
+400`  E`  335`  E`  GI sampl.sls or.blkd
+400`  E`  335`  E`  GI sampl.sls or.blkd
+400`  E`  335`  K`  GI sampl.cnsgmt blkd
+400`  E`  335`  K`  GI sampl.cnsgmt blkd
+400`  E`  335`  Q`  GI sampl. proj. blkd
+400`  E`  335`  Q`  GI sampl. proj. blkd
+400`  E`  335`  Q`  GI sampl. proj. blkd
+400`  E`  336`  `  RE to sampling blkd
+400`  E`  336`  `  RE to sampling blkd
+400`  E`  336`  E`  RE sampl.sls or.blkd
+400`  E`  336`  E`  RE sampl.sls or.blkd
+400`  E`  336`  E`  RE sampl.sls or.blkd
+400`  E`  336`  K`  RE sampl.cnsgmt blkd
+400`  E`  336`  K`  RE sampl.cnsgmt blkd
+400`  E`  336`  Q`  RE sampl. proj. blkd
+400`  E`  336`  Q`  RE sampl. proj. blkd
+400`  E`  336`  Q`  RE sampl. proj. blkd
+400`  E`  340`  `  Batch revaluation
+400`  E`  340`  E`  TF batch revaluation
+400`  E`  340`  E`  TF batch revaluation
+400`  E`  340`  O`  TF batch revaluation
+400`  E`  340`  Q`  TF batch revaluation
+400`  E`  340`  Q`  TF batch revaluation
+400`  E`  340`  V`  TF batch revaluation
+400`  E`  340`  W`  TF batch revaluation
+400`  E`  341`  `  TF unrestr.to restr.
+400`  E`  341`  B`  TF CStk unr.to rstr
+400`  E`  341`  C`  TF unres. to restr.
+400`  E`  341`  E`  TF slsOr.unr.to rstr
+400`  E`  341`  E`  TF slsOr.unr.to rstr
+400`  E`  341`  F`  TF unres. to restr.
+400`  E`  341`  I`  TF unres. to restr.
+400`  E`  341`  J`  TF unres. to restr.
+400`  E`  341`  K`  TF cons.unr.to restr
+400`  E`  341`  M`  TF RTP unr.to restr.
+400`  E`  341`  O`  TF SC st.unr.to rstr
+400`  E`  341`  Q`  TF proj.unr.to restr
+400`  E`  341`  Q`  TF proj.unr.to restr
+400`  E`  341`  R`  TF unres. to restr.
+400`  E`  341`  V`  TF RP atC.unr.to rst
+400`  E`  341`  W`  TF con.atC.unr.to re
+400`  E`  342`  `  TF rstricted to unr.
+400`  E`  342`  B`  TF CS rstr.to unres.
+400`  E`  342`  C`  TF restr.to unrestr.
+400`  E`  342`  E`  TF slsOr.rstr.to unr
+400`  E`  342`  E`  TF slsOr.rstr.to unr
+400`  E`  342`  F`  TF restr.to unrestr.
+400`  E`  342`  I`  TF restr.to unrestr.
+400`  E`  342`  J`  TF restr.to unrestr.
+400`  E`  342`  K`  TF cons. rstr.to unr
+400`  E`  342`  M`  TF RTP restr.to unr.
+400`  E`  342`  O`  TF SC st.rstr.to unr
+400`  E`  342`  Q`  TF proj.restr.to unr
+400`  E`  342`  Q`  TF proj.restr.to unr
+400`  E`  342`  R`  TF restr.to unrestr.
+400`  E`  342`  V`  TF RP atC.rst.to unr
+400`  E`  342`  W`  TF con.atC.re.to unr
+400`  E`  343`  `  TF blocked to unre.
+400`  E`  343`  B`  TF CstStk:blk to unr
+400`  E`  343`  E`  TF sls or.blk to unr
+400`  E`  343`  E`  TF sls or.blk to unr
+400`  E`  343`  K`  TF cons.blkd to unr.
+400`  E`  343`  Q`  TF proj.blkd to unr.
+400`  E`  343`  Q`  TF proj.blkd to unr.
+400`  E`  344`  `  TR blocked to unre.
+400`  E`  344`  B`  TR CstStk:blk to unr
+400`  E`  344`  E`  TR sls or.blkd to un
+400`  E`  344`  E`  TR sls or.blkd to un
+400`  E`  344`  K`  TR cons.blkd to unr.
+400`  E`  344`  Q`  TR proj. blkd to unr
+400`  E`  344`  Q`  TR proj. blkd to unr
+400`  E`  349`  `  TF blocked to QI
+400`  E`  349`  B`  TF CstStk:blk to QI
+400`  E`  349`  E`  TF sls or.blkd to QI
+400`  E`  349`  E`  TF sls or.blkd to QI
+400`  E`  349`  K`  TF cons. blkd to QI
+400`  E`  349`  Q`  TF proj. blkd to QI
+400`  E`  349`  Q`  TF proj. blkd to QI
+400`  E`  350`  `  TR blocked to QI
+400`  E`  350`  B`  TR CstStk:blk to QI
+400`  E`  350`  E`  TR sls or.blkd to QI
+400`  E`  350`  E`  TR sls or.blkd to QI
+400`  E`  350`  K`  TR cons. blkd to QI
+400`  E`  350`  Q`  TR proj. blkd to QI
+400`  E`  350`  Q`  TR proj. blkd to QI
+400`  E`  351`  `  TF to stck in trans.
+400`  E`  351`  `  TF to stck in trans.
+400`  E`  351`  `  TF plant plant slsOr
+400`  E`  351`  `  TF plant plant proj.
+400`  E`  351`  `  TF to stck in trans.
+400`  E`  351`  E`  TF plant plant slsOr
+400`  E`  351`  E`  TF plant plant slsOr
+400`  E`  351`  E`  TF plant plant slsOr
+400`  E`  351`  Q`  TF plant plant proj.
+400`  E`  351`  Q`  TF plant plant proj.
+400`  E`  352`  `  TR to stck in trans.
+400`  E`  352`  `  TR to stck in trans.
+400`  E`  352`  `  TR plant plant slsOr
+400`  E`  352`  `  TR plant plant proj.
+400`  E`  352`  `  TR to stck in trans.
+400`  E`  352`  E`  TR plant plant slsOr
+400`  E`  352`  E`  TR plant plant slsOr
+400`  E`  352`  E`  TR plant plant slsOr
+400`  E`  352`  Q`  TR plant plant proj.
+400`  E`  352`  Q`  TR plant plant proj.
+400`  E`  411`  `  TF SLoc to SLoc
+400`  E`  411`  `  TP special to own
+400`  E`  411`  `  TP special to own
+400`  E`  411`  E`  TP sales ord. to own
+400`  E`  411`  E`  TP sales ord. to own
+400`  E`  411`  K`  TP consgnmt to own
+400`  E`  411`  Q`  TP project to own
+400`  E`  411`  Q`  TP project to own
+400`  E`  411`  T`  STO SiT to Own
+400`  E`  412`  `  TR SLoc to SLoc
+400`  E`  412`  `  TR special to own
+400`  E`  412`  `  TR special to own
+400`  E`  412`  E`  TR sls ord. to own
+400`  E`  412`  E`  TR sls ord. to own
+400`  E`  412`  K`  TR consgnmt to own
+400`  E`  412`  Q`  TR project to own
+400`  E`  412`  Q`  TR project to own
+400`  E`  412`  T`  TFRet SiT to Own
+400`  E`  413`  `  TF SLoc to sls order
+400`  E`  413`  `  TF SLoc to sls order
+400`  E`  413`  `  TF SLoc to sls order
+400`  E`  413`  E`  TF slsOrd. to slsOrd
+400`  E`  413`  E`  TF slsOrd. to slsOrd
+400`  E`  413`  E`  TF slsOrd. to slsOrd
+400`  E`  413`  K`  TF csgmt to sls ord.
+400`  E`  413`  Q`  TF project to slsOrd
+400`  E`  413`  Q`  TF project to slsOrd
+400`  E`  413`  Q`  TF project to slsOrd
+400`  E`  413`  T`  TF SiT to SO
+400`  E`  414`  `  TR SLoc to sls order
+400`  E`  414`  `  TR SLoc to sls order
+400`  E`  414`  `  TR SLoc to sls order
+400`  E`  414`  E`  TR slsOrd to slsOr
+400`  E`  414`  E`  TR slsOrd to slsOr
+400`  E`  414`  E`  TR slsOrd to slsOr
+400`  E`  414`  K`  TR csgmt to slsOrd
+400`  E`  414`  Q`  TR proj. to slsOrd
+400`  E`  414`  Q`  TR proj. to slsOrder
+400`  E`  414`  Q`  TR proj. to slsOrder
+400`  E`  414`  T`  TFRet SiT to SO
+400`  E`  415`  `  TF SLoc to project
+400`  E`  415`  `  TF SLoc to project
+400`  E`  415`  `  TF SLoc to project
+400`  E`  415`  E`  TF sls ord. to proj.
+400`  E`  415`  E`  TF sls ord. to proj.
+400`  E`  415`  E`  TF sls ord. to proj.
+400`  E`  415`  K`  TF cgsmt to project
+400`  E`  415`  Q`  TF proj. to proj.
+400`  E`  415`  Q`  TF proj. to proj.
+400`  E`  415`  Q`  TF proj. to proj.
+400`  E`  415`  T`  TR SiT to Project
+400`  E`  416`  `  TR SLoc to proj.
+400`  E`  416`  `  TR SLoc to proj.
+400`  E`  416`  `  TR SLoc to proj.
+400`  E`  416`  E`  TR slsOrd. to proj.
+400`  E`  416`  E`  TR slsOrd. to proj.
+400`  E`  416`  E`  TR slsOrd. to proj.
+400`  E`  416`  K`  TR csgmt to proj.
+400`  E`  416`  Q`  TR project to proj.
+400`  E`  416`  Q`  TR project to proj.
+400`  E`  416`  Q`  TR project to proj.
+400`  E`  416`  T`  TFRet SiT to Project
+400`  E`  417`  `  STO I.V.SiT to I.Plt
+400`  E`  417`  E`  STO I.V.SiT I.Pl.SO
+400`  E`  417`  Q`  STO I.V.SiT I.Pl Prj
+400`  E`  418`  `  STO I.Pl to I.V.SiT
+400`  E`  418`  E`  STO I.Pl.SO I.Vl.SiT
+400`  E`  418`  Q`  STO I.Pl Prj I.V.SiT
+400`  E`  419`  `  TF SLoc to SLoc
+400`  E`  419`  `  TP special to own
+400`  E`  419`  E`  TP Bl. SO to Own Bl.
+400`  E`  419`  E`  TP Bl. SO to Own Bl.
+400`  E`  420`  `  TR SLoc to SLoc
+400`  E`  420`  `  TR special to own
+400`  E`  420`  E`  TR Bl. SO an Own Bl.
+400`  E`  420`  E`  TR Bl. SO an Own Bl.
+400`  E`  421`  `  TF SLoc to SLoc
+400`  E`  421`  `  TP special to own
+400`  E`  421`  E`  TP SO QI to Own QI
+400`  E`  421`  E`  TP SO QI to Own QI
+400`  E`  422`  `  TR SLoc to SLoc
+400`  E`  422`  `  TR special to own
+400`  E`  422`  E`  TR SO QI to Own QI
+400`  E`  422`  E`  TR SO QI to Own QI
+400`  E`  423`  `  TF SLoc to SLoc
+400`  E`  423`  `  TP special to own
+400`  E`  423`  E`  TP SO Bl.to Own Bl.
+400`  E`  423`  E`  TP SO Bl.to Own Bl.
+400`  E`  424`  `  TR SLoc to SLoc
+400`  E`  424`  `  TR special to own
+400`  E`  424`  E`  TR SO  Bl.to Own Bl.
+400`  E`  424`  E`  TR SO  Bl.to Own Bl.
+400`  E`  425`  `  TF SLoc to SLoc
+400`  E`  425`  `  TP special to own
+400`  E`  425`  E`  TP SO QI to Own QI
+400`  E`  425`  E`  TP SO QI to Own QI
+400`  E`  426`  `  TR SLoc to SLoc
+400`  E`  426`  `  TR special to own
+400`  E`  426`  E`  TR SO QI to Own QI
+400`  E`  426`  E`  TR SO QI to Own QI
+400`  E`  427`  `  TF SLoc to SLoc
+400`  E`  427`  `  TP Bl. to SO
+400`  E`  427`  E`  TP Bl. to SO
+400`  E`  427`  E`  TP Bl. to SO
+400`  E`  428`  `  TR SLoc to SLoc
+400`  E`  428`  `  TR Bl. to Spec.Stk
+400`  E`  428`  E`  TR Bl. to SO
+400`  E`  428`  E`  TR Bl. to SO
+400`  E`  429`  `  TF SLoc to SLoc
+400`  E`  429`  `  TP Spec.Stk to QI
+400`  E`  429`  E`  TP SO to QI
+400`  E`  429`  E`  TP SO to QI
+400`  E`  430`  `  TR SLoc to SLoc
+400`  E`  430`  `  TR Spec.Stk to QI
+400`  E`  430`  E`  TR SO to QI
+400`  E`  430`  E`  TR SO to QI
+400`  E`  441`  `  TP unrstr.to tiedEmp
+400`  E`  442`  `  TP tiedEmp.to unrstr
+400`  E`  451`  `  GI returns
+400`  E`  452`  `  RE returns reversal
+400`  E`  453`  `  TP returns to own
+400`  E`  454`  `  TP own to returns
+400`  E`  455`  `  TF st. trfr returns
+400`  E`  456`  `  TR st. trfr returns
+400`  E`  457`  `  TP Returns to own QI
+400`  E`  458`  `  TP Own QI to returns
+400`  E`  459`  `  TP Ret. to own blckd
+400`  E`  460`  `  TP Own blckd to ret.
+400`  E`  501`  `  Receipt w/o PO
+400`  E`  501`  `  Receipt w/o PO
+400`  E`  501`  B`  Receipt in cust.stck
+400`  E`  501`  E`  Rcpt to sls or. stck
+400`  E`  501`  E`  Rcpt to sls or. stck
+400`  E`  501`  E`  Reduce Deficit
+400`  E`  501`  K`  Receipt to consigmnt
+400`  E`  501`  K`  Receipt to consigmnt
+400`  E`  501`  M`  Receipt to RTP
+400`  E`  501`  Q`  Receipt to project
+400`  E`  501`  Q`  Receipt to project
+400`  E`  501`  Q`  Receipt to project
+400`  E`  502`  `  RE receipt w/o PO
+400`  E`  502`  `  RE receipt w/o PO
+400`  E`  502`  B`  RE rcpt to cust.st
+400`  E`  502`  E`  RE rcpt to sls or.st
+400`  E`  502`  E`  RE rcpt to sls or.st
+400`  E`  502`  E`  Add Surplus
+400`  E`  502`  K`  RE receipt to consgt
+400`  E`  502`  K`  RE receipt to consgt
+400`  E`  502`  M`  RE receipt to RTP
+400`  E`  502`  Q`  RE receipt to proj.
+400`  E`  502`  Q`  RE receipt to proj.
+400`  E`  502`  Q`  RE receipt to proj.
+400`  E`  503`  `  Receipt to QI
+400`  E`  503`  E`  Rcpt to sls ord. QI
+400`  E`  503`  E`  Rcpt to sls ord. QI
+400`  E`  503`  K`  Rcpt to consigmnt QI
+400`  E`  503`  Q`  Rcpt to sls ord. QI
+400`  E`  503`  Q`  Rcpt to sls ord. QI
+400`  E`  504`  `  RE receipt to QI
+400`  E`  504`  E`  RE rcpt to sls or.QI
+400`  E`  504`  E`  RE rcpt to sls or.QI
+400`  E`  504`  K`  RE rcpt to consgt QI
+400`  E`  504`  Q`  RE rcpt to sls or.QI
+400`  E`  504`  Q`  RE rcpt to sls or.QI
+400`  E`  505`  `  Receipt to blocked
+400`  E`  505`  E`  Rcpt to sls or.blkd
+400`  E`  505`  E`  Rcpt to sls or.blkd
+400`  E`  505`  K`  Rcpt to consgt blkd
+400`  E`  505`  Q`  Rcpt to sls or.blkd
+400`  E`  505`  Q`  Rcpt to sls or.blkd
+400`  E`  506`  `  RE receipt to blockd
+400`  E`  506`  E`  RE rcpt to sls or.bl
+400`  E`  506`  E`  RE rcpt to sls or.bl
+400`  E`  506`  K`  RE rcpt to consgt bl
+400`  E`  506`  Q`  RE rcpt to sls or.bl
+400`  E`  506`  Q`  RE rcpt to sls or.bl
+400`  E`  511`  `  Delivery w/o charge
+400`  E`  511`  M`  GI deliv.w/o ch. RTP
+400`  E`  512`  `  RE deliv. w/o charge
+400`  E`  512`  M`  RE deliv.w/o ch. RTP
+400`  E`  521`  `  Receipt w/o order
+400`  E`  521`  `  GR for Delivery
+400`  E`  521`  E`  Rcpt slsOr w/o prOrd
+400`  E`  521`  E`  Rcpt slsOr w/o prOrd
+400`  E`  521`  E`  GR Deliv. Sales Ord.
+400`  E`  521`  E`  GR Deliv. Sales Ord.
+400`  E`  521`  Q`  Rcpt proj. w/o prOrd
+400`  E`  521`  Q`  Rcpt proj. w/o prOrd
+400`  E`  521`  Q`  GR Delivery Project
+400`  E`  521`  Q`  GR Delivery Project
+400`  E`  522`  `  RE receipt w/o prOrd
+400`  E`  522`  `  RE for Delivery
+400`  E`  522`  E`  RE sls.or. w/o prOrd
+400`  E`  522`  E`  RE sls.or. w/o prOrd
+400`  E`  522`  E`  RE Deliv. Sales Ord.
+400`  E`  522`  E`  RE Deliv. Sales Ord.
+400`  E`  522`  Q`  RE project w/o prOrd
+400`  E`  522`  Q`  RE project w/o prOrd
+400`  E`  522`  Q`  RE Delivery Project
+400`  E`  522`  Q`  RE Delivery Project
+400`  E`  523`  `  Rcpt QI w/o prOrder
+400`  E`  523`  E`  Rcpt QI slsOr w/oPrO
+400`  E`  523`  E`  Rcpt QI slsOr w/oPrO
+400`  E`  523`  Q`  Rcpt QI proj.w/o prO
+400`  E`  523`  Q`  Rcpt QI proj.w/o prO
+400`  E`  524`  `  RE quality w/o prOrd
+400`  E`  524`  E`  RE QI sls o. w/o prO
+400`  E`  524`  E`  RE QI sls o. w/o prO
+400`  E`  524`  Q`  RE QI proj.w/o prOrd
+400`  E`  524`  Q`  RE QI proj.w/o prOrd
+400`  E`  525`  `  Rcpt blkd w/o pr.ord
+400`  E`  525`  E`  Rcpt bl.slsOr or prO
+400`  E`  525`  E`  Rcpt bl.slsOr or prO
+400`  E`  525`  Q`  Rcpt bl.proj.w/o prO
+400`  E`  525`  Q`  Rcpt bl.proj.w/o prO
+400`  E`  526`  `  RE blocked w/o PrOrd
+400`  E`  526`  E`  RE bl.sls or.w/o PrO
+400`  E`  526`  E`  RE bl.sls or.w/o PrO
+400`  E`  526`  Q`  RE blkd proj.w/o PrO
+400`  E`  526`  Q`  RE blkd proj.w/o PrO
+400`  E`  531`  `  Receipt by-product
+400`  E`  531`  B`  Rcpt Cst Stk By-Prod
+400`  E`  531`  B`  Rcpt Cst Stk By-Prod
+400`  E`  531`  E`  Rcpt slsOrd.by-prod.
+400`  E`  531`  E`  Rcpt slsOrd.by-prod.
+400`  E`  531`  E`  Rcpt slsOrd.by-prod.
+400`  E`  531`  P`  Rcpt by-prod. pipel.
+400`  E`  531`  P`  Rcpt by-prod. pipel.
+400`  E`  531`  Q`  Rcpt proj. by-prod.
+400`  E`  531`  Q`  Rcpt proj. by-prod.
+400`  E`  532`  `  RE by-product
+400`  E`  532`  B`  RE cust.stk by-prod.
+400`  E`  532`  B`  RE cust.stk by-prod.
+400`  E`  532`  E`  RE sls ord. by-prod.
+400`  E`  532`  E`  RE sls ord. by-prod.
+400`  E`  532`  E`  RE sls ord. by-prod.
+400`  E`  532`  P`  Rcpt by-prod. pipel.
+400`  E`  532`  P`  Rcpt by-prod. pipel.
+400`  E`  532`  Q`  RE sls ord. by-prod.
+400`  E`  532`  Q`  RE sls ord. by-prod.
+400`  E`  541`  `  GI whse to subc.stck
+400`  E`  541`  `  GI whse to subc.stck
+400`  E`  541`  B`  GI whse to subc.stck
+400`  E`  541`  B`  GI whse to subc.stck
+400`  E`  541`  C`  GI whse to subc.stck
+400`  E`  541`  C`  GI whse to subc.stck
+400`  E`  541`  E`  GI whse to subc.stck
+400`  E`  541`  E`  GI whse to subc.stck
+400`  E`  541`  E`  GI whse to subc.stck
+400`  E`  541`  E`  GI whse to subc.stck
+400`  E`  541`  F`  GI subc.stck to whse
+400`  E`  541`  F`  GI subc.stck to whse
+400`  E`  541`  F`  GI subc.stck to whse
+400`  E`  541`  F`  GI subc.stck to whse
+400`  E`  541`  I`  GI whse to subc.stck
+400`  E`  541`  I`  GI whse to subc.stck
+400`  E`  541`  J`  GI whse to subc.stck
+400`  E`  541`  J`  GI whse to subc.stck
+400`  E`  541`  K`  GI whse to subc.stck
+400`  E`  541`  K`  GI whse to subc.stck
+400`  E`  541`  M`  GI whse to subc.stck
+400`  E`  541`  M`  GI whse to subc.stck
+400`  E`  541`  O`  GI whse to subc.stck
+400`  E`  541`  O`  GI whse to subc.stck
+400`  E`  541`  Q`  GI whse to subc.stck
+400`  E`  541`  Q`  GI whse to subc.stck
+400`  E`  541`  Q`  GI whse to subc.stck
+400`  E`  541`  Q`  GI whse to subc.stck
+400`  E`  541`  R`  GI subc.stck to whse
+400`  E`  541`  R`  GI subc.stck to whse
+400`  E`  541`  R`  GI subc.stck to whse
+400`  E`  541`  R`  GI subc.stck to whse
+400`  E`  542`  `  RE subctrStck toWhse
+400`  E`  542`  `  RE subctrStck toWhse
+400`  E`  542`  B`  RE subctrStck toWhse
+400`  E`  542`  B`  RE subctrStck toWhse
+400`  E`  542`  C`  RE subctrStck toWhse
+400`  E`  542`  C`  RE subctrStck toWhse
+400`  E`  542`  E`  RE subc.stck to whse
+400`  E`  542`  E`  RE subc.stck to whse
+400`  E`  542`  E`  RE subc.stck to whse
+400`  E`  542`  E`  RE subc.stck to whse
+400`  E`  542`  F`  RE whse to subc.stck
+400`  E`  542`  F`  RE whse to subc.stck
+400`  E`  542`  F`  RE whse to subc.stck
+400`  E`  542`  F`  RE whse to subc.stck
+400`  E`  542`  I`  RE subctrStck toWhse
+400`  E`  542`  I`  RE subctrStck toWhse
+400`  E`  542`  J`  RE subctrStck toWhse
+400`  E`  542`  J`  RE subctrStck toWhse
+400`  E`  542`  K`  RE subctrStck toWhse
+400`  E`  542`  K`  RE subctrStck toWhse
+400`  E`  542`  M`  RE subctrStck toWhse
+400`  E`  542`  M`  RE subctrStck toWhse
+400`  E`  542`  O`  RE subctrStck toWhse
+400`  E`  542`  O`  RE subctrStck toWhse
+400`  E`  542`  Q`  RE subc.stck to whse
+400`  E`  542`  Q`  RE whse to subc.stck
+400`  E`  542`  Q`  RE subc.stck to whse
+400`  E`  542`  Q`  RE subc.stck to whse
+400`  E`  542`  R`  RE whse to subc.stck
+400`  E`  542`  R`  RE whse to subc.stck
+400`  E`  542`  R`  RE whse to subc.stck
+400`  E`  542`  R`  RE whse to subc.stck
+400`  E`  543`  C`  GI subcon cust stk
+400`  E`  543`  C`  GI subcon cust stk
+400`  E`  543`  C`  GI subcon cust stk
+400`  E`  543`  C`  GI subcon cust stk
+400`  E`  543`  E`  GI issue sls ord.st.
+400`  E`  543`  E`  GI issue sls ord.st.
+400`  E`  543`  E`  GI issue sls ord.st.
+400`  E`  543`  E`  GI issue sls ord.st.
+400`  E`  543`  F`  GI subcon cust ord
+400`  E`  543`  F`  GI subcon cust ord
+400`  E`  543`  F`  GI subcon cust ord
+400`  E`  543`  F`  GI subcon cust ord
+400`  E`  543`  I`  GI subcon RTP
+400`  E`  543`  I`  GI subcon RTP
+400`  E`  543`  I`  GI subcon RTP
+400`  E`  543`  I`  GI subcon RTP
+400`  E`  543`  J`  GI subcon consig
+400`  E`  543`  J`  GI subcon consig
+400`  E`  543`  J`  GI subcon consig
+400`  E`  543`  J`  GI subcon consig
+400`  E`  543`  O`  GI issue subc. stock
+400`  E`  543`  O`  GI issue subc. stock
+400`  E`  543`  O`  GI issue subc. stock
+400`  E`  543`  O`  GI issue subc. stock
+400`  E`  543`  O`  GI issue subc. stock
+400`  E`  543`  Q`  GI issue proj. stock
+400`  E`  543`  Q`  GI issue proj. stock
+400`  E`  543`  Q`  GI issue proj. stock
+400`  E`  543`  R`  GI issue subc. proj.
+400`  E`  543`  R`  GI issue subc. proj.
+400`  E`  543`  R`  GI issue subc. proj.
+400`  E`  543`  R`  GI issue subc. proj.
+400`  E`  544`  C`  GR rcpt subc.cust.st
+400`  E`  544`  C`  GR rcpt subc.cust.st
+400`  E`  544`  C`  GR rcpt subc.cust.st
+400`  E`  544`  C`  GR rcpt subc.cust.st
+400`  E`  544`  E`  GI receipt sls or.st
+400`  E`  544`  E`  GI receipt sls or.st
+400`  E`  544`  E`  GI receipt sls or.st
+400`  E`  544`  E`  GI receipt sls or.st
+400`  E`  544`  F`  GR rcpt subc.sls ord
+400`  E`  544`  F`  GR rcpt subc.sls ord
+400`  E`  544`  F`  GR rcpt subc.sls ord
+400`  E`  544`  F`  GR rcpt subc.sls ord
+400`  E`  544`  I`  GR receipt subc. RTP
+400`  E`  544`  I`  GR receipt subc. RTP
+400`  E`  544`  I`  GR receipt subc. RTP
+400`  E`  544`  I`  GR receipt subc. RTP
+400`  E`  544`  J`  GR receipt subc.cons
+400`  E`  544`  J`  GR receipt subc.cons
+400`  E`  544`  J`  GR receipt subc.cons
+400`  E`  544`  J`  GR receipt subc.cons
+400`  E`  544`  O`  GI receipt subc.stck
+400`  E`  544`  O`  GI receipt subc.stck
+400`  E`  544`  O`  GI receipt subc.stck
+400`  E`  544`  O`  GI receipt subc.stck
+400`  E`  544`  O`  GI receipt subc.stck
+400`  E`  544`  Q`  GI receipt proj. st.
+400`  E`  544`  Q`  GI receipt proj. st.
+400`  E`  544`  Q`  GI receipt proj. st.
+400`  E`  544`  R`  GR receipt subc.proj
+400`  E`  544`  R`  GR receipt subc.proj
+400`  E`  544`  R`  GR receipt subc.proj
+400`  E`  544`  R`  GR receipt subc.proj
+400`  E`  545`  C`  Receipt SC CustStock
+400`  E`  545`  E`  Rcpt SC by-product
+400`  E`  545`  E`  Rcpt SC by-product
+400`  E`  545`  E`  Rcpt SC by-product
+400`  E`  545`  F`  Rcpt SC by-product
+400`  E`  545`  F`  Rcpt SC by-product
+400`  E`  545`  F`  Rcpt SC by-product
+400`  E`  545`  I`  Rcpt SC by-product
+400`  E`  545`  I`  Rcpt SC by-product
+400`  E`  545`  J`  Rcpt SC by-product
+400`  E`  545`  J`  Rcpt SC by-product
+400`  E`  545`  O`  Rcpt SC by-product
+400`  E`  545`  O`  Rcpt SC by-product
+400`  E`  545`  O`  Rcpt SC by-product
+400`  E`  545`  O`  Rcpt SC by-product
+400`  E`  545`  O`  Rcpt SC by-product
+400`  E`  545`  Q`  Rcpt SC by-product
+400`  E`  545`  Q`  Rcpt SC by-product
+400`  E`  545`  Q`  Rcpt SC by-product
+400`  E`  545`  R`  Rcpt SC by-product
+400`  E`  545`  R`  Rcpt SC by-product
+400`  E`  545`  R`  Rcpt SC by-product
+400`  E`  546`  C`  GI issue SC by-prod.
+400`  E`  546`  E`  GI issue SC by-prod.
+400`  E`  546`  E`  GI issue SC by-prod.
+400`  E`  546`  E`  GI issue SC by-prod.
+400`  E`  546`  F`  GI issue SC by-prod.
+400`  E`  546`  F`  GI issue SC by-prod.
+400`  E`  546`  F`  GI issue SC by-prod.
+400`  E`  546`  I`  GI issue SC by-prod.
+400`  E`  546`  I`  GI issue SC by-prod.
+400`  E`  546`  J`  GI issue SC by-prod.
+400`  E`  546`  J`  GI issue SC by-prod.
+400`  E`  546`  O`  GI issue SC by-prod.
+400`  E`  546`  O`  GI issue SC by-prod.
+400`  E`  546`  O`  GI issue SC by-prod.
+400`  E`  546`  O`  GI issue SC by-prod.
+400`  E`  546`  O`  GI issue SC by-prod.
+400`  E`  546`  Q`  GI issue SC by-prod.
+400`  E`  546`  Q`  GI issue SC by-prod.
+400`  E`  546`  Q`  GI issue SC by-prod.
+400`  E`  546`  R`  GI issue SC by-prod.
+400`  E`  546`  R`  GI issue SC by-prod.
+400`  E`  546`  R`  GI issue SC by-prod.
+400`  E`  551`  `  GI scrapping
+400`  E`  551`  B`  GI scrapp cst stk
+400`  E`  551`  C`  GI scrapp SC cst stk
+400`  E`  551`  E`  GI scrapping sls.or.
+400`  E`  551`  E`  GI scrapping sls.or.
+400`  E`  551`  F`  GI scrapp SC cst ord
+400`  E`  551`  F`  GI scrapp SC cst ord
+400`  E`  551`  I`  GI scrapp SC RTP
+400`  E`  551`  J`  GI scrapp SC consig
+400`  E`  551`  K`  GI scrapping consgmt
+400`  E`  551`  O`  GI scrapping  SC st.
+400`  E`  551`  Q`  GI scrapping project
+400`  E`  551`  Q`  GI scrapping project
+400`  E`  551`  R`  GI scrapp SC project
+400`  E`  551`  R`  GI scrapp SC project
+400`  E`  551`  V`  GI scrap.custEmpties
+400`  E`  551`  W`  GI scrap. custConsgt
+400`  E`  552`  `  RE scrapping
+400`  E`  552`  B`  GR scrapp cst stk
+400`  E`  552`  C`  GR scrapp SC cst stk
+400`  E`  552`  E`  RE scrapping sls or.
+400`  E`  552`  E`  RE scrapping sls or.
+400`  E`  552`  F`  GR scrapp SC cst ord
+400`  E`  552`  F`  GR scrapp SC cst ord
+400`  E`  552`  I`  GR scrapp SC RTP
+400`  E`  552`  J`  GR scrapp SC consig
+400`  E`  552`  K`  RE scrapping consgmt
+400`  E`  552`  O`  RE scrapping SC stck
+400`  E`  552`  Q`  RE scrapping project
+400`  E`  552`  Q`  RE scrapping project
+400`  E`  552`  R`  GR scrapp SC project
+400`  E`  552`  R`  GR scrapp SC project
+400`  E`  552`  V`  RE scrap.custEmpties
+400`  E`  552`  W`  RE scrap. custConsgt
+400`  E`  553`  `  GI scrapping QI
+400`  E`  553`  B`  GI scrp. QI Cst Stk
+400`  E`  553`  C`  GI scrp. SC QI C.Stk
+400`  E`  553`  E`  GI scrapp. sls or.QI
+400`  E`  553`  E`  GI scrapp. sls or.QI
+400`  E`  553`  F`  GI scrp. SC QI C.Ord
+400`  E`  553`  I`  GI scrp. SC QI RTP
+400`  E`  553`  J`  GI scrp. SC QI consi
+400`  E`  553`  K`  GI scrapp. consgt QI
+400`  E`  553`  O`  GI scrap. SC stck QI
+400`  E`  553`  Q`  GI scrapping proj.QI
+400`  E`  553`  Q`  GI scrapping proj.QI
+400`  E`  553`  R`  GI scrp. SC QI proj.
+400`  E`  553`  V`  GI scrapCustEmptiesQ
+400`  E`  553`  W`  GI scrapCustCnsgt QI
+400`  E`  554`  `  RE scrapping QI
+400`  E`  554`  B`  GR Scrp. QI Cst Stk
+400`  E`  554`  C`  GR scrp. SC QI C.Stk
+400`  E`  554`  E`  RE scrapp. sls or.QI
+400`  E`  554`  E`  RE scrapp. sls or.QI
+400`  E`  554`  F`  GR scrp. SC QI C.Ord
+400`  E`  554`  I`  GR scrapp. SC QI RTP
+400`  E`  554`  J`  GR scrp. SC QI consi
+400`  E`  554`  K`  RE scrapp. consgt QI
+400`  E`  554`  O`  RE scrapp. SC stck Q
+400`  E`  554`  Q`  RE scrapping proj.QI
+400`  E`  554`  Q`  RE scrapping proj.QI
+400`  E`  554`  R`  GR scrp. SC QI proj
+400`  E`  554`  V`  RE scrapCustEmptiesQ
+400`  E`  554`  W`  RE scrap.custCnsgtQI
+400`  E`  555`  `  GI scrapping blocked
+400`  E`  555`  B`  GI scrapp blkd c.stk
+400`  E`  555`  E`  GI scrapp.sls or.blk
+400`  E`  555`  E`  GI scrapp.sls or.blk
+400`  E`  555`  K`  GI scrapp. cons.blkd
+400`  E`  555`  Q`  GI scrapp. proj.blkd
+400`  E`  555`  Q`  GI scrapp. proj.blkd
+400`  E`  555`  T`  GI Scrapping I.V.SiT
+400`  E`  556`  `  RE scrapping blocked
+400`  E`  556`  B`  GR scrp.blkd cst stk
+400`  E`  556`  E`  RE scrapp.sls or.blk
+400`  E`  556`  E`  RE scrapp.sls or.blk
+400`  E`  556`  K`  RE scrapp. cons.blkd
+400`  E`  556`  Q`  RE scrapp. proj.blkd
+400`  E`  556`  Q`  RE scrapp. proj.blkd
+400`  E`  556`  T`  RE Scrapping I.V.SiT
+400`  E`  557`  `  GI adjust. transit
+400`  E`  557`  E`  GI adj.trans.sls ord
+400`  E`  557`  Q`  GI adj.trans.project
+400`  E`  558`  `  GI adjust. transit
+400`  E`  558`  E`  GI adj.trans.sls ord
+400`  E`  558`  Q`  GI adj.trans.project
+400`  E`  559`  `  GI Adj. Val. Bl.Stk
+400`  E`  559`  E`  GI Adj. Val.BlSt SO
+400`  E`  559`  Q`  GI Adj. ValBlSt Prj
+400`  E`  560`  `  RE Adj. Val. Bl.Stk
+400`  E`  560`  E`  RE Adj. Val.BlSt SO
+400`  E`  560`  Q`  RE Adj. ValBlSt Prj
+400`  E`  561`  `  Init.entry of stBal.
+400`  E`  561`  B`  In.ent.st.bal:cst.st
+400`  E`  561`  C`  SC customer stock
+400`  E`  561`  E`  In.ent.st.bal:slsOrd
+400`  E`  561`  E`  In.ent.st.bal:slsOrd
+400`  E`  561`  F`  SC sales order
+400`  E`  561`  F`  SC sales order
+400`  E`  561`  I`  SC RTP
+400`  E`  561`  J`  SC vendor consignmt
+400`  E`  561`  K`  In.ent.st.bal:consgt
+400`  E`  561`  M`  In.entr.st.bals: RTP
+400`  E`  561`  O`  In.ent.st.bal:SC stk
+400`  E`  561`  Q`  In.ent.st.bals:proj.
+400`  E`  561`  Q`  In.ent.st.bals:proj.
+400`  E`  561`  R`  SC project stock
+400`  E`  561`  R`  SC project stock
+400`  E`  561`  V`  In.ent.st.bal:cuRePa
+400`  E`  561`  W`  In.ent.st.bal:cuCons
+400`  E`  562`  `  RE in.entry stk bals
+400`  E`  562`  B`  RE ent.st.bal:cstStk
+400`  E`  562`  C`  R SC customer stock
+400`  E`  562`  E`  RE ent.st.bal:slsOrd
+400`  E`  562`  E`  RE ent.st.bal:slsOrd
+400`  E`  562`  F`  R SC sales order
+400`  E`  562`  F`  R SC sales order
+400`  E`  562`  I`  R SC RTP
+400`  E`  562`  J`  R SC vendor consgmnt
+400`  E`  562`  K`  RE ent.st.bal:consgt
+400`  E`  562`  M`  RE ent.st.bal:consgt
+400`  E`  562`  O`  RE ent.st.bal:SC stk
+400`  E`  562`  Q`  RE ent.st.bals:proj.
+400`  E`  562`  Q`  RE ent.st.bal: Proj.
+400`  E`  562`  R`  R SC project stock
+400`  E`  562`  R`  R SC project stock
+400`  E`  562`  V`  RE ent.st.bal:cuRePa
+400`  E`  562`  W`  RE ent.st.bal:cuCons
+400`  E`  563`  `  Init. entrStBals: QI
+400`  E`  563`  B`  In.entStBals:CstStQI
+400`  E`  563`  C`  SC customer stock QI
+400`  E`  563`  E`  In.entStBals:slsO.QI
+400`  E`  563`  E`  In.entStBals:slsO.QI
+400`  E`  563`  F`  SC sales order QI
+400`  E`  563`  I`  Subcontractor RTP QI
+400`  E`  563`  J`  Subcontr. consgt QI
+400`  E`  563`  K`  In.entStBals:cons.QI
+400`  E`  563`  O`  In.entStBal:SC st.QI
+400`  E`  563`  Q`  In.entStBals:proj.QI
+400`  E`  563`  Q`  In.entStBals:proj.QI
+400`  E`  563`  R`  Subcontr. project QI
+400`  E`  563`  V`  In.enStBal:cuRePa.QI
+400`  E`  563`  W`  In.enStBal:cuCons.QI
+400`  E`  564`  `  RE ent.st.bals: QI
+400`  E`  564`  B`  RE entStBals:cstStQI
+400`  E`  564`  C`  RE SC cust. stock QI
+400`  E`  564`  E`  RE entStBals:slsO.QI
+400`  E`  564`  E`  RE entStBals:slsO.QI
+400`  E`  564`  F`  RE SC sales order QI
+400`  E`  564`  I`  RE subcontr. RTP QI
+400`  E`  564`  J`  RE subcon. consig QI
+400`  E`  564`  K`  RE entStBals:cons.QI
+400`  E`  564`  O`  RE entStBal:SC st.QI
+400`  E`  564`  Q`  RE entStBals:proj.QI
+400`  E`  564`  Q`  RE entStBals:proj.QI
+400`  E`  564`  R`  RE subcon.project QI
+400`  E`  564`  V`  RE enStBal:cuRePa.QI
+400`  E`  564`  W`  RE enStBal:cuCons.QI
+400`  E`  565`  `  In.ent.stBals: blckd
+400`  E`  565`  B`  In.entStBal:cstStBlk
+400`  E`  565`  E`  In.entStBal:slsO.blk
+400`  E`  565`  E`  In.entStBal:slsO.blk
+400`  E`  565`  K`  In.entStBal:cons.blk
+400`  E`  565`  Q`  In.entStBal:proj.blk
+400`  E`  565`  Q`  In.entStBal:proj.blk
+400`  E`  566`  `  RE ent.stBals: blckd
+400`  E`  566`  B`  RE entStBal:cstStBlk
+400`  E`  566`  E`  RE entStBal:slsO.blk
+400`  E`  566`  E`  RE entStBal:slsO.blk
+400`  E`  566`  K`  RE entStBal:cons.blk
+400`  E`  566`  Q`  RE entStBal:proj.blk
+400`  E`  566`  Q`  RE entStBal:proj.blk
+400`  E`  571`  `  Receipt assembly
+400`  E`  571`  E`  Rcpt assmbly slsOrd.
+400`  E`  571`  E`  Rcpt assmbly slsOrd.
+400`  E`  571`  K`  Rcpt assmbly consgmt
+400`  E`  571`  Q`  Rcpt assmbly project
+400`  E`  571`  Q`  Rcpt assmbly project
+400`  E`  572`  `  RE receipt assembly
+400`  E`  572`  E`  RE rcpt assmbly slsO
+400`  E`  572`  E`  RE rcpt assmbly slsO
+400`  E`  572`  K`  RE rcpt assmbly cons
+400`  E`  572`  Q`  RE rcpt assmbly proj
+400`  E`  572`  Q`  RE rcpt assmbly proj
+400`  E`  573`  `  Rcpt QI assembly
+400`  E`  573`  E`  Rcpt assmb. slsO. QI
+400`  E`  573`  E`  Rcpt assmb. slsO. QI
+400`  E`  573`  K`  Rcpt assmb. cons. QI
+400`  E`  573`  Q`  Rcpt assmb. proj. QI
+400`  E`  573`  Q`  Rcpt assmb. proj. QI
+400`  E`  574`  `  RE rcpt QI assembly
+400`  E`  574`  E`  RE rcpt assb.slsO.QI
+400`  E`  574`  E`  RE rcpt assb.slsO.QI
+400`  E`  574`  K`  RE rcpt assb.cons.QI
+400`  E`  574`  Q`  RE rcpt assb.proj.QI
+400`  E`  574`  Q`  RE rcpt assb.proj.QI
+400`  E`  575`  `  Rcpt blckd assmbly
+400`  E`  575`  E`  Rcpt assb. slsO. blk
+400`  E`  575`  E`  Rcpt assb. slsO. blk
+400`  E`  575`  K`  Rcpt assb. cons. blk
+400`  E`  575`  Q`  Rcpt assb. proj. blk
+400`  E`  575`  Q`  Rcpt assb. proj. blk
+400`  E`  576`  `  RE rcpt blkd assmbly
+400`  E`  576`  E`  RE rcpt assb.slsO.bl
+400`  E`  576`  E`  RE rcpt assb.slsO.bl
+400`  E`  576`  K`  RE rcpt assb.cons.bl
+400`  E`  576`  Q`  RE rcpt assb.proj.bl
+400`  E`  576`  Q`  RE rcpt assb.proj.bl
+400`  E`  581`  `  Rcpt by-prod network
+400`  E`  581`  E`  Rct slsOrd.by-p.Netw
+400`  E`  581`  E`  Rct slsOrd.by-p.Netw
+400`  E`  581`  E`  Rct slsOrd.by-p.Netw
+400`  E`  581`  Q`  Rct proj. by-pr.netw
+400`  E`  581`  Q`  Rct proj. by-pr.netw
+400`  E`  582`  `  RE by-prod. network
+400`  E`  582`  E`  RE slsOr. by-p. netw
+400`  E`  582`  E`  RE slsOr. by-p. netw
+400`  E`  582`  E`  RE slsOr. by-p. netw
+400`  E`  582`  Q`  RE proj. by-pr. netw
+400`  E`  582`  Q`  RE proj. by-pr. netw
+400`  E`  601`  `  GD goods issue:delvy
+400`  E`  601`  `  GD goods issue:delvy
+400`  E`  601`  `  GD goods issue:delvy
+400`  E`  601`  `  GD goods issue:delvy
+400`  E`  601`  E`  GD delivery sls ord.
+400`  E`  601`  E`  GD delivery sls ord.
+400`  E`  601`  E`  GD delivery sls ord.
+400`  E`  601`  E`  GD delivery sls ord.
+400`  E`  601`  K`  GD goods issue:delvy
+400`  E`  601`  K`  GD goods issue:delvy
+400`  E`  601`  K`  GD goods issue:delvy
+400`  E`  601`  K`  GD goods issue:delvy
+400`  E`  601`  Q`  GD delivery project
+400`  E`  601`  Q`  GD delivery project
+400`  E`  601`  T`  GMDel fr.Iss.Val.SiT
+400`  E`  602`  `  RE goods deliv. rev.
+400`  E`  602`  `  RE goods deliv. rev.
+400`  E`  602`  `  RE goods deliv. rev.
+400`  E`  602`  `  RE goods deliv. rev.
+400`  E`  602`  `  GD Goods deliv. rev.
+400`  E`  602`  `  GD Goods deliv. rev.
+400`  E`  602`  `  GD Goods deliv. rev.
+400`  E`  602`  `  GD Goods deliv. rev.
+400`  E`  602`  E`  RE deliv. sOrdr rev.
+400`  E`  602`  E`  RE deliv. sOrdr rev.
+400`  E`  602`  E`  RE deliv. sOrdr rev.
+400`  E`  602`  E`  RE deliv. sOrdr rev.
+400`  E`  602`  E`  GD deliv. sOrdr rev.
+400`  E`  602`  E`  RE deliv. sOrdr rev.
+400`  E`  602`  E`  RE deliv. sOrdr rev.
+400`  E`  602`  E`  GD deliv. sOrdr rev.
+400`  E`  602`  K`  RE goods deliv. rev.
+400`  E`  602`  K`  GD Goods deliv. rev.
+400`  E`  602`  K`  GD Goods deliv. rev.
+400`  E`  602`  K`  GD Goods deliv. rev.
+400`  E`  602`  K`  GD Goods deliv. rev.
+400`  E`  602`  Q`  GD deliv. proj. stck
+400`  E`  602`  Q`  GD deliv. proj. stck
+400`  E`  602`  T`  RE to Iss. Val. SiT
+400`  E`  603`  `  TF rem.fm stor.to pl
+400`  E`  603`  `  TF replenishment del
+400`  E`  604`  `  TR rem.fm stor.to pl
+400`  E`  604`  `  TR rem.fm stor.to pl
+400`  E`  605`  `  TF pl.in stor.in pl.
+400`  E`  606`  `  TR pl.in stor.in pl.
+400`  E`  606`  `  TR pl.in stor.in pl.
+400`  E`  617`  K`  Cre. Str. Mat. Cons.
+400`  E`  618`  K`  RE Cr. Str. Mat. Con
+400`  E`  619`  K`  Rem. Str. Mat. Cons.
+400`  E`  620`  K`  RE Rem. Str Mat Cons
+400`  E`  621`  `  GI ret.pack.:lending
+400`  E`  621`  `  GI ret.pack.:lending
+400`  E`  621`  `  GD ret.pack.:lending
+400`  E`  621`  `  GD ret.pack.:lending
+400`  E`  621`  `  GD ret.pack.:lending
+400`  E`  621`  `  GD ret.pack.:lending
+400`  E`  621`  V`  GI ret.pack.:lending
+400`  E`  621`  V`  GI ret.pack.:lending
+400`  E`  621`  V`  GD ret.pack.:lending
+400`  E`  621`  V`  GD ret.pack.:lending
+400`  E`  621`  V`  GD ret.pack.:lending
+400`  E`  621`  V`  GD ret.pack.:lending
+400`  E`  622`  `  GI ret.pack:ret.del.
+400`  E`  622`  `  GI ret.pack:ret.del.
+400`  E`  622`  `  GD ret.pack:ret.del.
+400`  E`  622`  `  GD ret.pack:ret.del.
+400`  E`  622`  `  GD ret.pack:ret.del.
+400`  E`  622`  `  GD ret.pack:ret.del.
+400`  E`  622`  V`  GI ret.pack:ret.del.
+400`  E`  622`  V`  GI ret.pack:ret.del.
+400`  E`  622`  V`  GI ret.pack:ret.del.
+400`  E`  622`  V`  GI ret.pack:ret.del.
+400`  E`  622`  V`  GD ret.pack:ret.del.
+400`  E`  622`  V`  GD ret.pack:ret.del.
+400`  E`  623`  V`  GI iss:cust.ret.pack
+400`  E`  623`  V`  GI iss:cust.ret.pack
+400`  E`  623`  V`  GI iss:cust.ret.pack
+400`  E`  623`  V`  GI iss:cust.ret.pack
+400`  E`  623`  V`  GI iss:cust.ret.pack
+400`  E`  624`  V`  GI rcpt:cust.re.pack
+400`  E`  624`  V`  GI rcpt:cust.re.pack
+400`  E`  624`  V`  GI rcpt:cust.re.pack
+400`  E`  624`  V`  GI rcpt:cust.re.pack
+400`  E`  624`  V`  GI rcpt:cust.re.pack
+400`  E`  631`  `  GI consgmt: lending
+400`  E`  631`  `  GI consgmt: lending
+400`  E`  631`  `  GD consgmt: lending
+400`  E`  631`  `  GD consgmt: lending
+400`  E`  631`  E`  TP slsOrd. to consgt
+400`  E`  631`  E`  TP slsOrd. to consgt
+400`  E`  631`  E`  TP slsOrd. to consgt
+400`  E`  631`  E`  TP slsOrd. to consgt
+400`  E`  631`  E`  TP slsOrd. to consgt
+400`  E`  631`  E`  TP slsOrd. to consgt
+400`  E`  631`  Q`  TP proj. to consgmt
+400`  E`  631`  Q`  TP proj. to consgmt
+400`  E`  631`  Q`  TP proj. to consgmt
+400`  E`  631`  Q`  TP proj. to consgmt
+400`  E`  631`  W`  GI consgmt: lending
+400`  E`  631`  W`  TP slsOrd. to consgt
+400`  E`  631`  W`  TP proj. to consgmt
+400`  E`  631`  W`  GI consgmt: lending
+400`  E`  631`  W`  GD consgmt: lending
+400`  E`  631`  W`  TP slsOrd. to consgt
+400`  E`  631`  W`  TP proj. to consgmt
+400`  E`  631`  W`  GD consgmt: lending
+400`  E`  632`  `  GI consgmt:ret.delvy
+400`  E`  632`  `  GI consgmt:ret.delvy
+400`  E`  632`  `  GD consgmt:ret.delvy
+400`  E`  632`  `  GD consgmt:ret.delvy
+400`  E`  632`  E`  TP csgmt to sls ord.
+400`  E`  632`  E`  TP csgmt to sls ord.
+400`  E`  632`  E`  TP csgmt to sls ord.
+400`  E`  632`  E`  TP csgmt to sls ord.
+400`  E`  632`  E`  TP csgmt to sls ord.
+400`  E`  632`  E`  TP csgmt to sls ord.
+400`  E`  632`  Q`  TP csgmt to project
+400`  E`  632`  Q`  TP csgmt to project
+400`  E`  632`  Q`  TP csgmt to project
+400`  E`  632`  Q`  TP csgmt to project
+400`  E`  632`  W`  GI consgmt:ret.delvy
+400`  E`  632`  W`  TP csgmt to sls ord.
+400`  E`  632`  W`  TP csgmt to project
+400`  E`  632`  W`  GI consgmt:ret.delvy
+400`  E`  632`  W`  GD consgmt:ret.delvy
+400`  E`  632`  W`  TP csgmt to sls ord.
+400`  E`  632`  W`  TP csgmt to project
+400`  E`  632`  W`  GD consgmt:ret.delvy
+400`  E`  633`  W`  GI iss: cust.consgmt
+400`  E`  633`  W`  GI iss: cust.consgmt
+400`  E`  633`  W`  GI iss: cust.consgmt
+400`  E`  633`  W`  GI iss: cust.consgmt
+400`  E`  633`  W`  GI iss: cust.consgmt
+400`  E`  634`  W`  GI rcpt:cust.consgmt
+400`  E`  634`  W`  GI rcpt:cust.consgmt
+400`  E`  634`  W`  GI rcpt:cust.consgmt
+400`  E`  634`  W`  GI rcpt:cust.consgmt
+400`  E`  634`  W`  GI rcpt:cust.consgmt
+400`  E`  635`  `  TF consgmt lending
+400`  E`  635`  `  TF consgmt lending
+400`  E`  635`  `  TF consgmt lending
+400`  E`  635`  `  TF consgmt lending
+400`  E`  635`  W`  TF consgmt lending
+400`  E`  635`  W`  TF consgmt lending
+400`  E`  635`  W`  TF consgmt lending
+400`  E`  635`  W`  TF consgmt lending
+400`  E`  636`  `  TR consgmt ret. del.
+400`  E`  636`  `  TR consgmt ret. del.
+400`  E`  636`  `  TR consgmt ret. del.
+400`  E`  636`  `  TR consgmt ret. del.
+400`  E`  636`  W`  TR consgmt ret. del.
+400`  E`  636`  W`  TR consgmt ret. del.
+400`  E`  636`  W`  TR consgmt ret. del.
+400`  E`  636`  W`  TR consgmt ret. del.
+400`  E`  63A`  `  ST Consig. Borrow OA
+400`  E`  63A`  `  ST Consig. Borrow OA
+400`  E`  63A`  W`  ST Consig. Borrow OA
+400`  E`  63A`  W`  ST Consig. Borrow OA
+400`  E`  63B`  `  ST Consig. Return OA
+400`  E`  63B`  `  ST Consig. Return OA
+400`  E`  63B`  W`  ST Consig. Return OA
+400`  E`  63B`  W`  ST Consig. Return OA
+400`  E`  63C`  W`  ST Consig. Borrow PA
+400`  E`  63C`  W`  ST Consig. Borrow PA
+400`  E`  63D`  W`  ST Consig. Return PA
+400`  E`  63D`  W`  ST Consig. Return PA
+400`  E`  641`  `  TF to stck in trans.
+400`  E`  641`  `  TF to stck in trans.
+400`  E`  641`  `  TF plant plant slsOr
+400`  E`  641`  `  TF plant plant proj.
+400`  E`  641`  `  TF to stck in trans.
+400`  E`  641`  E`  TF plant plant slsOr
+400`  E`  641`  E`  TF plant plant slsOr
+400`  E`  641`  E`  TF plant plant slsOr
+400`  E`  641`  K`  TF to Consign. Stock
+400`  E`  641`  Q`  TF plant plant proj.
+400`  E`  641`  Q`  TF plant plant proj.
+400`  E`  642`  `  TR to stck in trans.
+400`  E`  642`  `  TR to stck in trans.
+400`  E`  642`  `  TR plant plant slsOr
+400`  E`  642`  `  TR plant plant proj.
+400`  E`  642`  `  TR to stck in trans.
+400`  E`  642`  E`  TR plant plant slsOr
+400`  E`  642`  E`  TR plant plant slsOr
+400`  E`  642`  E`  TR plant plant slsOr
+400`  E`  642`  K`  TR to Consign. Stock
+400`  E`  642`  Q`  TR plant plant proj.
+400`  E`  642`  Q`  TR plant plant proj.
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  `  TF to cross company
+400`  E`  643`  E`  TF CC to slsOrd.
+400`  E`  643`  E`  TF CC to slsOrd.
+400`  E`  643`  E`  TF CC to slsOrd.
+400`  E`  643`  E`  TF CC to slsOrd.
+400`  E`  643`  K`  TF to cross company
+400`  E`  643`  Q`  TF CC to project
+400`  E`  643`  Q`  TF CC to project
+400`  E`  643`  Q`  TF CC to project
+400`  E`  643`  Q`  TF CC to project
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  `  TR to cross company
+400`  E`  644`  E`  TR CC to slsOrd.
+400`  E`  644`  E`  TR CC to slsOrd.
+400`  E`  644`  E`  TR CC to slsOrd.
+400`  E`  644`  E`  TR CC to slsOrd.
+400`  E`  644`  K`  TR to cross company
+400`  E`  644`  Q`  TR CC to project
+400`  E`  644`  Q`  TR CC to project
+400`  E`  644`  Q`  TR CC to project
+400`  E`  644`  Q`  TR CC to project
+400`  E`  645`  `  TF cross company
+400`  E`  645`  `  TF cross company
+400`  E`  645`  `  TF cross company
+400`  E`  645`  E`  TF CC to slsOrd.
+400`  E`  645`  E`  TF CC to slsOrd.
+400`  E`  645`  E`  TF CC to slsOrd.
+400`  E`  645`  K`  TF cross company
+400`  E`  645`  Q`  TF CC to project
+400`  E`  645`  Q`  TF CC to project
+400`  E`  645`  Q`  TF CC to project
+400`  E`  646`  `  TR cross company
+400`  E`  646`  `  TR cross company
+400`  E`  646`  `  TR cross company
+400`  E`  646`  `  TR cross company
+400`  E`  646`  E`  TR CC to slsOrd.
+400`  E`  646`  E`  TR CC to slsOrd.
+400`  E`  646`  E`  TR CC to slsOrd.
+400`  E`  646`  K`  TR cross company
+400`  E`  646`  Q`  TR CC to project
+400`  E`  646`  Q`  TR CC to project
+400`  E`  646`  Q`  TR CC to project
+400`  E`  647`  `  TF to stck in trans.
+400`  E`  647`  `  TF to stck in trans.
+400`  E`  647`  `  TF plant plant slsOr
+400`  E`  647`  `  TF plant plant proj.
+400`  E`  647`  `  TF to stck in trans.
+400`  E`  647`  E`  TF plant plant slsOr
+400`  E`  647`  E`  TF plant plant slsOr
+400`  E`  647`  E`  TF plant plant slsOr
+400`  E`  647`  K`  TF to Consign. Stock
+400`  E`  647`  Q`  TF plant plant proj.
+400`  E`  647`  Q`  TF plant plant proj.
+400`  E`  648`  `  TR to stck in trans.
+400`  E`  648`  `  TR to stck in trans.
+400`  E`  648`  `  TR plant plant slsOr
+400`  E`  648`  `  TR plant plant proj.
+400`  E`  648`  `  TR to stck in trans.
+400`  E`  648`  E`  TR plant plant slsOr
+400`  E`  648`  E`  TR plant plant slsOr
+400`  E`  648`  E`  TR plant plant slsOr
+400`  E`  648`  K`  TR to Consign. Stock
+400`  E`  648`  Q`  TR plant plant proj.
+400`  E`  648`  Q`  TR plant plant proj.
+400`  E`  64A`  `  ST Plant Plant SCO
+400`  E`  64A`  O`  ST Plant Plant SCO
+400`  E`  64B`  `  SR Plant Plant SCO
+400`  E`  64B`  O`  SR Plant Plant SCO
+400`  E`  651`  `  GD ret.del.  returns
+400`  E`  651`  `  GD ret.del.  returns
+400`  E`  651`  `  GD ret.del.  returns
+400`  E`  651`  `  GD ret.del.  returns
+400`  E`  652`  `  GD ret.del. retn rev
+400`  E`  652`  `  GD ret.del.  returns
+400`  E`  652`  `  GD ret.del.  returns
+400`  E`  652`  `  GD ret.del. retn rev
+400`  E`  653`  `  GD returns unrestr.
+400`  E`  653`  `  GD returns unrestr.
+400`  E`  653`  `  GD returns unrestr.
+400`  E`  653`  `  GD returns unrestr.
+400`  E`  653`  E`  GD returns unrestr.
+400`  E`  653`  E`  GD returns unrestr.
+400`  E`  653`  E`  GD returns unrestr.
+400`  E`  653`  E`  GD returns unrestr.
+400`  E`  653`  Q`  GD returns unrestr.
+400`  E`  653`  Q`  GD returns unrestr.
+400`  E`  653`  Q`  GD returns unrestr.
+400`  E`  654`  `  GD returns unr. rev.
+400`  E`  654`  `  GD returns unr. rev.
+400`  E`  654`  `  GD returns unr. rev.
+400`  E`  654`  `  GD returns unr. rev.
+400`  E`  654`  E`  GD returns unr. rev.
+400`  E`  654`  E`  GD returns unr. rev.
+400`  E`  654`  E`  GD returns unr. rev.
+400`  E`  654`  E`  GD returns unr. rev.
+400`  E`  654`  Q`  GD returns unr. rev.
+400`  E`  654`  Q`  GD returns unr. rev.
+400`  E`  654`  Q`  GD returns unr. rev.
+400`  E`  654`  Q`  GD returns unr. rev.
+400`  E`  655`  `  GD returns QI
+400`  E`  655`  `  GD returns QI
+400`  E`  655`  `  GD returns QI
+400`  E`  655`  `  GD returns QI
+400`  E`  655`  E`  GD returns QI
+400`  E`  655`  E`  GD returns QI
+400`  E`  655`  E`  GD returns QI
+400`  E`  655`  E`  GD returns QI
+400`  E`  655`  Q`  GD returns QI
+400`  E`  655`  Q`  GD returns QI
+400`  E`  655`  Q`  GD returns QI
+400`  E`  656`  `  GD returns QI  rev.
+400`  E`  656`  `  GD returns QI  rev.
+400`  E`  656`  `  GD returns QI  rev.
+400`  E`  656`  `  GD returns QI  rev.
+400`  E`  656`  E`  GD returns QI  rev.
+400`  E`  656`  E`  GD returns QI  rev.
+400`  E`  656`  E`  GD returns QI  rev.
+400`  E`  656`  E`  GD returns QI  rev.
+400`  E`  656`  Q`  GD returns QI  rev.
+400`  E`  656`  Q`  GD returns QI  rev.
+400`  E`  656`  Q`  GD returns QI  rev.
+400`  E`  656`  Q`  GD returns QI  rev.
+400`  E`  657`  `  GD returns blocked
+400`  E`  657`  `  GD returns blocked
+400`  E`  657`  `  GD returns blocked
+400`  E`  657`  `  GD returns blocked
+400`  E`  657`  E`  GD returns blocked
+400`  E`  657`  E`  GD returns blocked
+400`  E`  657`  E`  GD returns blocked
+400`  E`  657`  E`  GD returns blocked
+400`  E`  657`  Q`  GD returns blocked
+400`  E`  657`  Q`  GD returns blocked
+400`  E`  657`  Q`  GD returns blocked
+400`  E`  658`  `  GD returns blk. rev.
+400`  E`  658`  `  GD returns blk. rev.
+400`  E`  658`  `  GD returns blk. rev.
+400`  E`  658`  `  GD returns blk. rev.
+400`  E`  658`  E`  GD returns blk. rev.
+400`  E`  658`  E`  GD returns blk. rev.
+400`  E`  658`  E`  GD returns blk. rev.
+400`  E`  658`  E`  GD returns blk. rev.
+400`  E`  658`  Q`  GD returns blk. rev.
+400`  E`  658`  Q`  GD returns blk. rev.
+400`  E`  658`  Q`  GD returns blk. rev.
+400`  E`  658`  Q`  GD returns blk. rev.
+400`  E`  661`  `  GI returns to vendor
+400`  E`  661`  `  GI returns to vendor
+400`  E`  661`  `  GD returns to vendor
+400`  E`  661`  `  GD returns to vendor
+400`  E`  661`  E`  GI ret. to vdr SaOrd
+400`  E`  661`  E`  GI ret. to vdr SaOrd
+400`  E`  661`  E`  GD ret. to vdr SaOrd
+400`  E`  661`  E`  GI ret. to vdr SaOrd
+400`  E`  661`  E`  GD ret. to vdr SaOrd
+400`  E`  661`  K`  GI returns to vendor
+400`  E`  661`  K`  GI returns to vendor
+400`  E`  661`  K`  GD returns to vendor
+400`  E`  661`  K`  GD returns to vendor
+400`  E`  661`  Q`  GD ret. vendor proj.
+400`  E`  661`  Q`  GD ret. vendor proj.
+400`  E`  662`  `  RE ret. to vdr revrs
+400`  E`  662`  `  RE ret. to vdr revrs
+400`  E`  662`  `  GD ret. to vdr revrs
+400`  E`  662`  `  GD ret. to vdr revrs
+400`  E`  662`  E`  RE ret vend saOrd re
+400`  E`  662`  E`  RE ret vend saOrd re
+400`  E`  662`  E`  GD ret vend saOrd re
+400`  E`  662`  E`  RE ret vend saOrd re
+400`  E`  662`  E`  GD ret vend saOrd re
+400`  E`  662`  K`  RE ret. to vdr revrs
+400`  E`  662`  K`  RE ret. to vdr revrs
+400`  E`  662`  K`  GD ret. to vdr revrs
+400`  E`  662`  K`  GD ret. to vdr revrs
+400`  E`  662`  Q`  GD ret vend proj rev
+400`  E`  662`  Q`  RE ret vend proj rev
+400`  E`  671`  `  TR to stck in trans.
+400`  E`  671`  `  TR to stck in trans.
+400`  E`  671`  `  TR to stck in trans.
+400`  E`  671`  `  TR plant plant slsOr
+400`  E`  671`  `  TR plant plant proj.
+400`  E`  671`  `  TR to stck in trans.
+400`  E`  671`  E`  TR plant plant slsOr
+400`  E`  671`  E`  TR plant plant slsOr
+400`  E`  671`  E`  TR plant plant slsOr
+400`  E`  671`  K`  TR to Consign. Stock
+400`  E`  671`  Q`  TR plant plant proj.
+400`  E`  671`  Q`  TR plant plant proj.
+400`  E`  672`  `  TF to stck in trans.
+400`  E`  672`  `  TF to stck in trans.
+400`  E`  672`  `  TF to stck in trans.
+400`  E`  672`  `  TF plant plant slsOr
+400`  E`  672`  `  TF plant plant proj.
+400`  E`  672`  `  TF to stck in trans.
+400`  E`  672`  E`  TF plant plant slsOr
+400`  E`  672`  E`  TF plant plant slsOr
+400`  E`  672`  E`  TF plant plant slsOr
+400`  E`  672`  K`  TF to Consign. Stock
+400`  E`  672`  Q`  TF plant plant proj.
+400`  E`  672`  Q`  TF plant plant proj.
+400`  E`  673`  `  TF to cross company
+400`  E`  673`  `  TF to cross company
+400`  E`  673`  `  TF to cross company
+400`  E`  673`  `  TR to cross company
+400`  E`  673`  `  TR to cross company
+400`  E`  673`  `  TR to cross company
+400`  E`  673`  `  TR to cross company
+400`  E`  673`  `  TR to cross company
+400`  E`  673`  E`  TR CC to slsOrd.
+400`  E`  673`  E`  TR CC to slsOrd.
+400`  E`  673`  E`  TR CC to slsOrd.
+400`  E`  673`  E`  TR CC to slsOrd.
+400`  E`  673`  K`  TR to cross company
+400`  E`  674`  `  TR to cross company
+400`  E`  674`  `  TR to cross company
+400`  E`  674`  `  TR to cross company
+400`  E`  674`  `  TF to cross company
+400`  E`  674`  `  TF to cross company
+400`  E`  674`  `  TF to cross company
+400`  E`  674`  `  TF to cross company
+400`  E`  674`  `  TF to cross company
+400`  E`  674`  E`  TF CC to slsOrd.
+400`  E`  674`  E`  TF CC to slsOrd.
+400`  E`  674`  E`  TF CC to slsOrd.
+400`  E`  674`  E`  TF CC to slsOrd.
+400`  E`  674`  K`  TF to cross company
+400`  E`  675`  `  TR cross company
+400`  E`  675`  `  TR cross company
+400`  E`  675`  `  TR cross company
+400`  E`  675`  K`  TR cross company
+400`  E`  676`  `  TF cross company
+400`  E`  676`  `  TF cross company
+400`  E`  676`  `  TF cross company
+400`  E`  676`  K`  TF cross company
+400`  E`  677`  `  TR to stck in trans.
+400`  E`  677`  `  TR to stck in trans.
+400`  E`  677`  `  TR plant plant slsOr
+400`  E`  677`  `  TR plant plant proj.
+400`  E`  677`  `  TR to stck in trans.
+400`  E`  677`  E`  TR plant plant slsOr
+400`  E`  677`  E`  TR plant plant slsOr
+400`  E`  677`  E`  TF plant plant slsOr
+400`  E`  677`  K`  TR to Consign. Stock
+400`  E`  677`  Q`  TR plant plant proj.
+400`  E`  677`  Q`  TR plant plant proj.
+400`  E`  678`  `  TF to stck in trans.
+400`  E`  678`  `  TF to stck in trans.
+400`  E`  678`  `  TF plant plant slsOr
+400`  E`  678`  `  TF plant plant proj.
+400`  E`  678`  `  TF to stck in trans.
+400`  E`  678`  E`  TF plant plant slsOr
+400`  E`  678`  E`  TF plant plant slsOr
+400`  E`  678`  E`  TF plant plant slsOr
+400`  E`  678`  K`  TF to Consign. Stock
+400`  E`  678`  Q`  TF plant plant proj.
+400`  E`  678`  Q`  TF plant plant proj.
+400`  E`  681`  `  TF to Iss. Val. CST
+400`  E`  681`  E`  TF to Iss.Val.CST SO
+400`  E`  681`  Q`  TF to IssVal CST Prj
+400`  E`  681`  T`  TF to Iss. Val. CST
+400`  E`  682`  `  TFRet fr.Iss.Val.CST
+400`  E`  682`  E`  TFRet f IssValCST SO
+400`  E`  682`  Q`  TFRet f IssValCST Pr
+400`  E`  682`  T`  TFRet fr.Iss.Val.CST
+400`  E`  683`  `  TF to Rec. Val. CST
+400`  E`  683`  E`  TF to Rec.Val.CST SO
+400`  E`  683`  Q`  TF to RecVal. CST Pr
+400`  E`  684`  `  TFRet.fr Iss.Val CST
+400`  E`  684`  E`  TFRet from RecCST SO
+400`  E`  684`  Q`  TFRet f RecValCST Pr
+400`  E`  685`  T`  TF fr Iss. Val. CST
+400`  E`  686`  T`  TFRet to Iss Val.CST
+400`  E`  687`  `  GMDel to Iss Val SiT
+400`  E`  687`  E`  GMDel to IssVlSiT SO
+400`  E`  687`  Q`  GMDel to IssVlSiT Pr
+400`  E`  687`  T`  GMDel to Iss Val SiT
+400`  E`  688`  `  RE fr Iss. Val. SiT
+400`  E`  688`  E`  RE fr Iss Val SiT SO
+400`  E`  688`  Q`  RE fr Iss Val SiT Pr
+400`  E`  688`  T`  RE fr Iss. Val. SiT
+400`  E`  68A`  `  TF to Iss. Val. IST
+400`  E`  68A`  `  TF to Iss. Val. IST
+400`  E`  68A`  `  TF to Iss. Val. IST
+400`  E`  68A`  E`  TF to IssVal IST SO
+400`  E`  68A`  Q`  TF to IssVal IST Prj
+400`  E`  68A`  T`  TF to Iss. Val. IST
+400`  E`  68B`  `  TFRet fr Iss.Val.IST
+400`  E`  68B`  `  TFRet fr Iss.Val.IST
+400`  E`  68B`  `  TFRet fr Iss.Val.IST
+400`  E`  68B`  E`  TFRet fr IssValISTSO
+400`  E`  68B`  Q`  TFRet fr IssValIST P
+400`  E`  68B`  T`  TFRet fr Iss.Val.IST
+400`  E`  68C`  `  TF to Rec. Val. IST
+400`  E`  68C`  `  TF to Rec Val IST SO
+400`  E`  68C`  `  TF to RecVal IST Prj
+400`  E`  68C`  E`  TF to Rec Val IST SO
+400`  E`  68C`  Q`  TF to RecVal IST Prj
+400`  E`  68D`  `  TFRet fr Rec Val IST
+400`  E`  68D`  `  TFR fr RecVal IST SO
+400`  E`  68D`  `  TFR fr RecValIST Prj
+400`  E`  68D`  E`  TFR fr RecVal IST SO
+400`  E`  68D`  Q`  TFR fr RecValIST Prj
+400`  E`  68E`  `  TF fr Iss. Val. IST
+400`  E`  68E`  E`  TF fr Iss.Val IST SO
+400`  E`  68E`  Q`  TF fr Iss.Val.IST Pr
+400`  E`  68E`  T`  TF fr Iss. Val. IST
+400`  E`  68F`  `  TFRet to Iss.Val IST
+400`  E`  68F`  E`  TFRet toIssValIST SO
+400`  E`  68F`  Q`  TFRet to IssValIST P
+400`  E`  68F`  T`  TFRet to Iss.Val IST
+400`  E`  68I`  `  TF fr Iss. Val. IST
+400`  E`  68I`  E`  TF fr Iss.Val IST SO
+400`  E`  68I`  Q`  TF fr Iss.Val.IST Pr
+400`  E`  68I`  T`  TF fr Iss. Val. IST
+400`  E`  68J`  `  TFRet to Iss.Val IST
+400`  E`  68J`  E`  TFRet toIssValIST SO
+400`  E`  68J`  Q`  TFRet to IssValIST P
+400`  E`  68J`  T`  TFRet to Iss.Val IST
+400`  E`  691`  `  TFRet fr.Iss.Val.CST
+400`  E`  691`  E`  TFRet f IssValCST SO
+400`  E`  691`  Q`  TFRet f IssValCST Pr
+400`  E`  691`  T`  TFRet fr.Iss.Val.CST
+400`  E`  692`  `  TF to Iss. Val. CST
+400`  E`  692`  E`  TF to Iss.Val.CST SO
+400`  E`  692`  Q`  TF to IssVal CST Prj
+400`  E`  692`  T`  TF to Iss. Val. CST
+400`  E`  693`  `  TFRet.fr Iss.Val CST
+400`  E`  693`  E`  TFRet from RecCST SO
+400`  E`  693`  Q`  TFRet f RecValCST Pr
+400`  E`  694`  `  TF to Rec. Val. CST
+400`  E`  694`  E`  TF to Rec.Val.CST SO
+400`  E`  694`  Q`  TF to RecVal. CST Pr
+400`  E`  695`  T`  TFRet to Iss Val.CST
+400`  E`  696`  T`  TF fr Iss. Val. CST
+400`  E`  69A`  `  TFRet fr Iss.Val.IST
+400`  E`  69A`  E`  TFRet fr IssValISTSO
+400`  E`  69A`  Q`  TFRet fr IssValIST P
+400`  E`  69A`  T`  TFRet fr Iss.Val.IST
+400`  E`  69B`  `  TF to Iss. Val. IST
+400`  E`  69B`  E`  TF to IssVal IST SO
+400`  E`  69B`  Q`  TF to IssVal IST Prj
+400`  E`  69B`  T`  TF to Iss. Val. IST
+400`  E`  69C`  `  TFRet fr Rec Val IST
+400`  E`  69C`  E`  TFR fr RecVal IST SO
+400`  E`  69C`  Q`  TFR fr RecValIST Prj
+400`  E`  69D`  `  TF to Rec. Val. IST
+400`  E`  69D`  E`  TF to Rec Val IST SO
+400`  E`  69D`  Q`  TF to RecVal IST Prj
+400`  E`  69E`  `  TFRet to Iss.Val IST
+400`  E`  69E`  T`  TFRet to Iss.Val IST
+400`  E`  69F`  `  TF fr Iss. Val. IST
+400`  E`  69F`  T`  TF fr Iss. Val. IST
+400`  E`  69I`  `  TFRet to Iss.Val IST
+400`  E`  69I`  T`  TFRet to Iss.Val IST
+400`  E`  69J`  `  TF fr Iss. Val. IST
+400`  E`  69J`  T`  TF fr Iss. Val. IST
+400`  E`  6A1`  `  TF GI1
+400`  E`  6A1`  `  TF GI1
+400`  E`  6A1`  `  TF GI1
+400`  E`  6A1`  `  TF GI1
+400`  E`  6A1`  E`  TF GI1 sales order
+400`  E`  6A1`  E`  TF GI1 sales order
+400`  E`  6A1`  E`  TF GI1 sales order
+400`  E`  6A1`  Q`  TF GI1 project
+400`  E`  6A1`  Q`  TF GI1 project
+400`  E`  6A2`  `  TR GI1
+400`  E`  6A2`  `  TR GI1
+400`  E`  6A2`  `  TR GI1
+400`  E`  6A2`  `  TR GI1
+400`  E`  6A2`  E`  TR GI1 sales order
+400`  E`  6A2`  E`  TR GI1 sales order
+400`  E`  6A2`  E`  TR GI1 sales order
+400`  E`  6A2`  Q`  TR GI1 project
+400`  E`  6A2`  Q`  TR GI1 project
+400`  E`  6A3`  `  TF CC GI1
+400`  E`  6A3`  `  TF CC GI1
+400`  E`  6A3`  `  TF CC GI1
+400`  E`  6A3`  `  TF CC GI1
+400`  E`  6A3`  E`  TF CC GI1 sls ordr
+400`  E`  6A3`  E`  TF CC GI1 sls ordr
+400`  E`  6A3`  E`  TF CC GI1 sls ordr
+400`  E`  6A3`  E`  TF CC GI1 sls ordr
+400`  E`  6A4`  `  TR CC GI1
+400`  E`  6A4`  `  TR CC GI1
+400`  E`  6A4`  `  TR CC GI1
+400`  E`  6A4`  `  TR CC GI1
+400`  E`  6A4`  E`  TR CC GI1 sls ordr
+400`  E`  6A4`  E`  TR CC GI1 sls ordr
+400`  E`  6A4`  E`  TR CC GI1 sls ordr
+400`  E`  6A4`  E`  TR CC GI1 sls ordr
+400`  E`  6A5`  `  TF CC GI1
+400`  E`  6A5`  `  TF CC GI1
+400`  E`  6A5`  `  TF CC GI1
+400`  E`  6A5`  E`  TF CC GI1 sls ordr
+400`  E`  6A5`  E`  TF CC GI1 sls ordr
+400`  E`  6A5`  E`  TF CC GI1 sls ordr
+400`  E`  6A6`  `  TR CC GI1
+400`  E`  6A6`  `  TR CC GI1
+400`  E`  6A6`  `  TR CC GI1
+400`  E`  6A6`  E`  TR CC GI1 sls ordr
+400`  E`  6A6`  E`  TR CC GI1 sls ordr
+400`  E`  6A6`  E`  TR CC GI1 sls ordr
+400`  E`  6A7`  `  TF GI1
+400`  E`  6A7`  `  TF GI1
+400`  E`  6A7`  `  TF GI1
+400`  E`  6A7`  `  TF GI1
+400`  E`  6A7`  E`  TF GI1 sales order
+400`  E`  6A7`  E`  TF GI1 sales order
+400`  E`  6A7`  E`  TF GI1 sales order
+400`  E`  6A7`  Q`  TF GI1 project
+400`  E`  6A7`  Q`  TF GI1 project
+400`  E`  6A8`  `  TR GI1
+400`  E`  6A8`  `  TR GI1
+400`  E`  6A8`  `  TR GI1
+400`  E`  6A8`  `  TR GI1
+400`  E`  6A8`  E`  TR GI1 sales order
+400`  E`  6A8`  E`  TR GI1 sales order
+400`  E`  6A8`  E`  TR GI1 sales order
+400`  E`  6A8`  Q`  TR GI1 project
+400`  E`  6A8`  Q`  TR GI1 project
+400`  E`  6AA`  `  TR GI1
+400`  E`  6AA`  `  TR GI1
+400`  E`  6AA`  `  TR GI1
+400`  E`  6AA`  `  TR GI1
+400`  E`  6AA`  E`  TR GI1 sales order
+400`  E`  6AA`  E`  TR GI1 sales order
+400`  E`  6AA`  E`  TR GI1 sales order
+400`  E`  6AA`  Q`  TR GI1 project
+400`  E`  6AA`  Q`  TR GI1 project
+400`  E`  6AB`  `  TF GI1
+400`  E`  6AB`  `  TF GI1
+400`  E`  6AB`  `  TF GI1
+400`  E`  6AB`  `  TF GI1
+400`  E`  6AB`  E`  TF GI1 sales order
+400`  E`  6AB`  E`  TF GI1 sales order
+400`  E`  6AB`  E`  TF GI1 sales order
+400`  E`  6AB`  Q`  TF GI1 project
+400`  E`  6AB`  Q`  TF GI1 project
+400`  E`  6AC`  `  TR CC GI1
+400`  E`  6AC`  `  TR CC GI1
+400`  E`  6AC`  `  TR CC GI1
+400`  E`  6AC`  `  TR CC GI1
+400`  E`  6AC`  E`  TR CC GI1 sls ordr
+400`  E`  6AC`  E`  TR CC GI1 sls ordr
+400`  E`  6AC`  E`  TR CC GI1 sls ordr
+400`  E`  6AC`  E`  TR CC GI1 sls ordr
+400`  E`  6AD`  `  TF CC GI1
+400`  E`  6AD`  `  TF CC GI1
+400`  E`  6AD`  `  TF CC GI1
+400`  E`  6AD`  `  TF CC GI1
+400`  E`  6AD`  E`  TF CC GI1 sls ordr
+400`  E`  6AD`  E`  TF CC GI1 sls ordr
+400`  E`  6AD`  E`  TF CC GI1 sls ordr
+400`  E`  6AD`  E`  TF CC GI1 sls ordr
+400`  E`  6AE`  `  TR GI1
+400`  E`  6AE`  `  TR GI1
+400`  E`  6AE`  `  TR GI1
+400`  E`  6AE`  `  TR GI1
+400`  E`  6AE`  E`  TR GI1 sales order
+400`  E`  6AE`  E`  TR GI1 sales order
+400`  E`  6AE`  E`  TR GI1 sales order
+400`  E`  6AE`  Q`  TR GI1 project
+400`  E`  6AE`  Q`  TR GI1 project
+400`  E`  6AF`  `  TF GI1
+400`  E`  6AF`  `  TF GI1
+400`  E`  6AF`  `  TF GI1
+400`  E`  6AF`  `  TF GI1
+400`  E`  6AF`  E`  TF GI1 sales order
+400`  E`  6AF`  E`  TF GI1 sales order
+400`  E`  6AF`  E`  TF GI1 sales order
+400`  E`  6AF`  Q`  TF GI1 project
+400`  E`  6AF`  Q`  TF GI1 project
+400`  E`  6AG`  `  TR CC GI1
+400`  E`  6AG`  `  TR CC GI1
+400`  E`  6AG`  `  TR CC GI1
+400`  E`  6AG`  `  TR CC GI1
+400`  E`  6AG`  E`  TR CC GI1 sls ordr
+400`  E`  6AG`  E`  TR CC GI1 sls ordr
+400`  E`  6AG`  E`  TR CC GI1 sls ordr
+400`  E`  6AG`  E`  TR CC GI1 sls ordr
+400`  E`  6AH`  `  TF CC GI1
+400`  E`  6AH`  `  TF CC GI1
+400`  E`  6AH`  `  TF CC GI1
+400`  E`  6AH`  `  TF CC GI1
+400`  E`  6AH`  E`  TF CC GI1 sls ordr
+400`  E`  6AH`  E`  TF CC GI1 sls ordr
+400`  E`  6AH`  E`  TF CC GI1 sls ordr
+400`  E`  6AH`  E`  TF CC GI1 sls ordr
+400`  E`  6B1`  `  TF GI2
+400`  E`  6B1`  `  TF GI2
+400`  E`  6B1`  `  TF GI2
+400`  E`  6B1`  `  TF GI2
+400`  E`  6B1`  E`  TF GI2 sales order
+400`  E`  6B1`  E`  TF GI2 sales order
+400`  E`  6B1`  E`  TF GI2 sales order
+400`  E`  6B1`  Q`  TF GI2 project
+400`  E`  6B1`  Q`  TF GI2 project
+400`  E`  6B2`  `  TR GI2
+400`  E`  6B2`  `  TR GI2
+400`  E`  6B2`  `  TR GI2
+400`  E`  6B2`  `  TR GI2
+400`  E`  6B2`  E`  TR GI2 sales order
+400`  E`  6B2`  E`  TR GI2 sales order
+400`  E`  6B2`  E`  TR GI2 sales order
+400`  E`  6B2`  Q`  TR GI2 project
+400`  E`  6B2`  Q`  TR GI2 project
+400`  E`  6B3`  `  TF CC GI2
+400`  E`  6B3`  `  TF CC GI2
+400`  E`  6B3`  `  TF CC GI2
+400`  E`  6B3`  `  TF CC GI2
+400`  E`  6B3`  E`  TF CC GI2 sls ordr
+400`  E`  6B3`  E`  TF CC GI2 sls ordr
+400`  E`  6B3`  E`  TF CC GI2 sls ordr
+400`  E`  6B3`  E`  TF CC GI2 sls ordr
+400`  E`  6B4`  `  TR CC GI2
+400`  E`  6B4`  `  TR CC GI2
+400`  E`  6B4`  `  TR CC GI2
+400`  E`  6B4`  `  TR CC GI2
+400`  E`  6B4`  E`  TR CC GI2 sls ordr
+400`  E`  6B4`  E`  TR CC GI2 sls ordr
+400`  E`  6B4`  E`  TR CC GI2 sls ordr
+400`  E`  6B4`  E`  TR CC GI2 sls ordr
+400`  E`  6B5`  `  TF CC GI2
+400`  E`  6B5`  `  TF CC GI2
+400`  E`  6B5`  `  TF CC GI2
+400`  E`  6B5`  E`  TF CC GI2 sls ordr
+400`  E`  6B5`  E`  TF CC GI2 sls ordr
+400`  E`  6B5`  E`  TF CC GI2 sls ordr
+400`  E`  6B6`  `  TR CC GI2
+400`  E`  6B6`  `  TR CC GI2
+400`  E`  6B6`  `  TR CC GI2
+400`  E`  6B6`  E`  TR CC GI2 sls ordr
+400`  E`  6B6`  E`  TR CC GI2 sls ordr
+400`  E`  6B6`  E`  TR CC GI2 sls ordr
+400`  E`  6B7`  `  TF GI2
+400`  E`  6B7`  `  TF GI2
+400`  E`  6B7`  `  TF GI2
+400`  E`  6B7`  `  TF GI2
+400`  E`  6B7`  E`  TF GI2 sales order
+400`  E`  6B7`  E`  TF GI2 sales order
+400`  E`  6B7`  E`  TF GI2 sales order
+400`  E`  6B7`  Q`  TF GI2 project
+400`  E`  6B7`  Q`  TF GI2 project
+400`  E`  6B8`  `  TR GI2
+400`  E`  6B8`  `  TR GI2
+400`  E`  6B8`  `  TR GI2
+400`  E`  6B8`  `  TR GI2
+400`  E`  6B8`  E`  TR GI2 sales order
+400`  E`  6B8`  E`  TR GI2 sales order
+400`  E`  6B8`  E`  TR GI2 sales order
+400`  E`  6B8`  Q`  TR GI2 project
+400`  E`  6B8`  Q`  TR GI2 project
+400`  E`  6BA`  `  TR GI2
+400`  E`  6BA`  `  TR GI2
+400`  E`  6BA`  `  TR GI2
+400`  E`  6BA`  `  TR GI2
+400`  E`  6BA`  E`  TR GI2 sales order
+400`  E`  6BA`  E`  TR GI2 sales order
+400`  E`  6BA`  E`  TR GI2 sales order
+400`  E`  6BA`  Q`  TR GI2 project
+400`  E`  6BA`  Q`  TR GI2 project
+400`  E`  6BB`  `  TF GI2
+400`  E`  6BB`  `  TF GI2
+400`  E`  6BB`  `  TF GI2
+400`  E`  6BB`  `  TF GI2
+400`  E`  6BB`  E`  TF GI2 sales order
+400`  E`  6BB`  E`  TF GI2 sales order
+400`  E`  6BB`  E`  TF GI2 sales order
+400`  E`  6BB`  Q`  TF GI2 project
+400`  E`  6BB`  Q`  TF GI2 project
+400`  E`  6BC`  `  TR CC GI2
+400`  E`  6BC`  `  TR CC GI2
+400`  E`  6BC`  `  TR CC GI2
+400`  E`  6BC`  `  TR CC GI2
+400`  E`  6BC`  E`  TR CC GI2 sls ordr
+400`  E`  6BC`  E`  TR CC GI2 sls ordr
+400`  E`  6BC`  E`  TR CC GI2 sls ordr
+400`  E`  6BC`  E`  TR CC GI2 sls ordr
+400`  E`  6BD`  `  TF CC GI2
+400`  E`  6BD`  `  TF CC GI2
+400`  E`  6BD`  `  TF CC GI2
+400`  E`  6BD`  `  TF CC GI2
+400`  E`  6BD`  E`  TF CC GI2 sls ordr
+400`  E`  6BD`  E`  TF CC GI2 sls ordr
+400`  E`  6BD`  E`  TF CC GI2 sls ordr
+400`  E`  6BD`  E`  TF CC GI2 sls ordr
+400`  E`  6K5`  `  TF GI2 consi
+400`  E`  6K5`  `  TF GI2 consi
+400`  E`  6K5`  `  TF GI2 consi
+400`  E`  6K5`  `  TF GI2 consi
+400`  E`  6K5`  W`  TF GI2 consi
+400`  E`  6K5`  W`  TF GI2 consi
+400`  E`  6K5`  W`  TF GI2 consi
+400`  E`  6K5`  W`  TF GI2 consi
+400`  E`  6K6`  `  TR GI2 consi
+400`  E`  6K6`  `  TR GI2 consi
+400`  E`  6K6`  `  TR GI2 consi
+400`  E`  6K6`  `  TR GI2 consi
+400`  E`  6K6`  W`  TR GI2 consi
+400`  E`  6K6`  W`  TR GI2 consi
+400`  E`  6K6`  W`  TR GI2 consi
+400`  E`  6K6`  W`  TR GI2 consi
+400`  E`  6W5`  `  TF GI1 consi
+400`  E`  6W5`  `  TF GI1 consi
+400`  E`  6W5`  `  TF GI1 consi
+400`  E`  6W5`  `  TF GI1 consi
+400`  E`  6W5`  W`  TF GI1 consi
+400`  E`  6W5`  W`  TF GI1 consi
+400`  E`  6W5`  W`  TF GI1 consi
+400`  E`  6W5`  W`  TF GI1 consi
+400`  E`  6W6`  `  TR GI1 consi
+400`  E`  6W6`  `  TR GI1 consi
+400`  E`  6W6`  `  TR GI1 consi
+400`  E`  6W6`  `  TR GI1 consi
+400`  E`  6W6`  W`  TR GI1 consi
+400`  E`  6W6`  W`  TR GI1 consi
+400`  E`  6W6`  W`  TR GI1 consi
+400`  E`  6W6`  W`  TR GI1 consi
+400`  E`  701`  `  GR phys.inv.: whse
+400`  E`  701`  B`  GR Phys.Inv. Cst.Stk
+400`  E`  701`  C`  GR PhysInv.SC CStock
+400`  E`  701`  E`  GR phys.inv:sls.ord.
+400`  E`  701`  E`  GR phys.inv:sls.ord.
+400`  E`  701`  F`  GR PhysInv.SC SlsOrd
+400`  E`  701`  F`  GR PhysInv.SC SlsOrd
+400`  E`  701`  I`  GR Phys.Inv. SC RTP
+400`  E`  701`  J`  GR Phys.Inv.SC Consg
+400`  E`  701`  K`  GR phys.inv: consgmt
+400`  E`  701`  M`  GR phys.inv: RTP
+400`  E`  701`  O`  GR phys.inv:subcStck
+400`  E`  701`  Q`  GR phys.inv: project
+400`  E`  701`  Q`  GR phys.inv: project
+400`  E`  701`  R`  GR Phys.Inv. SC Proj
+400`  E`  701`  R`  GR Phys.Inv. SC Proj
+400`  E`  701`  V`  GR phyInv:custRePack
+400`  E`  701`  W`  GR phys.inv:custCons
+400`  E`  702`  `  GI phys.inv.: whse
+400`  E`  702`  B`  GI Phys.Inv. Cst.Stk
+400`  E`  702`  C`  GI Phys.Inv. SC CStk
+400`  E`  702`  E`  GI phys.inv.:sls.ord
+400`  E`  702`  E`  GI phys.inv.:sls.ord
+400`  E`  702`  F`  GI PhysInv.SC SlsOrd
+400`  E`  702`  F`  GI PhysInv.SC SlsOrd
+400`  E`  702`  I`  GI Phys.Inv. SC RTP
+400`  E`  702`  J`  GI PhysInv.SC Consig
+400`  E`  702`  K`  GI phys.inv:consg.st
+400`  E`  702`  M`  GI phys.inv: whseRTP
+400`  E`  702`  O`  GI phys.inv:subcStck
+400`  E`  702`  Q`  GI phys.inv: project
+400`  E`  702`  Q`  GI phys.inv: project
+400`  E`  702`  R`  GI Phys.Inv. SC Proj
+400`  E`  702`  R`  GI Phys.Inv. SC Proj
+400`  E`  702`  V`  GI phyInv:custRePack
+400`  E`  702`  W`  GI phys.inv:custCons
+400`  E`  703`  `  GR phys.inv: QI
+400`  E`  703`  B`  GR Phys.Inv. QI CStk
+400`  E`  703`  C`  GR PhyInv.QI SC CStk
+400`  E`  703`  E`  GR phys.inv:QI slsOr
+400`  E`  703`  E`  GR phys.inv:QI slsOr
+400`  E`  703`  F`  GR PInv. QI SC SlOrd
+400`  E`  703`  F`  GR PInv. QI SC SlOrd
+400`  E`  703`  I`  GR PhyInv. QI SC RTP
+400`  E`  703`  J`  GR PhyInv.QI SC Cons
+400`  E`  703`  K`  GR phys.inv:QI cons.
+400`  E`  703`  M`  GR phys.inv: QI RTP
+400`  E`  703`  O`  GR physInv:QI subcSt
+400`  E`  703`  Q`  GR phys.inv: QI proj
+400`  E`  703`  Q`  GR phys.inv: QI proj
+400`  E`  703`  R`  GR PhyInv.QI SC Proj
+400`  E`  703`  R`  GR PhyInv.QI SC Proj
+400`  E`  703`  V`  GR phyInv:QI cuRePck
+400`  E`  703`  W`  GR phyInv:QI cuConsg
+400`  E`  704`  `  GI phys.inv: QI
+400`  E`  704`  B`  GI Phy.Inv. QI CStk
+400`  E`  704`  C`  GI PhyInv.QI SC CStk
+400`  E`  704`  E`  GI phys.inv:QI slsOr
+400`  E`  704`  E`  GI phys.inv:QI slsOr
+400`  E`  704`  F`  GI PhyInv.QI SC SOrd
+400`  E`  704`  F`  GI PhyInv.QI SC SOrd
+400`  E`  704`  I`  GI PhyInv. QI SC RTP
+400`  E`  704`  J`  GI PhyInv.QI SC Cons
+400`  E`  704`  K`  GI phys.inv:QI consg
+400`  E`  704`  M`  GI phys.inv: QI RTP
+400`  E`  704`  O`  GI physInv:QI subcSt
+400`  E`  704`  Q`  GI phys.inv: QI proj
+400`  E`  704`  Q`  GI phys.inv: QI proj
+400`  E`  704`  R`  GI PhyInv.QI SC Proj
+400`  E`  704`  R`  GI PhyInv.QI SC Proj
+400`  E`  704`  V`  GI phyInv:QI cuRePck
+400`  E`  704`  W`  GI phyInv:QI cuConsg
+400`  E`  707`  `  GR phys.inv.:blocked
+400`  E`  707`  B`  GR PhyInv. blkd CStk
+400`  E`  707`  E`  GR phyInv:blkd slsOr
+400`  E`  707`  E`  GR phyInv:blkd slsOr
+400`  E`  707`  K`  GR phyInv:blkd cons.
+400`  E`  707`  M`  GR phys.inv: blk.RTP
+400`  E`  707`  Q`  GR phys.inv: bl.proj
+400`  E`  707`  Q`  GR phys.inv: bl.proj
+400`  E`  708`  `  GI phys.inv.:blocked
+400`  E`  708`  B`  GI PhyInv. blkd CStk
+400`  E`  708`  E`  GI phyInv:blkd slsOr
+400`  E`  708`  E`  GI phyInv:blkd slsOr
+400`  E`  708`  K`  GI phyInv:blkd cons.
+400`  E`  708`  M`  GI phys.inv: RTP
+400`  E`  708`  Q`  GI InvDiff: project
+400`  E`  708`  Q`  GI InvDiff: project
+400`  E`  711`  `  GI InvDiff.:whouse
+400`  E`  711`  B`  GI InvDiff.:wh/Cust
+400`  E`  711`  E`  GI InvDiff.:wh/slsOr
+400`  E`  711`  E`  GI InvDiff.:wh/slsOr
+400`  E`  711`  K`  GI InvDiff:whse/cons
+400`  E`  711`  M`  GI InvDiff: whse/RTP
+400`  E`  711`  Q`  GI InvDiff:whse/proj
+400`  E`  711`  Q`  GI InvDiff:whse/proj
+400`  E`  712`  `  GR InvDiff.:wrhouse
+400`  E`  712`  B`  GR InvDiff.:wh/Cust
+400`  E`  712`  E`  GR InvDiff.:wh/slsOr
+400`  E`  712`  E`  GR InvDiff.:wh/slsOr
+400`  E`  712`  K`  GR InvDiff:whse/cons
+400`  E`  712`  M`  GR InvDiff: whse/RTP
+400`  E`  712`  Q`  GR InvDiff:whse/proj
+400`  E`  712`  Q`  GR InvDiff:whse/proj
+400`  E`  713`  `  GI InvDiff: QI
+400`  E`  713`  E`  GI InvDiff.:QI/slsOr
+400`  E`  713`  E`  GI InvDiff.:QI/slsOr
+400`  E`  713`  K`  GI InvDiff: QI/cons.
+400`  E`  713`  M`  GI InvDiff: QI/RTP
+400`  E`  713`  Q`  GI InvDiff: QI/proj.
+400`  E`  713`  Q`  GI InvDiff: QI/proj.
+400`  E`  714`  `  GR InvDiff: QI
+400`  E`  714`  E`  GR InvDiff.:QI/slsOr
+400`  E`  714`  E`  GR InvDiff.:QI/slsOr
+400`  E`  714`  K`  GR InvDiff: QI/cons.
+400`  E`  714`  M`  GR InvDiff: QI/RTP
+400`  E`  714`  Q`  GR InvDiff: QI/proj.
+400`  E`  714`  Q`  GR InvDiff: QI/proj.
+400`  E`  715`  `  GI InvDiff.:returns
+400`  E`  716`  `  GR InvDiff.:returns
+400`  E`  717`  `  GI InvDiff.: blocked
+400`  E`  717`  B`  GI InvDiff:blk/cust
+400`  E`  717`  E`  GI InvDiff:blk/slsOr
+400`  E`  717`  E`  GI InvDiff:blk/slsOr
+400`  E`  717`  K`  GI InvDiff:blk/cons.
+400`  E`  717`  M`  GI InvDiff: blkd/RTP
+400`  E`  717`  Q`  GI InvDiff:blk/proj.
+400`  E`  717`  Q`  GI InvDiff:blk/proj.
+400`  E`  718`  `  GR InvDiff.: blocked
+400`  E`  718`  B`  GR InvDiff:blk/Cust
+400`  E`  718`  E`  GR InvDiff:blk/slsOr
+400`  E`  718`  E`  GR InvDiff:blk/slsOr
+400`  E`  718`  K`  GR InvDiff:blk/cons.
+400`  E`  718`  M`  GR InvDiff: blkd/RTP
+400`  E`  718`  Q`  GR InvDiff:blk/proj.
+400`  E`  718`  Q`  GR InvDiff:blk/proj.
+400`  E`  721`  `  SlsVal.rec.n.afftMgs
+400`  E`  722`  `  SlsVal.iss.n.afftMgs
+400`  E`  731`  `  SlsVal.rec. afftgMgs
+400`  E`  732`  `  SlsVal.iss. afftgMgs
+400`  E`  801`  `  GR Adv. Inv. + Tax
+400`  E`  802`  `  RGR Ad. Inv. + Tax
+400`  E`  803`  `  GR AI ICMS/IPI
+400`  E`  804`  `  RGR AI ICMS/IPI
+400`  E`  805`  `  GR Bl., AI w. Tax
+400`  E`  806`  `  RGR Bl., AI w. Tax
+400`  E`  811`  `  GR TP Dely w. Tax
+400`  E`  812`  `  RGR TP Dely w Tax
+400`  E`  815`  `  GR B TP Dely w. Tax
+400`  E`  816`  `  RGR B TP Dely w. Tax
+400`  E`  821`  `  GR Val. VS w. Tax
+400`  E`  822`  `  RGR Val. VS w. Tax
+400`  E`  825`  `  GR B Val. VS w. Tax
+400`  E`  826`  `  RGR B Val. VS w. Tax
+400`  E`  833`  `  Reval. Iss. w. Tax
+400`  E`  834`  `  R Reval. Iss. w Tax
+400`  E`  835`  `  Reval. Rec. w. Tax
+400`  E`  836`  `  R Reval. Rec. w Tax
+400`  E`  837`  `  Return with NF
+400`  E`  838`  `  Reversal 837
+400`  E`  841`  M`  GR RTP
+400`  E`  842`  M`  RGR RTP
+400`  E`  843`  `  GR RTP w. Tax
+400`  E`  844`  `  RGR RTP w. Tax
+400`  E`  861`  `  GR TF SD/MM
+400`  E`  862`  `  GI TF SD/MM
+400`  E`  863`  `  GI TF SD/MM Return
+400`  E`  864`  `  GR TF SD/MM Return
+400`  E`  888`  `  Receipt w/o PO
+400`  E`  888`  `  Receipt w/o PO
+400`  E`  888`  B`  Receipt in cust.stck
+400`  E`  888`  E`  Rcpt to sls or. stck
+400`  E`  888`  E`  Rcpt to sls or. stck
+400`  E`  888`  E`  Reduce Deficit
+400`  E`  888`  K`  Receipt to consigmnt
+400`  E`  888`  K`  Receipt to consigmnt
+400`  E`  888`  M`  Receipt to RTP
+400`  E`  888`  Q`  Receipt to project
+400`  E`  888`  Q`  Receipt to project
+400`  E`  888`  Q`  Receipt to project
+400`  E`  889`  `  RE receipt w/o PO
+400`  E`  889`  `  RE receipt w/o PO
+400`  E`  889`  B`  RE rcpt to cust.st
+400`  E`  889`  E`  RE rcpt to sls or.st
+400`  E`  889`  E`  RE rcpt to sls or.st
+400`  E`  889`  E`  Add Surplus
+400`  E`  889`  K`  RE receipt to consgt
+400`  E`  889`  K`  RE receipt to consgt
+400`  E`  889`  M`  RE receipt to RTP
+400`  E`  889`  Q`  RE receipt to proj.
+400`  E`  889`  Q`  RE receipt to proj.
+400`  E`  889`  Q`  RE receipt to proj.
+400`  E`  961`  `  GI for OH order
+400`  E`  961`  `  GI for OH order
+400`  E`  961`  E`  GI order frm sls or.
+400`  E`  961`  E`  GI order frm sls or.
+400`  E`  961`  E`  GI order frm sls or.
+400`  E`  961`  E`  GI order frm sls or.
+400`  E`  961`  E`  GI order frm sls or.
+400`  E`  961`  E`  GI order frm sls or.
+400`  E`  961`  K`  GI order from consgt
+400`  E`  961`  K`  GI order from consgt
+400`  E`  961`  P`  GI order fm pipeline
+400`  E`  961`  P`  GI order fm pipeline
+400`  E`  961`  Q`  GI order frm project
+400`  E`  961`  Q`  GI order frm project
+400`  E`  961`  Q`  GI order frm project
+400`  E`  961`  Q`  GI order frm project
+400`  E`  961`  W`  GI order fm cu.cons.
+400`  E`  961`  W`  GI order fm cu.cons.
+400`  E`  962`  `  RE for OH order
+400`  E`  962`  `  RE for OH order
+400`  E`  962`  E`  RE order frm sls or.
+400`  E`  962`  E`  RE order frm sls or.
+400`  E`  962`  E`  RE order frm sls or.
+400`  E`  962`  E`  RE order frm sls or.
+400`  E`  962`  E`  RE order frm sls or.
+400`  E`  962`  E`  RE order frm sls or.
+400`  E`  962`  K`  RE order from consgt
+400`  E`  962`  K`  RE order from consgt
+400`  E`  962`  P`  RE order fm pipeline
+400`  E`  962`  P`  RE order fm pipeline
+400`  E`  962`  Q`  RE order frm project
+400`  E`  962`  Q`  RE order frm project
+400`  E`  962`  Q`  RE order frm project
+400`  E`  962`  Q`  RE order frm project
+400`  E`  962`  W`  RE order fm cu.cons.
+400`  E`  962`  W`  RE order fm cu.cons.
+400`  E`  X01`  `  GI for cost center
+400`  E`  X01`  K`  GI cst cnt.fm consgt
+400`  E`  X01`  P`  GI pipel.for cst cnt
+400`  E`  X02`  `  RE for cost center
+400`  E`  X02`  K`  RE cst cnt.fm consgt
+400`  E`  X02`  P`  RE pipel.for cst cnt
+400`  E`  Z01`  `  GR goods receipt
+400`  E`  Z01`  `  GR for asset
+400`  E`  Z01`  `  GR for sales order
+400`  E`  Z01`  `  GR for sales ord.st.
+400`  E`  Z01`  `  GR for acct assgmnt
+400`  E`  Z01`  `  GR stock in transit
+400`  E`  Z01`  `  GR st.in trans:asset
+400`  E`  Z01`  `  GR st.in tr:ac.assg.
+400`  E`  Z01`  `  GR for order
+400`  E`  Z01`  `  GR for asset
+400`  E`  Z01`  `  GR for acct assgmnt
+400`  E`  Z01`  B`  GR for customer stk
+400`  E`  Z01`  B`  GR for customer stk
+400`  E`  Z01`  B`  GR STO for csmtr stk
+400`  E`  Z01`  B`  GR for customer stk
+400`  E`  Z01`  E`  GR for sales ord.st.
+400`  E`  Z01`  E`  GR for sales ord.st.
+400`  E`  Z01`  E`  GR for sales ord.st.
+400`  E`  Z01`  E`  GR for sales ord.st.
+400`  E`  Z01`  E`  GR STO for salesOrSt
+400`  E`  Z01`  E`  GR STO for salesOrSt
+400`  E`  Z01`  E`  GR STO for salesOrSt
+400`  E`  Z01`  E`  GR for sales ord.st.
+400`  E`  Z01`  E`  GR for sales ord.st.
+400`  E`  Z01`  E`  GR for sales ord.st.
+400`  E`  Z01`  K`  GR for consgt stock
+400`  E`  Z01`  K`  GR for consgt stock
+400`  E`  Z01`  K`  GR for consgt stock
+400`  E`  Z01`  M`  GR for pooled stock
+400`  E`  Z01`  M`  GR for pooled stock
+400`  E`  Z01`  O`  GR to SC supplier
+400`  E`  Z01`  O`  GR to SC supplier
+400`  E`  Z01`  O`  GR to SC vendor
+400`  E`  Z01`  O`  GR to SC vendor
+400`  E`  Z01`  Q`  GR for project stock
+400`  E`  Z01`  Q`  GR for project stock
+400`  E`  Z01`  Q`  GR for project stock
+400`  E`  Z01`  Q`  GR STO project stock
+400`  E`  Z01`  Q`  GR STO for project
+400`  E`  Z01`  Q`  GR for project stock
+400`  E`  Z01`  Q`  GR for project stock

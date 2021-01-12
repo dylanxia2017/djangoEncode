@@ -1,0 +1,2515 @@
+﻿IDOCTYP [C(00060)]`LANGUA [C(00002)]`DESCRP [C(00120)]
+/BA1/F4_FXV_CHANGE01`  E`  BAPI Interface: Change Exchange Rate Volatility
+/BA1/F4_FXV_CREATE01`  E`  BAPI Interface: Create Exchange Rate Volatility
+/BA1/F4_FXV_MODIFY01`  E`  BAPI for Creating or Changing Exchange Rate Volatility
+/BA1/F4_FX_CHANGE01`  E`  BAPI for Changing Market Data Exchange Rates
+/BA1/F4_FX_CREATE01`  E`  BAPI for Creating Market Data Exchange Rates
+/BA1/F4_FX_MODIFY01`  E`  BAPI for Creating or Changing Market Data Exchange Rates
+/BA1/F4_IRR_CHANGE01`  E`  BAPI for Changing Market Data - Interest Rates
+/BA1/F4_IRR_CREATE01`  E`  BAPI for Creating Market Data - Interest Rates
+/BA1/F4_IRR_MODIFY01`  E`  BAPI for Creating or Changing Market Data - Interest Rates
+/BA1/F4_IRS_CHANGE01`  E`  BAPI for Changing Market Data - Interest Rate Spreads
+/BA1/F4_IRS_CREATE01`  E`  BAPI for Creating Market Data - Interest Rate Spreads
+/BA1/F4_IRS_MODIFY01`  E`  BAPI for Creating or Changing Market Data - Interest Spreads
+/BA1/F4_IRV_CHANGE01`  E`  BAPI Interface: Change Interest Rate Volatility
+/BA1/F4_IRV_CREATE01`  E`  BAPI Interface: Create Interest Rate Volatility
+/BA1/F4_IRV_MODIFY01`  E`  Create or Change Market Data Volatility
+/BA1/F4_SEC_CHANGE01`  E`  BAPI for Changing Market Data - Securities
+/BA1/F4_SEC_CREATE01`  E`  BAPI for Creating Market Data - Securities
+/BA1/F4_SEC_MODIFY01`  E`  Creating or Changing Market Data Securities
+/BA1/F4_SEV_CHANGE01`  E`  BAPI Interface: Change Securities Volatility
+/BA1/F4_SEV_CREATE01`  E`  BAPI Interface: Create Securities Volatility
+/BA1/F4_SEV_MODIFY01`  E`  BAPI for Creating or Changing Securities Volatility
+/BEV1/NEMATMAS05`  E`  Material Master Including Beverage
+/CEM/EERPT01`  E`  Entitement IDoc
+/CWM/DELVRY03`  E`  CWM POD Delivery Interface
+/CWM/DELVRY07`  E`  Delivery interface CWM
+/CWM/WMTCID03`  E`  CWM: Confirm Transfer Order
+/CWM/WMTOID02`  E`  CWM: Send Pick HU
+/DSD/HH_CONTROL01`  E`  Control Data for Handheld Interface
+/DSD/HH_CONTROL02`  E`  Control Data for Handheld Interface "Enterprise"
+/DSD/HH_CREDITDATA01`  E`  DSD Credit Exposure / Credit Limit for Handheld
+/DSD/HH_CUSTMASTEXT01`  E`  DSD Customer Master Supplement for Handheld
+/DSD/HH_CUSTMASTEXT02`  E`  DSD Customer Master Supplement for Handheld
+/DSD/HH_DRIVERMAST02`  E`  DSD Driver Master for Handheld "Enterprise"
+/DSD/HH_MATMASTEXT01`  E`  DSD Material Master Supplement for Handheld
+/DSD/HH_OPENITEMS01`  E`  DSD Open Items and Credit Limit for Handheld
+/DSD/HH_PAYMMASTEXT01`  E`  DSD Payment Term Enhancements for Handheld
+/DSD/HH_ROUTE_ITINERARY01`  E`  Visit List for DSD Process
+/DSD/HH_ROUTE_ITINERARY02`  E`  Itinerary for DSD Process; Enterprise Version
+/DSD/HH_ROUTE_ITINERARY03`  E`  Itinerary for DSD Process (EhP3)
+/DSD/HH_TXTDRV01`  E`  Send Definitions of Driver Messages
+/DSD/HH_VEHICMAST02`  E`  DSD Vehicle Master for Handheld "Enterprise"
+/DSD/ROUTEACCOUNT_CCOCI001`  E`  RA: Create Check-In/Check-Out Data
+/DSD/ROUTEACCOUNT_CCOCI002`  E`  RA: Create Check-In/Check-Out Data
+/DSD/ROUTEACCOUNT_CCOCI003`  E`  RA: Create Check-In/Check-Out Data
+/DSD/ROUTEACCOUNT_CCTRDT001`  E`  RA: Transfer General Control Data
+/DSD/ROUTEACCOUNT_CCTRDT002`  E`  RA: Transfer General Control Data "Enterprise"
+/DSD/ROUTEACCOUNT_CCUSVI001`  E`  RA: Create Customer Visit Data
+/DSD/ROUTEACCOUNT_CCUSVI002`  E`  RA: Create Customer Visit Data
+/DSD/ROUTEACCOUNT_CCUSVI003`  E`  RA: Create Customer Visit Data
+/DSD/ROUTEACCOUNT_CDELFU001`  E`  RA: Create Delivery Execution Data
+/DSD/ROUTEACCOUNT_CDELFU002`  E`  RA: Create Delivery Execution Data
+/DSD/ROUTEACCOUNT_CDELFU003`  E`  RA: Create Delivery Execution Data
+/DSD/ROUTEACCOUNT_CENCAS001`  E`  RA: Create Payment Data
+/DSD/ROUTEACCOUNT_CENCAS002`  E`  RA: Create Payment Data
+/DSD/ROUTEACCOUNT_CENCAS003`  E`  RA: Create Payment Data
+/DSD/ROUTEACCOUNT_CINV001`  E`  RA: Create Invoices
+/DSD/ROUTEACCOUNT_CINV002`  E`  RA: Create Invoices
+/DSD/ROUTEACCOUNT_CINV003`  E`  RA: Create Invoices
+/DSD/ROUTEACCOUNT_CIVPRT001`  E`  RA: Confirmation of Invoice Printout Creation
+/DSD/ROUTEACCOUNT_CIVPRT002`  E`  RA: Confirmation of Create Invoice Printout
+/DSD/ROUTEACCOUNT_CIVPRT003`  E`  RA: Confirmation of Create Invoice Printout
+/DSD/ROUTEACCOUNT_CORDER001`  E`  RA: Create New Orders
+/DSD/ROUTEACCOUNT_CORDER002`  E`  RA: Create New Orders
+/DSD/ROUTEACCOUNT_CORDER003`  E`  RA: Create New Orders
+/DSD/ROUTEACCOUNT_CTDIST001`  E`  RA: Create Tour Distance Sheet
+/DSD/ROUTEACCOUNT_CTDIST002`  E`  RA: Create Tour Distance Sheet
+/DSD/ROUTEACCOUNT_CTTIME001`  E`  RA: Create Tour Time Sheet
+/DSD/ROUTEACCOUNT_CTTIME002`  E`  RA: Create Tour Time Sheet
+/DSD/ROUTEACCOUNT_CTTIME003`  E`  RA: Create Tour Time Sheet
+/DSD/VC_VL_CHANGEFROMDATA01`  E`  Change Visit List
+/DSD/VC_VL_CREATEFROMDATA01`  E`  Create Visit List
+/DSD/VC_VP_CHANGEFROMDATA01`  E`  Change Visit Plan
+/DSD/VC_VP_CREATEFROMDATA01`  E`  Create or Copy Visit Plan
+/INCMD/GROUP_DELETEMULTIPLE01`  E`  BAPI for Groups Delete
+/INCMD/GROUP_SAVE01`  E`  BAPI for INC Group Maintenance
+/ISDFPS/AD_MAINTAIN01`  E`  BAPI for Inbound Distribution of Organizational Addresses
+/ISDFPS/BOMEQU01`  E`  Equipment BOM
+/ISDFPS/BOMSTD01`  E`  Standard BOM
+/ISDFPS/BOMTPL01`  E`  Functional Location BOM
+/ISDFPS/CDOC_REPLICA01`  E`  Save Change Documents for a Logical System
+/ISDFPS/CHARGE_SAVER01`  E`  Replicate Batch
+/ISDFPS/CP01`  E`  Maintenance Module: CA (Change Authorization)
+/ISDFPS/CREMAS04`  E`  CREMAS04 with UPS
+/ISDFPS/CR_REPLICATE01`  E`  Distribute Batch
+/ISDFPS/CS_COMMANDEX01`  E`  Execution of Cross-System Command
+/ISDFPS/CS_COMMANDEX02`  E`  Execute Cross-System Command
+/ISDFPS/DANGEROUSGOOD02`  E`  Dangerous Goods: Save Replicated Instances
+/ISDFPS/DANGEROUSGOOD04`  E`  Dangerous Goods: Replicated Instances Save DANGEROUSGOOD04
+/ISDFPS/DEBMAS06`  E`  Customer with UPS
+/ISDFPS/DELVRY03`  E`  DFPS: DELVRY03 with UPSLINK
+/ISDFPS/DELVRY05`  E`  DFPS: Enhancement for Dynamic Routing - Obsolete
+/ISDFPS/DS01`  E`  Digital Signature
+/ISDFPS/EL01`  E`  Function Module for (EXPO_LIS)
+/ISDFPS/EM01`  E`  Maintenance Module: xEM Asset Master
+/ISDFPS/EM_CHKLST01`  E`  Transfer of UDF Data (Checklists)
+/ISDFPS/EP_NODE01`  E`  Maintain Equipment Package
+/ISDFPS/EQUITRP01`  E`  BAPI: LES Reorganization
+/ISDFPS/ET01`  E`  DFPS: Distribution of Equipment
+/ISDFPS/ET02`  E`  DFPS Distribution of Equipment (Incl. Site Equipment)
+/ISDFPS/ET03`  E`  DFPS Distribution of Equipment (Incl. Structure Gap)
+/ISDFPS/EVENT_CREATE01`  E`  Create Event
+/ISDFPS/FC01`  E`  Maintenance Module - Funds Centers
+/ISDFPS/FL01`  E`  DFPS: Distribution of Functional Locations
+/ISDFPS/FL02`  E`  DFPS: Distribution of Func. Location (incl. structure gap)
+/ISDFPS/FO01`  E`  Maintain Force Element
+/ISDFPS/FO02`  E`  Maintain Force Element
+/ISDFPS/FO03`  E`  Structure Element Maintenance Incl. V1 to V6
+/ISDFPS/FP01`  E`  BAPI: Maintain Funded Program
+/ISDFPS/FR01`  E`  Command and Support Relationships
+/ISDFPS/GOODSMVT_SAPCREATE01`  E`  DFPS: Goods Issue with UPSLINK - Obsolete
+/ISDFPS/GR01`  E`  Process Replicated Goods Receipt
+/ISDFPS/GR02`  E`  Process Replicated Goods Receipt with Dynamic Routing
+/ISDFPS/GS01`  E`  Hazardous Substance (MGEF)
+/ISDFPS/IB01`  E`  Broadcast by IBDU - Distribution
+/ISDFPS/INVOIC01`  E`  DFPS: Invoice/Billing Document
+/ISDFPS/KS01`  E`  Maintenance Module - Cost Centers
+/ISDFPS/LB01`  E`  Maintenance Module: Logbook Entry
+/ISDFPS/LES_COOPERATION01`  E`  Replication of IDocs Dependent on Cooperation
+/ISDFPS/LES_INFO01`  E`  Information for LES Reorganization
+/ISDFPS/LES_MOVE_EQU01`  E`  Transfer Loading Object
+/ISDFPS/LES_MOVE_REPLICA01`  E`  Replication of Storage Bins and Stock in LES
+/ISDFPS/LES_START_MOVE01`  E`  Start LES Reorganization
+/ISDFPS/MATMAS05`  E`  Master Material for DFPS
+/ISDFPS/MAT_DISPO`  E`  ISDFPS MRP Areas for Material
+/ISDFPS/MC_MCR101`  E`  Maintain Force Element
+/ISDFPS/MC_NODE01`  E`  BAPI: Maintain Material Container
+/ISDFPS/MC_NODE02`  E`  BAPI: Maintain Material Container incl. Relations
+/ISDFPS/MD01`  E`  Edit Measurement Document - UPS Distribution
+/ISDFPS/MDE01`  E`  MDE - Application-Specific Data
+/ISDFPS/MG01`  E`  Maintenance Module: Master Warranty
+/ISDFPS/MO_MOD01`  E`  Maintain MOD
+/ISDFPS/MO_MPR101`  E`  BAPI: Maintain MPOMPR
+/ISDFPS/MO_NODE01`  E`  Maintain MPO
+/ISDFPS/MO_NODE02`  E`  MPO Maintenance Including Relationships to MOD
+/ISDFPS/MP01`  E`  Maintenance Plans
+/ISDFPS/MP02`  E`  Maintenance Plans
+/ISDFPS/MPL01`  E`  ISDFPS: API for Distribution of Master Parts Lists
+/ISDFPS/MR01`  E`  Process Measuring Point - UPS Distribution
+/ISDFPS/MS01`  E`  Maintenance Strategies
+/ISDFPS/NO01`  E`  Process Notification - UPS Distribution
+/ISDFPS/NSN01`  E`  Maintain NATO Stock Number
+/ISDFPS/OREL01`  E`  BAPI for Command and Support Relationships
+/ISDFPS/OREL02`  E`  BAPI for Command and Support Relationships
+/ISDFPS/OREL_SYNC01`  E`  Synchronize Support Relationships
+/ISDFPS/PACKCOND01`  E`  Maintain Packing Conditions
+/ISDFPS/PACKVOR`  E`  ISDFPS: Packing Instructions
+/ISDFPS/PC01`  E`  Maintenance Module - Profit Centers
+/ISDFPS/PM01`  E`  Edit Approval
+/ISDFPS/PO01`  E`  Process Recipient Purchase Order
+/ISDFPS/PO02`  E`  Process Recipient Purchase Order
+/ISDFPS/PQ01`  E`  Inbound Processing PReq Synchronization
+/ISDFPS/PQ02`  E`  Inbound Processing PReq Synchronization
+/ISDFPS/PR01`  E`  ISDFPS: API for Distribution of Production Resources/Tools
+/ISDFPS/PS01`  E`  Maintenance Module - Project Definition + WBS Element
+/ISDFPS/REQ_MATNR01`  E`  Request Material Master
+/ISDFPS/RL01`  E`  DFPS: Distribution of Reference Locations
+/ISDFPS/RV01`  E`  Process Revision - UPS Distribution
+/ISDFPS/SET01`  E`  ISDFPS: API for Distribution of iPPE SETs
+/ISDFPS/SG01`  E`  ISDFPS: API for Distribution of Structure Gaps
+/ISDFPS/SL01`  E`  Synchr. Log. System (SynchronizeLogSys)
+/ISDFPS/T0101`  E`  Send ALE Test Data
+/ISDFPS/T0301`  E`  Send ALE Test Data
+/ISDFPS/T101`  E`  Maintain /ISDFPS/ALETEST1 Object
+/ISDFPS/T201`  E`  Send ALE Test Data
+/ISDFPS/T301`  E`  Generating T7 IDoc
+/ISDFPS/T401`  E`  Send ALE Test Data
+/ISDFPS/T501`  E`  Send ALE Test Data
+/ISDFPS/T601`  E`  Send ALE Test Data
+/ISDFPS/T701`  E`  Send ALE Test Data
+/ISDFPS/T801`  E`  Send ALE Test Data
+/ISDFPS/TC01`  E`  Edit Confirmation
+/ISDFPS/TL01`  E`  ISDFPS: API for Distribution of Task Lists
+/ISDFPS/VL01`  E`  BAPI: Maintain Relocation
+/ISDFPS/VMCH01`  E`  Assign Material Container (MC) to an HR Object
+/ISDFPS/VMCH02`  E`  Assign Material Container (MC) to an HR Object
+/ISDFPS/VMPH01`  E`  Assign Material Planning Object (MPO) to an HR Object
+/ISDFPS/VMPH02`  E`  Assign Material Planning Object (MPO) to an HR Object
+/ISDFPS/VP_NODE01`  E`  BAPI: Maintain Provisions Package (PPA)
+/ISDFPS/VS01`  E`  Maintain Relocation Steps
+/ISDFPS/V_SE_EPA01`  E`  Assign Equipment Package (EPA) to a Force Element (FE)
+/ISDFPS/V_SE_MC01`  E`  Assign Material Container (MC) to a Force Element (FE)
+/ISDFPS/V_SE_MC02`  E`  Assign Material Container (MC) to a Force Element (FE)
+/ISDFPS/V_SE_MPO01`  E`  Material Planning Object (V_SE_MPO)
+/ISDFPS/V_SE_MPO02`  E`  Material Planning Object (V_SE_MPO)
+/ISDFPS/V_SE_VPA01`  E`  Assign Provisions Package (PPA) to a Force Element (FE)
+/ISDFPS/WC01`  E`   /ISDFPS/  Distribution of Work Centers
+/ISDFPS/WO01`  E`  Process Maintenance Order - ALE Distribution
+/ISDFPS/WO02`  E`  Process Maintenance Order - ALE Distribution
+/ISDFPS/ZA01`  E`  DFPS: API for Distributing UPS Commands
+/ISDFPS/ZB01`  E`  DFPS: API for Distributing UPS Commands
+/ISDFPS/ZC01`  E`  DFPS: API for Distributing UPS Commands
+/ISIDEX/ISU_INVOIC_V20`  E`  ISU INVOIC Version 2.0
+/ISIDEX/ISU_MSCONS_V20`  E`  MSCONS 2.0c
+/ISIDEX/ISU_REMADV_V20`  E`  ISU REMADV Version 2.0
+/ISIDEX/ISU_UTILMD_V40`  E`  UTILMD (VDEW 4.0, D.04B)
+/MVA/INSCERT_MASSDELE01`  E`  Mass Deletion Ins. Cert. (InsCertMigration)
+/MVA/INSCERT_MASSMIGR01`  E`  Mass Transfer Ins. Cert. (InsCertMigration)
+/MVA/REGISTRATIONAT_MASSDELE01`  E`  Mass Deletion AT Reg. (RegistrationATMigr)
+/MVA/REGISTRATIONAT_MASSMIGR01`  E`  Mass Transfer AT Reg. (RegistrationATMigr)
+/MVA/REGISTRATIONDE_MASSDELE01`  E`  Mass Deletion DE Reg. (RegistrationDEMigr)
+/MVA/REGISTRATIONDE_MASSMIGR01`  E`  Mass Transfer DE Reg. (RegistrationDEMigr)
+/NFM/INVOIC02`  E`  INVOIC02 with NF Segment
+/NFM/MATMAS03`  E`  /NFM/: MATMAS03 + NF Segments
+/NFM/MATMAS05`  E`  MATMAS05 + NFM Segments
+/NFM/ORDERS05`  E`  ORDERS05 with NF Segment
+/PM0/CONTRACT_MASSDELETE01`  E`  Mass Deletion of Master Policy (Contract)
+/PM0/CONTRACT_MASSMIGRATION01`  E`  Mass Transfer of Master Policy (Contract)
+/PM0/CONTRACT_MASSMIGRATION02`  E`  Mass Transfer of Master Policy (Contract)
+/PM0/DISTRIBUTIONPLAN_MASSDE01`  E`  Mass Deletion - Distrib. Plan (Distribution Plan)
+/PM0/DISTRIBUTIONPLAN_MASSMI01`  E`  Mass Transfer - Distrib. Plan (Distribution Plan)
+/PM0/FUNDMIGRATION_MASSDELFD01`  E`  Mass Delete of Fund Data (Fund Migration)
+/PM0/FUNDMIGRATION_MASSDELFO01`  E`  Mass Deletion of Fund Order (Fund Migration)
+/PM0/FUNDMIGRATION_MASSDELFP01`  E`  Mass Deletion of Funds (Fund Migration)
+/PM0/FUNDMIGRATION_MASSDELFR01`  E`  Mass Deletion Fundsp (Fund Migration)
+/PM0/FUNDMIGRATION_MASSMIGRF01`  E`  Mass Deletion of FDat (Fund Migration)
+/PM0/FUNDMIGRATION_MASSMIGRF02`  E`  Mass Deltion FOrd (Fund Migration)
+/PM0/FUNDMIGRATION_MASSMIGRF03`  E`  Mass Deletion Fond (Fund Migration)
+/PM0/FUNDMIGRATION_MASSMIGRF04`  E`  Mass Deletion Pal (Fund Migration)
+/PM0/OBJECTMIGRATION_MASSDEL01`  E`  Mass Deletion of Object (Object Migration)
+/PM0/OBJECTMIGRATION_MASSMIG01`  E`  Mass Transfer of Object (Object Migration)
+/PM0/POLICYMIGRATION_MASSDEL01`  E`  Mass Deletion of In-Force Business (Policy Migration)
+/PM0/POLICYMIGRATION_MASSMIG01`  E`  FS-PM: Migration of In-Force Business (Policy Migration)
+/PM0/POLICYMIGRATION_MASSMIG02`  E`  FS-PM: Migration of In-Force Business (Policy Migration)
+/PM0/POLICYMIGRATION_MASSMIG04`  E`  FS-PM: Migration of In-Force Business (Policy Migration)
+/PM0/POLICYMIGRATION_MASSMIG05`  E`  FS-PM: Migration of In-Force Business (Policy Migration)
+/PM0/POLICYMIGRATION_MASSMIG06`  E`  FS-PM: Migration of In-Force Business (Policy Migration)
+/PM0/POLICYMIGRATION_MASSMIG07`  E`  FS-PM: Migration of In-Force Business (Policy Migration)
+/SAPAPO/PROACT01`  E`  Copy from PROACT01 in P45
+/SAPAPO/VERSION_GETLIST01`  E`  Issue BAPI Versions (Batches) for Given Products
+/SAPCEM/INVOIC`  E`  CEM Invoice/Billing Document
+/SAPMP/BMUMAS01`  E`  Replicate Object (ISMpBatchSpecMatUom)
+/SAPMP/BOMMAT04`  E`  IS-MP: Bill of Material
+/SAPMP/BOMMAT05`  E`  IS-MP: Bill of Material
+/SAPMP/LOIPRO01`  E`  Master Production Order Incl. Configuration
+/SAPMP/MATMAS05`  E`  IS-MP: Material Master MATMAS05 +Mill-, NF Segments
+/SAPMP/MATMAS05_01`  E`  Mill Products: Material Master MATMAS05, MP/NF Segment
+/SAPMP/MBGMCR01`  E`  Post Goods Movement (IS-MP Goods Movement)
+/SAPMP/MBGMCRCL_01`  E`  Post Goods Movement (IsMpGoodsmovementCla)
+/SAPMP/PPCC2PRETE01`  E`  Time Events (IS-MP Prod. Confirmation)
+/SAPMP/PPCC2PRETECLA_01`  E`  Time Events (IsMpPrOdConfClassif)
+/SAPMP/PPCC2PRETT01`  E`  Time Ticket Confirmations (IS-MP Prod. Confirmation)
+/SAPMP/PPCC2PRETTCLA_01`  E`  Confirmation Time Tickets (IsMpPrOdConfClassif)
+/SAPMP/ROUTING01`  E`  IS-MP: Create and Change Routing
+/SAPNEA/J_SC_DESADV01`  E`  IDoc type for Subcontracting management - Shipping
+/SCTM/ROUTES_SAVEREPLICA01`  E`  Route: SaveReplica
+/SCTM/ROUTE_SAVEREPMULTIPLE01`  E`  Route SaveReplica
+/SCTM/TMAPERAK1`  E`  Application Error and Acknowledgement Message
+/SCTM/TMCONTRL1`  E`  Control message
+/SCTM/TMIFTMBC1`  E`  Booking confirmation message
+/SCTM/TMIFTSTA1`  E`  Status report
+/SCTM/TMSHPOCB`  E`  Structure of shipmenz IDOC for Ocean Booking
+/SCTM/TRANS_COSTS_SAVEREPLICA`  E`  Transportation Costs Profile SaveReplica
+/SCTM/TSPP_SAVEREPMULTIPLE01`  E`  TSP Profile SaveReplica
+/SCTM/TSP_PROFILE_SAVEREPLICA`  E`  TSP Profile SaveReplica
+/SCTM/TZONE_SAVEREPMULTIPLE01`  E`  Zone SaveReplica
+/SCTM/ZONE_SAVEREPLICA01`  E`  SaveReplica Zone
+/SCWM/WMBIID01`  E`  Block Storage Bins
+/SCWM/WMCAID01`  E`  Cancellation/Cancellation Request Warehouse Order
+/SCWM/WMPHID01`  E`  Create and Send Pick-HUs
+/SCWM/WMRRID01`  E`  Complete Wave
+/SCWM/WMSUID01`  E`  Move Handling Unit
+/SCWM/WMTCID01`  E`  Confirm Warehouse Task
+/SCWM/WMTOID01`  E`  Create Warehouse Task
+/SPE/DELVRY03`  E`  Delivery interface SPE
+/STTPEC/DELVRY05`  E`  Advanced Track & Trace: Delivery Interface (enriched ASN )
+/STTPEC/MATMAS05`  E`  Advanced Track & Trace: Enriched Material Master
+100_01`  E`  Output
+682_01`  E`  Access sequence
+683_01`  E`  Pricing Procedure (only in 40c)
+684_01`  E`  Condition Exclusion Groups
+685_01`  E`  Condition type
+686A_01`  E`  Conditions: Exclusion indicator:
+ABCLAIM_CREATE01`  E`  AB-CWB: Create BAPI Complaint
+ABSEN1`  E`  Attendance/Absence in CC1
+ACCONF01`  E`  Confirmation of IDoc processing from the application
+ACCSTA01`  E`  IDoc for transmission of RP account statements
+ACC_ACT_ALLOC01`  E`  Accounting: Post activity allocation
+ACC_ACT_ALLOC02`  E`  Accounting: Post activity allocation
+ACC_ACT_ALLOC03`  E`  Accounting: Post Activity Allocation
+ACC_ACT_ALLOC04`  E`  Accounting: Post Activity Allocation
+ACC_ASSET_TRANSFER01`  E`  Accounting: Post Acquisition from Transfer
+ACC_ASSET_TRANS_ACQ_POST01`  E`  Accounting: Post Acquisition from Transfer
+ACC_BILLING01`  E`  Accounting: Post Billing Document (OAG: LOAD RECEIVABLE)
+ACC_BILLING02`  E`  Accounting: Post Billing Document (OAG: LOAD RECEIVABLE)
+ACC_BILLING_REVERSE01`  E`  Accounting: Post Billing Doc.Reversal (OAG: LOAD RECEIVABLE)
+ACC_DOCUMENT01`  E`  Accounting: Posting
+ACC_DOCUMENT02`  E`  Accounting: Posting
+ACC_DOCUMENT03`  E`  Accounting: Posting
+ACC_DOCUMENT04`  E`  Accounting: Posting
+ACC_DOCUMENT05`  E`  Accounting: Posting
+ACC_DOCUMENT_REVERSE01`  E`  Accounting: Post Reversal
+ACC_EMPLOYEE_EXP01`  E`  FI/CO: HR Posting GL(AcctngEmplyeeExpnses)
+ACC_EMPLOYEE_EXP02`  E`  FI/CO: HR posting GL(AcctngEmplyeeExpnses)
+ACC_EMPLOYEE_PAY01`  E`  FI/CO: HR Posting AP(AcctngEmplyeePaybles)
+ACC_EMPLOYEE_PAY02`  E`  FI/CO: HR posting AP(AcctngEmplyeePaybles)
+ACC_EMPLOYEE_REC01`  E`  FI/CO: HR Posting AR(AcctngEmplyeeRcvbles)
+ACC_EMPLOYEE_REC02`  E`  FI/CO: HR posting AR(AcctngEmplyeeRcvbles)
+ACC_GL_POSTING01`  E`  Accounting: General G/L Account Posting
+ACC_GL_POSTING_REVERSE01`  E`  Accounting: Post General G/L Posting Reversal
+ACC_GOODS_MOVEMENT01`  E`  Accounting: Post Goods Movement (OAG: POST JOURNAL)
+ACC_GOODS_MOVEMENT02`  E`  Accounting: Post Goods Movement (OAG: POST JOURNAL)
+ACC_GOODS_MOV_REVERSE01`  E`  Accounting: Post Goods Movement Reversal (Acctng Goods Mvt)
+ACC_INVOICE_PYMNTBLK01`  E`  Accounting: Change TS posting (AcctngInvoiceReceipt)
+ACC_INVOICE_RECEIPT01`  E`  Accounting: Post Invoice Receipt (OAG: LOAD PAYABLE)
+ACC_INVOICE_RECEIPT02`  E`  Accounting: Post Invoice Receipt (OAG: LOAD PAYABLE)
+ACC_INVOICE_RECEIPT03`  E`  Accounting: Post Invoice Receipt (OAG: LOAD PAYABLE)
+ACC_INVOICE_REVERSE01`  E`  Accounging: Post Invoice Reversal (Acctng Invoice Receipt)
+ACC_MAN_ALLOC01`  E`  Accounting: Post Manual Cost Allocation
+ACC_PRIM_COSTS01`  E`  Accounting: Post primary costs
+ACC_PRIM_COSTS02`  E`  Accounting: Post Primary Costs
+ACC_PURCHASE_ORDER01`  E`  Accounting: Post Purchase Order
+ACC_PURCHASE_REQUI01`  E`  Accounting: Post Purchase Requisition
+ACC_REVENUES01`  E`  Accounting: Post revenues
+ACC_REVENUES02`  E`  Accounting: Post Revenues
+ACC_SALES_ORDER01`  E`  Accounting: Post Sales Order
+ACC_SALES_QUOTA01`  E`  Accounting: Post Customer Quotation
+ACC_SENDER_ACTIVITIES01`  E`  Accounting: Post Sender Activities
+ACC_STAT_KEY_FIG01`  E`  Accounting: Post statistical key figures
+ACC_TRAVEL01`  E`  Accounting: Post trip
+ACLPAY01`  E`  Posting in Accounting: Incoming Invoice
+ACLREC01`  E`  Posting in accounting: Billing document
+ACPJOU01`  E`  Posting in Accounting from Materials Management
+ACTIV3`  E`  Units in KK3
+ACTIV4`  E`  Units in KK4
+ACTIVITYTYPEGROUP_ADDNODE01`  E`  Object BUS1115 (Activity Type Group) - Method AddNode
+ACTIVITYTYPEGROUP_CREATE01`  E`  Object BUS1115 (Activity Type Group) - Method Create
+ACTIVITYTYPE_CHANGE01`  E`  Change One or More Activity Types
+ACTIVITYTYPE_CREATE01`  E`  Create One or More Activity Types
+ADR2MAS01`  E`  BAPI for inbound distribution of private addresses
+ADR2MAS02`  E`  BAPI for inbound distribution of private addresses
+ADR2MAS03`  E`  BAPI for Inbound Distribution of Private Addresses
+ADR3MAS01`  E`  BAPI for inbound distribution of contact person addresses
+ADR3MAS02`  E`  BAPI for inbound distribution of contact person addresses
+ADR3MAS03`  E`  BAPI for Inbound Distribution of Contact Person Addresses
+ADRMAS01`  E`  BAPI for Inbound Distribution of Company Addresses
+ADRMAS02`  E`  BAPI for Inbound Distribution of Company Addresses
+ADRMAS03`  E`  BAPI for Inbound Distribution of Company Addresses
+AIDAR01`  E`  Auto ID Node Archiving
+AIDNR01`  E`  EPC Serial Number Range From/To AIN
+AIDOP01`  E`  Auto-ID Operational IDoc
+AIDOP02`  E`  AII Operational Idoc
+AIDRQ01`  E`  Auto-ID Request IDoc
+ALEAUD01`  E`  Confirmations of the processing status of inbound IDocs
+ALEREQ01`  E`  General request - Basis IDoc type
+AMAT0101`  E`  Adopt R/3 Material Data (second)
+ARTMAS01`  E`  Create and Change Material Master Data (Retail)
+ARTMAS02`  E`  Create and Change Material Master Data (Retail)
+ARTMAS03`  E`  Create and Change Material Master Data (Retail)
+ARTMAS04`  E`  Create and change material master data (retail)
+ARTMAS05`  E`  Create and change material master data (retail)
+ARTMAS06`  E`  Create and Change Material Master Data (Retail)
+ARTMAS07`  E`  Create and Change Material Master Data (Retail)
+ARTMAS08`  E`  Create and change material master data (retail)
+ARTMAS09`  E`  Create and Change Material Master Data (Retail)
+ASSETACQUISITION_POST01`  E`  Post Asset Acquisition
+ASSETACQUISITION_POST02`  E`  Post Asset Acquisition
+ASSETREVERSALDOC_POST01`  E`  Post Asset Document Reversal
+ASSET_DOWNPAYMENT_POST01`  E`  Assets: Post Down Payment
+ASSET_INVEST_SUPPORT01`  E`  Assets: Post Investment Support
+ASSET_POSTCAP_POST01`  E`  Post post-capitalization
+ASSET_POSTCAP_POST02`  E`  Post post-capitalization
+ASSET_RETIREMENT_POST01`  E`  Post asset retirement
+ASSET_REVALUATION_POST01`  E`  Assets: Post Revaluation
+ASSET_SUBCOSTREV_POST01`  E`  Assets: Post Subsequent Costs and Revenue
+ASSET_TRANSFER_POST01`  E`  Assets: Post Intracompany Transfer
+ASSET_VALUE_ADJUST_POST01`  E`  Assets: Post Depreciation
+ASSET_WRITEUP_POST01`  E`  Assets: Post Write-Up
+ASSMOD01`  E`  Assortment (manual modules)
+ASSORTMENT01`  E`  Maintenance of assortments
+ATT_ABS01`  E`  BAPI ext. Att./absence: Insert in IFT (w/o acct assgnmnt)
+ATT_ABS_WITH_ACTIVITY01`  E`  Ext. Att./absence (PTManagerExtAttAbs)
+ATT_ABS_WITH_COST01`  E`  BAPI ext. Att./absence: Insert in IFT (acct assgnmnt)
+BAMMAST01`  E`  BAM Master Replication
+BAMMAST02`  E`  BAM Master Replication
+BAMMAST03`  E`  BAM Master Replication
+BANK_CHANGE01`  E`  Change Bank
+BANK_CREATE01`  E`  Create Bank
+BANK_SAVEREPLICA01`  E`  Duplicate individual banks (ALE)
+BAPIPOHISTORYFROMDELIVERY01`  E`  Purchase Order, Delivery
+BATCH5`  E`  Batch in CC5
+BATMAS01`  E`  Replicate batch
+BATMAS02`  E`  Replicate Batch
+BATMAS03`  E`  Replicate batch
+BBPIV01`  E`  BBP Create Invoice
+BBP_IV_T01`  E`  EBP Create Invoice
+BENEFIT1`  E`  HR: Benefits
+BENEFIT2`  E`  HR: Benefits Participation
+BENEFIT3`  E`  HR: Benefits Participation
+BENEFITRET1`  E`  HR: Benefits Pension Schemes
+BETMAS01`  E`  Site master data distribution ALE
+BLAORD01`  E`  Purchasing contracts
+BLAORD02`  E`  Purchasing contracts
+BLAORD03`  E`  Purchasing contracts
+BLAREL01`  E`  Contract release order statistics
+BLAREL02`  E`  Contract release order statistics
+BMUMAS01`  E`  Replicate batch-specific material quantity units
+BOMDOC01`  E`  Master BOM - document
+BOMDOC02`  E`  Master BOM - document
+BOMDOC03`  E`  Master Bill of Material - Document with UPSLINK
+BOMDOC04`  E`  Master Bill of Material - Document with UPSLINK
+BOMDOC05`  E`  Master BOM - document
+BOMMAT01`  E`  Master BOM - material
+BOMMAT02`  E`  Master BOM - material (2)
+BOMMAT03`  E`  Material BOM (from 4.6B)
+BOMMAT04`  E`  Material BOM with UPS Link
+BOMMAT05`  E`  Material BOM with UPS Link
+BOMMAT06`  E`  Master BOM - material (2)
+BOMMAT07`  E`  Material BOM with UPS Link
+BOMORD01`  E`  Master BOM - sales order
+BOMORD02`  E`  Master BOM - sales order
+BOMORD03`  E`  Master BOM - sales order
+BPRELGENSHAREHOLD_CHANGE01`  E`  Change Business Partner Relationship with Shareholding Data
+BPRELGENSHAREHOLD_CREATE01`  E`  Create Business Partner Relationship with Shareholding Data
+BPRELGENSHAREHOLD_DELETE01`  E`  Delete Business Partner Relationship with Shareholding Data
+BPR_FNDCTL_CTRLREGISTERIMPOR01`  E`  Import Control Register
+BPR_INCIDENT_EHSMINCIMPORT01`  E`  BAPI: EHSM (or third party) to EHSM Incident Import
+BPR_INCIDENT_EHSMINCLINKIIMP01`  E`  BAPI: EHSM (or third party) to EHSM Link Incident Import
+BPR_INCIDENT_IMPORT01`  E`  BAPI: EH&S to EHSM Incident Import
+BPR_INCIDENT_IM_IMPORT01`  E`  BAPI: Incident Impor(BPR_INCIDENT)
+BPR_INCIDENT_ROOTCAUSEIMPORT01`  E`  Root Cause hierarchy Import BAPI
+BPR_LOCATION_HRCHY_IMPORT01`  E`  BAPI Location Structure
+BPR_LOCATION_OBJECT_IMPORTLO01`  E`  BAPI: EHSM (or Third Party ) to EHSM Location Import
+BPR_LOCATION_OBJECT_IMPORTLO02`  E`  BAPI: EHSM (or Third Party ) to EHSM Location Import
+BTC_ID01`  E`  Process order with components
+BTC_ID02`  E`  Production requirement from superior system
+BTC_ID03`  E`  Production commitment to superior system
+BUPAFS_FS_CREATE_FRM_DATA01`  E`  SAP BP, BAPI: Create Business Partner
+BUPAFS_FS_CREATE_FRM_DATA201`  E`  Create Business Partner
+BUPA_C_ADDADDRESS01`  E`  SAP BP, BAPI: Add Address
+BUPA_C_ADDIDENTIFICATION01`  E`  SAP BP, BAPI: Add Identification Number
+BUPA_C_ADDSTATUS01`  E`  Business Partner: Add Status
+BUPA_C_BANKDETAIL_ADD01`  E`  SAP BP, BAPI: Add Bank Details
+BUPA_C_BANKDETAIL_CH01`  E`  SAP BP, BAPI: Change Bank Details
+BUPA_C_BANKDETAIL_REMOVE01`  E`  SAP BP, BAPI: Delete Bank Details
+BUPA_C_CHANGEADDRESS01`  E`  SAP BP, BAPI: Change Address
+BUPA_C_IDENTADD01`  E`  SAP BP, BAPI: Add Identification Number
+BUPA_C_IDENT_REMOVE01`  E`  SAP BP, BAPI: Delete Identification Numbers
+BUPA_C_INDUSTRYSADD01`  E`  SAP BP, BAPI: Add Industries
+BUPA_C_INDUSTRYS_REMOVE01`  E`  SAP BP, BAPI: Delete Industry Data
+BUPA_C_PASSWORD_CH01`  E`  Change Password of Business Partner Internet Users
+BUPA_C_PASSWORD_CR01`  E`  Create B2C Internet User for Business Partner
+BUPA_C_PASSWORD_DELETE01`  E`  Delete a Business Partner Internet User
+BUPA_C_PASSWORD_INIT01`  E`  Initialize Password for Business Partner Internet User
+BUPA_C_REMOVEADDRESS01`  E`  SAP BP, BAPI: Delete Address
+BUPA_C_ROLEADD01`  E`  SAP BP, BAPI: Add Role
+BUPA_C_STATUS_REMOVE01`  E`  Business Partner: Delete Status
+BUPA_C_TAXNUMBERADD01`  E`  BAPI Add Tax Number
+BUPA_C_TAXNUM_CHANGE01`  E`  Change Tax Number
+BUPA_C_TAXNUM_REMOVE01`  E`  Delete Tax Number
+BUPA_FS_ADDADDITIONALDATA01`  E`  Add Additional Data for a Business Partner
+BUPA_FS_ADDADDRESS01`  E`  Create Address (Business Partner FS)
+BUPA_FS_ADDADDRUSAGETIMEDEP01`  E`  Create FS API Address with Time-Dependent Usages
+BUPA_FS_ADDADRESSUSAGE01`  E`  Create Address Usages
+BUPA_FS_ADDBANK01`  E`  BAPI for Adding Bank Attributes
+BUPA_FS_ADDCUSTOMFIELDS01`  E`  Create Business Partner Employment Data
+BUPA_FS_ADDDIFFTYPE01`  E`  Create Differentiation Type-Dependent Attributes
+BUPA_FS_ADDEMPLOYM01`  E`  ADD Bapi for Business Partner Employment Data
+BUPA_FS_ADDEXTERNID01`  E`  Create an External Identification Number
+BUPA_FS_ADDFISCYEAR01`  E`  BAPI: Create Fiscal Year Information
+BUPA_FS_ADDFISCYEAR201`  E`  Create Fiscal Year Information
+BUPA_FS_ADDRATING01`  E`  Business Partner: Ratings
+BUPA_FS_ADDREPORTING01`  E`  Create Regulatory Reporting Data for a Business Partner
+BUPA_FS_ADDTREASURY01`  E`  Bapi to Create FS BuPa Attributes
+BUPA_FS_BANK_REMOVE01`  E`  REMOVE BAPI for Bank Data
+BUPA_FS_CHANGEADDITIONALDATA01`  E`  Change Additional Data for a Business Partner
+BUPA_FS_CHANGEADRESSUSAGE01`  E`  Change Address Usages
+BUPA_FS_CHANGEBANK01`  E`  Change in Bank Relationships
+BUPA_FS_CHANGECUSTOMFIELDS01`  E`  Change Business Partner Employment Data
+BUPA_FS_CHANGEDIFFTYPE01`  E`  Change Differentiation Type-Dependent Attributes
+BUPA_FS_CHANGEEMPLOYM01`  E`  CHANGE Bapi for Business Partner Employment Data
+BUPA_FS_CHANGEFISCYEAR01`  E`  BAPI: Change Fiscal Year Information
+BUPA_FS_CHANGEFISCYEAR201`  E`  Change Fiscal Year Information
+BUPA_FS_CHANGERATING01`  E`  Business Partner: Change Ratings
+BUPA_FS_CHANGEREPORTING01`  E`  Change Regulatory Reporting Data for a Business Partner
+BUPA_FS_CHANGETREASURY01`  E`  Change Business Partner Attribute (BusinessPartnerFS)
+BUPA_FS_CHGADDRESS01`  E`  Change Address (Business Partner FS)
+BUPA_FS_CHGADDRUSAGETIMEDEP01`  E`  Change Address with Time-Dependent Usages
+BUPA_FS_REMADDRESS01`  E`  Delete Address (Business Partner FS)
+BUPA_FS_REMADDRUSAGETIMEDEP01`  E`  Delete Address with Time-Dependent Usages
+BUPA_FS_REMOVEADDITIONALDATA01`  E`  Delete Additional Data for a Business Partner
+BUPA_FS_REMOVEADRESSUSAGE01`  E`  Delete Address Usages
+BUPA_FS_REMOVECUSTOMFIELDS01`  E`  Delete Business Partner Employment Data
+BUPA_FS_REMOVEDIFFTYPE01`  E`  Delete Differentiation Type-Dependent Attributes
+BUPA_FS_REMOVEEMPLOYM01`  E`  CHANGE Bapi for Business Partner Employment Data
+BUPA_FS_REMOVEEXTERNID01`  E`  Delete an External Identification Number
+BUPA_FS_REMOVEFISCYEAR01`  E`  BAPI: Delete Fiscal Year Information
+BUPA_FS_REMOVEFISCYEAR201`  E`  Delete Fiscal Year Information
+BUPA_FS_REMOVERATING01`  E`  Business Partner: Delete Ratings
+BUPA_FS_REMOVEREPORTING01`  E`  Delete Regulatory Reporting Data for a Business Partner
+BUPA_FS_REMOVETREASURY01`  E`  Delete Business Partner Attribute (BusinessPartnerFS)
+BUPA_HIERARCHY_INBOUND_SAVE_01`  E`  IDoc Structure for Data Type BUHIS_EXTERN
+BUPA_INBOUND_MAIN_SAVE_M01`  E`  IDoc Structure for Data Type BUS_EI_EXTERN
+BUPA_INBOUND_MAIN_SAVE_M02`  E`  IDoc Structure for Data Type BUS_EI_EXTERN
+BUPA_INBOUND_MAIN_SAVE_M03`  E`  IDoc Structure for Data Type BUS_EI_EXTERN
+BUPA_INBOUND_MAIN_SAVE_M08`  E`  IDoc Structure for Data Type BUS_EI_EXTERN
+BUPA_INBOUND_MAIN_SAVE_M09`  E`  IDoc Structure for Data Type BUS_EI_EXTERN
+BUPA_INBOUND_REL_SAVE_M01`  E`  IDoc Structure for Data Type BURS_EI_EXTERN
+BUPA_INBOUND_REL_SAVE_M02`  E`  IDoc Structure for Data Type BURS_EI_EXTERN
+BUS1151_CHANGE01`  E`  Change Architectural Object
+BUS1151_CHANGE02`  E`  Change Architectural Object
+BUS1151_CHANGE03`  E`  Change Architectural Object
+BUS1151_CREATE01`  E`  Create Architectural Object
+BUS1151_CREATE02`  E`  Create Architectural Object
+BUS1151_CREATE03`  E`  Create Architectural Object
+BUS1151_GETDETAIL01`  E`  Return Architectural Object Data
+BUS1151_GETDETAIL02`  E`  Return Architectural Object Data
+BUS1151_GETDETAIL03`  E`  Return Architectural Object Data
+BUS1151_GETLIST01`  E`  Return Data of Multiple Architectural Objects
+BUS1151_GETLIST02`  E`  Return Data of Multiple Architectural Objects
+BUS1151_GETLIST03`  E`  Return Data of Multiple Architectural Objects
+BUS1501_CHANGE01`  E`  Change Business Entity
+BUS1501_CHANGE02`  E`  Change Business Entity
+BUS1501_CREATE01`  E`  Create Business Entity
+BUS1501_CREATE02`  E`  Create Business Entity
+BUS1501_GETDETAIL01`  E`  Return Business Entity Data
+BUS1501_GETDETAIL02`  E`  Return Business Entity Data
+BUS1501_GETLIST01`  E`  Return Data of Multiple Business Entities
+BUS1501_GETLIST02`  E`  Return Data of Multiple Business Entities
+BUS1502_CHANGE01`  E`  Change Property
+BUS1502_CHANGE02`  E`  Change Land
+BUS1502_CHANGE03`  E`  Change Land
+BUS1502_CREATE01`  E`  Create property
+BUS1502_CREATE02`  E`  Create Land
+BUS1502_CREATE03`  E`  Create Land
+BUS1502_GETDETAIL01`  E`  Return Land Data
+BUS1502_GETDETAIL02`  E`  Return Land Data
+BUS1502_GETDETAIL03`  E`  Return Land Data
+BUS1502_GETLIST01`  E`  Return Data of Multiple Properties
+BUS1502_GETLIST02`  E`  Return Data of Multiple Pieces of Land
+BUS1502_GETLIST03`  E`  Return Data of Multiple Pieces of Land
+BUS1503_CHANGE01`  E`  Change Building
+BUS1503_CHANGE02`  E`  Change Building
+BUS1503_CREATE01`  E`  Create building
+BUS1503_CREATE02`  E`  Create Building
+BUS1503_GETDETAIL01`  E`  Return Building Data
+BUS1503_GETDETAIL02`  E`  Return Building Data
+BUS1503_GETLIST01`  E`  Return Data of Multiple Buildings
+BUS1503_GETLIST02`  E`  Return Data of Multiple Buildings
+BUS1504_ADVPAYEXTCHANGE01`  E`  AP - Change Legacy Data Transfer (Rental Object)
+BUS1504_ADVPAYEXTCREATE01`  E`  AP - Create Legacy Data Transfer (Rental Object)
+BUS1504_ADVPAYEXTGETLIST01`  E`  AP - Return Legacy Data Transfer (Rental Object)
+BUS1504_CHANGE01`  E`  Change Rental Object
+BUS1504_CHANGE02`  E`  Change Rental Object
+BUS1504_CREATE01`  E`  Create Rental Object
+BUS1504_CREATE02`  E`  Create Rental Object
+BUS1504_GETDETAIL01`  E`  Return Rental Object Data
+BUS1504_GETDETAIL02`  E`  Return Rental Object Data
+BUS1504_GETLIST01`  E`  Return Data of Multiple Rental Objects
+BUS1504_GETLIST02`  E`  Return Data of Multiple Rental Objects
+BUS1505_ADVPAYEXTCHANGE01`  E`  Change AP Legacy Data Transfer (Real Estate Contract)
+BUS1505_ADVPAYEXTCREATE01`  E`  Enter AP Legacy Data Transfer (Real Estate Contract)
+BUS1505_ADVPAYEXTGETLIST01`  E`  Return AP Legacy Data Transfer (Real Estate Contract)
+BUS1505_CHANGE01`  E`  Change Real Estate Contract
+BUS1505_CHANGE02`  E`  Change Real Estate Contract
+BUS1505_CHANGE03`  E`  Change Real Estate Contract
+BUS1505_CHANGE04`  E`  Change Real Estate Contract
+BUS1505_CREATE01`  E`  Create Real Estate Contract
+BUS1505_CREATE02`  E`  Create Real Estate Contract
+BUS1505_CREATE03`  E`  Create Real Estate Contract
+BUS1505_CREATE04`  E`  Create Real Estate Contract
+BUS1505_GETDETAIL01`  E`  Return Real Estate Contract Data
+BUS1505_GETDETAIL02`  E`  Return Real Estate Contract Data
+BUS1505_GETDETAIL03`  E`  Return Real Estate Contract Data
+BUS1505_GETDETAIL04`  E`  Return Real Estate Contract Data
+BUS1505_GETLIST01`  E`  Return Data of Multiple Contracts
+BUS1505_GETLIST02`  E`  Return Data of Multiple Contracts
+BUS1505_GETLIST03`  E`  Return Data of Multiple Contracts
+BUS1505_GETLIST04`  E`  Return Data of Multiple Contracts
+BUS1505_NOTICECHANGE01`  E`  Change Notice
+BUS1505_NOTICECREATE01`  E`  Give Notice
+BUS1505_NOTICEGETLIST01`  E`  Return Notices
+BUS1505_SALESREPGETLIST01`  E`  Return Sales Reports
+BUS1505_SALESREPREPORT01`  E`  Enter Sales Reports
+BUS1506_CHANGE01`  E`  Change Settlement Unit
+BUS1506_COSTSEXTCHANGE01`  E`  Costs: Change Legacy Data Transfer
+BUS1506_COSTSEXTCREATE01`  E`  Costs: Create Legacy Data Transfer
+BUS1506_COSTSEXTGETDETAI01`  E`  Costs: Return Legacy Data Transfer
+BUS1506_COSTSEXTGETLIST01`  E`  Costs: Return Legacy Data Transfer
+BUS1506_CREATE01`  E`  Create Settlement Unit
+BUS1506_GETDETAIL01`  E`  Return Settlement Unit Data
+BUS1506_GETLIST01`  E`  Get Data of Multiple Settlement Units
+BUS1507_CHANGE01`  E`  Change Participation Group
+BUS1507_CREATE01`  E`  Create Participation Group
+BUS1507_GETDETAIL01`  E`  Return Participation Group Data
+BUS1507_GETLIST01`  E`  Get Data of Multiple Participation Groups
+BUS1508_CHANGE01`  E`  Change Comparative Group
+BUS1508_CREATE01`  E`  Create Comparative Group
+BUS1508_GETDETAIL01`  E`  Return Comparative Group Data
+BUS1508_GETLIST01`  E`  Return Data of Multiple Comparative Groups
+BUS1509_CHANGE01`  E`  Change Adjustment Measure
+BUS1509_CHANGE02`  E`  Change Adjustment Measure
+BUS1509_CREATE01`  E`  Create Adjustment Measure
+BUS1509_CREATE02`  E`  Create Adjustment Measure
+BUS1509_GETDETAIL01`  E`  Return Adjustment Measure Data
+BUS1509_GETDETAIL02`  E`  Return Adjustment Measure Data
+BUS1509_GETLIST01`  E`  Return Data of Multiple Adjustment Measures
+BUS1509_GETLIST02`  E`  Return Data of Multiple Adjustment Measures
+BUS1510_CHANGE01`  E`  Change Land Register
+BUS1510_CREATE01`  E`  Create Land Register
+BUS1510_GETDETAIL01`  E`  Return Land Register Data
+BUS1510_GETLIST01`  E`  Return Data of Multiple Land Registers
+BUS1511_CHANGE01`  E`  Change Parcel
+BUS1511_CREATE01`  E`  Create Parcel
+BUS1511_GETDETAIL01`  E`  Return Parcel Data
+BUS1511_GETLIST01`  E`  Return Data of Multiple Parcels
+BUS1512_CHANGE01`  E`  Change Other Public Registers
+BUS1512_CREATE01`  E`  Create Other Public Registers
+BUS1512_GETDETAIL01`  E`  Return Other Public Register Data
+BUS1512_GETLIST01`  E`  Return Data of Multiple Other Public Registers
+BUS1513_CHANGE01`  E`  Change Parcel Update
+BUS1513_CREATE01`  E`  Create Parcel Update
+BUS1513_GETDETAIL01`  E`  Return Parcel Update Data
+BUS1513_GETLIST01`  E`  Return Data of Multiple Parcel Updates
+BUS1514_CHANGE01`  E`  Change Notice of Assessment
+BUS1514_CREATE01`  E`  Create Notice of Assessment
+BUS1514_GETDETAIL01`  E`  Return Notice of Assessment Data
+BUS1514_GETLIST01`  E`  Return Data of Multiple Notices of Assessment
+BUS1515_CHANGE01`  E`  Change Mandate
+BUS1515_CREATE01`  E`  Create Mandate
+BUS1515_GETDETAIL01`  E`  Return Mandate Data
+BUS1515_GETLIST01`  E`  Return Data of Multiple Mandates
+BUS1516_CHANGE01`  E`  Change Contract Offer
+BUS1516_CREATE01`  E`  Create Contract Offer
+BUS1516_GETDETAIL01`  E`  Return Contract Offer Data
+BUS1516_GETLIST01`  E`  Return Data of Multiple Contract Offers
+BUS1517_CHANGE01`  E`  Change Offered Object
+BUS1517_CREATE01`  E`  Create Offered Object
+BUS1517_GETDETAIL01`  E`  Return Offered Object Data
+BUS1517_GETLIST01`  E`  Return Data of Multiple Offered Objects
+BUS1518_CHANGE01`  E`  Change RE Search Request
+BUS1518_CREATE01`  E`  Create RE Search Request
+BUS1518_GETDETAIL01`  E`  Return RE Search Request Data
+BUS1518_GETLIST01`  E`  Return Data of Multiple RE Search Requests
+BUS1519_CHANGE01`  E`  Change Joint Liability
+BUS1519_CREATE01`  E`  Create Joint Liability
+BUS1519_GETDETAIL01`  E`  Return Joint Liability Data
+BUS1519_GETLIST01`  E`  Return Data of Multiple Joint Liabilities
+BUS1520_CHANGE01`  E`  Change Correction Object
+BUS1520_CREATE01`  E`  Create Correction Object
+BUS1520_GETDETAIL01`  E`  Correction Object - Return Data
+BUS1520_GETLIST01`  E`  Return Data of Multiple Correction Objects
+BUS1521_CHANGE01`  E`  Change Move Plan
+BUS1521_CREATE01`  E`  Create Move Plan
+BUS1521_GETDETAIL01`  E`  Return Move Plan Data
+BUS1521_GETLIST01`  E`  Return Data of Multiple Move Plans
+BUS1701_CHANGE01`  E`  ISSR: BAPI for Changing Capital Investment Master Data
+BUS1701_CHANGE02`  E`  ISSR: BAPI for Changing Investment Master Data
+BUS1701_CREATE01`  E`  ISSR: BAPI for Creating Capital Investment Master Data
+BUS1701_CREATE02`  E`  ISSR: BAPI for Creating Investment Master Data
+BUSINESSPARTNERFS_FSADDROLE01`  E`  SAP BP, BAPI: Create Business Partner
+BUSINESSPROCESSCOGRP_ADDNODE01`  E`  Object BUS1114 (Business Process Group) - Method AddNode
+BUSINESSPROCESSCOGRP_CREATE01`  E`  Object BUS1114 (Business Process Group) - Method Create
+CACS00`  E`  Commission Case Application CACS00
+CAP_ACTIN01`  E`  Activity input planning: Posting
+CAP_ACTIN02`  E`  Activity Input Planning: Posting
+CAP_ACTOUT01`  E`  Activity/Price planning: Posting
+CAP_ACTOUT02`  E`  Activity/Price Planning: Posting
+CAP_ACTOUT03`  E`  Activity/Price Planning: Posting
+CAP_KEYFIG01`  E`  Stat. Key Figure Planning: Postings
+CAP_PRIMCOST01`  E`  Primary Cost Planning: Postings
+CAP_PRIMCOST02`  E`  Primary Cost Planning: Postings
+CASHJOURNALDOC_CREATE01`  E`  Save FI Cash Journal Documents
+CATS_CHANGE01`  E`  CATS: Change data records
+CATS_CHANGE02`  E`  CATS: Change data records
+CATS_DELETE01`  E`  CATS: Delete data records
+CATS_INSERT01`  E`  CATS: Insert data records
+CATS_INSERT02`  E`  CATS: Insert data records
+CATT01`  E`  IDoc Type for the Basis IDoc CATT
+CATT02`  E`  CATT IDoc Type for IDoc Basis
+CATT_ALE_1_CHANGE01`  E`  ALE CATT Session
+CATT_ALE_1_CREATE01`  E`  ALE CATT Session
+CBPRCP01`  E`  Rough-cut planning profile
+CCLONE01`  E`  Duplicate company address in another system
+CHARACTERISTIC_CREATE01`  E`  BAPI for Characteristics - Create
+CHRMAS01`  E`  Master characteristic basic data
+CHRMAS02`  E`  Master attribute with object dependencies
+CHRMAS03`  E`  Distribute Characteristics with Dependencies and Long Texts
+CHRMAS04`  E`  Distr. of Characteristics with Dependencies and Long Texts
+CHRMAS05`  E`  Distr. of Characteristics with Retail extensions
+CLASSIFICATION_CREATE01`  E`  BAPI for Classification: Create Assignment (Key)
+CLASS_CREATE01`  E`  Create Class BAPI
+CLASS_CREATESUBCLASSALLOCATI01`  E`  Class Hierarchy BAPI: Create Assignment
+CLASS_CREATESUBSTRUCTURE01`  E`  Class Hierarchy BAPI: Create Hierarchy (Top Down)
+CLFMAS01`  E`  Master object classification
+CLFMAS02`  E`  Master object classification
+CLSMAS01`  E`  Master class
+CLSMAS02`  E`  Distribution of classes with object dependencies
+CLSMAS03`  E`  Classes with long texts and document links
+CLSMAS04`  E`  Classes with Long Texts, Document Links, and E1UPSLINK
+CML_MIG_CMS_COLL_GET_IDOC`  E`  Darlehen RFC: Sicherheit Detaildaten
+CML_MIG_CMS_OBJECT_GET_IDOC`  E`  Darlehen RFC: Beleihungsobjekt Detaildaten
+CMREQU01`  E`  TR-CM: Invitation to TR-CM system to send data
+CMSEND01`  E`  TR/CM-IDOC: Transfer of TR-CM data
+CMS_AST_MIG_CREATE_IDOC`  E`  Wrapper FM on Asset create Mapi for idoc creation
+CMS_BII_CAGMT_AST_RBL`  E`  CMS-Basel II: Coll.Agmt ,Ast & Rbl Links (Rel 2.1 BA)
+CMS_BII_STD_AST`  E`  CMS-Basel II: Asset Details
+CMS_BII_STD_CAGMT_AST_RBL`  E`  CMS-Basel II: Collateral Agreements Standard
+CMS_BW_CAGMT_DETAILS`  E`  CMS-BW: Collateral Agreement Details
+CMS_BW_MOVABLES`  E`  CMS-BW: Movables Collateral Object
+CMS_BW_MOVABLES02`  E`  CMS Movables
+CMS_BW_REAL_ESTATE_OBJECT`  E`  CMS-BW: Real Estate Object
+CMS_BW_RIGHTS`  E`  CMS-BW: Rights Collateral Object
+CMS_BW_SECURITIES_ACCOUNT`  E`  CMS-BW: Securities Accounts with Positions
+CMS_CAG_MIG_CREATE_IDOC`  E`  Wrapper function module for CAG migration from CML to CMS
+CMS_INS_SRV_CHANGE_IND`  E`  Changed Insurances / Links
+CMS_IR_DETAILS`  E`  CMS Receivables Details
+CMS_LIQUIDATION_CASHFLOW`  E`  CMS Liquidation Cashflow (Temporary Solution for Rel 3.0)
+CMS_RE_CREATE_IDOC`  E`  MAPI : Land Register & Real Estate - Migrate Create
+CMS_SEC_MIG_CREATE_IDOC`  E`  MAPI for Securities
+CMS_SHP_MIG_CREATE_IDOC`  E`  MAPI  for Ships
+CNPMAS01`  E`  Master configuration profile
+CNPMAS02`  E`  Master configuration profile
+CNPMAS03`  E`  Master Configuration Profile + E1UPSLINK
+COABCM01`  E`  Replicate individual business process (ALE)
+COABCV01`  E`  ALE: replicate price from business processes
+COABCV02`  E`  ALE: Replicate Prices from Business Processes
+COABC_BUSPROCSTRUCTURE_CREAT01`  E`  Create process struct.(BusProcStructureCO)
+COACOR01`  E`  Core master activity type
+COACTV01`  E`  IDoc for cost center/activity type
+COAMAS01`  E`  Master activity type
+COCOKA01`  E`  Control segment CO object/cost element
+CODCMT01`  E`  IDoc for a CO document
+COD_CATS_TIME_REPORT01`  E`  IDoc Structure for Data Type COD_S_CATS_TIME
+COD_CONFIRM_CREATEFROMDAT01`  E`  IDoc Structure for Data Type COD_S_CONFIRM_REPLICATION
+COD_CONTRACT_CREATEFROM_DAT01`  E`  IDoc Structure for Data Type COD_S_REP_CONTRACT_DATA
+COD_CUSTHIERMAS01`  E`   Customer Hierarchy Data
+COD_CUST_MAT_INFO01`  E`  IDoc Structure for Data Type COD_S_CUST_MAT
+COD_EQUIPMENT_SAVE01`  E`  IDoc Structure for Data Type COD_S_EQUI_ROOT
+COD_ERP_SD_ORGS_SAVE01`  E`  IDoc Structure for Data Type COD_ERP_SD_ORG_UNITS
+COD_FUNCTIONAL_LOCATION_SAVE01`  E`  IDoc Structure for Data Type COD_S_FLOC_ROOT
+COD_MEASUREMENT_DOC_SAVE01`  E`  IDoc Structure for Data Type COD_S_MD_ROOT
+COD_MEASURING_POINT_SAVE01`  E`  IDoc Structure for Data Type COD_S_MP_ROOT
+COD_PRODUCT_CATEGORY_SAVE01`  E`  IDoc Structure for Data Type COD_S_PRODCAT_ROOT
+COD_REPLICATE_SALES_ORDER01`  E`  IDoc Structure for Data Type COD_S_REP_SLSORD_DATA
+COD_REPLICATE_SALES_ORDER02`  E`  IDoc Structure for Data Type COD_S_REP_SLSORD_DATA
+COD_SERVICE_CONFIRMATION01`  E`  IDoc Structure for Data Type COD_S_SRV_CONF
+COD_SERVICE_CONFIRMATION02`  E`  IDoc Structure for Data Type COD_S_SRV_CONF
+COD_STOCK_REPLICATE01`  E`  IDoc Structure for Data Type COD_S_STOCK_ROOT
+COD_UTILITIES_ISU_ACCOUNT_RE01`  E`  IDoc Structure for Data Type COD_S_ISU_ACCOUNT_DATA
+COELEM01`  E`  Cost elements: Master data distribution
+COGRP01`  E`  IDoc for CO groups (e.g. cost center groups)
+COLLATERALAGMTCMS_GETDETAILM01`  E`  Get details of Collateral agreement(Multi)
+COLLATERALSSEMBA_GETDETAIL01`  E`  Read Settings for Collateral
+COLLATERALSSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+COLLECTIONDATA_SENDITEMS01`  E`  FSCM-COL: Sending of Data for Collections Management
+COLLECTIONDATA_SENDITEMS02`  E`  FSCM-COL: Send Data for Collections Management
+COMMODITYSWAP_CONDDEALCHANGE01`  E`  Completely Change a Commodity Swap
+COMMODITYSWAP_CONDDEALCHANGE02`  E`  Completely Change a Commodity Swap
+COMM_ITEM01`  E`  Commitment Item Master
+COMXIF_PRODUCT_INDOBJ_EH_S01`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_INDOBJ_HISTORY
+CONDA201`  E`  ALE Customizing Distribution Add-On
+CONDAT01`  E`  Change to customizing data
+CONDAT02`  E`  Distribution of Control Data
+CONDCONTRACT_CHANGE01`  E`  Change Condition Contract
+CONDCONTRACT_CHANGE02`  E`  Change Condition Contract
+CONDCONTRACT_CHANGE03`  E`  Change Condition Contract
+CONDCONTRACT_CREATE01`  E`  Create Condition Contract
+CONDCONTRACT_CREATE02`  E`  Create Condition Contract
+CONDCONTRACT_CREATE03`  E`  Create Condition Contract
+CONDCONTRACT_GETDETAIL01`  E`  Read Data for a Single Contract
+CONDCONTRACT_GETDETAIL02`  E`  Read Data for a Single Contract
+CONDCONTRACT_SYNC01`  E`  Change Condition Contract
+CONDITIONCONTRACT_CLONE01`  E`  Clone Condition Contract
+COND_A01`  E`  Interchange of conditions: Master data for price determ.
+COND_A02`  E`  ALE condition records
+COND_A03`  E`  Conditions with UPS Link
+COND_A04`  E`  Conditions with Long Material Numbers
+CONF11`  E`  Confirmations in CC1
+CONF21`  E`  Confirmations in KK2, time events
+CONF31`  E`  Confirmations in KK3, time events
+CONF32`  E`  Confirmations in KK3, wage slips
+CONF41`  E`  Confirmations in KK4, time events
+CONF42`  E`  Confirmations in KK4, wage slips
+CONF51`  E`  CC5 PDC Interface KANBAN
+CONF_ACT1001`  E`  Enter activity confirmation
+COPAGN01`  E`  CO-PA entry
+COPA_DERIVE_ADD_VALUES01`  E`  Derivation Rule: AddValues
+COPA_DERIVE_REMOVE01`  E`  Derivation Rule: RemoveValues
+COPA_WW_ADD_VALUES01`  E`  Individual Characteristic: AddValues
+COPA_WW_GET_VALUES01`  E`  Characteristic: GetValues
+COPA_WW_REMOVE_VALUES01`  E`  Individual Characteristic: RemoveValues
+COPCPA01`  E`  Transfer product costing CO-PC -> CO-PA
+COPCPA02`  E`  Copy product cost estimate
+COSCOR01`  E`  Core master cost center
+COSMAS01`  E`  Master cost center
+COSTCENTERGROUP_ADDNODE01`  E`  Object BUS1112 (Cost Center Group) - Method AddNode
+COSTCENTERGROUP_CREATE01`  E`  Object BUS1112 (Cost Center Group) - Method Create
+COSTCENTERGROUP_CREATE_01`  E`  Object BUS1112 (Cost Center Group) - Method Create
+COSTCENTER_CHANGEMULTIPLE01`  E`  Change One or More Cost Centers
+COSTCENTER_CREATEMULTIPLE01`  E`  Create One or More Cost Centers
+COSTELEMENTGROUP_ADDNODE01`  E`  Object BUS1113 (Cost Element Group) - Method AddNode
+COSTELEMENTGROUP_CREATE01`  E`  Object BUS1113 (Cost Element Group) - Method Create
+COSTTYPE_CHANGE01`  E`  Change One or More Cost Elements
+COSTTYPE_CREATE01`  E`  Create One or More Cost Elements
+COTOTL01`  E`  IDoc for CO totals records
+CO_ABC_BPROC_CHANGE01`  E`  Change One or More Business Processes
+CO_ABC_BPROC_CREATE01`  E`  Create one or more business processes
+CO_ABC_BPROC_CREATE02`  E`  Create One or More Business Processes
+CO_ABC_BPROC_SETSTRUC01`  E`  Enter template in business process master data
+CPSEMBA_GETDETAIL01`  E`  Grouping of Transaction and Financial Object
+CRECOR01`  E`  Vendor master data distribution ALE Core master data
+CREMAS01`  E`  Vendor master data distribution ALE
+CREMAS02`  E`  Vendor master data distribution ALE
+CREMAS03`  E`  Vendor master data distribution
+CREMAS04`  E`  Vendor master data distribution
+CREMAS05`  E`  Vendor master data distribution
+CREMAS06`  E`  Vendor master data distribution
+CREMDM01`  E`  MDM: Mass Processing CREMAS (Vendor Master)
+CREMDM02`  E`  MDM: Mass Processing CREMAS (Vendor Master + Addresses)
+CREMDM03`  E`  MDM: Mass Processing CREMAS (Vendor Master + Addresses)
+CREMDM04`  E`  MDM: Mass Processing CREMAS (Vendor Master + Addresses)
+CREMDM05`  E`  MDM: Mass Processing CREMAS (Vendor Master + Addresses)
+CRESTA01`  E`  Copy credit status (DebtorCreditAccount)
+CRMXIF_BEA_DL_CRMB_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_DL_CRMB_HEADER
+CRMXIF_BEA_REX_CRMR_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_REX_CRMR_HEADER
+CRMXIF_BILLDATARECD_SAVE01`  E`  IDoc Structure for CRMT_IPM_BEA_BDCI_EI Data Type
+CRMXIF_CMSCON_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_CMS_BUSTRANS
+CRMXIF_CONDITION_SEL_DELETE_01`  E`  IDoc Structure for Data Type BAPI_CT_SEL_OPT_MSG
+CRMXIF_COND_REC_COMPL_SAVE_M01`  E`  IDoc Structure for Data Type BAPI_CT_COND_REC_COMPL_MSG
+CRMXIF_COND_REC_SLIM_SAVE_M01`  E`  IDoc Structure for Data Type BAPI_CT_COND_REC_SLIM_MSG
+CRMXIF_CRMRREXOUT_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_CRMRREXOUT
+CRMXIF_CRM_TOUR_MSG_SAVE01`  E`  IDoc Structure for Data Type CRMXIF_CRM_TOUR_MSG_COMPLEX
+CRMXIF_DESREG_SAVE01`  E`  IDoc Structure for Data Type CRMXIF_DESREG
+CRMXIF_IBASE_SAVE01`  E`  IDoc Structure for Data Type CRMXIF_IBASE
+CRMXIF_IBASE_SAVE02`  E`  IDoc Structure for Data Type CRMXIF_IBASE
+CRMXIF_INVOICE_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_IV_BD
+CRMXIF_INVOICE_SAVE_M02`  E`  IDoc Structure for Data Type CRMXIF_IV_BD
+CRMXIF_ORDER_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_M02`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_U01`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_U02`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_U03`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_U04`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_U05`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_U06`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_ORDER_SAVE_U07`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+CRMXIF_PARTNER_HIER_SAVE01`  E`  IDoc Structure for Data Type CRMXIF_PARTNER_HIER
+CRMXIF_PARTNER_HIER_SAVE_S01`  E`  IDoc Structure for Data Type CRMXIF_PARTNER_HIER
+CRMXIF_PLGRAM_SAVE01`  E`  IDoc Structure for Data Type CRMXIF_PLANOGRAM_COMPLEX
+CRMXIF_PRODUCT_INDOBJ_REL_01`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_INDOBJ_REL
+CRMXIF_PRODUCT_INDOBJ_SAVE01`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_INDOBJ
+CRMXIF_PRODUCT_IP_REL_SAVE01`  E`  IDoc Structure for COMXIF_PRODUCT_IP_REL Data Type
+CRMXIF_PRODUCT_IP_SAVE01`  E`  IDoc Structure for COMXIF_PRODUCT_IP Data Type
+CRMXIF_PRODUCT_IP_SAVE0501`  E`  IDoc Structure for COMXIF_PRODUCT_IP Data Type
+CRMXIF_PRODUCT_IP_SAVE0701`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_IP
+CRMXIF_PRODUCT_MATERIAL_SAVE01`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_MATERIAL
+CRMXIF_PRODUCT_MATERIAL_SAVE02`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_MATERIAL
+CRMXIF_PRODUCT_MAT_REL_SAVE01`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_MATERIAL_REL
+CRMXIF_PRODUCT_SAVE01`  E`  IDoc Structure for Data Type BAPI_PRODUCT
+CRMXIF_PRODUCT_SAVE_M01`  E`  IDoc Structure for Data Type BAPI_PRODUCT
+CRMXIF_PRODUCT_SERVICE_SAVE01`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_SERVICE
+CRMXIF_PRODUCT_SRV_REL_SAVE01`  E`  IDoc Structure for Data Type COMXIF_PRODUCT_SERVICE_REL
+CRMXIF_REB_SETTLEMENT_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_REB_PAYMENT
+CRMXIF_SOLUTION_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_1_SOLUTION
+CRMXIF_SYMPTOM_SAVE_M01`  E`  IDoc Structure for Data Type CRMXIF_1_SYMPTOM
+CTRACDOCUMENT_CREATE`  E`  BAPI: FI-CA Post Document
+CTRACDOCUMENT_CREATE01`  E`  BAPI: Post FI-CA Document
+CTRACDOCUMENT_GETDETAIL`  E`  BAPI: FI-CA Read Document Detail Data
+CTRACDOCUMENT_GETLIST`  E`  BAPI: FI-CA List of Documents
+CTRACDOCUMENT_REVERSE`  E`  BAPI: FI-CA - Reverse Document
+CTRACPSBILLDOC_ADJUST01`  E`  Adjust Public Sector Billing Documents
+CTRACPSBILLDOC_CREATEMULT01`  E`  Create Public Sector Billing Document
+CTRACPSBILLDOC_REVERSE01`  E`  Reverse Public Sector Billing Document
+CTRACPSINVDOC_CREATE01`  E`  Create Invoicing Docs
+CTRACPSINVDOC_PRINT01`  E`  Print Invoicing Document
+CTRACPSOBJACCOUNTING_EXISTEN01`  E`  Existence Check(CtrAcPSObjAccounting)
+CTRACPSOBJECT_CHANGE01`  E`  BAPI: IS-PS-CA Change Contract Object
+CTRACPSOBJECT_CHANGE02`  E`  PSCD: BAPI Change Contract Object
+CTRACPSOBJECT_CHANGE03`  E`  PSCD: BAPI Change Contract Object
+CTRACPSOBJECT_CREATE01`  E`  BAPI: Create IS-PS-CA Contract Object
+CTRACPSOBJECT_CREATE02`  E`  PSCD: BAPI Create Contract Object
+CTRACPSOBJECT_CREATE03`  E`  PSCD: BAPI Create Contract Object
+CTRACPSOBJECT_DELETE01`  E`  Delete(CtrAcPSObject)
+CTRACPSOBJECT_EASYCREATE01`  E`  BAPI: IS-PS-CA Create Contract Object Using Reference Values
+CTRACPSOBJECT_EASYCREATE02`  E`  PSCD: Create BAPI Contract Object Using Reference Values
+CTRACPSOBJECT_EASYCREATE03`  E`  PSCD: Create BAPI Contract Object Using Reference Values
+CTRACPSOBJECT_EXISTENCECHECK01`  E`  BAPI: IS-PS-CA Check Existence of Contract Object
+CTRACPSOBJECT_GETDETAIL01`  E`  BAPI: IS-PS-CA Read Contract Object
+CTRACPSOBJECT_GETDETAIL02`  E`  PSCD: Read BAPI Contract Object
+CTRACPSOBJECT_GETLIST01`  E`  BAPI: IS-PS-CA Read Contract Object List
+CTRACPSOBJECT_GETLIST02`  E`  PSCD: Read BAPI Contract Object List
+CTRACPSOBJECT_UNDELETE01`  E`  Undelete(CtrAcPSObject)
+CTY_OTCOPT_CHANGEFROMDATA01`  E`  Change commodity OTC Options
+CTY_OTCOPT_CHANGEFROMDATA02`  E`  Change commodity OTC Options
+CTY_OTCOPT_CREATEFROMDATA01`  E`  Create commodity OTC Options
+CTY_OTCOPT_CREATEFROMDATA02`  E`  Create commodity OTC Options
+CUSTOMEREXPENSEINVOI_CANCEL01`  E`  Agency Business: BAPI "Cancel Customer Settlements"
+CUSTOMEREXPENSEINVOI_CHANGE01`  E`  Agency Business: Change Vendor Billing Documents BAPI
+CUSTOMEREXPENSEINVOI_CLOSE01`  E`  Agency Business: BAPI - Complete Expenses Settlements
+CUSTOMEREXPENSEINVOI_CREATE01`  E`  Agency Business: Generate Vendor Billing Documents BAPI
+CUSTOMEREXPENSEINVOI_RELEASE01`  E`  Accounting Release (Customer Expense Invoice)
+CUSTOMEREXPENSEINVOI_REOPEN01`  E`  Agency Business: BAPI - Reopen Expenses Settlements
+CUSTOMEREXPINV_GETDETAIL01`  E`  Issue Expense Settlements
+CUSTOMERRETURN_CONFIRMDELIVE01`  E`  Delivery Confirmation (CustomerReturn)
+CUSTOMERSETTLE_CHANGEMULT01`  E`  Agency Business: BAPI - Change Expenses Settlement
+CUSTOMERSETTLE_GETDETAIL01`  E`  Issue Data (Customer Settlement)
+CUSTOMERSETTLE_RELEASEMULT01`  E`  Customer Settlement Invoice Release (CustomerSettInvoice)
+CUSTSCHEDULAGREEMENT_CONFDEL01`  E`  Delivery Confirm. (CustSchedulAgreement)
+CUSTSCHEDULAGREEMENT_CONFIRM01`  E`  Delivery Confirmation (CustSchedulAgreement)
+CUSTSETTINV_CANCEL01`  E`  Agency Business: BAPI "Cancel Customer Settlements"
+CVI_EI_INBOUND_MAIN_M01`  E`  IDoc Structure for Data Type CVIS_EI_EXTERN
+DANGEROUSGOOD01`  E`  Dangerous goods: Save replicated instances
+DANGEROUSGOOD02`  E`  Dangerous goods: Save replicated instances
+DANGEROUSGOOD03`  E`  Dangerous Goods: Save Replicated Instances
+DANGEROUSGOOD04`  E`  Dangerous Goods: Save Replicated Instances
+DANGEROUSGOOD05`  E`  Dangerous Goods: Save Replicated Instances
+DD01L_01`  E`  Domains
+DD03L_01`  E`  Table Fields
+DD04L_01`  E`  Data elements
+DEBCOR01`  E`  Core master - customer
+DEBMAS01`  E`  Customer master
+DEBMAS02`  E`  Customer master
+DEBMAS03`  E`  Customer master
+DEBMAS04`  E`  Customer master data distribution
+DEBMAS05`  E`  Customer Master Data Distribution
+DEBMAS06`  E`  Customer master data distribution
+DEBMAS07`  E`  Customer master data distribution
+DEBMDM01`  E`  MDM: Mass-enabled DEBMAS (Customer Master)
+DEBMDM02`  E`  MDM: Mass-enabled DEBMAS (Customer Master)
+DEBMDM03`  E`  MDM: Mass-enabled DEBMAS (Customer Master)
+DEBMDM04`  E`  MDM: Mass Processing DEBMAS (Customer Master + Addresses)
+DEBMDM05`  E`  MDM: Mass Processing DEBMAS (Customer Master + Addresses)
+DEBMDM06`  E`  MDM: Mass Processing DEBMAS (Customer Master + Addresses)
+DELFOR01`  E`  Delivery schedule/JIT schedule
+DELFOR02`  E`  Delivery Schedule/JIT Schedule
+DELIVERYPROCESSING_EXECUTE01`  E`  Delivery processing
+DELIVERYPROCESSING_EXECUTE02`  E`  Delivery Processing(DeliveryProcessing)
+DELVRY01`  E`  Delivery interface
+DELVRY02`  E`  Delivery interface with dangerous goods data
+DELVRY03`  E`  Delivery interface
+DELVRY04`  E`  Delivery interface
+DELVRY05`  E`  Delivery Interface
+DELVRY06`  E`  Enhanced DELVRY05
+DELVRY07`  E`  Delivery Interface
+DEPNET`  E`  Master data of dependency net
+DEPNET02`  E`  Master Data of a Dependency Net + E1UPSLINK
+DERIVTRANSSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+DESADV01`  E`  External service agent processing (notifications)
+DES_ID01`  E`  Shipping notification
+DG_EXCEPTION01`  E`  Exception to DG Regulations: Save Replicated Instances
+DIFFE2`  E`  Differences in KK2
+DIFFE3`  E`  Differences in KK3
+DIFFE4`  E`  Differences in KK4
+DISPUTE_ATTRIBUTESCHANGE01`  E`  FSCM-DM: Change Dispute Case Attributes
+DISPUTE_ATTRIBUTESYNCHRONIZE01`  E`  Function Module for Attribute Synchronization
+DISPUTE_CREATE01`  E`  FSCM-DM: Creation of Dispute Case
+DISPUTE_CREATE02`  E`  FSCM-DM: Create Dispute Case
+DISPUTE_PROCESS01`  E`  FSCM-DM: Process Dispute Case
+DISPUTE_STATUSCHANGED01`  E`  FSCM-DM: Change Status of Dispute Case
+DISPUTE_WRITEOFF01`  E`  FSCM-DM: Dispute Cases to be Written Off Automatically
+DISTU2`  E`  Reasons for problems KK2
+DOCMAS01`  E`  Master document
+DOCMAS02`  E`  Document 02
+DOCMAS03`  E`  Document
+DOCMAS04`  E`  Documents
+DOCMAS05`  E`  Documents with UPS Link
+DOCUMENT_LOAD01`  E`  Load document data (Document transfer)
+DOLMAS01`  E`  Document-object links
+DOLMAS02`  E`  Document-Object Links with UPS Link
+DSPMAS01`  E`  ALE Distribution Packet
+DSPRCP01`  E`  ALE Distribution Packet
+DWLOAD`  E`  Download transceiver configuration
+DXPROJECT_CREATE01`  E`  Create Method of Business Object DXPROJECT
+DXPROJECT_CREATE02`  E`  Create Method of Business Object DXPROJECT
+DXPROJECT_CREATE03`  E`  Create Method of Business Object DXPROJECT
+DXTCRE01`  E`  Object SBFADXT
+E1OIB_H_TYP`  E`  Idoc type for Header VMR
+ECMEXE1`  E`  HR-ECM: LTI exercise
+ECMEXE2`  E`  HR-ECM: LTI remove exercise
+ECMGRA1`  E`  HR-ECM: LTI grant
+ECMGRA2`  E`  HR-ECM: LTI remove grant
+ECMMAS01`  E`  IDoc structure for ECH
+ECMMAS02`  E`  Change number (II)
+ECMPAR1`  E`  HR-ECM: LTI plan participant
+ECMREV01`  E`  IDOC structure for revision level
+EEWAGECOMP_CHANGE01`  E`  Modification of External Wage Component
+EEWAGECOMP_CREATE01`  E`  Creation of Infotype Record for External Wage Component
+EEWAGECOMP_DELETE01`  E`  Deletion of External Wage Component
+EHPOST01`  E`  SCEM: Event Handler Posting
+EKSEKS01`  E`  Purchasing document data for Purchasing Info System
+EMPWAGECOMPEXT_CHANGE01`  E`  Modification of External Wage Component
+EMPWAGECOMPEXT_CREATE01`  E`  Creation of External Wage Component
+EMPWAGECOMPEXT_DELETE01`  E`  Deletion of External Wage Component
+EQUIPMENT_CHANGE01`  E`  PM BAPI: Change Equipment
+EQUIPMENT_CHANGE02`  E`  PM BAPI: Change Equipment
+EQUIPMENT_CHANGE03`  E`  PM BAPI: Change Equipment
+EQUIPMENT_CREATE01`  E`  PM BAPI: Create Equipment
+EQUIPMENT_CREATE02`  E`  PM BAPI: Create Equipment
+EVMSTA01`  E`  SCEM: Event Message Input
+EVMSTA02`  E`  SCEM: Event Message Input
+EXCHANGE_RATE01`  E`  Replication of Currency Rates
+EXPINV01`  E`  Export Invoice IDOC (E.F.I.)
+EXPINV02`  E`  Foreign Trade - Billing Doc. IDoc
+EXPINV03`  E`  Foreign trade - billing doc. IDoc
+EXPINV04`  E`  Foreign trade - billing doc. IDoc
+EXTSECURITYACCSTMNT_CREATE01`  E`  Create External Security Account Statement
+EXTWA1`  E`  External wage types
+FACILITYSEMBA_GETDETAIL01`  E`  Facility: Get Detail Multiple
+FACILITYSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+FACILITYSEMBA_GETDETAILWITHF01`  E`  Grouping of Transaction and Financial Object
+FAGLDT01`  E`  NewGL FI Doc. Transfer for Single Transfer + Totals Transfer
+FBC_COSTEVENT_SAVE01`  E`  IDoc Structure for Data Type FBC_S_CE_ROOT
+FDSCMBIF_RECEIVELIST01`  E`  Receipt: Fixed Demands
+FDSCMBIF_RECEIVEREASONCODE01`  E`  Receipt: Reason Code
+FDSCMB_CHANGEMULTIPLE01`  E`  Change Fixed Demands
+FDSCMB_CREATEMULTIPLE01`  E`  Create Fixed Demands
+FDSCMB_DELETEMULTIPLE01`  E`  Delete Fixed Demands
+FDSCMB_REQUESTLIST01`  E`  Query: Read Fixed Demands
+FDSCMB_REQUESTREASONCODE01`  E`  Query: Read Reason Code
+FDSCMB_SAVEREASONCODE01`  E`  Write Reason Code
+FIDCCH01`  E`  IDoc for FI document changes (dunning block)
+FIDCCP01`  E`  IDoc: Complete FI document
+FIDCCP02`  E`  FI IDoc: Complete FI Document
+FIDCMT01`  E`  IDoc for FI documents
+FINANCIALPRODUCTSEM_GETDETAI01`  E`  Read Detail Data for Securities
+FINANCIALPRODUCTSEM_GETDETAI02`  E`  Read Detail Data for Securities
+FINANCIALPRODUCT_CREATE01`  E`  Create security
+FINANCIALPRODUCT_CREATE02`  E`  Create Security
+FINANCIALPRODUCT_CREATE03`  E`  Create security
+FINANCIALPRODUCT_CREATE04`  E`  Create Security
+FINANCIALTRANSACTION_CREATE01`  E`  Create financial transaction
+FINANCIALTRANSACTION_NOVATIO01`  E`  Novation financial transaction
+FINSTA01`  E`  Account Statement, Lockbox, Polling Info
+FIPARQ01`  E`  IDoc for FI payment data
+FIXEDASSET_CHANGE01`  E`  Changes an asset
+FIXEDASSET_CHANGE02`  E`  Changes an asset
+FIXEDASSET_CHANGE03`  E`  Changes an Asset
+FIXEDASSET_CHANGE04`  E`  Changes an Asset
+FIXEDASSET_CREATE01`  E`  Creates an asset
+FIXEDASSET_CREATE02`  E`  Creates an asset
+FIXEDASSET_CREATEFROMDATA101`  E`  Creates an Asset
+FIXEDASSET_CREATEFROMDATA102`  E`  Creates an Asset
+FIXEDASSET_CREATEFROMDATA103`  E`  Creates an Asset
+FIXEDASSET_CREATEINCLVALUES01`  E`  BAPI for Legacy Data Transfer
+FIXEDASSET_CREATEINCLVALUES02`  E`  BAPI for Legacy Data Transfer
+FIXEDASSET_CREATEINCLVALUES03`  E`  BAPI for Legacy Data Transfer
+FIXEDASSET_CREATEINCLVALUES04`  E`  BAPI for Legacy Data Transfer
+FIXEDASSET_LEGACYVALUESPOST01`  E`  LegacyValuesPost(FixedAsset)
+FKK_EBS_ARC_DOC`  E`  FI-CA: Archiving and Link Data
+FKK_EBS_DOC`  E`  FI-CA Document Transfer from External Systems with Rev.Items
+FKK_EBS_DOC_TREE`  E`  FI-CA Document Data Transfer with Revenue Items - Hierarch.
+FKK_EBS_POI_IN`  E`  VKONT_IDs and Their Characterization
+FKK_EBS_POI_OUT`  E`  Issue of Open Items from Contract Accounts Rec. and Payable
+FKK_EBS_REVERSE`  E`  One Line = Document to be Reversed
+FKK_EBS_TOI_COPA`  E`  FI-CA: Open Items and CO-PA Characteristic Transfer
+FLCUSTOMER_CREATEFROMDATA01`  E`  Create new customer
+FLIGHTBOOKING_CANCEL01`  E`  Cancel flight booking
+FLIGHTBOOKING_CONFIRM01`  E`  Confirm flight booking
+FLIGHTBOOKING_CREATEANDRESP01`  E`  Create Flight Booking and Send Confirmation
+FLIGHTBOOKING_CREATEFROMDAT01`  E`  Create flight booking
+FLIGHTBOOKING_SENDRESPONSE01`  E`  Send Confirmation of Flight Booking (Outbound)
+FLIGHTCUSTOMER_CHANGE01`  E`  Change Flight Customer
+FLIGHT_SAVEREPLICA01`  E`  Save replicated flight data
+FMALE_FI_01`  E`  ALE Distribution FM Actual
+FMALE_OI_01`  E`  ALE Distribution FM Commitment
+FMEDIDOC`  E`  IDOC to distribute BCS Entry Documents
+FOREXSEMBA_GETDETAIL01`  E`  Foreign Exchange: BAPI - Get Detail Multi
+FOREXSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+FPSEM_GETDETAIL01`  E`  Read Detail Data for Securities
+FRASEMBA_GETDETAILWITHFO01`  E`  Grouping of Transaction and Financial Object
+FSHCREMAS01`  E`  Fashion Specific Basic type for Vendor
+FSHDEBMAS01`  E`  Fashion Basic type for Customer Master
+FSHDLV01`  E`  IDOC: Fashion Specific of DELVRY01
+FSHDLV02`  E`  IDOC: Fashion Specific of DELVRY01
+FSHDLV03`  E`  IDOC: Fashion Specific of DELVRY01
+FSHDLV04`  E`  IDOC: Fashion Specific of DELVRY01
+FSHGMCR01`  E`  FSH Post Goods Movements with MB_CREATE_GOODS_MOVEMENT
+FSHINV01`  E`  IDOC: Fashion Specific - INVOIC02
+FSHORD01`  E`  Fashion Order
+FSHORD02`  E`  Fashion Order
+FSHORD03`  E`  Fashion Order
+FSHPORDCH01`  E`  FSH Change Purchase Order
+FSHPORDCH02`  E`  FSH Change Purchase Order
+FSHPORDCH03`  E`  FSH Change Purchase Order
+FSHPORDCR101`  E`  FSH Create Purchase Order
+FSHPORDCR102`  E`  FSH Create Purchase Order
+FSHPORDGD101`  E`  FSH Detail Information for a Purchase Order
+FSHPORDGD102`  E`  FSH Detail Information for a Purchase Order
+FSHSEASON01`  E`  Create and Change Season workbench data
+FSHSEASON02`  E`  Create and Change Season workbench data
+FSHSPM01`  E`  IDOC: Fashion Specific - SHPMNT06
+FSL_FC_INVOICE01`  E`  FSL: Fuel Card Collective Invoice
+FTDABA01`  E`  Foreign Trade Data Service Basic Data
+FTDACU01`  E`  Foreign Trade Data Service Customs Data
+FTDSEMBA_GETDETAIL01`  E`  Fixed-Term Deposit: GetDetailMultiple
+FTDSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+FTRCON01`  E`  Confirm transaction
+FTRPAYMENTDETAIL_GETLIST01`  E`  List of Payment Details
+FTR_ADDFLOW_CHANGE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_ADDFLOW_CREATE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_ADDFLOW_DELETE01`  E`  FTR: RFC for Method 'Paymentdetail.Delete'
+FTR_ADDFLOW_GETLIST01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_BG_CHANGE01`  E`  Change Bank Guarantee
+FTR_BG_CHANGE02`  E`  Change Bank Guarantee
+FTR_BG_CREATE01`  E`  Create Bank Guarantee
+FTR_BG_CREATE02`  E`  Create Bank Guarantee
+FTR_BG_DEALCHANGE01`  E`  Completely change Bank Guarantee
+FTR_BG_DEALCHANGE02`  E`  Completely change Bank Guarantee
+FTR_BG_DEALCHANGE03`  E`  Completely change Bank Guarantee
+FTR_BG_DEALCREATE01`  E`  Completely create Bank Guarantee
+FTR_BG_DEALCREATE02`  E`  Completely create Bank Guarantee
+FTR_BG_DEALCREATE03`  E`  Completely create Bank Guarantee
+FTR_BG_ORDERCHANGE01`  E`  Completely change Bank Guarantee order
+FTR_BG_ORDERCHANGE02`  E`  Completely change Bank Guarantee order
+FTR_BG_ORDERCHANGE03`  E`  Completely change Bank Guarantee order
+FTR_BG_ORDERCREATE01`  E`  Completely create Bank Guarantee order
+FTR_BG_ORDERCREATE02`  E`  Completely create Bank Guarantee order
+FTR_BG_ORDERCREATE03`  E`  Completely create Bank Guarantee order
+FTR_BG_ORDEREXECUTE01`  E`  Execute Bank Guarantee order
+FTR_BG_ORDEREXPIRE01`  E`  Expire Bank Guarantee order
+FTR_BG_REVERSE01`  E`  Reverse Bank Guarantee
+FTR_BG_ROLLOVER01`  E`  Rollover Bank Guarantee
+FTR_BG_ROLLOVER02`  E`  Rollover Bank Guarantee
+FTR_BG_SETTLE01`  E`  Settle Bank Guarantee
+FTR_BG_TERMINATE01`  E`  Terminate Bank Guarantee
+FTR_CAI_CHANGE01`  E`  Change Current Acct-Style Instrument
+FTR_CAI_CREATE01`  E`  Create Current Acct-Style Instrument
+FTR_CAI_DEALCHANGE01`  E`  Completely Change a Current Acct-Style Instrument
+FTR_CAI_DEALCREATE01`  E`  Completely Create a Current Acct-Style Instrument
+FTR_CAI_MAINFLOWCHANGE01`  E`  Change Main Flow
+FTR_CAI_MAINFLOWCREATE01`  E`  Create Main Flow
+FTR_CAI_MAINFLOWDELETE01`  E`  Delete Main Flow
+FTR_CAI_REVERSE01`  E`  Reverse Current Acct-Style Instrument
+FTR_CAI_ROLLOVER01`  E`  Rollover Current Acct-Style instrument
+FTR_CAI_SETTLE01`  E`  Settle Current Acct-Style Instrument
+FTR_CAPFLOOR_CHANGE01`  E`  Change OTC Interest Rate Derivative Cap/Floor
+FTR_CAPFLOOR_CREATE01`  E`  Create OTC Interest Rate Derivative Cap/Floor
+FTR_CAPFLOOR_GIVENOTICE01`  E`  Give Notice on OTC Interest Rate Derivative Cap/Floor
+FTR_CAPFLOOR_MFCHANGE01`  E`  Change Main Flow
+FTR_CAPFLOOR_MFCREATE01`  E`  Create Main Flow
+FTR_CAPFLOOR_MFDELETE01`  E`  Delete Main Flow
+FTR_CAPFLOOR_REVERSE01`  E`  Reverse an OTC Interest Rate Derivative Cap/Floor
+FTR_CFT_CHANGE01`  E`  Change Cash Flow-Dependent Transaction
+FTR_CFT_CREATE01`  E`  Create Cash Flow-Dependent Transaction
+FTR_CFT_FLOWCHANGE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_CFT_FLOWCREATE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_CFT_FLOWDELETE01`  E`  FTR: RFC for Method 'Paymentdetail.Delete'
+FTR_CFT_FLOWGETLIST01`  E`  FTR: RFC for Method 'CFT.CashflowGetList'
+FTR_CFT_GETDETAIL01`  E`  Details of a cash flow-dependent transaction
+FTR_CFT_REVERSE01`  E`  Reverse Cash Flow-Dependent Transaction
+FTR_COMS_CHANGE01`  E`  Change a Commodity Swap
+FTR_COMS_CONDDEALCREATE01`  E`  Completely Create a Commodity Swap
+FTR_COMS_CONDDEALCREATE02`  E`  Completely Create a Commodity Swap
+FTR_COMS_CREATE01`  E`  Create a Commodity Swap
+FTR_COMS_DEALCHANGE01`  E`  Completely Change a Commodity Swap
+FTR_COMS_DEALCHANGE02`  E`  Completely Change a Commodity Swap
+FTR_COMS_DEALCREATE01`  E`  Completely Create a Commodity Swap
+FTR_COMS_DEALCREATE02`  E`  Completely Create a Commodity Swap
+FTR_COMS_GIVENOTICE01`  E`  Give Notice a Commodity Swap
+FTR_COMS_REVERSE01`  E`  Reverse a Commodity Swap
+FTR_CONDITION_CHANGE01`  E`  RFC for Method Condition.Change
+FTR_CONDITION_CHANGE02`  E`  RFC for Method Condition.Change
+FTR_CONDITION_CREATE01`  E`  RFC for Method Condition.Create
+FTR_CONDITION_CREATE02`  E`  RFC for Method Condition Creation
+FTR_CONDITION_DELETE01`  E`  RFC for Method Condition.Delete
+FTR_CONDITION_GETLIST01`  E`  RFC for Method Condition.GetList
+FTR_CONDITION_GETLIST02`  E`  RFC for Method Condition.GetList
+FTR_COUNTERCONFIRM01`  E`  Counterconfirm financial transaction
+FTR_CP_CHANGE01`  E`  Change Commercial Paper
+FTR_CP_CREATE01`  E`  Create Commercial Paper
+FTR_CP_GETDETAIL01`  E`  Details of a fixed-term deposit
+FTR_CP_REVERSE01`  E`  Reverse Fixed-Term Deposit per BAPI
+FTR_CTYFWD_CHANGE01`  E`  Change Commodity Forward
+FTR_CTYFWD_CHANGE02`  E`  Change Commodity Forward
+FTR_CTYFWD_CREATE01`  E`  Create Commodity Forward
+FTR_CTYFWD_CREATE02`  E`  Create Commodity Forward
+FTR_CTYFWD_DEALCHANGE01`  E`  Completely Change a Forex Transaction
+FTR_CTYFWD_DEALCHANGE02`  E`  Completely Change a Forex Transaction
+FTR_CTYFWD_DEALCHANGE03`  E`  Completely Change a Forex Transaction
+FTR_CTYFWD_DEALCREATE01`  E`  Completely Create a Forex Transaction
+FTR_CTYFWD_DEALCREATE02`  E`  Completely Create a Forex Transaction
+FTR_CTYFWD_DEALCREATE03`  E`  Completely Create a Forex Transaction
+FTR_CTYFWD_REVERSE01`  E`  Reverse Commodity Forward
+FTR_CTYFWD_SETTLE01`  E`  Settle Commodity Forward
+FTR_DAN_CHANGE01`  E`  Change fixed-term deposit per BAPI
+FTR_DAN_CREATE01`  E`  Create fixed-term deposit
+FTR_DAN_GETDETAIL01`  E`  Details of a fixed-term deposit
+FTR_DAN_GIVENOTICE01`  E`  Roll Over Fixed-Term Deposit per BAPI
+FTR_DAN_MAINFLOWCHANGE01`  E`  FTR: RFC for Method 'FinancialTransaction.MainFlowCreate'
+FTR_DAN_MAINFLOWCREATE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_DAN_MAINFLOWDELETE01`  E`  FTR: RFC for Method 'Paymentdetail.Delete'
+FTR_DAN_MAINFLOWGETLIST01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_DAN_REVERSE01`  E`  Reverse Fixed-Term Deposit per BAPI
+FTR_DAN_ROLLOVER01`  E`  Roll Over Fixed-Term Deposit per BAPI
+FTR_FACILITY_CREATE01`  E`  Create Facility
+FTR_FAC_CHANGE01`  E`  Change Facility
+FTR_FAC_DEALCHANGE01`  E`  Completely Create a Facility Transaction
+FTR_FAC_DEALCREATE01`  E`  Completely Create a Facility Transaction
+FTR_FAC_REVERSE01`  E`  Reverse a Facility Transaction
+FTR_FAC_SETTLE01`  E`  Settle a Facility Transaction
+FTR_FLP_CHANGE01`  E`  Change a Forward Loan
+FTR_FLP_CREATE01`  E`  Create a Forward Loan
+FTR_FLP_DEALCHANGE01`  E`  Completely Change a Forward Loan
+FTR_FLP_DEALCREATE01`  E`  Completely Create a Forward Loan
+FTR_FLP_REVERSE01`  E`  Reverse a Forward Loan
+FTR_FRA_CHANGE01`  E`  Change an OTC Interest Rate Derivative FRA
+FTR_FRA_CREATE01`  E`  Create an OTC Interest Rate Derivative FRA
+FTR_FRA_GIVENOTICE01`  E`  Give Notice on an OTC Interest Rate Derivative FRA
+FTR_FRA_REVERSE01`  E`  Reverse an OTC Interest Rate Derivative FRA
+FTR_FST_ADVMATURITY01`  E`  Advance Maturity Forward Security
+FTR_FST_CHANGE01`  E`  Change Forward Security
+FTR_FST_CREATE01`  E`  Create Forward Security
+FTR_FST_DEALCHANGE01`  E`  Completely Change a Future Security
+FTR_FST_DEALCREATE01`  E`  Completely Create a Forward Security
+FTR_FST_DELIVERY01`  E`  Delivery Forward Security
+FTR_FST_REVERSE01`  E`  Reverse Forward Security
+FTR_FST_ROLLOVER201`  E`  Rollover Forward Security
+FTR_FTD_CHANGE01`  E`  Change fixed-term deposit per BAPI
+FTR_FTD_CREATE01`  E`  Create fixed-term deposit
+FTR_FTD_GETDETAIL01`  E`  Details of a fixed-term deposit
+FTR_FTD_MAINFLOWCHANGE01`  E`  FTR: RFC for Method 'FinancialTransaction.MainFlowCreate'
+FTR_FTD_MAINFLOWCREATE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_FTD_MAINFLOWDELETE01`  E`  FTR: RFC for Method 'Paymentdetail.Delete'
+FTR_FTD_MAINFLOWGETLIST01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_FTD_REVERSE01`  E`  Reverse Fixed-Term Deposit per BAPI
+FTR_FTD_ROLLOVER01`  E`  Roll Over Fixed-Term Deposit per BAPI
+FTR_FUTURE_CHANGE01`  E`  Change a Future
+FTR_FUTURE_CHANGE02`  E`  Change a Future
+FTR_FUTURE_CREATE01`  E`  Create a Future
+FTR_FUTURE_CREATE02`  E`  Create a Future
+FTR_FUTURE_GETDETAIL01`  E`  Details of a Future
+FTR_FUTURE_GETDETAIL02`  E`  Details of a Future
+FTR_FUTURE_REVERSE01`  E`  Reverse a Future
+FTR_FXOPTION_CHANGE01`  E`  Change an FX Option
+FTR_FXOPTION_CHANGE_CRL01`  E`  Create Basket/Correlation Option
+FTR_FXOPTION_CREATE01`  E`  Create Currency Option
+FTR_FXOPTION_CREATE_AVG01`  E`  Create Average Rate Option
+FTR_FXOPTION_CREATE_CRL01`  E`  Create Basket/Correlation Option
+FTR_FXOPTION_CREATE_FVA01`  E`  Create Currency Option
+FTR_FXOPTION_EXERCISE01`  E`  Exercise FX Option
+FTR_FXOPTION_EXPIRE01`  E`  Allow FX Option to Expire
+FTR_FXOPTION_GETDETAIL01`  E`  Details on FX Options
+FTR_FXOPTION_GETDETAIL_CRL01`  E`  Details on FX Options
+FTR_FXOPTION_KNOCKIN01`  E`  Knockin FXOPTION
+FTR_FXOPTION_KNOCKOUT01`  E`  Knockout FXOPTIONS
+FTR_FXOPTION_REVERSE01`  E`  Reverse FX Option
+FTR_FXOPTION_SETTLE01`  E`  Cancel FX OPTION
+FTR_FXT_CHANGE01`  E`  Change forex transaction
+FTR_FXT_CHANGE02`  E`  Change a Foreign Exchange Transaction
+FTR_FXT_CREATE01`  E`  Create forex transaction
+FTR_FXT_DEALCHANGE01`  E`  Completely Change a Forex Transaction
+FTR_FXT_DEALCHANGE02`  E`  Completely Change a Forex Transaction
+FTR_FXT_DEALCHANGE03`  E`  Completely Change a Forex Transaction
+FTR_FXT_DEALCREATE01`  E`  Completely Create a Forex Transaction
+FTR_FXT_DEALCREATE02`  E`  Completely Create a Forex Transaction
+FTR_FXT_GETDETAIL01`  E`  Details of a forex transaction
+FTR_FXT_NDFFIXING01`  E`  Settle a Foreign Exchange Transaction
+FTR_FXT_REVERSE01`  E`  Reverse forex transaction
+FTR_FXT_SETTLE01`  E`  Settle Forex Transaction
+FTR_FX_CREATESWAP01`  E`  Create Forex Transaction
+FTR_FX_CREATESWAP011`  E`  Create Currency Swap
+FTR_GETDETAIL01`  E`  Read transaction detailed data
+FTR_GETLIST01`  E`  Read transaction list
+FTR_HEDGEMGMTDATA_CREATE01`  E`  Create Additional Flow
+FTR_IRATE_CHANGE01`  E`  Change interest rate instrument
+FTR_IRATE_CHANGE02`  E`  Change interest rate instrument
+FTR_IRATE_CREATE01`  E`  Create interest rate instrument
+FTR_IRATE_CREATE02`  E`  Create interest rate instrument
+FTR_IRATE_GETDETAIL01`  E`  Create interest rate instrument
+FTR_IRATE_GETDETAIL02`  E`  Create interest rate instrument
+FTR_IRATE_GIVENOTICE01`  E`  Give Notice on Interest Rate Instrument
+FTR_IRATE_MAINFLOWCHANGE01`  E`  FTR: RFC for Method 'FinancialTransaction.MainFlowCreate'
+FTR_IRATE_MAINFLOWCREATE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_IRATE_MAINFLOWDELETE01`  E`  FTR: RFC for Method 'Paymentdetail.Delete'
+FTR_IRATE_MAINFLOWGETLIST01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_IRATE_REVERSE01`  E`  Reverse interest rate instrument
+FTR_IRATE_ROLLOVER01`  E`  Rollover interest rate instrument
+FTR_LC_CHANGE01`  E`  Change Letter of Credit
+FTR_LC_CHANGE02`  E`  Change Letter of Credit
+FTR_LC_CREATE01`  E`  Create Letter of Credit
+FTR_LC_CREATE02`  E`  Create Letter of Credit
+FTR_LC_DEALCHANGE01`  E`  Completely Change a Letter of Credit
+FTR_LC_DEALCHANGE02`  E`  Completely Change a Letter of Credit
+FTR_LC_DEALCHANGE03`  E`  Completely Change a Letter of Credit
+FTR_LC_DEALCREATE01`  E`  Create a Letter of Credit Completely
+FTR_LC_DEALCREATE02`  E`  Create a Letter of Credit Completely
+FTR_LC_DEALCREATE03`  E`  Create a Letter of Credit Completely
+FTR_LC_ORDERCHANGE01`  E`  Completely Change a Letter of Credit Order
+FTR_LC_ORDERCHANGE02`  E`  Completely Change a Letter of Credit Order
+FTR_LC_ORDERCHANGE03`  E`  Completely Change a Letter of Credit Order
+FTR_LC_ORDERCREATE01`  E`  Completely Create a Letter of Credit Order
+FTR_LC_ORDERCREATE02`  E`  Completely Create a Letter of Credit Order
+FTR_LC_ORDERCREATE03`  E`  Completely Create a Letter of Credit Order
+FTR_LC_ORDEREXECUTE01`  E`  Execute a Letter of Credit Order
+FTR_LC_ORDEREXPIRE01`  E`  Expire a Letter of Credit Order
+FTR_LC_PRESENT01`  E`  Present Letter of Credit
+FTR_LC_REVERSE01`  E`  Reverse Letter of Credit
+FTR_LC_ROLLOVER01`  E`  Rollover Letter of Credit
+FTR_LC_ROLLOVER02`  E`  Rollover Letter of Credit
+FTR_LC_SETTLE01`  E`  Settle Letter of Credit
+FTR_LC_TERMINATE01`  E`  Terminate Letter of Credit
+FTR_PAYDET_CHANGE01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_PAYDET_CREATE01`  E`  Create Payment Details
+FTR_PAYDET_DELETE01`  E`  FTR: RFC for Method 'Paymentdetail.Delete'
+FTR_PAYDET_GETLIST01`  E`  FTR: RFC for Method 'Paymentdetail.Create'
+FTR_REPO_CHANGE01`  E`  Change a Repo
+FTR_REPO_CREATE01`  E`  Create a Repo
+FTR_REPO_DEALCHANGE01`  E`  Completely Change a Repo
+FTR_REPO_DEALCREATE01`  E`  Completely Create a Repo
+FTR_REPO_REVERSE01`  E`  Reverse a Repo
+FTR_SECURITY_CHANGE01`  E`  Change security transaction
+FTR_SECURITY_CREATE01`  E`  Create security transaction
+FTR_SECURITY_DEALCHANGE01`  E`  Completely Change a Security Transaction
+FTR_SECURITY_DEALCREATE01`  E`  Completely Create a Security Transaction
+FTR_SECURITY_GETDETAIL01`  E`  Security transaction details
+FTR_SECURITY_REVERSE01`  E`  Reverse Security Transaction
+FTR_SECURITY_SETTLE01`  E`  Settle Security Transaction
+FTR_SETTLE01`  E`  Settle financial transaction
+FTR_SL_CHANGE01`  E`  Change a Security Lending Transaction
+FTR_SL_CREATE01`  E`  Create a Security Lending Transaction
+FTR_SL_GIVENOTICE01`  E`  Security Lending: Give notice
+FTR_SL_REVERSE01`  E`  Reverse a Security Lending Transaction
+FTR_SL_ROLLOVER01`  E`  Security Lending :Rollover
+FTR_SWAP_CHANGE01`  E`  Change an OTC Interest Rate Derivative Swap
+FTR_SWAP_CREATE01`  E`  Create an OTC Interest Rate Derivative Swap
+FTR_SWAP_GIVENOTICE01`  E`  Give Notice on an OTC Interest Rate Derivative Swap
+FTR_SWAP_MFCHANGE01`  E`  Change Main Flow
+FTR_SWAP_MFCREATE01`  E`  Create Main Flow
+FTR_SWAP_MFDELETE01`  E`  Delete Main Flow
+FTR_SWAP_REVERSE01`  E`  Reverse an OTC Interest Rate Derivative Swap
+FTR_TRES_ADVANCEMATURITY01`  E`  Advance Maturity a Total Return Swap
+FTR_TRES_CHANGE01`  E`  Change a Total Return Swap
+FTR_TRES_CREATE01`  E`  Create a Total Return Swap
+FTR_TRES_DEALCHANGE01`  E`  Completely Change a Total Return Swap
+FTR_TRES_DEALCREATE01`  E`  Completely Create a Total Return Swap
+FTR_TRES_EXERCISE01`  E`  Exercise a Total Return Swap
+FTR_TRES_REVERSE01`  E`  Reverse a Total Return Swap
+FTR_TRIGGER_CORRESPONDENCE01`  E`  Trigger automatic correspondence
+FUNC_LOC_CHANGE01`  E`  PM BAPI: Change Functional Location
+FUNC_LOC_CHANGE02`  E`  PM BAPI: Change Functional Location
+FUNC_LOC_CREATE01`  E`  PM BAPI: Create Functional Location
+FUNC_LOC_CREATE02`  E`  PM BAPI: Create Functional Location
+FUNDMA01`  E`  IDoc: Funds Management Fund
+FUNDSCTR`  E`  FundsManagement: Funds Center
+FXOPTION_CHANGE_FVA01`  E`  Create Currency Option
+FXRATESSEMBA_GETDETAIL01`  E`  Get Detail BAPI
+GENTRANSSEMBA_GETDETAIL01`  E`  BAPI: Export of Generic Transaction
+GENTRANSSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+GLCORE01`  E`  Documentation deleted
+GLDCMT01`  E`  IDoc type for GLX rollups
+GLMAST01`  E`  Master data G/L accounts: Max. IDoc
+GOODSMOVEMENTOIL_CREATEFROMD01`  E`  Post goods movements with MB_CREATE_GOODS_MOVEMENT
+GOODSMVT_SAPCREATE01`  E`  SAP Internal Cross-System Flow of Goods
+GSVERF01`  E`  IDoc input credit memo procedure
+GSVERF02`  E`  Cred. memo procedure
+GSVERF03`  E`  Cred. memo procedure
+HANDLINGUNIT_DELETEFROMDEL01`  E`  Delete Handling Unit for Delivery
+HAZARDOUSSUBSTANCE01`  E`  EHS: BAPI for Mass Maintenance of Hazardous Substances
+HAZARDOUSSUBSTANCE02`  E`  BAPI: Edit Hazardous Substance Data (Mass Editing)
+HBHBAMAST01`  E`  Bapi for house bank and house bank account replicate
+HBHBAMAST02`  E`  House Bank and House Bank Account Replication
+HRCC1DNATTAB01`  E`  CC1: Download permitted att./absence reasons
+HRCC1DNBALAN01`  E`  CC1: Download Employee Balances
+HRCC1DNCOSTC01`  E`  CC1: Download Cost Centers
+HRCC1DNEXTWT01`  E`  CC1: Download permitted external wage types
+HRCC1DNINORD01`  E`  CC1: Download Internal Orders
+HRCC1DNOBJID01`  E`  CC1: Download Objects (such as Positions)
+HRCC1DNPERSO01`  E`  CC1: Download HR Mini-Master
+HRCC1DNTEVGR01`  E`  CC1: Download Time Event Type Groups
+HRCC1DNWBSEL01`  E`  CC1: Download Work Breakdown Structure Element
+HRCC1REQUPEXTWT01`  E`  CC1: Upload Request for Employee Expenditures
+HRCC1REQUPTEVEN01`  E`  CC1: Upload Request for Time Events
+HRCC1UPEXTWT01`  E`  CC1: Upload external wage types
+HRCC1UPTEVEN01`  E`  CC1: Upload time events
+HRCNF01`  E`  Transfer confirmations (TimeMgtConfirmation)
+HRCZELDP`  E`  HRCZ: ELDP
+HRKK1ABSR`  E`  HR TIM CC1: Allowed Attedance/Absence Reasons
+HRKK1EWUP`  E`  HR TIM CC1: External Wage Types Confirmation
+HRKK1EXWT`  E`  HR TIM CC1: Permitted External Wage Types
+HRKK1PERS`  E`  HR TIM KK1: HR Mini Master for Time Recording
+HRKK1TBAL`  E`  HR TIM CC1: Employee Time Balances
+HRKK1TEUP`  E`  HR TIM KK1: Confirmation of person time events
+HRKK1TEVT`  E`  HR TIM CC1: Permitted Time Event Types
+HRKK1WRKC`  E`  HR TIM CC1: Permitted Work Centers
+HRMASTER01`  E`  Replicate (HRMasterDataReplica)
+HRMASTER02`  E`  Replicate (HRMasterDataReplica)
+HRMD_A01`  E`  HR: Master and organizational data (application system)
+HRMD_A02`  E`  HR: Master and organizational data (application system)
+HRMD_A03`  E`  HR: Master and organizational data (application system)
+HRMD_A04`  E`  HR: Master and organizational data (application system)
+HRMD_A05`  E`  HR: Planning and HR Master Data (Application System)
+HRMD_A06`  E`  HR: Planning and HR Master Data (Application System)
+HRMD_A07`  E`  HR: Planning and HR Master Data (Application System)
+HRMD_A08`  E`  HR: Planning and HR Master Data (Application System)
+HRMD_A09`  E`  HR: Planning and HR Master Data (Application System)
+HRMD_ABA01`  E`  HR: Master & Organizational Data (Application Basis System)
+HRMD_ABA02`  E`  HR: Master and Plan Data (Application Basis System)
+HRMD_ABA03`  E`  HR: Plan & Personnel Master Data (Application Basis System)
+HRMD_ABA04`  E`  HR: Plan & Personnel Master Data (Application Basis System)
+HRMD_ABA05`  E`  HR: Plan & Master Data (Application Basis System)
+HRMD_ABAWFM`  E`  WFD <-> HCM interface IDOC
+HRMD_ABAWMEM_HCM`  E`  WFD-HCM integration
+HRMD_B01`  E`  HR: Master and organizational data (basis system)
+HRMD_B02`  E`  HR: Master and organizational data (basis system)
+HRMD_B03`  E`  HR: Master and Planning Data (Basis System)
+HRMD_B04`  E`  HR: Master and Planning Data (Basis System)
+HROT558D`  E`  HR: Outsourcing US: Inbound IDOC Table T558A (Test)
+HROTIN`  E`  HR: Outsourcing:  Inbound Payroll Results
+HROTUSTR`  E`  HR-PY-US : Tax Remittance Outsourcing
+HROT_BEN`  E`  Outsourcing - Benefit Data
+HROT_BRM`  E`  HR: BR Master data payroll outsourcing
+HROT_CAM`  E`  HR: Canadian Master Data Payroll Outsourcing
+HROT_CAP`  E`  Payroll Outsourcing - Canada
+HROT_CHM`  E`  HR: CH Master data payroll outsourcing
+HROT_DEM`  E`  HR: DE Master data payroll outsourcing
+HROT_ESM`  E`  HR: ES Master data payroll outsourcing
+HROT_FIM`  E`  HR:  FI Master Data Payroll Export - Outsourcing
+HROT_FRM`  E`  HR: FR Master data payroll outsourcing
+HROT_GBM`  E`  HR: GB Master data payroll outsourcing
+HROT_IEM`  E`  HR: IE Master data payroll outsourcing
+HROT_ITM`  E`  HR: IT Master data payroll outsourcing
+HROT_NLM`  E`  Master Data Outsourcing - The Netherlands
+HROT_NLP`  E`  Gross payroll outsourcing - The Netherlands
+HROT_PRV`  E`  HR: Outsourcing Provider
+HROT_TM`  E`  HR: Outsourcing Time Wage Types
+HROT_USM`  E`  HR: US Master Data Payroll Outsourcing
+HROT_USP`  E`  HR: Generic US Payroll Outsourcing
+HROT_USTP`  E`  Outsourcing:  US Tax Services - Periodic
+HROT_USTQ`  E`  Outsourcing:  US Tax Services - Quarterly
+HROT_USTY`  E`  Outsourcing:  US Tax Services - Yearly Reporting
+HROT_XXM`  E`  HR: International Master Data Payroll Outsourcing
+HROT_XXP`  E`  HR: Generic International Payroll Outsourcing
+HRPAYP01`  E`  HR - Transfer FI/CO
+HRPLL40`  E`  Logistics confirmations for Human Resource Management
+HRSM_A01`  E`  HR: HR data for personnel actions
+HRSM_A03`  E`  HR: HR data for personnel actions
+HRSM_B01`  E`  HR: Confirmation for personnel actions
+HRSM_C01`  E`  HR: Download TIme Data
+HRSM_D01`  E`  HR: Time Data Upload
+HRTRPR01`  E`  Transfer TRV-PAY(PayrollTravelExpenses)
+HRTRVL01`  E`  HR-TRV: Transfer travel expenses FI/CO
+HRTRVL03`  E`  HR-TRV: Transfer Trip Costs to Payroll
+HR_INBND`  E`  HR: OUTSOURCING: Inbound IDoc Tables
+HU_CREATE01`  E`  Create handling unit with items
+HU_CREATE02`  E`  Create handling unit with items
+HU_DELETE01`  E`  BAPI for deleting handling units
+HU_PACK01`  E`  BAPI for packing an item into an HU
+HU_PACK02`  E`  BAPI for Packing an Item into an HU
+HU_PROCESSOUTPUTDIRECT01`  E`  Select and process handling-unit outputs
+HU_REPACK01`  E`  Repack HUs and HU items
+HU_UNPACK01`  E`  BAPI for unpacking an item from an HU
+IBAN_CHANGE01`  E`  Change IBAN
+IBAN_CREATE01`  E`  Create IBAN
+IBAN_SAVEREPLICA01`  E`  Replicate IBAN
+ICL_INVOICE01`  E`  Claims Management Invoice
+IDCREF01`  E`  Reference message as logical grouping for electron.signature
+IMATIS01`  E`  Unplanned material issues
+IMEASR01`  E`  Measurement reading IDOC
+IMPINV01`  E`  Import Basis IDoc (I.B.I.)
+IM_PROGDEF_SAVEREPLICA01`  E`  Method 'SaveReplica' for ExpenditureProgDef
+INCINV_COMPLAIN01`  E`  Invoice Verification: Display Letter of Complaint
+INCINV_CREATE01`  E`  Incoming Invoice (IncomingInvoice)
+INCINV_CREATE02`  E`  Incoming Invoice (IncomingInvoice)
+INCINV_CREATE03`  E`  Incoming Invoice(IncomingInvoice)
+INDEXSEMBA_GETDETAIL01`  E`  Get Detail BAPI
+INFREC01`  E`  Purchasing info record
+INFREC02`  E`  Purchasing info record
+INFRECMASS01`  E`  Purchasing Info Records (Mass IDOC)
+INFRECMASS02`  E`  Purchasing Info Records (Mass IDOC)
+INOTIF01`  E`  Notification IDOC
+INQUIRY_CREATEFROMDATA201`  E`  Customer Inquiry: Create Customer Inquiry
+INQUIRY_CREATEFROMDATA202`  E`  Customer Inquiry: Create Customer Inquiry
+INQUIRY_CREATEFROMDATA203`  E`  Customer Inquiry: Create Customer Inquiry
+INSPECTIONPLAN_CREATE01`  E`  Create Inspection Plan
+INSPECTIONPLAN_CREATE02`  E`  Create Inspection Plan
+INTERNALORDERGROUP_ADDNODE01`  E`  Object BUS1117 (Order Group) - Method AddNode
+INTERNALORDERGROUP_CREATE01`  E`  Object BUS1117 (Order Group) - Method Create
+INTERNAL_ORDER01`  E`  Replicate individual internal order (ALE)
+INTERNAL_ORDER_CREATE01`  E`  Create internal order from transferred data
+INTERNAL_ORDER_CREATE02`  E`  Create Internal Order From Transferred Data
+INTERNAL_ORDER_CREATE03`  E`  Create Internal Order From Transferred Data
+INTRATESSEMBA_GETDETAIL01`  E`  Get Detail BAPI
+INTUPD01`  E`  Notification status update IDoc
+INVCON01`  E`  Stock Change Data for Inventory Controlling
+INVCON02`  E`  Stock Change Data for Inventory Controlling
+INVCON03`  E`  Stock Change Data for Inventory Controlling
+INVOIC01`  E`  Invoice/Billing document
+INVOIC02`  E`  Invoice/Billing document
+INVOIC02_PS`  E`  Public Sector: Invoice/Billing Document
+INVREP01`  E`  inventory report
+INV_ID01`  E`  Invoice
+IOAUPD01`  E`  Work order assignments IDOC
+IORDER01`  E`  SM/PM order IDoc
+IORUPD01`  E`  Order status update IDoc
+ISHINV02`  E`  IS-H: Invoice INVOIC02 extended with Cust-Exit-Parms
+IST_EBS_ARC_DOC`  E`  Archiving and Link Data
+IST_EBS_BUPART_DOC`  E`  IS-T Master Data: Output Business Partner
+IST_EBS_COACC_DOC`  E`  IS-T - EBS Interface: Contract Account
+IST_EBS_POI_IN`  E`  CACCT_IDs and Their Characterization
+IST_EBS_POI_OUT`  E`  Issue of Open Items from Contract Accounts Rec. and Payable
+IST_EBS_REVERSE`  E`  One Line = Document to be Reversed
+IST_EBS_TOI`  E`  Transfer of Open Items from External System
+IST_EBS_TOI_COPA`  E`  IS-T: Open Items and CO-PA Characteristic Transfer to FI-CA
+ISUPROFILE_GET01`  E`  Extract Profile Values
+ISUPROFILE_GETFROMPOD01`  E`  Extract Profile Values
+ISUPROFILE_IMPORT01`  E`  Import Profile Values
+ISUPROFILE_UPLOAD01`  E`  Upload Profile Values
+ISU_ADVICE`  E`  IS-U deregulation: rejection (EDI 824)
+ISU_C4C_CONTRACT_ACCOUNT_RE01`  E`  IDoc Structure for Data Type COD_S_ISU_ACCOUNT_DATA
+ISU_C4C_CONTRACT_ACCOUNT_REP01`  E`  IDoc Structure for Data Type COD_S_ISU_ACCOUNT_DATA
+ISU_COL_NOTIF`  E`  IS-U: Service notification download (disconn./coll./reconn.)
+ISU_COL_ORDER`  E`  IS-U: Download of work order (disconn./collection/reconn.
+ISU_CONSOLIDATOR_ENROLLMENT`  E`  IS-U: upload logon/logoff for bill consolidator
+ISU_CONSOLIDATOR_ENROLL_ACK`  E`  IS-U: download confirmation of logon/logoff for bill aggrgtr
+ISU_CONSOLIDATOR_PAYMENT_RECVD`  E`  IS-U: download received payments for bill consolidator
+ISU_CONTRACT_PAYMENT`  E`  Contract payment information
+ISU_DEVICE_CHANGE`  E`  IS-U: Control for installation, removal and repl. of devices
+ISU_DISC_UPLOAD`  E`  IS-U/CSS: upload for disconnection/reconnection order data
+ISU_DL_NOTIF`  E`  Service notification for device location download
+ISU_DL_ORDER`  E`  IS-U: Work order download (for device location)
+ISU_EDIEL_DELFOR`  E`  DELFOR (EDIEL)
+ISU_EDIEL_MSCONS`  E`  MSCONS (EDIEL)
+ISU_EDIEL_PRODAT`  E`  PRODAT as EDIEL EDIFACT Format
+ISU_EL34`  E`  Upload of meter reading results
+ISU_EL40`  E`  Change of street route
+ISU_GENERAL_REQEST_RESPONSE`  E`  General message type: query, answer, confirmation
+ISU_INVOICE`  E`  Customer bill information to external service provider
+ISU_INVOICE_4010`  E`  EDI 810 invoice
+ISU_INVOIC_1`  E`  ISU INVOIC
+ISU_MAINTENANCE_SERVICE_ORDER`  E`  IS-U: EDI 650 - Service Request
+ISU_MDI_UPLOAD`  E`  IS-U Work Management: Upload of mobile data information
+ISU_MR_UPLOAD01`  E`  Upload meter reading results
+ISU_MR_UPLOAD02`  E`  Upload Meter Reading Results
+ISU_OMS_NOTIF`  E`  IS-U: download service notif. for outage management system
+ISU_OMS_OEND`  E`  IS-U: Record end of outage/generate customer contacts
+ISU_OMS_ORDER`  E`  IS-U: download of work order for outage management system
+ISU_PPM_FORMS`  E`  IS-U: QS Forms for Prepayment Meters
+ISU_REMITTANCE_ADVICE`  E`  IS-U: notice of transfer
+ISU_REMITTANCE_ADV_CONTROL`  E`  IDE: control-IDoc for transfer notification
+ISU_REMITTANCE_DETAIL`  E`  IDE: detailed information on payment transfer
+ISU_REMIT_ADV_HEADER`  E`  IDE: general information on payment transfer
+ISU_REQUEST_RESPONSE`  E`  EDI814: Service request (or answer)
+ISU_RPL_NOTIF`  E`  IS-U: service notification download (dev. repl., ap. MR)
+ISU_RPL_ORDER`  E`  IS-U: download of work order for device repl., aperiodic MR
+ISU_SDSM_COMP`  E`  IS-U: Report completion of service order with disaggregation
+ISU_SDSM_ORDER`  E`  IS-U: Disaggregation of SD order and SM order
+ISU_USAGE_DATA`  E`  IS-U: transfer consumption and meter data
+ISU_USAGE_INFORMATION`  E`  Consumption values
+ISU_VDEW_APERAK`  E`  APERAK  (German Electricity Associaiton 1.0, D.99A)
+ISU_VDEW_DELFOR`  E`  DELFOR (VDEW)
+ISU_VDEW_INVOIC`  E`  INVOIC (German Electricity Association 1.5, D.99A)
+ISU_VDEW_MSCONS`  E`  MSCONS (VDEW 1.3h, D.99A)
+ISU_VDEW_REMADV`  E`  RA: Create Check-In/Check-Out Data
+ISU_VDEW_UTILMD`  E`  UTILMD (German Electricity Association 1.0, D.01A)
+ISU_VDEW_UTILMD_V30`  E`  UTILMD (VDEW 3.0A, D.02B)
+ISU_WA_ROUTEUPLOAD01`  E`  BAPI: Upload route numbers for service frequency
+ISU_WRITEOFF`  E`  Deregulation: clear receivables
+IUID_MESSAGE_COM01`  E`  IDOC to Register and Update UIIs
+IUID_MESSAGE_COM02`  E`  IDOC to Register and Update UIIs
+IUID_REG_CON01`  E`  BAPI to Send UII for Registration
+IWKCEN01`  E`  Work Center IDOC
+JBIBP_BP01`  E`  IDoc Structure for Data Type JBIBP_BUS_EI_EXTERN
+JBIBP_REL01`  E`  IDoc Structure for Data Type JBIBP_BURS_EI_EXTERN
+JOBROLE_CLONE01`  E`  Create a user (job role)
+JV_EXP01`  E`  Joint Venture Billing - Operating Exp Statement
+JV_EXP02`  E`  Joint Venture Billing - Operating Expenditure Statement
+JV_INV01`  E`  Joint Venture Billing - Invoice
+KANBAN01`  E`  Kanban Call for Kanban With SD Delivery
+KNOMAS01`  E`  Master Dependency Basic Data
+KNOMAS02`  E`  Master Dependency Basic Data
+LABELS00`  E`  ISR labeling: label
+LAYMOD01`  E`  Distribution of Layout Modules
+LIKOND01`  E`  Listing conditions
+LIMITDEFSEMBA_GETDETAIL01`  E`  Limits: Get Detail BAPI
+LIMITDEFSEMBA_GETDETAILBA01`  E`  Limits for BA: GetDetail BAPI
+LIQUIDATIONCMS_GETDETAILMLT01`  E`  BAPI: Liquidation get
+LIS_EXTR`  E`  LIS inbound interface for external data
+LOANSEMBA_GETDETAIL01`  E`  Loan: Contracts - Get Detail Multiple
+LOANSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+LOAN_CONTRACTCREATE01`  E`  Create Loan Contract
+LOAN_GETDETAILMLT01`  E`  Read Detailed Data for Loan
+LOCAPSIF_RECEIVELIST01`  E`  Acceptance of Query Result: Location Selection
+LOCAPSIF_RECEIVELIST201`  E`  Acceptance of Query Result: Read from Locations
+LOCAPSIF_RECEIVELIST202`  E`  Acceptance of Query Result: Read from Locations
+LOCAPSIF_RECEIVELIST203`  E`  Acceptance of Query Result: Read from Locations
+LOCAPSIF_RECEIVELIST204`  E`  Acceptance of Query Result: Read from Locations
+LOCAPSIF_RECEIVELIST205`  E`  Acceptance of Query Result: Read from Locations
+LOCAPS_DELETEMULTIPLE01`  E`  Delete one or more locations
+LOCAPS_DELETEMULTIPLE201`  E`  Location Deletion
+LOCAPS_REQUESTLIST01`  E`  Query: Read Locations by Selection Criteria
+LOCAPS_REQUESTLIST02`  E`  Query: Read Locations by Selection Criteria
+LOCAPS_REQUESTLIST201`  E`  Query: Read Locations
+LOCAPS_SAVEMULTIPLE01`  E`  Create or Change Location Data
+LOCAPS_SAVEMULTIPLE02`  E`  Create or Change Location Data
+LOCAPS_SAVEMULTIPLE201`  E`  Create or Change Location Data
+LOCAPS_SAVEMULTIPLE202`  E`  Create or Change Location Data
+LOCAPS_SAVEMULTIPLE203`  E`  Create or Change Location Data
+LOCAPS_SAVEMULTIPLE204`  E`  Create or Change Location Data
+LOCAPS_SAVEMULTIPLE205`  E`  Create or Change Location Data
+LOCAT5`  E`  Location in KK5
+LOIBOM01`  E`  Master bill of material
+LOICAL01`  E`  Master calendar
+LOIMSO01`  E`  Storage location stock material
+LOINUM01`  E`  Number of IDocs sent
+LOIPGR01`  E`  IDOC for product group
+LOIPLO01`  E`  Master planned order
+LOIPLO02`  E`  Master Planned Order (SAP ME Integration)
+LOIPRO01`  E`  Master production order
+LOIPRO02`  E`  Production Order (MES Integration)
+LOIPRO03`  E`  Production Order (SAP ME Integration)
+LOIPRO04`  E`  Production Order (SAP ME Integration)
+LOIRNH01`  E`  Master hierarchy/networks
+LOIROU01`  E`  Master routing
+LOIROU02`  E`  Master routing
+LOIROU03`  E`  Routings (MES Integration)
+LOIROU04`  E`  Routing with Dependencies
+LOIRSH01`  E`  Master run schedule header
+LOISTD01`  E`  Master requirements/stock list
+LOITMX01`  E`  Transition matrix
+LOIWCS01`  E`  Master work center
+LOIWCS02`  E`  Master work center IDoc
+LOIWCS03`  E`  Master IDoc Work Center with OEE Integration
+LPHAPSIF_RECEIVEDETAIL01`  E`  Receipt of Request Result
+LPHAPS_REMOVENODES01`  E`  Remove Node (LocPrdHierarchyAPS)
+LPHAPS_REQUESTDETAIL01`  E`  Request: Read Location Product Hierarchy
+LPHAPS_SAVENODES01`  E`  Add/Change (LocPrdHierarchyAPS)
+LPIEQU01`  E`  IDoc:  quota arrangement
+LPIPCM01`  E`  Production campaign
+LPSPAPSIF_RECEIVELIST01`  E`  Receipt of Request Result
+LSPAPSIF_RECEIVELIST01`  E`  Receipt of Request Result
+MALFK5`  E`  CC5 reasons for scrap
+MANAGEREXTPAYROLL_INSERTLEGA01`  E`  Transfer payroll account
+MANAGEREXTPAYROLL_INSERTOUT01`  E`  Update of a payroll result using an outsourcer
+MARKETINGTARGETGROUP_ADDBP01`  E`  Method for BUS1185 (MarketingTargetGroup)
+MARKETINGTARGETGROUP_CHANGE01`  E`  BAPI for BUS1185 Marketing Target Group: Change Target Group
+MARKETINGTARGETGROUP_CREATE01`  E`  BAPI for BUS1185: Create Target Group
+MARKETINGTARGETGROUP_DELETE01`  E`  BAPI for BUS1185 Marketing TargetGroup: Delete Target Group
+MARKETINGTARGETGROUP_GETDETA01`  E`  BAPI for BUS1185: Display Target Group Attributes
+MARKETINGTARGETGROUP_GETLIST01`  E`  BAPI for BUS1185 Mark (MarketingTargetGroup)
+MARKETINGTARGETGROUP_REMOVEB01`  E`  Method for BUS1185 (MarketingTargetGroup)
+MATCOR01`  E`  Core master material
+MATERIALBOM_CREATEBOMGROUP01`  E`  Creation of a material BOM group
+MATERIALPHYSINV_COUNT01`  E`  Enter Inventory Count (MaterialPhysInv)
+MATERIALPHYSINV_COUNT02`  E`  Enter Inventory Count (MaterialPhysInv)
+MATERIALPHYSINV_CREATEMULTIP01`  E`  Create physical inventory document
+MATERIALPHYSINV_POSTDIFFEREN01`  E`  Post Differences (MaterialPhysInv)
+MATERIALRESERVATION_CHANGE01`  E`  BAPI to Change Individual Reservations
+MATERIALRESERVATION_CHANGE02`  E`  BAPI to Change Individual Reservations
+MATERIALRESERVATION_CREATE101`  E`  BAPI to Create Individual Reservations
+MATERIALRESERVATION_DELETE01`  E`  BAPI to Delete Individual Reservations
+MATERIALVALUATION_DEBITCREDI01`  E`  Debit/Credit Material
+MATERIALVALUATION_PRICECHANG01`  E`  Material Price Change
+MATMAS01`  E`  Material Master
+MATMAS02`  E`  Material Master
+MATMAS03`  E`  Material Master
+MATMAS04`  E`  Material Master
+MATMAS05`  E`  Enhancement: Distribution of Single-Level Variants
+MATMAS06`  E`  Enhancement for material master segmentation relevant tables
+MATMASDI`  E`  Customer Field Distribution
+MATMAS_BAPI01`  E`  Create and Change Material Master Data
+MATMAS_BAPI02`  E`  Create and Change Material Master Data
+MATMAS_BAPI03`  E`  Create and Change Material Master Data
+MATMAS_BAPI04`  E`  Create and Change Material Master Data
+MATMAS_MASS_BAPI01`  E`  BAPI for Mass Maintenance of Material Data
+MATMAS_MASS_BAPI02`  E`  BAPI for Mass Maintenance of Material Data
+MATMAS_MASS_BAPI03`  E`  BAPI for Mass Maintenance of Material Data
+MATMAS_MASS_BAPI04`  E`  BAPI for Mass Maintenance of Material Data
+MATQM01`  E`  Replication of QM Inspection Setup
+MATTYPE01`  E`  Material types
+MBGMCA01`  E`  Reverse goods movements with MB_CANCEL_GOODS_MOVEMENT
+MBGMCR01`  E`  BAPI Posting of goods mvts with MB_CREATE_GOODS_MOVEMENT
+MBGMCR02`  E`  Post goods movements with MB_CREATE_GOODS_MOVEMENT
+MBGMCR03`  E`  Post Goods Movements with MB_CREATE_GOODS_MOVEMENT
+MBGMCR04`  E`  Post Goods Movements with MB_CREATE_GOODS_MOVEMENT
+MC1_01`  E`  Condition tables
+MDMMETA`  E`  MDM Metadata
+MDMRECEIPT01`  E`  MDM Receipt
+MDMREQUEST01`  E`  MDM Request
+MDMVERA`  E`  MDM Verification SFLIGHT
+MDM_EQUIPMENT_SAVEREPLICA01`  E`  BAPI for Mass Maintenance of Equipment
+MDM_FUNCLOC_SAVEREPLICA01`  E`
+MEREP_DELTABO01`  E`  SmartSync Delta BO T51
+MMADDI01`  E`  Create and change additionals (retail)
+MOAPSIF_RECEIVELIST201`  E`  Receive: List ()
+MOAPS_CHANGEACTIVITY01`  E`  Change Activities
+MOAPS_COMPLETEKEYS01`  E`  Assignment of External Keys for Internal Keys
+MOAPS_CONFIRMOPERATIONS01`  E`  Confirm Manufacturing Order Operations
+MOAPS_CONFIRMORDERS01`  E`  Confirm Manufacturing Order at Header Level
+MOAPS_CREATEFROMSNP01`  E`  Create or Change Orders with SNP PPMs
+MOAPS_CREATEFROMTEMPLATE01`  E`  Create: Order(ManufactOrderAPS)
+MOAPS_DELETEMULTIPLE01`  E`  Delete Manufacturing Orders
+MOAPS_MODIFYNODES01`  E`  Change Components for Manufacturing Orders
+MOAPS_REQUESTLIST201`  E`  Request: Read(ManufactOrderAPS)
+MOAPS_SAVEMULTIPLE201`  E`  Create or Change In-House Production Orders
+MOVABLECMS_GETDETAILMULTIPLE01`  E`  OMS :- Movables - Get details
+MRESCR01`  E`  Create reservation
+MSCONS`  E`  Supply of Data for Energy Quantities (UN/EDIFACT D.99A)
+MXCFDIINV001`  E`  Electronic invoice to customer for CFDI MX
+MXCFDIINV002`  E`  Electronic invoice to customer for CFDI MX: MXCFDIINV001 Ext
+MXCFDIREQ001`  E`  Electronic document request for CFDI MX
+MXCFDIREQ002`  E`  Electronic document request for CFDI MX:MXCFDIREQ001 Ext
+MXCFDIRESP001`  E`  Electronic document response for CFDI MX
+MXCFDIRESP002`  E`  Electronic Document Response for CFDI MX 3.3
+NEWGLPLANNING_POST01`  E`  Post Planning Data (New General Ledger Planning)
+NEWGLPLANNING_POST02`  E`  Post Planning Data (New General Ledger Planning)
+OBDLV_PROCOUTP01`  E`  Process delivery output without list
+OIA_DETAIL_EXG_STATEMENT`  E`  Detail exchange statement
+OIJ05_PROD_FORECAST`  E`  IDOC type to update production forecast table
+OIJ_NOM_DETAIL01`  E`  TSW: Nomination Detail
+OILBLD_SAVEMULTIPLE01`  E`  Adds Dip Readings to the dip history
+OILBLD_SAVEMULTIPLE02`  E`  Adds Dip Readings to the dip history
+OILBLM_SAVEMULTIPLE01`  E`  Adds Meter Readings to the meter history
+OILBLM_SAVEMULTIPLE02`  E`  Adds Meter Readings to the meter history
+OILBLM_SENDMRDETAIL01`  E`  Send Daily Details to ext. Application
+OILBLPCP_UPLOAD01`  E`  Upload Payment card transaction data(IS-OIL, SSR)
+OILBLPCP_UPLOADAGGRECONDATA01`  E`  Process the reconciliation data
+OILBLPCP_UPLOADDETRECONDATA01`  E`  Process the reconciliation data
+OILBLP_COMPAREPRICES01`  E`  Compares actual prices vs location material price conditions
+OILBLP_RECEIVEMULTIPLE01`  E`  Receive business location material prices
+OILBLP_REQUESTMULTIPLE01`  E`  Interface function for pricing data retrieval
+OILBLP_SAVECOMPETITORSURVEY01`  E`  Stores the current prices of the competitors of a location
+OILBLP_SAVEMULTIPLE01`  E`  Update multiple location material price conditions
+OILBL_RECEIVEDETAIL01`  E`  IS-Oil SSR Business location detail data
+OILCRE03`  E`  Vendor Master (enhanced copy of CREMAS03)
+OILCRE04`  E`  Vendor Master (enhanced copy of CREMAS04)
+OILCRE05`  E`  Vendor Master (enhanced copy of CREMAS06)
+OILDEB03`  E`  Customer Master incl. IS-OIL
+OILDEB04`  E`  Customer Master (enhanced copy of DEBMAS04)
+OILDEB06`  E`  Customer master incl. IS-OIL
+OILDEB07`  E`  Customer Master (enhanced copy of DEBMAS07)
+OILDRV01`  E`  IS-Oil TD Driver master
+OILDVA01`  E`  IS-Oil/TPI: Driver/Vehicle-Assignment
+OILLDC01`  E`  TAS Load information for 3rd party ( TASGROUP2 entry )
+OILLDD01`  E`  TAS Load information for R/3
+OILLID01`  E`  IS-Oil/TAS: LID master data distribution
+OILLPD01`  E`  TAS / IS-Oil Inventory count
+OILMAT03`  E`  Material Master incl. IS-Oil
+OILMAT04`  E`  Material Master incl. IS-Oil
+OILMAT05`  E`  Material master incl. IS-OIL
+OILMDD01`  E`  TAS Receipts / Material movements
+OILMET01`  E`  IS-Oil TD Rack meter data
+OILMET02`  E`  ISOIL TD Compartment Data Rack
+OILNMCD01`  E`  Nomination Change Document
+OILNOM01`  E`  OIL-TSW: Nomination
+OILORD02`  E`  IS-OIL/TAS: Purchasing/Sales
+OILSHI01`  E`  IS Oil Shipment Idoc
+OILSHL01`  E`  IS-OIL R/3 TAS Shipment communication IDOC
+OILTKT01`  E`  OIL-TSW: Ticket
+OILTKT02`  E`  OIL-TSW: Ticket
+OILTKT03`  E`  OIL-TSW: outbound Ticket
+OILTPI01`  E`  OIL-TPI: IS-Oil location data to transport planning system
+OILTPI50`  E`  OIL-TPI replenishment order IDoc
+OILTPI51`  E`  OIL-TPI replenishment order IDoc
+OILTRU01`  E`  IS-OIL TD Transport Unit Master Data
+OILVEH01`  E`  IS-OIL TD Vehicle Master Data
+OIL_BLM_SENDMRDETAIL01`  E`  Send Daily Details to ext. Application
+OIR0CHS_ALL01`  E`  All available standard fields
+OIR0CHS_GMCIF01`  E`  Citibank - Global Multi Currency Input File
+OIRH_BL_SENDDETAIL01`  E`  Send BL MD to ext. Applications
+OIUCA01`  E`  IS-OIL E&P Chemical Analysis
+OIUCD01`  E`  IS-OIL E&P Chemical Analysis Component Details
+OIUCG01`  E`  IS-OIL E&P Chemical Analysis Gas Properties
+OIUCL01`  E`  IS-OIL E&P hemical Analysis Liquid Properties Detail
+OIUCP01`  E`  IS-OIL E&P Custom Plant Allocation Methods Header
+OIUCT01`  E`  IS-OIL E&P Component Typification Detail
+OIUDA01`  E`  IS-OIL E&P Delivery Network Allocation Profile Data
+OIUDC01`  E`  IS-OIL E&P Downhole Commingled Well Completion
+OIUDD01`  E`  IS-OIL E&P Delivery Network Links
+OIUDM01`  E`  IS-OIL E&P Cross-reference for MP and DOI
+OIUDN01`  E`  IS-OIL E&P Delivery Network Data
+OIUDP01`  E`  IS-OIL E&P Delivery Network Theoretical Calculation Method
+OIUDS01`  E`  IS-OIL E&P Delivery Network Status
+OIUDV01`  E`  IS-OIL E&P Delivery Network Variable Data
+OIUDW01`  E`  IS-OIL E&P DOI/WC Cross Reference
+OIUFL01`  E`  IS-OIL Field Data
+OIUFR01`  E`  IS-OIL E&P Formula Rules
+OIUMA01`  E`  IS-OIL E&P Measurement Point Allocation Base Data
+OIUMB01`  E`  IS-OIL  E&P: Measurement Point Transporter Xref Detail
+OIUMD01`  E`  IS-OIL E&P: Measurement Point Variable Data
+OIUMF01`  E`  IS-OIL E&P Measurement Point Allocation Profile Data
+OIUMH01`  E`  IS-OIL E&P Measurement Point Heating Value
+OIUMP01`  E`  IS-OIL E&P  Measurement Point Data
+OIUMR01`  E`  IS-OIL E&P Measurement Point Reproduced Materials
+OIUMU01`  E`  IS-OIL E&P Measure Point Fuel Use Specification
+OIUMV01`  E`  IS-OIL E&P Measurement Point Volumetric Data
+OIUND01`  E`  IS OIL E&P Nomination Change Detail IDOC
+OIUNS01`  E`  IS OIL E&P Nomination Change Summary IDOC
+OIUOD01`  E`  IS OIL E&P Original Nomination Detail IDOC
+OIUOS01`  E`  IS OIL E&P Original Nomination Summary IDOC
+OIUPA01`  E`  E&P Contract to Gas Plant Allocation Method Xref Header
+OIUPM01`  E`  IS-OIL E&P Platform Maintenance IDOC Segment
+OIUPP01`  E`  IS-OIL E&P Prior Period Notification Header
+OIURV01`  E`  IS-OIL E&P Reservoir Data
+OIURW01`  E`  IS-OIL E&P Regulatory Reporting Reallocated Well Completions
+OIUWA01`  E`  IS-OIL E&P Well Completion Allocation Base
+OIUWB01`  E`  IS-OIL E&P: Measurement Point Transporter Xref
+OIUWC01`  E`  IS-OIL E&P Well Completion Data
+OIUWD01`  E`  IS-OIL E&P Well Completion Downtime Data
+OIUWH01`  E`  IS-OIL E&P Well Completion Heading Value
+OIUWI01`  E`  IS-OIL E&P Well Completion Disposition Volume Data
+OIUWL01`  E`  IS-OIL E&P Well Data
+OIUWO01`  E`  IS-OIL E&P: Well Completion Offset Lease
+OIUWP01`  E`  IS-OIL E&P: Well Completion Theoretical Calculation Method
+OIUWR01`  E`  IS-OIL E&P Well Completion Reproduced Materials
+OIUWS01`  E`  IS-OIL E&P Well Completion Supply Source Dated
+OIUWT01`  E`  IS-OIL E&P Well Completion Well Test
+OIUWV01`  E`  IS-OIL E&P WC Variable Data
+OPERA2`  E`  Operations in KK2
+OPERA3`  E`  Processes in KK3
+OPERA4`  E`  Operations in KK4
+OPERS3`  E`  Operation status in KK3
+OPERS4`  E`  Operation status in KK4
+ORDERAPSIF_RECPLANNINGRESULT01`  E`  Request for Receipt of Planning Results
+ORDERS01`  E`  Purchasing/Sales
+ORDERS02`  E`  Purchasing/Sales
+ORDERS03`  E`  Purchasing/Sales
+ORDERS04`  E`  Purchasing/Sales
+ORDERS05`  E`  Purchasing/Sales
+ORDINT01`  E`  Purchasing/Sales to ICH
+ORD_ID01`  E`  Req.for quot./quotation/purchase order/order change
+ORGMASTER01`  E`  BAPI for replication of HR organizational data
+OSTAT2`  E`  Process status CC2
+PALMAT01`  E`  Plant assignment to material BOM
+PAYMENTREQUEST_CANCEL01`  E`  Cancelation of a Payment Request
+PAYMENTREQUEST_CREATE01`  E`  Creation of a Payment Request
+PAYMENTREQUEST_POST01`  E`  Posting a Parked Payment Request
+PAYMENTREQUEST_RELEASE01`  E`  Payment Request Released for Payment
+PAYMENTREQUEST_STARTPAYMENT01`  E`  Start Payment of Payment Request
+PBAPSIF_RECDETAIL201`  E`  Receive: Read Key Figure Values
+PBAPS_REQUESTDETAIL01`  E`  Request: Read a Planning Book for Selection Criteria
+PBAPS_SAVECHARCOMBS01`  E`  Transfer of DP Characteristic Attributes
+PCHEAD01`  E`  Replicate basic and structure data of a product catalog
+PCITEMS01`  E`  Replicate item data of a product catalog
+PDSAPSIF_RECEIVELIST01`  E`  Receipt of Request Result: Read PDS
+PDSAPS_DELETEMULTIPLE01`  E`  Delete Production Data Structures
+PDSAPS_REQUESTLIST01`  E`  Request: Read (PrdDataStructureAPS)
+PDSAPS_SAVEMULTIPLE01`  E`  Creation or Changing of Production Data Structures
+PDTCO_POSTPRIMARY01`  E`  Transfer of Planning Data: Post Primary Costs
+PDTCO_POSTPRIMARY02`  E`  Transfer of Planning Data: Post Primary Costs
+PERSO1`  E`  Personnel master records in CC1
+PERSO2`  E`  Personnel master in CC2
+PERSO3`  E`  Personnel master in CC3
+PERSO4`  E`  Personnel master in CC4
+PEXFI03`  E`  FI-CA Payment Media
+PEXR2001`  E`  Payment/payment advice note/credit memo/debit advice
+PEXR2002`  E`  Payment/payment advice note/credit memo/debit advice
+PEXR2003`  E`  Payment/payment advice note/credit memo/debit advice
+PHAPSIF_RECEIVEDETAIL01`  E`  Receipt of Request Result
+PHAPS_REMOVENODES01`  E`  Remove Hierarchy Node from Product Hierarchy
+PHAPS_REQUESTDETAIL01`  E`  Request: Read Product Hierarchy
+PHAPS_SAVENODES01`  E`  Add Node (PrdHierarchyAPS)
+PHRMAS01`  E`  EHS: Saving Replicated Phrases
+PHYSICALINVENTORYVMR_SAVE`  E`  Physical Inverntory VMR
+PIC_MAINTAIN01`  E`  Maintain Interchangeability
+PIECEOFEQUIPMENT_DISMANTLEAT01`  E`  Dismantle equipment at functional location
+PIECEOFEQUIPMENT_INSTALLATFU01`  E`  Install equipment at functional location
+PIQ_US_SEVIS_EV`  E`  SEVIS: EV structure
+PIQ_US_SEVIS_EV1`  E`  SEVIS: EV Structure
+PIQ_US_SEVIS_STCREATE`  E`  SEVIS IDOC For XML
+PIRAPSIF_RECEIVELIST01`  E`  Read Planned Independent Requirements for Selection Criteria
+PIRAPS_DELETEMULTIPLE01`  E`  Deletion of Planned Independent Requirements
+PIRAPS_REQUESTLIST01`  E`  Read Planned Independent Requirements for Selection Criteria
+PIRAPS_SAVEMULTIPLE01`  E`  Create and Change Planned Independent Requirements
+PKHD5`  E`  CC5 kanban control cycles
+PKPS5`  E`  CC5 Kanban container
+PKST5`  E`  CC5 status for kanban container
+PLANDATATRANSFERCO_POSTACTIO01`  E`  Planning Data Transfer: Post Activity Planning
+PLANDATATRANSFERCO_POSTACTIO02`  E`  Planning Data Transfer: Post Activity Planning
+PLANDATATRANSFERCO_POSTACTIO03`  E`  Planning Data Transfer: Post Activity Planning
+PLANDATATRANSFERCO_POSTACTIV01`  E`  Planning Data Transfer: Post Activity Input
+PLANDATATRANSFERCO_POSTKEYFI01`  E`  Transfer of Planning Data: Post Stat. Key Figures
+PLANT3`  E`  Plants in CC3
+PLANT4`  E`  Plants in CC4
+PLCAPS_DELETEMULTIPLE01`  E`
+PLCAPS_SAVEMULTIPLE01`  E`
+POAPSIF_RECEIVELIST201`  E`  Receive: List ()
+POAPS_COMPLETEKEYS01`  E`  Assignment of External Keys for Internal Keys
+POAPS_CREATEFROMSNP01`  E`  SNP External Procurement (ProcurementOrderAPS)
+POAPS_DELETEMULTIPLE01`  E`  Deletion of One or More Order Documents
+POAPS_REMOVEITEMS01`  E`  Deletion of One or More Order Items
+POAPS_REQUESTLIST201`  E`  Request: Read(ProcurementOrderAPS)
+POAPS_SAVEMULTIPLE201`  E`  External Procurement (ProcurementOrderAPS)
+PORDCH01`  E`  Change purchase order
+PORDCH02`  E`  Change Purchase Order
+PORDCH03`  E`  Change purchase order
+PORDCR01`  E`  Create purchase order
+PORDCR02`  E`  Create purchase order
+PORDCR03`  E`  Create purchase order
+PORDCR04`  E`  Create purchase order
+PORDCR05`  E`  Create Purchase Order
+PORDCR101`  E`  Create Purchase Order
+PORDCR102`  E`  Create Purchase Order
+PORDCR103`  E`  Create Purchase Order
+PORDGD01`  E`  Display Purchase Order Details
+PORDGD101`  E`  Detail Information for a Purchase Order
+PORDGD102`  E`  Detail Information for a Purchase Order
+POSITIONSMDSEMBA_GETDETAIL01`  E`  Positions: BAPI-Get Detail Multi
+POSITIONSMDSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+POSRPT01`  E`  POS report
+POSRPT02`  E`  Point Of Sale Report
+POSRPT03`  E`  DWE Outbound idoc
+POSVALCHGSEMBA_GETDETAIL01`  E`  Position Change: Get Detail Multi ( BAPI Layer )
+POSVALUESSEMBA_GETDETAIL01`  E`  Position Values: BAPI-Get Detail Multi
+PO_DELETEPOHISTORY01`  E`  Delete Purchase Order History
+PO_UPDATEPOHISTORY01`  E`  Update Purchase Order (Update, Insert)
+PPCC2PRETEVENT01`  E`  Transfer time event confirmations from PDC system
+PPCC2PRETEVENT02`  E`  Transfer Confirmation Time Events from PDC System
+PPCC2PRETTICKET01`  E`  Transfer time ticket confirmations from PDC system
+PPCC2PRETTICKET02`  E`  Transfer Confirmation Time Tickets from PDC System
+PPCC2RECORDER01`  E`  Send production orders to PDC system
+PPCC2RECORDER02`  E`  Send Production Orders to PDC System
+PPCC2RECWORKCENTER01`  E`  Send work centers to PDC system
+PPCC2REQCONF01`  E`  Send upload request to PDC system
+PPDAPS_DELETEMULTIPLE01`  E`
+PPDAPS_SAVEMULTIPLE01`  E`
+PPDSAPSIF_RECREQSRECEIPTS01`  E`  Receipt of Request Result: Receipts and Requirements
+PPDSAPS_CHANGEPEGGINGMULTIPL01`  E`  Create, Change or Delete Pegging Relationships
+PPDSAPS_REQREQSRECEIPTS01`  E`  Request: Read (PPDSServiceAPS)
+PPE_ACT01`  E`  Maintain or Create Process Structure
+PPE_BAL01`  E`  Maintain or Create Line Balances
+PPE_CMP01`  E`  Maintain or Create Product Structure
+PPE_FLO01`  E`  Maintain or Create Factory Layout
+PPE_GEN01`  E`  Create and Change Generic Engineering Node
+PPE_GREC01`  E`  Save PPE Objects for General Recipe
+PPE_MPO01`  E`  Maintain or Create Process Structure
+PPE_PRM01`  E`  Create or Change iPPE Production Model
+PPE_RES01`  E`  Maintain or Create iPPE Object Resources Nodes
+PPE_SREC01`  E`  Save PPE Objects of General Recipe
+PPMSPAPSIF_RECEIVELIST01`  E`  Receipt of Request Result
+PPRTSCMB_DELETEMULTIPLE01`  E`  Delete Partner-Dependent Partners
+PPRTSCMB_SAVEMULTIPLE01`  E`  Create or Change Partner-Dependent Partners
+PP_SHIFT01`  E`  Production: Shifts
+PRCDOC01`  E`  Replicate PCA line items (ALE)
+PRCDOC02`  E`  Replicate PCA line items (ALE)
+PRCDOCD01`  E`  Delete profit center documents (ALE)
+PRCDOCD02`  E`  Delete profit center documents (ALE)
+PRCDOCP01`  E`  Replicate EC-PCA plan line items (ALE)
+PRCDOCP02`  E`  Replicate EC-PCA plan line items (ALE)
+PRCDOCR01`  E`  Reversal of existing document line items (ALE)
+PRCDOCR02`  E`  Reversal of existing document line items (ALE)
+PRCMAS01`  E`  Profit center master record
+PRCMAS02`  E`  Profit Center master record (with company code assignment)
+PRDAPSIF_RECEIVELIST01`  E`  Accept Query Result: Product Selection
+PRDAPSIF_RECEIVELIST201`  E`  Accept Query Result: Product Selection
+PRDAPSIF_RECEIVELIST202`  E`  Accept Query Result: Product Selection
+PRDAPSIF_RECEIVELIST203`  E`  Accept Query Result: Product Selection
+PRDAPSIF_RECEIVELIST204`  E`  Accept Query Result: Product Selection
+PRDAPSIF_RECEIVELIST205`  E`  Accept Query Result: Product Selection
+PRDAPS_CLASSDELETEMULTIPLE01`  E`  Deletion of Product Classifications
+PRDAPS_CLASSSAVEMULTIPLE01`  E`  Creation of Product Classifications
+PRDAPS_DELETELOCPRODUCTMULTI01`  E`  Deletion of One or More Location Products
+PRDAPS_DELETELOCPRODUCTMULTI02`  E`  Deletion of One or More Location Products
+PRDAPS_DELETEPRODUCTMULTIPLE01`  E`  Deletion of One or Multiple Products
+PRDAPS_DELETEPRODUCTMULTIPLE02`  E`  Deletion of One or More Products
+PRDAPS_REQUESTLIST01`  E`  Query: Read Products by Selection Criteria
+PRDAPS_REQUESTLIST02`  E`  Query: Read Products by Selection Criteria
+PRDAPS_REQUESTLIST201`  E`  Query: Read Products by Selection Criteria
+PRDAPS_REQUESTLIST202`  E`  Query: Read Products by Selection Criteria
+PRDAPS_SAVEMULTIPLE01`  E`  Create or Change Products
+PRDAPS_SAVEMULTIPLE201`  E`  Create or Change Products
+PRDAPS_SAVEMULTIPLE202`  E`  Create or Change Products
+PRDAPS_SAVEMULTIPLE203`  E`  Create or Change Products
+PRDAPS_SAVEMULTIPLE204`  E`  Create or Change Products
+PRDAPS_SAVEMULTIPLE205`  E`  Create or Change Products
+PRDAPS_SAVEMULTIPLE206`  E`  Create or Change Products
+PRDCAT01`  E`  Product catalog
+PRDPOS01`  E`  Product catalog item
+PREQCHANGE01`  E`  Change Enjoy Purchase Requisition
+PREQCHANGE02`  E`  Change Enjoy Purchase Requisition
+PREQCHANGE04`  E`  Change Enjoy Purchase Requisition
+PREQCR01`  E`  Create purchase requisition
+PREQCR02`  E`  Create purchase requisition
+PREQCR03`  E`  Create Purchase Requisition
+PREQCR101`  E`  Create Enjoy Purchase Requisition
+PREQCR102`  E`  Create Enjoy Purchase Requisition
+PREQCR104`  E`  Create Enjoy Purchase Requisition
+PREQDL01`  E`  Delete/close purchase requisition
+PREQGETDETAIL01`  E`  Get Details for One MEREQ Object
+PREQGETDETAIL02`  E`  Get Details for One MEREQ Object
+PRICAT01`  E`  Price/sales catalog
+PRICAT02`  E`  Price List/Sales Catalog
+PRICAT03`  E`  Price List/Sales Catalog
+PRICECATALOGUE01`  E`  Store price catalog instance
+PRICECATALOGUE02`  E`  Save Price Catalog Instance
+PROACT01`  E`  Transfer of stock and sales data
+PROCRELATIONAPS_SAVEMULTIPLE01`  E`  Create/Change External Procurement Relationship
+PRODUCTAPS_GETLIST201`  E`  Read Product List
+PRODUCTAPS_GETLIST202`  E`  Read Product List
+PRODUCTASSOCIATNRULE_CHANGE01`  E`  SAP-PR, BAPI for BUS(ProductAssociatnRule)
+PRODUCTASSOCIATNRULE_CREATE01`  E`  SAP-PR, BAPI for BUS20200:  Create Cross-Selling Rules
+PRODUCTASSOCIATNRULE_CREATEF01`  E`  SAP-PR, BAPI for BUS(ProductAssociatnRule)
+PRODUCTASSOCIATNRULE_DELETE01`  E`  SAP-PR, BAPI for BUS(ProductAssociatnRule)
+PRODUCTASSOCIATNRULE_EXCHECK01`  E`  SAP-PR, BAPI for BUS(ProductAssociatnRule)
+PRODUCTASSOCIATNRULE_GETDETA01`  E`  SAP-PR, BAPI for BUS(ProductAssociatnRule)
+PRODUCTASSOCIATNRULE_GETLIST01`  E`  SAP-PR, BAPI for BUS(ProductAssociatnRule)
+PROFILESET_CHANGE01`  E`  BAPI for BUS1188: Change a Profile Set
+PROFILESET_CREATE01`  E`  BAPI for BUS1188: Create Profile Set
+PROFILESET_DELETE01`  E`  BAPI for BUS1188: Delete a Profile Set
+PROFILESET_GETDETAIL01`  E`  BAPI for BUS1188: Read (MarketingProfileSet)
+PROFILESET_GETLIST01`  E`  BAPI for BUS1188: CRM (MarketingProfileSet)
+PROFITCENTERGROUP_ADDNODE01`  E`  Object BUS1116 (Profit Center Group) - Method AddNode
+PROFITCENTERGROUP_CREATE01`  E`  Object BUS1116 (Profit Center Group) - Method Create
+PROFITCENTERGROUP_CREATE_01`  E`  Object BUS1116 (Profit Center Group) - Method Create
+PROFITCENTER_CHANGE01`  E`  Change Profit Center
+PROFITCENTER_CREATE01`  E`  Create Profit Center
+PROJECT01`  E`  Replicate entire work breakdown structure (ALE)
+PROJECT02`  E`  Replicate work breakdown structure (ALE)
+PROMOTION_CONFIRMREQUEST01`  E`  Send Reply for Plant's Required Quantities
+PSPAPSIF_RECEIVELIST01`  E`  Receipt of Request Result
+PTOVERVIEW01`  E`  Insert/Delete employee time overviews
+PUBLICSECTORBILLDOC_ADJUST01`  E`  Adjust PS Billing Documents
+PUBLICSECTORBILLDOC_CREATEMU01`  E`  Create Public Sector Billing Document
+PUBLICSECTORBILLDOC_REVERSE01`  E`  Generate Telco Billing Documents
+PURCONTRACT_CHANGE01`  E`  BAPI to Change a Purchase Contract
+PURCONTRACT_CHANGE02`  E`  BAPI to Change a Purchase Contract
+PURCONTRACT_CREATE01`  E`  BAPI to Create a Purchase Contract
+PURCONTRACT_CREATE02`  E`  BAPI to Create a Purchase Contract
+PURCONTRACT_GETDETAIL01`  E`  BAPI to Display Details of a Purchase Contract
+PURCONTRACT_GETDETAIL02`  E`  BAPI to Display Details of a Purchase Contract
+PURSAG_CHANGE01`  E`  Change a Scheduling Agreement
+PURSAG_CREATE01`  E`  Create a Scheduling Agreement
+PURSAG_GETDETAIL01`  E`  Read Out Details from Scheduling Agreement
+PURSAG_MAINTAIN01`  E`  Maintenance of Scheduling Agreement Delivery Schedule Lines
+QALITY01`  E`  Quality data and sending of certificate reference
+QALITY02`  E`  QM: Quality Certificate
+QPGR01`  E`  Replication of QM Code Groups/Catalogs
+QPMK01`  E`  Replication of QM Master Inspection (ALE)
+QSMT01`  E`  Replication of QM inspection methods
+QTAAPSIF_RECEIVELIST01`  E`  Acceptance of Query Result: Quota Arrangement Selection
+QTAAPSIF_RECEIVELIST201`  E`  Acceptance of Query Result: Read Quota Arrangements
+QTAAPSIF_RECEIVELIST202`  E`  Acceptance of Query Result: Read Quota Arrangements
+QTAAPS_DELETEMULTIPLE01`  E`  Deletion of Quota Arrangements
+QTAAPS_REQUESTLIST01`  E`  Query: Read Quota Arrangements for Selection Criteria
+QTAAPS_REQUESTLIST201`  E`  RFQ: Read Quota Arrangements
+QTAAPS_SAVEMULTIPLE01`  E`  Create or Change Quota Arrangements
+QTAAPS_SAVEMULTIPLE201`  E`  Create or Change Quota Arrangements
+QTAAPS_SAVEMULTIPLE202`  E`  Create or Change Quota Arrangements
+QUOTATION_CREATEFROMDATA201`  E`  Customer Quotation: Create Customer Quotation
+QUOTATION_CREATEFROMDATA202`  E`  Customer Quotation: Create Customer Quotation
+RCYINF01`  E`  Information about IDocs and their application documents
+RCYSYS01`  E`  Information about the reset system
+REALESTATEOBJECTCMS_GETDETML01`  E`  OMS : Real Estate Get Detail Multiple
+REDEMPTIONFACTORS_CHANGE01`  E`  BAPI: Create or Change a Redemption Factor
+REDEMPTIONFACTORS_CREATE01`  E`  BAPI: Create Redemption Factor Header + Factors
+REDEMPTIONFACTORS_GETDETAIL01`  E`  BAPI: Read Redemption Factors for a Securities ID
+REDEMPTIONSCHEDSET_ADDSCHEDU01`  E`  Create Redemption Schedules for Redemption Schedule Sets
+REDEMPTIONSCHEDSET_ADDSCHEDU02`  E`  Create Redemption Schedules for Redemption Schedule Sets
+REDEMPTIONSCHEDSET_CREATE01`  E`  Create Redemption Schedule Sets
+REDEMPTIONSCHEDSET_GETDETAIL01`  E`  Read Redemption Schedules for Redemption Schedule Sets
+REDEMPTIONSCHEDSET_GETDETAIL02`  E`  Read Redemption Schedules for Redemption Schedule Sets
+REDEMPTIONSCHEDSET_GETLIST01`  E`  Read Header Data for Redemption Schedule Sets
+REDEMPTIONSET_CHANGESCHEDULE01`  E`  Change Repayment Schedule Data
+REDEMPTIONSET_CHANGESCHEDULE02`  E`  Change Repayment Schedule Data
+REDEMPTIONSET_UPDATEFACTOR01`  E`  Update Redemption in Redemption Schedule Data
+REFSETOFOPERATIONS_CREATE01`  E`  Creation of a reference operation set
+REMUNREQUESTLIST_GETLIST01`  E`  Determine Documents (RemunRequestList)
+REMUNREQUESTLIST_GETLIST02`  E`  Determine Documents (RemunRequestList)
+REMURQSLIST_CANCEL01`  E`  Agency Business: Cancel Remuneration Lists
+REMURQSLIST_CHANGE01`  E`  Agency Business: Change Invoice List Documents BAPI
+REMURQSLIST_CREATE_CBD01`  E`  Create from posting list (invoice list)
+REMURQSLIST_CREATE_CBD02`  E`  Create from posting list (invoice list)
+REMURQSLIST_CREATE_REMU01`  E`  Create from shipping document (invoice list)
+REMURQSLIST_CREATE_REMU02`  E`  Create from shipping document (invoice list)
+REMURQSLIST_CREATE_SETT01`  E`  Create from payment document (invoice list)
+REMURQSLIST_CREATE_SETT02`  E`  Create from payment document (invoice list)
+REMURQSLIST_GETDETAIL0101`  E`  Remuneration Lists from FI Documents
+REMURQSLIST_GETDETAIL0102`  E`  Remuneration Lists from FI Documents
+REMURQSLIST_GETDETAIL0201`  E`  Output Remuneration Lists from SD Billing Documents
+REMURQSLIST_GETDETAILA01`  E`  Issue Detailed Data (Remun. Lists from Vendor Billing Docs)
+REMURQSLIST_GETDETAILA02`  E`  Issue Remuneration Lists from Vendor Billing Documents
+REMURQSLIST_GETDETAILB01`  E`  Issue Detailed Data (Remun.Lists from SingleSettlmntRequest)
+REMURQSLIST_GETDETAILC01`  E`  Issue Detailed Data (Remuneration Lists from Posting Lists)
+REMURQSLIST_GETDETAILD01`  E`  Issue Detailed Data (Remun. Lsts from Settlement Reqst Lsts)
+REMURQSLIST_GETDETAILG01`  E`  Issue Detail Data (Remuneration Lists from Custmr Settlmnt)
+REMURQSLIST_GETDETAILH01`  E`  Issue Remuneration Lists from Expense Settlements
+REMURQSLIST_GETDETAILK01`  E`  Issue Remuneration Lists from Preceding Documents
+REMURQSLIST_GETDETAILK02`  E`  Issue Remuneration Lists from Preceding Documents
+REMURQSLIST_GETDETAILK03`  E`  Issue Remuneration Lists from Preceding Documents
+REMURQSLIST_GETDETAILL01`  E`  Issue Remuneration Lists from Vendor Settlements
+REMURQSLIST_RELEASE01`  E`  Release to Accounting (Invoice List)
+REMURQSLIST_RELEASE02`  E`  Release to Accounting (Invoice List)
+REM_SPEC01`  E`  Insert Ext. EE Remun. Info in Table (w/o Account Assignment)
+REM_SPEC_WITH_ACTIVITY01`  E`  Insert employee remuneration info (PTMgrExtRemunSpec)
+REM_SPEC_WITH_COST01`  E`  Insert External EE Remun. Info in Table (w/ Cost Assignment)
+REOPEX01`  E`   FRE Order Proposals and Exceptions
+REPMAS01`  E`  EHS: Saving Replicated Reports
+REPMAS02`  E`  EHS: Saving Replicated Reports
+REQAPS_RECEIVEREQUEST01`  E`  Receive CLP Request
+REQAPS_RECEIVERESPONSE01`  E`  Receive CLP Request Response
+REQUEST_ADDLINEITEMS01`  E`  BAPI: Add Request Items
+REQUEST_ADDPERIODS01`  E`  BAPI: Add Execution Periods for Request
+REQUEST_ADDSPECIALDATES01`  E`  BAPI: Add Special Dates for Request
+REQUEST_CHANGE01`  E`  BAPI: Change Request
+REQUEST_CREATE01`  E`  BAPI: Create Request
+REQUEST_DELETE01`  E`  BAPI: Delete Request
+REQUEST_DELETEPERIODS01`  E`  BAPI: Delete Execution Periods of Request
+REQUEST_DELLINEITEMS01`  E`  BAPI: Delete Request Items
+REQUEST_DELSPECIALDATES01`  E`  BAPI: Delete Special Dates of a Request
+REQUEST_EASYCREATE01`  E`  BAPI: Create Request with Template
+REQUEST_GETDETAIL01`  E`  BAPI: Read Request
+REQUI1`  E`  Confirmation request in CC1
+REQUI2`  E`  Confirmation request in CC2
+REQUI3`  E`  Confirmation request in CC2
+REQUI4`  E`  Confirmation request in CC4
+REQUI5`  E`  Confirmation request in CC5
+RESAPSIF_RECEIVEBLOCKS01`  E`  Acceptance: Blocks()
+RESAPSIF_RECEIVECAPACITYPROF01`  E`  Receive: List ()
+RESAPSIF_RECEIVEDEFINITIONS01`  E`  Receipt of Definitions List
+RESAPSIF_RECEIVELIST01`  E`  Receive List()
+RESAPSIF_RECEIVELIST02`  E`  Receive List()
+RESAPSIF_RECEIVELOAD01`  E`  Receipt of Request Result: Resource Load
+RESAPS_BLOCKSAVEMULTIPLE01`  E`  Creation or Changing of Blocks
+RESAPS_CHANGEMULTIPLE01`  E`  Change Version-Dependent Resources
+RESAPS_CHANGEMULTIPLE02`  E`  Change Version-Dependent Resources
+RESAPS_CHANGEMULTIPLE03`  E`  Change Version-Dependent Resources
+RESAPS_DELETEDEFINITIONS01`  E`  Deletion of Definitions
+RESAPS_DELETEDEFINITIONS02`  E`  Deletion of Definitions
+RESAPS_DELETEMULTIPLE01`  E`  Deletion of Version-Independent Resources
+RESAPS_REMOVESUBOBJECTS01`  E`  Deletion of Subobjects in Resource
+RESAPS_REMOVESUBOBJECTS02`  E`  Deletion of Subobjects in Resource
+RESAPS_REQUESTBLOCKS01`  E`  Query: Selection of Blocks for Selection Criteria
+RESAPS_REQUESTCAPACITYPROFIL01`  E`  RFQ: Selection (ResourceAPS)
+RESAPS_REQUESTDEFINITIONS01`  E`  Query: Selection of Definitions
+RESAPS_REQUESTLIST01`  E`  Query: Selection of Resources and Result Transfer
+RESAPS_REQUESTLIST02`  E`  Query: Selection of Resources and Result Transfer
+RESAPS_REQUESTLIST03`  E`  Query: Selection of Resources and Result Transfer
+RESAPS_REQUESTLOAD01`  E`  RFQ: Selection (ResourceAPS)
+RESAPS_SAVEDEFINITIONS01`  E`  Create or Change Definitions
+RESAPS_SAVEDEFINITIONS02`  E`  Create or Change Definitions
+RESAPS_SAVEMULTIPLE01`  E`  Create or Change Version-Independent Resources
+RESAPS_SAVEMULTIPLE02`  E`  Create or Change Version-Independent Resources
+RESAPS_SAVEMULTIPLE03`  E`  Create or Change Version-Independent Resources
+RESOURCECO01`  E`  Replicate Individual CO Resources (ALE)
+RESSCMB_SAVEMULTIPLE201`  E`  Create or change resource
+RESSCMB_SAVEMULTIPLE202`  E`  Create or change resource
+RIGHTCMS_GETDETAILMULTIPLE01`  E`  OMS : Rights - Get details
+ROUTING_CREATE01`  E`  Creation of a routing
+RPLMAS01`  E`  Create and change replenishment master data
+RPLMAS02`  E`  Create and Change Replenishment Master Data
+RPMINTF1`  E`  RPM FI Interface
+RPM_TIME`  E`  To export time data from HR and import in RPM
+RPO_DATA_TRANSFER01`  E`  Transfer of Purchase Order Data for Replenishment
+RSINFO`  E`  Info IDoc
+RSREQUST`  E`  Data request to the source system
+RSSEND`  E`  Data transfer from the source system (template)
+RULEAPSIF_RECEIVELIST01`  E`  Receipt of Request Result
+S1STOCKS`  E`  Part availability message as per ATA
+SALESORDERFROMOP_CREATESALES01`  E`  EPM: Create a Sales(SalesOrderFromOP)
+SALESORDERFROMOP_SEND_RESPON01`  E`  EPM: SObyOP response(SalesOrderFromOP)
+SALESORDER_CONFIRMDELIVERY01`  E`  Delivery Confirmation (SalesOrder)
+SALESORDER_CREATEFROMDAT201`  E`  Sales order: Create Sales Order
+SALESORDER_CREATEFROMDAT202`  E`  Sales order: Create Sales Order
+SALESORDER_CREATEFROMDAT203`  E`  Sales order: Create Sales Order
+SALESORDER_CREATEFROMDAT204`  E`  Sales order: Create Sales Order
+SAPRDI01`  E`  SAPscript Raw Data Interface IDOC Type
+SAPRDI02`  E`  SAPscript Raw Data Interface IDOC Type
+SCERTKB`  E`  Knowledge base for configurator
+SDPAID01`  E`  Shipping element data confirmation to customer delivery
+SDPIID01`  E`  Picking data confirmation to customer delivery
+SDPIOD01`  E`  Picking notification to subsystem:
+SECPRICESEMBA_GETDETAIL01`  E`  Get Detail BAPI
+SECTRANSSEMBA_GETDETAIL01`  E`  Search in Order Data of List of External Order Numbers
+SECTRANSSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+SECURITIESACCOUNTCMS_GETDETA01`  E`  OMS : Securities Account - Get details
+SEPAMANDATE_CHANGE_ALE01`  E`  Change and Distribute a New Mandate
+SEPAMANDATE_CREATE_ALE01`  E`  Change and Distribution of a New Mandate
+SEPAMANDATE_SAVEREPLICA01`  E`  Create or Change a Mandate
+SEQJIT01`  E`  JIT : IDoc for sequenced/summarized JIT calls
+SEQJIT02`  E`  JIT: IDoc for JIT Calls (SeqJC, SumJC) from DI4.6C2
+SEQJIT03`  E`  JIT: IDoc for JIT Calls (SumJC, SeqJC) as of DI4.7
+SERDAT01`  E`  Control data serialization
+SERVICENOTIFICATION_CREATEFR01`  E`  Create service notification
+SERVICE_CHANGE01`  E`  BAPI to Change a Service Master Record
+SERVICE_CREATE01`  E`  Creation of a Service Master Record
+SETTLEMENTREQUSTLIST_CANCEL01`  E`  Cancel (Settlement Request List)
+SETTLEMENTREQUSTLIST_GETLIST01`  E`  Determine Documents (SettlementRequstList)
+SETTLEMENTREQUSTLIST_GETLIST02`  E`  Determine Documents (Settlement Request List)
+SETTREQUESTLIST_GETDETAIL01`  E`  Issue Document Data (Settlement Request List)
+SETTRQSLIST_CHANGE01`  E`  Agency Business: Change Settlement Request List BAPI
+SETTRQSLIST_CHANGE02`  E`  Agency Business: Change Settlement Request List BAPI
+SETTRQSLIST_CHANGE03`  E`  Change Vendor Settlement List
+SETTRQSLIST_CLOSE01`  E`  Agency Business: BAP(SettlementRequstList)
+SETTRQSLIST_CREATE01`  E`  Agency Business: Create Settlement Request List BAPI
+SETTRQSLIST_CREATE02`  E`  Agency Business: Create Settlement Request List BAPI
+SETTRQSLIST_CREATE03`  E`  Agency Business: Create Settlement Request List BAPI
+SETTRQSLIST_CREATE04`  E`  Create Vendor Settlement List
+SETTRQSLIST_RELEASE01`  E`  Release to Accounting (SettlementRequstList)
+SETTRQSLIST_RELEASE02`  E`  Release to Accounting (SettlementRequstList)
+SFADCH01`  E`  SFA download salesorder (change pointers)
+SFADDE01`  E`  SFA Download Debitor
+SFADOR01`  E`  SFA Download Salesorder
+SFADPSA01`  E`  BAPI Partner Sales Activity Receiver
+SFAMAT01`  E`  SFA MATERIAL DOWNLOAD IDOC
+SHIPMENT_CHANGE01`  E`  Change Shipment
+SHIPMENT_CREATEFROMDATA01`  E`  Create Shipment
+SHIPMENT_CREATEFROMDATA02`  E`  Create Shipment
+SHPMNT01`  E`  Shipment
+SHPMNT02`  E`  Shipment
+SHPMNT03`  E`  Shipment
+SHPMNT04`  E`  Transport
+SHPMNT05`  E`  Shipment
+SHPMNT06`  E`  Shipment
+SHP_IBDLV_CHANGE01`  E`  Change Inbound Delivery
+SHP_IBDLV_CHANGE02`  E`  Change Inbound Delivery
+SHP_IBDLV_CONFIRM_DECENTRAL01`  E`  BAPI Confirmation(InboundDelivery)
+SHP_IBDLV_CONFIRM_DECENTRAL02`  E`  BAPI Confirmation(InboundDelivery)
+SHP_IBDLV_CONFIRM_DECENTRAL03`  E`  BAPI confirmation(InboundDelivery)
+SHP_IBDLV_CONFIRM_DECENTRAL04`  E`  BAPI confirmation(InboundDelivery)
+SHP_IBDLV_SAVE_REPLICA01`  E`  BAPI Function Module for Replication of Inbound Deliveries
+SHP_IBDLV_SAVE_REPLICA02`  E`  BAPI Function Module for Replication of Inbound Deliveries
+SHP_IBDLV_SAVE_REPLICA04`  E`  BAPI Function Module for Replication of Inbound Deliveries
+SHP_IBDLV_SAVE_REPLICA05`  E`  BAPI Function Module for Replication of Inbound Deliveries
+SHP_OBDLV_CHANGE01`  E`  BAPI for Change to Outbound Delivery
+SHP_OBDLV_CHANGE02`  E`  BAPI for Change to Outbound Delivery
+SHP_OBDLV_CONFIRM_DECENTRAL01`  E`  BAPI Verification (OutboundDelivery)
+SHP_OBDLV_CONFIRM_DECENTRAL02`  E`  BAPI Verification (OutboundDelivery)
+SHP_OBDLV_CONFIRM_DECENTRAL03`  E`  BAPI Verification (OutboundDelivery)
+SHP_OBDLV_CONFIRM_DECENTRAL04`  E`  BAPI confirmation(OutboundDelivery)
+SHP_OBDLV_CONFIRM_DECENTRAL05`  E`  BAPI confirmation(OutboundDelivery)
+SHP_OBDLV_CREATE_NOREF01`  E`  Generates Delivery Without Reference
+SHP_OBDLV_CREATE_SLS01`  E`  Generates Delivery for Sales Order
+SHP_OBDLV_CREATE_STO01`  E`  Generates Delivery for Stock Transport Order
+SHP_OBDLV_SAVE_REPLICA01`  E`  BAPI Function Module for Replication of Outbound Deliveries
+SHP_OBDLV_SAVE_REPLICA02`  E`  BAPI Function Module for Replication of Outbound Deliveries
+SHP_OBDLV_SAVE_REPLICA05`  E`  BAPI Function Module for Replication of Outbound Deliveries
+SHP_OBDLV_SAVE_REPLICA06`  E`  BAPI Function Module for Replication of Outbound Deliveries
+SHP_OBDLV_SAVE_REPLICA07`  E`  BAPI Function Module for Replication of Outbound Deliveries
+SHP_OBDLV_SAVE_REPLICA08`  E`  BAPI Function Module for Replication of Outbound Deliveries
+SHP_OBDLV_SPLIT_DECENTRAL01`  E`  BAPI(OutboundDelivery)
+SHP_OBDLV_SPLIT_DECENTRAL02`  E`  BAPI(OutboundDelivery)
+SINGLEREMUNREQUEST_GETLIST01`  E`  Determine Documents (SingleRemunRequest)
+SINGLEREMUNREQUEST_GETLIST02`  E`  Determine Documents (SingleRemunRequest)
+SINGLEREMUNRQS_CANCEL01`  E`  Agency Business: Cancel Vendor Billing Documents BAPI
+SINGLEREMUNRQS_CANCEL02`  E`  Agency Business: Cancel Vendor Billing Documents BAPI
+SINGLEREMUNRQS_CHANGE01`  E`  Agency Business: Change Vendor Billing Documents BAPI
+SINGLEREMUNRQS_CHANGE02`  E`  Agency Business: Change Vendor Billing Documents BAPI
+SINGLEREMUNRQS_CLOSE01`  E`  Agency Business: BAPI - Complete Vendor Billing Documents
+SINGLEREMUNRQS_CREATE01`  E`  Agency Business: Generate Vendor Billing Documents BAPI
+SINGLEREMUNRQS_CREATE02`  E`  Agency Business: Generate Vendor Billing Documents BAPI
+SINGLEREMUNRQS_RELEASE01`  E`  Release to Accounting (Vendor Billing Documents)
+SINGLEREMUNRQS_RELEASE02`  E`  Release to Accounting (Vendor Billing Documents)
+SINGLEREMUNRQS_REOPEN01`  E`  Agency Business: BAPI - Reopen Vendor Billing Documents
+SINGLEREMUREQS_GETDETAIL01`  E`  Issue Vendor Billing Documents
+SINGLESETTLEMENTREQS_GETLIST01`  E`  Determine Documents (SingleSettlementReqs)
+SINGLESETTREQS_CLOSE01`  E`  Agency Business: BAPI - Complete Single Settlement Requests
+SINGLESETTRQS_CANCEL01`  E`  Agency Business: BAPI Cancel Single Settlement Requests
+SINGLESETTRQS_CANCEL02`  E`  Agency Business: BAPI Cancel Single Settlement Requests
+SINGLESETTRQS_CHANGE01`  E`  Agency Business: BAPI Change Single Settlement Requests
+SINGLESETTRQS_CHANGE02`  E`  Agency Business: BAPI Change Single Settlement Requests
+SINGLESETTRQS_CHANGE03`  E`  Change Settlement Documents
+SINGLESETTRQS_CREATE01`  E`  Agency Business: Create BAPI Single Requests
+SINGLESETTRQS_CREATE02`  E`  Agency Business: Create BAPI Single Requests
+SINGLESETTRQS_CREATE03`  E`  Agency Business: Create BAPI Single Requests
+SINGLESETTRQS_CREATE04`  E`  Create Settlement Documents
+SINGLESETTRQS_GETDETAIL01`  E`  Issue Document Data (Single Settlement Requests)
+SINGLESETTRQS_RELEASE01`  E`  Release Accounting (SingleSettlementReqs)
+SINGLESETTRQS_RELEASE02`  E`  Release Accounting (SingleSettlementReqs)
+SINGLESETTRQS_REOPEN01`  E`  Agency Business: BAPI - Reopen Single Settlement Requests
+SISCSO01`  E`  SIS - Sales order
+SISDEL01`  E`  SIS - delivery
+SISINV01`  E`  SIS - billing document
+SMI_USERINFO_INBOUND_SAVE`  E`  Social User Information
+SOAPSIF_RECEIVELIST201`  E`  Receive: List ()
+SOAPS_CREATEINTRANSITS01`  E`  Create or Change "In Transits"
+SOAPS_REQUESTLIST201`  E`  Request: Read Sales Orders for Selection Criteria
+SOPGEN01`  E`  General info structure distribution
+SPCCFM`  E`  Spec2000 IDoc for S1REJECT, S1CMDACK messages
+SPCINV`  E`  Spec2000 IDoc for Chapter 4 - S1NVOICE, S1INVEXC
+SPCINV01`  E`  SPEC2000 SPCINV for Version 2014
+SPCORD`  E`  Idoc S2K s1stocks,s1quotes,s1booked,s1ordexc,s1shippd
+SPCORD01`  E`  SPCORD for SPEC2000 version 2014
+SPCSTS`  E`  SPEC 2000 Idoc for checking Statuses
+SPCSTS01`  E`  SPCSTS for SPEC2000 version 2014
+SPPMANREV_SETDEEXPEDITE01`  E`  Approval Filter - Limited Freeze Horizon
+SPPMANUALREVIEWS_CR01`  E`  Approval Filter
+SPPPLANNEDSCHEDULE_APR_MUL01`  E`  Mass Void for DRP Schedules
+SPPPLANNEDSCHEDULE_MOD_MUL01`  E`  Mass Load for DRP Schedules
+SPPPLANNEDSCHEDULE_MOD_MUL02`  E`  Mass Load for DRP Schedules
+SPPREMANCAPACITY_SETCAPACITI01`  E`  Sets Capacity Limits for Reuse
+SRCLST01`  E`  Source List
+SRVMAS01`  E`  Service master record with texts
+STAPSIF_RECEIVELIST201`  E`  Receipt of Request Result: Stock Selection
+STAPS_REQUESTLIST201`  E`  Request: Read Stock for Selection Criteria
+STAT_KEY_FIG_CHANGE01`  E`  Change One or More Statistical Key Figures
+STAT_KEY_FIG_CREATE01`  E`  Create One or More Statistical Key Figures
+STOCKSCMB_CREATEMULTIPLE01`  E`  Creation of Stock Information
+STTMAT01`  E`  STTMAT: Material variants
+STUDENT_DOCPOST01`  E`  BAPI: Post the Finanical Aid Document
+STUDENT_DOCUPDATE01`  E`  BAPI: Update  Finanical Aid Document
+SUBMAS01`  E`  EHS: Saving Replicated Specifications
+SUBMAS02`  E`  EHS: Saving Replicated Specifications
+SWAPSEMBA_GETDETAILWITHFO01`  E`  Grouping of Transaction and Financial Object
+SXIPERF_ORDER_CRMXIF`  E`  IDoc Structure for Data Type CRMXIF_BUSTRANS
+SYIDOC01`  E`  CA-EDI: Transport of IDoc types
+SYNCHRON`  E`  Dummy IDoc type for synchronous communication
+SYPART01`  E`  Transfer from partner profiles
+SYRECD01`  E`  CA-EDI: Transport of IDoc record types
+SYRECD02`  E`  IDoc Interface: Transport IDoc record types
+SYSTAT01`  E`  CA-EDI: Transfer from status records
+T006_01`  E`  Units of measurement
+TANKDIPREADING_SAVEMULTIPLE01`  E`  Create Tank Dips via IDOC
+TCURC_01`  E`  Currency Codes
+TCURR_01`  E`  Exchange rates
+TELCOBILLDOC_ADJUST01`  E`  Adjust Telco Billing Documents
+TELCOBILLDOC_CANCEL01`  E`  Generate Telco Billing Documents
+TELCOBILLDOC_CREATEMULTIPLE01`  E`  Generate Telco Billing Documents
+TEMPLATECO_CREATEFROMDATA01`  E`  CreateFromData for Business Object TemplateCO
+TEMPLATECO_DELETE01`  E`  Delete for Business Object TemplateCO
+TEM_EXPOSURE_CHANGE01`  E`  Change Exposure
+TEM_EXPOSURE_CREATE01`  E`  Create Exposures
+TEM_EXPOSURE_DELETE01`  E`  Delete Exposure
+TEM_EXPOSURE_RELEASE01`  E`  Release Exposure
+TEX_EXPOSURE_CHANGE01`  E`  Change Raw Exposure
+TEX_EXPOSURE_CHANGE02`  E`  Change Raw Exposure
+TEX_EXPOSURE_CHANGE03`  E`  Change Raw Exposure
+TEX_EXPOSURE_CREATE01`  E`  Create Raw Exposure
+TEX_EXPOSURE_CREATE02`  E`  Create Raw Exposure
+TEX_EXPOSURE_CREATE03`  E`  Create Raw Exposure
+TEX_EXPOSURE_DELETE01`  E`  Start Raw Expsoure Release Workflow
+TEX_EXPOSURE_GETDETAIL01`  E`  Gets Raw Exposure Details
+TEX_EXPOSURE_GETDETAIL02`  E`  Gets Raw Exposure Details
+TEX_EXPOSURE_GETDETAIL03`  E`  Gets Raw Exposure Details
+TEX_EXPOSURE_STARTRELEASE01`  E`  Start Raw Expsoure Release Workflow
+THATRANSCO_CHANGE01`  E`  Change Commodity Exposure Transactions
+THATRANSCO_CREATE01`  E`  Create Individual Commodity Transaction
+THATRANSCO_DELETE01`  E`  Delete Commodity Exposure
+THA_HEDGEPLAN_CHANGE01`  E`  Change Hedge Plan
+THA_HEDGEPLAN_CHANGE02`  E`  Change Hedge Plan
+THA_HEDGEPLAN_CREATE01`  E`  Create Hedge Plan
+THA_HEDGEPLAN_CREATE02`  E`  Create Hedge Plan
+THA_HEDGEPLAN_DELETE01`  E`  Delete Hedge Plan
+THA_TRANSFX_CHANGE01`  E`  Change Individual FX Transaction
+THA_TRANSFX_CREATE01`  E`  Create Individual FX Transaction
+THA_TRANSFX_DELETE01`  E`  Delete Individual FX Transaction
+THA_TRANSIR_CHANGE01`  E`  Change Individual IR Transaction
+THA_TRANSIR_CREATE01`  E`  Create Individual IR Transaction
+THA_TRANSIR_DELETE01`  E`  Delete Individual IR Transaction
+TIMESHEETCPRCONNECT_DETAILCP01`  E`  Transfer of CATS Detail Data to cProjects
+TIMESHEETCPRCONNECT_TRANSCPR01`  E`  Transfer CATS II Data by cProjects
+TIMESHEETHRCONNECTOR_DATATRA01`  E`  Transfer of CATS II Data into HR
+TIMESHEETLOCOCONNECT_TRACO01`  E`  Transfer of CATS II Data into PS, PM, and CO
+TIMESHEETLOCOCONNECT_TRAPM01`  E`  Transfer of CATS II Data into PS, PM, and CO
+TIMESHEETLOCOCONNECT_TRAPS01`  E`  Transfer of CATS II Data into PS, PM, and CO
+TMFRD2`  E`  IDoc for Freight Document (Includ. Shipment Details)
+TMSHP1`  E`  Structure of Shipment IDoc
+TPSDLR01`  E`  Selection via variant from external system
+TPSDLS01`  E`  Dispatch of delivery documents to shipping planning system
+TPSLOC01`  E`  Dispatch of location master data to transport planning syst.
+TPSSHT01`  E`  Dispatch of planned shipments from transport planning system
+TRADINGCONTRACT01`  E`  Trading Contract: Create from Template Data
+TRADINGCONTRACT02`  E`  Trading Contract: Create from Template Data
+TRADINGCONTRACT03`  E`  Trading Contract: Create from Template Data
+TRADINGCONTRACT_CHANGE01`  E`  Trading Contract: Change Template Data
+TRADINGCONTRACT_CHANGE02`  E`  Trading Contract: Change from Template Data
+TRADINGCONTRACT_CHANGE03`  E`  Trading Contract: Change Template Data
+TRADINGCONTRACT_GETFLOW01`  E`  Trading Contract: Read Document Flow
+TRADINGCONTRACT_GETLIST01`  E`  Trading Contract: Determine Document Information
+TRADINGCONTRACT_GETSTATUS01`  E`  Trading Contract: Supply Status of Trading Contract
+TRADINGCONTRACT_RELEASE01`  E`  Trading Contract: Release
+TRIGGER_LOCPROD_DEL_MULTI01`  E`  Delete Location Product Trigger
+TRIGGER_LOCPROD_SET_MULTI01`  E`  Set Location Product Trigger
+TRIGGER_LOC_DEL_MULTI01`  E`  Delete Location Trigger
+TRIGGER_LOC_SET_MULTI01`  E`  Set Location Trigger
+TRIGGER_PROD_DEL_MULTI01`  E`  Delete Product Trigger
+TRIGGER_PROD_SET_MULTI01`  E`  Set Product Trigger
+TRLAPSIF_RECEIVELIST01`  E`  Receive List()
+TRLAPSIF_RECEIVELIST201`  E`  Acceptance of Query Result: Transportation Lane
+TRLAPSIF_RECEIVELIST202`  E`  Acceptance of Query Result: Transportation Lane
+TRLAPS_DELETEMULTIPLE01`  E`  Deletion of Transportation Lanes
+TRLAPS_REQUESTLIST01`  E`  RFQ: Read (TransportLaneAPS)
+TRLAPS_REQUESTLIST02`  E`  RFQ: Read (TransportLaneAPS)
+TRLAPS_REQUESTLIST201`  E`  Query: Reading of Transportation Lanes
+TRLAPS_SAVEMULTIPLE01`  E`  Create or Change Transportation Lanes
+TRLAPS_SAVEMULTIPLE02`  E`  Create or Change Transportation Lanes
+TRLAPS_SAVEMULTIPLE201`  E`  Create or Change Transportation Lanes
+TRLAPS_SAVEMULTIPLE202`  E`  Create or Change Transportation Lanes
+TRPL_PNR_EXTERNAL_PL_IDOC`  E`  IDoc Data Structure of Generic PNR (TRPL_PNR)
+TRPL_PNR_IDOC`  E`  IDoc Data Structure of Generic PNR (TRPL_PNR)
+TRPL_RAIL_PORTAL_ORDER_IDOC`  E`  IDoc Data Structure Rail Portal Request TRPL_RAIL_PORTAL_O
+TRXSTA01`  E`  Tracking status message
+TRXSTA02`  E`  Tracking Event Message
+TSSCMBIF_RECEIVEDETAIL01`  E`  Receipt: Read()
+TSSCMBIF_RECEIVEKEYFIGVAL01`  E`  Receipt: Read()
+TSSCMB_CHANGEKEYFIGUREVALUE01`  E`  Change Key Figure Values for Time Series ID
+TSSCMB_REQUESTDETAIL01`  E`  Query: Read Metadata for Time Series ID
+TSSCMB_REQUESTKEYFIGUREVALUE01`  E`  Query: Read Key Figure Values for Time Series ID
+TSWNOMINATION_GETLIST01`  E`  List TSW Nominations(TSWNomination)
+TXTRAW01`  E`  Transfer free text to SAPoffice format 'RAW'
+TXTRAW02`  E`  Transfer free text to SAPoffice format 'RAW'
+UNIMA2`  E`  Alternative units of measure with acquisition of materials
+UNIT2`  E`  Units in CC2
+UNIT3`  E`  Units in CC3
+UNIT4`  E`  Units in CC4
+UPLOAD`  E`  Configuration transceiver for upload
+UPSMAS01`  E`  MASTER : ALE Distribution Unit
+UPSRCP01`  E`  RECEIPT : ALE Distribution Unit
+USERACTGROUPSASSIGN01`  E`  User: Change entire activity group assignment
+USERACTGROUPSDELETE01`  E`  User: Delete entire activity group assignment
+USERCHANGE01`  E`  Change User
+USERCLONE01`  E`  Create user with template in another system
+USERCLONE02`  E`  Create user with template in another system
+USERCLONE03`  E`  Create User with Template in Another System
+USERCLONE04`  E`  Create User with Template in Another System
+USERCLONE05`  E`  Create User with Template in Another System
+USERCLONE06`  E`  Clone User (USER)
+USERCLONE07`  E`  Clone User (USER)
+USERCREATE01`  E`  BAPI to Create a User
+USERDELETE01`  E`  BAPI to Delete a User
+USERLOCK01`  E`  Lock User
+USERPROFILESASSIGN01`  E`  User: Assign profiles
+USERPROFILESDELETE01`  E`  User: Delete All Profile Assignments
+USERRESPONSE01`  E`  Users: Confirmation to Central System
+USERUNLOCK01`  E`  Unlock user
+USER_WPPERSDATASAVE01`  E`  Writing the WP Personalization Data for a User
+VALPROJECTSTOCK_DEBITCREDIT01`  E`  Material Project Stock Debit Credit
+VALPROJECTSTOCK_PRICECHANGE01`  E`  Material Price Change
+VALSALESORDSTOCK_DEBITCREDIT01`  E`  Material Sales Order Stock Debit Credit
+VALSALESORDSTOCK_PRICECHANGE01`  E`  Material Price Change
+VALSCALE01`  E`  Maintain Value and Quota scale
+VARTRANSMDSEMBA_GETDETAILFO01`  E`  Grouping of Transaction and Financial Object
+VARTRANSSEMBA_FD_GETDETAIL01`  E`  Variable Transaction: Flow Data . Get Detail Multiple
+VARTRANSSEMBA_MDGETDETMULT01`  E`  Variable Transaction: Master Data . Get Detail Multiple
+VCHARVAL01`  E`  maintain vendor characteristic values
+VCUI_DELETE01`  E`  BAPI: Delete Interface Design
+VCUI_EXISTENCECHECK01`  E`  BAPI: Checks Whether Interface Design Exists
+VCUI_SAVEM01`  E`  Create or Change Interface Design
+VCUI_SAVEM02`  E`  Create or Change Interface Design
+VEHCLE01`  E`  IDOC for Transferring Vehicle Data
+VEHICLE_CHANGEMULTIPLE01`  E`  Change One or More Vehicles
+VEHICLE_CREATE01`  E`  Create a Single Vehicle
+VEHICLE_DELETEMULTIPLE01`  E`  Delete One or More Vehicles from the Database
+VEHICLE_GETHISTORY01`  E`  Read Vehicle History
+VEHICLE_GETLIST01`  E`  Read One or More Vehicles
+VEHICLE_SEARCH01`  E`  Search for Vehicles and their Configurations
+VEHICLE_SEARCH02`  E`  Search for Vehicles and their Configurations
+VENDCBDLIST_CANCEL01`  E`  Agency Business: Cancel Posting Lists
+VENDCBDLIST_CHANGE01`  E`  Agency Business: Change Posting Lists BAPI
+VENDCBDLIST_CREATE01`  E`  Agency business: Generate Bapi posting lists
+VENDCBDLIST_CREATE02`  E`  Agency business: Generate Bapi posting lists
+VENDCBDLIST_GETDETAIL01`  E`  Agency Business: Issue Detailed Data for Posting List
+VENDCBDLIST_RELEASE01`  E`  Agency Business: BAPI Release Posting Lists Document to FI
+VENDCBDLIST_RELEASE02`  E`  Agency Business: BAPI Release Posting Lists Document to FI
+VENDORSETTLEMENT_CANCEL01`  E`  Agency Business: BAPI - Reverse Vendor Settlements
+VENDORSETTLEMENT_CHANGE01`  E`  Agency Business: BAPI - Change Vendor Settlement
+VENDORSETTLEMENT_GETDETAIL01`  E`  Issue Detail Data (Vendor Settlement)
+VENDORSETTLEMENT_RELEASE01`  E`  Release to Accounting (Vendor Settlement)
+VENDTRIGGEREDCBDLIST_GETLIST01`  E`  Agency Business: BAPI Determine Posting List Detailed Data
+VENDTRIGGEREDCBDLIST_GETLIST02`  E`  Agency Business: BAPI Determine Posting List Detailed Data
+VFNMAS01`  E`  Master Variant Function
+VFNMAS02`  E`  Master Variant Function +  E1UPSLINK
+VOLATFXSEMBA_GETDETAIL01`  E`  Get Detail BAPI
+VOLATINDXSEMBA_GETDETAIL01`  E`  Get Detail BAPI
+VOLATIRSEMBA_GETDETAIL01`  E`  Get Detail BAPI
+VOLATSECSEMBA_GETDETAIL01`  E`  Get Detail BAPI
+VTAMAS01`  E`  Master variants table
+VTAMAS02`  E`  Master Variant Table   +  E1UPSLINK
+VTMMAS01`  E`  Master maintenance table contents
+VTMMAS02`  E`  Master Maintenance for Table Contents + E1UPSLINK
+WALNOT01`  E`  Allocation: Allocation table notification
+WALREQ01`  E`  Allocation: Report requested quantities
+WASTEROUTE_CREATEFROMDATA01`  E`  BAPI: Create Routes
+WBBDLD01`  E`  Assortment list: Material data
+WBBDLD02`  E`  Assortment list: material data (Rel. 4.0)
+WBBDLD03`  E`  Assortment lists: Material data (Rel. 99A)
+WBBDLD04`  E`  Assortment List: Material Data: R/3 Enterprise Release
+WBBDLD05`  E`  HPR Assortment List: Material Data with Article Hierarchy
+WBBDLD06`  E`  Standard Assortment List: Material Data
+WBBDLD07`  E`  HPR Assortment List: Material Data with add. layout inf.
+WBBDLD_TRIGGER01`  E`  Trigger-Idoc HPR assortment list
+WFRESOURCE_CHANGEAVAILABILIT01`  E`  Change Availability Period of a WFM Resource
+WGSREQ01`  E`  Order receipt IS-R
+WGSREQ02`  E`  Store order IDoc (inc. condition segment)
+WMATGRP01`  E`  Distribute Article Hierarchy to FWWS
+WMBIID01`  E`  Block Storage Bins
+WMCAID01`  E`  Reversal/Reversal request for transfer order
+WMERCAT01`  E`  Merchandise Category and associated data IDoc
+WMINID01`  E`  Information text for link to subsystems
+WMIVID01`  E`  Enter count results
+WMMBID01`  E`  Goods movements for mobile data entry
+WMMBID02`  E`  Stock movements from ext. systems
+WMPHID01`  E`  Pick HU (Handling Unit)
+WMRRID01`  E`  Release reference number
+WMSUID01`  E`  Move storage unit
+WMTCID01`  E`  Confirm transfer order
+WMTCID02`  E`  Confirm transfer order
+WMTCID03`  E`  Confirm TO
+WMTOID01`  E`  Transfer order
+WMTOID02`  E`  Send pick HU
+WMTRID01`  E`  Transfer requirement
+WORKC2`  E`  Workcenters in CC2
+WORKC3`  E`  Work centers in CC3
+WORKC4`  E`  Workcenters in CC4
+WORKSCHED_WITH_COST01`  E`  Insert Operative Planned Working Time (With Cost Assignment)
+WPDBBY01`  E`  POS outbound: bonus buy conditions
+WPDCUR01`  E`  POS interface: Download exchange rates
+WPDNAC01`  E`  POS interface: Download products
+WPDREB01`  E`  POS interface: Download special offer discounts
+WPDSET01`  E`  POS interface: Download set assignments
+WPDTAX01`  E`  POS interface: Download tax rates
+WPDWGR01`  E`  POS interface: Download material group master
+WPUBON01`  E`  POS interface: Upload sales docs (receipts) non-aggregated
+WPUERR01`  E`  POS interface: Upload messages SRS/POS/SCS
+WPUFIB01`  E`  POS interface: Upload Fin.Acc. interface SRS/POS
+WPUKSR01`  E`  POS Interface: Inbound processing cashier data for POS stats
+WPUTAB01`  E`  POS interface: Upload day-end closing POS
+WPUUMS01`  E`  POS interface: Upload sales data (compressed)
+WPUWBW01`  E`  POS interface: Upload goods movements
+WP_EAN01`  E`  POS interface: Upload/Download EAN assignments
+WP_PER01`  E`  POS interface: Upload/Download person data
+WP_PLU01`  E`  POS interface: Upload/Download article master
+WP_PLU02`  E`  POS interface: material and condition (inbound and outb.)
+WP_PLU03`  E`  Article Master: IDoc of POS Outbound with Article Hiearchy
+WRANTY01`  E`  Warranty Processing - Claim
+WRANTY02`  E`  Create/Change Warranty Claim
+WRMA_REV_DATA`  E`  RMA revaluation data from BW
+WRMA_REV_REQUEST`  E`  Data request for revaluation in R/3 system
+WTADDI01`  E`  Additionals
+WVINVE01`  E`  Store phy.inv.: phy.inv. docs outbound; count data inbound
+WVINVE02`  E`  Store phy.inv.: phy.inv. docs outbound; count data inbound
+WVINVE03`  E`  Store phy.inv.: phy.inv. docs outbound; count data inbound
+W_OAA_ATP_RESULT`  E`  ATP Result (OAA)
+W_OAA_SITES`  E`  Site Master (address data only)
+W_WGRP01`  E`  Distribution of material groups
+ZSRA001`  E`  IDoc Type for S4HCLNT100

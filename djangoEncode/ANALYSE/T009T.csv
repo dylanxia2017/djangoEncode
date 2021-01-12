@@ -1,0 +1,36 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`PERIV [C(00004)]`LTEXT [C(00060)]
+400`  E`  18`  Cal. Year, 4 Special Periods
+400`  E`  24`  Half periods
+400`  E`  60`  Cal. Year, 4 Special Periods
+400`  E`  BM`  BI Monthly
+400`  E`  C1`  1st period (calendar year)
+400`  E`  DL`  Daily
+400`  E`  GN`  Cal. Year, 4 Special Periods
+400`  E`  J1`  FeiMizi 445 calendar
+400`  E`  K0`  Calendar year, 0 spec. period
+400`  E`  K1`  Cal. Year, 1 Special Period
+400`  E`  K2`  Cal. Year, 2 Special Periods
+400`  E`  K3`  Cal. Year, 3 Special Periods
+400`  E`  K4`  Cal. Year, 4 Special Periods
+400`  E`  LR`  Live Rates
+400`  E`  M3`  AA Apr-Mar, 24 Per.
+400`  E`  M4`  AA Cal. Year, 24 Per.
+400`  E`  M6`  AA Jul-Jun, 24 Per.
+400`  E`  M9`  AA Oct-Sep, 24 Per.
+400`  E`  N3`  AA Apr-Mar,24 P.,yr shift+1
+400`  E`  N6`  AA Jul-Jun,24 P.,yr shift+1
+400`  E`  Q4`  Quaterly2
+400`  E`  QT`  Quarterly
+400`  E`  R1`  Shortened fisc.year Jan-Sep'94
+400`  E`  S3`  Apr-Mar,4 Sp. Per,yr shift +1
+400`  E`  S6`  Jul-Jun,4 Sp. Per,yr shift +1
+400`  E`  SA`  Configurable template FI-AA US
+400`  E`  SZ`  Configurable template variant
+400`  E`  V3`  Apr.- March, 4 special periods
+400`  E`  V6`  July - June, 4 special periods
+400`  E`  V9`  Oct.- Sept., 4 special periods
+400`  E`  WK`  Calendar weeks
+400`  E`  Y4`  AA:Cal. Yr, 4 Special Periods
+400`  E`  ZA`  Fiscal Year - 8570 12/4
+400`  E`  ZF`  ZY Fiscal year variants
+400`  E`  ZR`  Cal. Year, 4 Special Periods

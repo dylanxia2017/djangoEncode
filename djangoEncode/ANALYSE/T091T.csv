@@ -1,0 +1,14 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`ANHWSL [C(00006)]`ANHTXT [C(00100)]
+400`  E`  CL1`  Cutoff value for Chile 10%
+400`  E`  CN1`  Cutoff value for China 5%
+400`  E`  ICK`  Cutoff value for India 5%
+400`  E`  JPS`  Cutoff value for Japanese net worth tax dep.
+400`  E`  KR1`  Cutoff value for Korea 10%, purchase prior 1/1/95
+400`  E`  KR2`  Cutoff value for Korea 5%, decl.-balance assets
+400`  E`  SCH`  Scrap value 10 %
+400`  E`  VRA`  Cutoff value net worth tax Austria
+400`  E`  VRM`  Cutoff value net worth tax Germany
+400`  E`  X00`  Cutoff value for China 5%
+400`  E`  X01`  Cutoff value for China 5%
+400`  E`  ZP1`  Cutoff value for China 5%
+400`  E`  ZTM`  Cutoff value for China 5%

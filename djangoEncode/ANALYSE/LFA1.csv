@@ -1,0 +1,814 @@
+﻿MANDT [C(00006)]`LIFNR [C(00020)]`NAME1 [C(00070)]`NAME2 [C(00070)]`KTOKK [C(00008)]
+400`  0010300001`  Inlandslieferant DE 1`  `  SUPL
+400`  0010300002`  Inlandslieferant DE 2`  `  SUPL
+400`  0010300273`  Inlandslieferant DE CPD`  `  CPD
+400`  0010300003`  Inlandslieferant DE 3 (mit ERS)`  `  SUPL
+400`  0010300080`  Inlandslieferant DE (Ariba Netzwerk`  `  SUPL
+400`  0010300081`  Inlandslieferant DE (Ariba Sourcing`  `  SUPL
+400`  0010300082`  Inlandslieferant DE (Ariba Sourcing`  `  SUPL
+400`  0010300083`  Inlandslieferant DE (Ariba Sourcing`  `  SUPL
+400`  0010300007`  Inland-Lohnbearbeiter A, DE`  `  SUPL
+400`  0010300090`  Inlandslieferant DE (Ariba FIN)`  `  SUPL
+400`  EWM10-SU01`  EWM-Lieferant 01`  `  Z007
+400`  BP1010`  WERK 1`  `  SUPL
+400`  0010300010`  Inlandslieferant DE 1`  `  SUPL
+400`  0017300001`  Domestic US Supplier 1`  `  SUPL
+400`  0017300002`  Domestic US Supplier 2`  `  SUPL
+400`  0017300273`  Domestic US Supplier CPD`  `  CPD
+400`  0017300030`  Domestic US Supplier 1099M Withhold`  `  SUPL
+400`  0017300031`  Foreign US Supplier (DE) 1042S With`  `  SUPL
+400`  0017300032`  Domestic US Supplier 1099G Withhold`  `  SUPL
+400`  0017300033`  Domestic US Supplier 1099INT Withho`  `  SUPL
+400`  0017300034`  Domestic US Supplier 1099K Withhold`  `  SUPL
+400`  0017300003`  Domestic US Supplier 3 (with ERS)`  `  SUPL
+400`  0017300006`  Domestic US Supplier 6 (Returns)`  `  SUPL
+400`  0017300080`  Domestic US Supplier 80 (Ariba Netw`  `  SUPL
+400`  0017300081`  Domestic US Supplier 81 (Ariba Sour`  `  SUPL
+400`  0017300082`  Domestic US Supplier 82 (Ariba Sour`  `  SUPL
+400`  0017300083`  Domestic US Supplier 83 (Ariba Sour`  `  SUPL
+400`  0017300007`  Domestic US Subcontractor A`  `  SUPL
+400`  0017300090`  Domestic US Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM17-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP1710`  Plant 1`  `  SUPL
+400`  0017300010`  Domestic US Supplier 10`  `  SUPL
+400`  0044300001`  Domestic Supplier NO 01`  `  SUPL
+400`  0044300002`  Domestic Supplier NO 02`  `  SUPL
+400`  0044300273`  Domestic Supplier NO CPD`  `  CPD
+400`  0044300003`  Domestic Supplier NO 3 (with ERS)`  `  SUPL
+400`  0044300006`  Domestic Supplier NO 6 (Returns)`  `  SUPL
+400`  0044300080`  Domestic Supplier NO (Ariba Network`  `  SUPL
+400`  0044300081`  Domestic Supplier NO (Ariba Sourcin`  `  SUPL
+400`  0044300082`  Domestic Supplier NO (Ariba Sourcin`  `  SUPL
+400`  0044300083`  Domestic Supplier NO (Ariba Sourcin`  `  SUPL
+400`  0044300007`  Domestic Subcontracting NO 7`  `  SUPL
+400`  0044300090`  Domestic Supplier NO 90 (Ariba FIN)`  `  SUPL
+400`  0064300001`  Domestic ZA Supplier 1`  `  SUPL
+400`  0064300002`  Domestic ZA Supplier 2`  `  SUPL
+400`  0064300273`  Domestic ZA Supplier CPD`  `  CPD
+400`  0064300003`  Domestic ZA Supplier 3 (with ERS)`  `  SUPL
+400`  0064300006`  Domestic ZA Supplier 6 (Return)`  `  SUPL
+400`  0064300080`  Domestic ZA Supplier 80 (Ariba Netw`  `  SUPL
+400`  0064300081`  Domestic ZA Supplier 81 (Ariba Sour`  `  SUPL
+400`  0064300082`  Domestic ZA Supplier 82 (Ariba Sour`  `  SUPL
+400`  0064300083`  Domestic ZA Supplier 83 (Ariba Sour`  `  SUPL
+400`  0064300007`  Domestic subcontractor A, ZA`  `  SUPL
+400`  0064300090`  Domestic Supplier ZA (Ariba FIN)`  `  SUPL
+400`  0013300001`  国内供应商01`  `  SUPL
+400`  0013300002`  国内供应商02`  `  SUPL
+400`  0013300273`  国内供应商03`  `  CPD
+400`  0013300003`  Domestic CN Supplier 3 (with ERS)`  `  SUPL
+400`  0013300006`  国内供应商06`  `  SUPL
+400`  0013300080`  中国国内供货商80 (Ariba Network)`  `  SUPL
+400`  0013300081`  中国国内供货商81 (Ariba 货源 1)`  `  SUPL
+400`  0013300082`  中国国内供货商82 (Ariba 货源 2)`  `  SUPL
+400`  0013300083`  中国国内供货商83 (Ariba 货源 3)`  `  SUPL
+400`  0013300007`  国内外包商`  `  SUPL
+400`  0013300090`  Domestic CN Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM13-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP1310`  Plant 1`  `  SUPL
+400`  0013300010`  Domestic CN Supplier 10`  `  SUPL
+400`  0013300095`  CN - Sales Commission Recipient`  `  SUPL
+400`  EWM62-SU01`  Domestic ZA Supplier 1 (EWM)`  `  SUPL
+400`  BP6410`  Plant 1`  `  SUPL
+400`  0011300001`  Domestic GB Supplier 1`  `  SUPL
+400`  0011300002`  Domestic GB Supplier 2`  `  SUPL
+400`  0011300273`  Domestic GB Supplier CPD`  `  CPD
+400`  0011300030`  Domestic GB Supplier Withholding Ta`  `  SUPL
+400`  0011300003`  Domestic GB Supplier 3 (with ERS)`  `  SUPL
+400`  0011300006`  Domestic GB Supplier 6 (Return)`  `  SUPL
+400`  0011300080`  Domestic GB Supplier 80 (Ariba Netw`  `  SUPL
+400`  0011300081`  Domestic GB Supplier 81 (Ariba Sour`  `  SUPL
+400`  0011300082`  Domestic GB Supplier 82 (Ariba Sour`  `  SUPL
+400`  0011300083`  Domestic GB Supplier 83 (Ariba Sour`  `  SUPL
+400`  0011300007`  Inland subcontractor A, GB`  `  SUPL
+400`  0011300090`  Domestic GB Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0011200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM11-SU01`  EWM-Supplier 01`  `  SUPL
+400`  BP1110`  WERK 1`  `  SUPL
+400`  0011300010`  Domestic GB Supplier 1`  `  SUPL
+400`  0011300095`  Domestic GB 1 - Sales Commission`  `  SUPL
+400`  0063300001`  國內供應商01`  `  SUPL
+400`  0063300002`  國內供應商02`  `  SUPL
+400`  0063300273`  國內供應商CPD`  `  CPD
+400`  0063300003`  Domestic TW Supplier 3 (with ERS)`  `  SUPL
+400`  0063300006`  Domestic TW Supplier 6 (Returns)`  `  SUPL
+400`  0063300080`  臺灣國內供應商80 (Ariba Network)`  `  SUPL
+400`  0063300081`  臺灣國內供應商81 (Ariba 貨源1)`  `  SUPL
+400`  0063300082`  臺灣國內供應商82 (Ariba 貨源 2)`  `  SUPL
+400`  0063300083`  臺灣國內供應商83 (Ariba 貨源 3)`  `  SUPL
+400`  0063300007`  國內外包商`  `  SUPL
+400`  0063300090`  Domestic TW Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM63-SU01`  EWM Vendor 01`  `  SUPL
+400`  BP6310`  Plant 1`  `  SUPL
+400`  0063300010`  Domestic TW Supplier 10`  `  SUPL
+400`  0063300095`  TW - Sales Commission Recipient`  `  SUPL
+400`  0036300001`  Domestic TR Supplier 1`  `  SUPL
+400`  0036300002`  Domestic TR Supplier 2`  `  SUPL
+400`  0036300273`  Domestic TR Supplier CPD`  `  CPD
+400`  0036300003`  Domestic TR Supplier 3 (with ERS)`  `  SUPL
+400`  0036300006`  Domestic TR Supplier 6 (Return)`  `  SUPL
+400`  0036300080`  Domestic TR Supplier 80 (Ariba Netw`  `  SUPL
+400`  0036300081`  Domestic TR Supplier 81 (Ariba Sour`  `  SUPL
+400`  0036300082`  Domestic TR Supplier 82 (Ariba Sour`  `  SUPL
+400`  0036300083`  Domestic TR Supplier 83 (Ariba Sour`  `  SUPL
+400`  0036300007`  Inland-Lohnbearbeiter A, TR`  `  SUPL
+400`  0036300090`  Domestic TR Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0068300001`  Inlandslieferant TH 1`  `  SUPL
+400`  0068300002`  Inlandslieferant TH 2`  `  SUPL
+400`  0068300273`  Inlandslieferant TH CPD`  `  CPD
+400`  0068300003`  Inlandslieferant TH 3 (mit ERS)`  `  SUPL
+400`  0068300006`  Domestic TH Supplier 6 (Return)`  `  SUPL
+400`  0068300080`  Inlandslieferant TH (Ariba Netzwerk`  `  SUPL
+400`  0068300081`  Inlandslieferant TH (Ariba Sourcing`  `  SUPL
+400`  0068300082`  Inlandslieferant TH (Ariba Sourcing`  `  SUPL
+400`  0068300083`  Inlandslieferant TH (Ariba Sourcing`  `  SUPL
+400`  0068300007`  Inland-Lohnbearbeiter A, TH`  `  SUPL
+400`  0068300090`  Domestic TH Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0061300001`  Domestic SG Supplier 1`  `  SUPL
+400`  0061300002`  Domestic SG Supplier 2`  `  SUPL
+400`  0061300273`  Domestic SG Supplier CPD`  `  CPD
+400`  0061300006`  Domestic SG Supplier 6 (Returns)`  `  SUPL
+400`  0061300080`  Domestic SG Supplier 80 (Ariba Netw`  `  SUPL
+400`  0061300081`  Domestic SG Supplier 81 (Ariba Sour`  `  SUPL
+400`  0061300082`  Domestic SG Supplier 82 (Ariba Sour`  `  SUPL
+400`  0061300083`  Domestic SG Supplier 83 (Ariba Sour`  `  SUPL
+400`  0061300007`  Domestic SG Subcontractor A`  `  SUPL
+400`  0061300090`  Domestic SG Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM61-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP6110`  PLANT 1`  `  SUPL
+400`  0061300010`  Domestic SG Supplier 1`  `  SUPL
+400`  0061300095`  SG - Sales Commission Recipient`  `  SUPL
+400`  0019300001`  Domestic SE Supplier 1`  `  SUPL
+400`  0019300002`  Domestic SE Supplier 2`  `  SUPL
+400`  0019300273`  Domestic SE Supplier CPD`  `  CPD
+400`  0019300003`  Domestic SE Supplier 3 (with ERS)`  `  SUPL
+400`  0019300006`  Domestic Supplier SE 6 (returns)`  `  SUPL
+400`  0019300080`  Domestic vendor SE (Ariba Network)`  `  SUPL
+400`  0019300081`  Domestic vendor SE 1 (Ariba Sourcin`  `  SUPL
+400`  0019300082`  Domestic vendor SE 2 (Ariba Sourcin`  `  SUPL
+400`  0019300083`  Domestic vendor SE 3 (Ariba Sourcin`  `  SUPL
+400`  0019300007`  Inland subcontractor A, SE`  `  SUPL
+400`  0019300090`  Domestic SE Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0019200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM19-SU01`  Domestic SE Supplier 1 (EWM)`  `  SUPL
+400`  BP1910`  Plant 1`  `  SUPL
+400`  0059300001`  Domestic SA Supplier 1`  `  SUPL
+400`  0059300002`  Domestic SA Supplier 2`  `  SUPL
+400`  0059300273`  Domestic SA Supplier CPD`  `  CPD
+400`  0059300003`  Domestic SA Supplier 3 (with ERS)`  `  SUPL
+400`  0059300030`  Foreign Supplier 30 for Withholding`  `  SUPL
+400`  0059300031`  Foreign Supplier 31 for Withholding`  `  SUPL
+400`  0059300006`  Domestic SA Supplier 6 (Return)`  `  SUPL
+400`  0059300080`  Domestic SA Supplier 80 (Ariba Netw`  `  SUPL
+400`  0059300081`  Domestic SA Supplier 81 (Ariba Sour`  `  SUPL
+400`  0059300082`  Domestic SA Supplier 82 (Ariba Sour`  `  SUPL
+400`  0059300083`  Domestic SA Supplier 83 (Ariba Sour`  `  SUPL
+400`  0059300007`  Inland-Lohnbearbeiter A, SA`  `  SUPL
+400`  0059300090`  Domestic SA Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0059300010`  Domestic SA Supplier 10`  `  SUPL
+400`  0059300095`  SA - Sales Commission Recipient`  `  SUPL
+400`  0016300001`  Domestic Supplier RU 1`  `  SUPL
+400`  0016300002`  Domestic Supplier RU 2`  `  SUPL
+400`  0016300273`  Domestic Supplier RU CPD`  `  CPD
+400`  0016300003`  Domestic Supplier RU 3 (ERS)`  `  SUPL
+400`  0016300006`  Domestic Supplier RU 6 (Returns)`  `  SUPL
+400`  0016300080`  Domestic RU Supplier 80 (Ariba Netw`  `  SUPL
+400`  0016300081`  Domestic RU Supplier 81 (Ariba Sour`  `  SUPL
+400`  0016300082`  Domestic RU Supplier 82 (Ariba Sour`  `  SUPL
+400`  0016300083`  Domestic RU Supplier 83 (Ariba Sour`  `  SUPL
+400`  0016300090`  Domestic RU Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0028300001`  Domestic RO Supplier 1`  `  SUPL
+400`  0028300002`  Domestic RO Supplier 2`  `  SUPL
+400`  0028300273`  Domestic RO Supplier CPD`  `  CPD
+400`  0028300003`  Domestic RO Supplier 3`  `  SUPL
+400`  0028300006`  Domestic RO Supplier 6 (Return)`  `  SUPL
+400`  0028300080`  Domestic RO Supplier 80 (Ariba Netw`  `  SUPL
+400`  0028300081`  Domestic RO Supplier 81 (Ariba Sour`  `  SUPL
+400`  0028300082`  Domestic RO Supplier 82 (Ariba Sour`  `  SUPL
+400`  0028300083`  Domestic RO Supplier 83 (Ariba Sour`  `  SUPL
+400`  0028300007`  Domestic RO Subcontractor A`  `  SUPL
+400`  0028300090`  Domestic RO Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0028200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  0028300010`  Domestic Suplier RO 10`  `  SUPL
+400`  0028300095`  RO - Sales Commission Recipient`  `  SUPL
+400`  0035300001`  Domestic PT Supplier 1`  `  SUPL
+400`  0035300002`  Domestic PT Supplier 2`  `  SUPL
+400`  0035300273`  Domestic PT Supplier CPD`  `  CPD
+400`  0035300003`  Domestic PT Supplier 3 (with ERS)`  `  SUPL
+400`  0035300006`  Domestic PT Supplier 6 (Returns)`  `  SUPL
+400`  0035300007`  Domestic PT Subcontractor A`  `  SUPL
+400`  0035200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  0035300010`  Domestic PT Supplier 10`  `  SUPL
+400`  0026300082`  Domestic PL Supplier 82 (Ariba Sour`  `  SUPL
+400`  0026300001`  Domestic supplier PL 1`  `  SUPL
+400`  0026300002`  Domestic supplier PL 2`  `  SUPL
+400`  0026300273`  Domestic supplier PL CPD`  `  CPD
+400`  0026300003`  Domestic Supplier PL 3 (with ERS)`  `  SUPL
+400`  0026300006`  Domestic PL Supplier 6 (Return)`  `  SUPL
+400`  0026300083`  Domestic PL Supplier 83 (Ariba Sour`  `  SUPL
+400`  0026300080`  Domestic PL Supplier 80 (Ariba Netw`  `  SUPL
+400`  0026300081`  Domestic PL Supplier 81 (Ariba Sour`  `  SUPL
+400`  0026300007`  Domestic Subcontractor 7, (PL)`  `  SUPL
+400`  0026300090`  Domestic PL Supplier 90 (Ariba PLN)`  `  SUPL
+400`  0026200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  0026300010`  Domestic Vendor (Customer) PL 10`  `  SUPL
+400`  0026300095`  PL - Sales Commission Recipient`  `  SUPL
+400`  0058300001`  Domestic PH Supplier 1`  `  SUPL
+400`  0058300002`  Domestic PH Supplier 2`  `  SUPL
+400`  0058300273`  Domestic PH Supplier CPD`  `  CPD
+400`  0058300003`  Domestic PH Supplier 3 (ERS)`  `  SUPL
+400`  0058300006`  Domestic PH Supplier 6 (Return)`  `  SUPL
+400`  0058300080`  Supplier PH(Ariba Network)`  `  SUPL
+400`  0058300081`  Supplier PH(Ariba Sourcing 1)`  `  SUPL
+400`  0058300082`  Supplier PH(Ariba Sourcing 2)`  `  SUPL
+400`  0058300083`  Supplier PH(Ariba Sourcing 3)`  `  SUPL
+400`  0058300007`  Domestic PH Subcontractor`  `  SUPL
+400`  0058300090`  Domestic PH Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM58-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP5810`  Plant 1`  `  SUPL
+400`  0058300010`  Domestic PH Supplier 10`  `  SUPL
+400`  0058300095`  PH - Sales Commission Recipient`  `  SUPL
+400`  0069300001`  Domestic NZ Supplier 1`  `  SUPL
+400`  0069300002`  Domestic NZ Supplier 2`  `  SUPL
+400`  0069300273`  Domestic NZ Supplier CPD`  `  CPD
+400`  0069300003`  Domestic NZ Supplier 3 (with ERS)`  `  SUPL
+400`  0069300006`  Domestic NZ Supplier 6`  `  SUPL
+400`  0069300080`  Domestic NZ Supplier 80 (Ariba Netw`  `  SUPL
+400`  0069300081`  Domestic NZ Supplier 81 (Ariba Sour`  `  SUPL
+400`  0069300082`  Domestic NZ Supplier 82 (Ariba Sour`  `  SUPL
+400`  0069300083`  Domestic NZ Supplier 83 (Ariba Sour`  `  SUPL
+400`  0069300007`  Domestic NZ Subcontractor`  `  SUPL
+400`  0069300090`  Domestic NZ Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM69-SU01`  EWM Vendor 01`  `  SUPL
+400`  BP6910`  Plant 1`  `  SUPL
+400`  0037300001`  Binnenlandse leverancier NL 01`  `  SUPL
+400`  0037300002`  Binnenlandse leverancier NL 02`  `  SUPL
+400`  0037300273`  Binnenlandse leverancier NL CPD`  `  CPD
+400`  0037300003`  Binnenlandse leverancier NL 3 (met`  `  SUPL
+400`  0037300006`  Domestic NL 6 (Returns)`  `  SUPL
+400`  0037300080`  Domestic NL Supplier 80 (Ariba Netw`  `  SUPL
+400`  0037300081`  Domestic NL Supplier 81 (Ariba Sour`  `  SUPL
+400`  0037300082`  Domestic NL Supplier 82 (Ariba Sour`  `  SUPL
+400`  0037300083`  Domestic NL Supplier 83 (Ariba Sour`  `  SUPL
+400`  0037300007`  Domestic NL 7 (Subcontracting)`  `  SUPL
+400`  0037300090`  Domestic NL Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0037200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM37-SU01`  Domestic NL Supplier 1 (EWM)`  `  SUPL
+400`  BP3710`  Plant 1`  `  SUPL
+400`  0037300010`  Domestic Supplier NL 10`  `  SUPL
+400`  0037300095`  NL - Sales Commission Recipient`  `  SUPL
+400`  0054300001`  Domestic MY Supplier 1`  `  SUPL
+400`  0054300002`  Domestic MY Supplier 2`  `  SUPL
+400`  0054300273`  Domestic MY Supplier CPD`  `  CPD
+400`  0054300003`  Domestic MY Supplier 3 (with ERS)`  `  SUPL
+400`  0054300030`  Foreign Supplier 30 for Withholding`  `  SUPL
+400`  0054300031`  Foreign Supplier 31 for Withholding`  `  SUPL
+400`  0054300006`  Domestic MY Supplier 6 (Return)`  `  SUPL
+400`  0054300080`  Domestic MY Supplier 80 (Ariba Netw`  `  SUPL
+400`  0054300081`  Domestic MY Supplier 81 (Ariba Sour`  `  SUPL
+400`  0054300082`  Domestic MY Supplier 82 (Ariba Sour`  `  SUPL
+400`  0054300083`  Domestic MY Supplier 83 (Ariba Sour`  `  SUPL
+400`  0054300007`  Inland-Lohnbearbeiter A, MY`  `  SUPL
+400`  0054300090`  Domestic MY Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM54-SU01`  EWM Vendor 01`  `  SUPL
+400`  BP5410`  Plant 1`  `  SUPL
+400`  0054300010`  Domestic MY Supplier 10`  `  SUPL
+400`  0054300095`  MY - Sales Commission Recipient`  `  SUPL
+400`  0055300001`  Domestic MX Supplier 1`  `  SUPL
+400`  0055300002`  Domestic MX Supplier 2`  `  SUPL
+400`  0055300273`  Domestic MX Supplier CPD`  `  CPD
+400`  0055300030`  Domestic MX Supplier Withholding Ta`  `  SUPL
+400`  0055300031`  Foreign MX Supplier (DE) Withholdin`  `  SUPL
+400`  0055300003`  Domestic MX Supplier 3 (with ERS)`  `  SUPL
+400`  0055300006`  Domestic MX Supplier 6 (Returns)`  `  SUPL
+400`  0055300080`  Domestic MX Supplier 80 (Ariba Netw`  `  SUPL
+400`  0055300081`  Domestic MX Supplier 81 (Ariba Sour`  `  SUPL
+400`  0055300082`  Domestic MX Supplier 82 (Ariba Sour`  `  SUPL
+400`  0055300083`  Domestic MX Supplier 83 (Ariba Sour`  `  SUPL
+400`  0055300007`  Domestic MX Subcontractor A`  `  SUPL
+400`  0055300090`  Domestic MX Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM55-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP5510`  Plant 1`  `  SUPL
+400`  0055300095`  Proveedor Comisiones Ventas`  `  SUPL
+400`  0055300010`  Domestic MX Supplier 10`  `  SUPL
+400`  0033300001`  Domestic UAE Supplier 1`  `  SUPL
+400`  0033300002`  Domestic UAE Supplier 2`  `  SUPL
+400`  0033300273`  Domestic UAE Supplier CPD`  `  CPD
+400`  0033300003`  Domestic UAE Supplier 3 (with ERS)`  `  SUPL
+400`  0033300006`  Domestic AE Supplier 6 (Return)`  `  SUPL
+400`  0033300080`  Domestic AE Supplier 80 (Ariba Netw`  `  SUPL
+400`  0033300081`  Domestic AE Supplier 81 (Ariba Sour`  `  SUPL
+400`  0033300082`  Domestic AE Supplier 82 (Ariba Sour`  `  SUPL
+400`  0033300083`  Domestic AE Supplier 83 (Ariba Sour`  `  SUPL
+400`  0033300007`  Inland-Lohnbearbeiter A, AE`  `  SUPL
+400`  0033300090`  Domestic AE Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM33-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP3310`  Plant 1`  `  SUPL
+400`  0033300010`  Domestic AE Supplier 10`  `  SUPL
+400`  0033300095`  AE - Sales Commission Recipient`  `  SUPL
+400`  0012300001`  Fournisseur national FR 1`  `  SUPL
+400`  0012300002`  Fournisseur national FR 2`  `  SUPL
+400`  0012300030`  Fournisseur honoraire FR`  `  SUPL
+400`  0012300273`  Fournisseur national FR CPD`  `  CPD
+400`  0012300003`  Domestic FR Supplier 3 (with ERS)`  `  SUPL
+400`  0012300006`  FOURNISSEUR DOMESTIQUE FR 6 (Retour`  `  SUPL
+400`  0012300080`  Domestic FR Supplier 80 (Ariba Netw`  `  SUPL
+400`  0012300081`  Domestic FR Supplier 81 (Ariba Netw`  `  SUPL
+400`  0012300082`  Domestic FR Supplier 82 (Ariba Netw`  `  SUPL
+400`  0012300083`  Domestic FR Supplier 83 (Ariba Netw`  `  SUPL
+400`  0012300007`  FOURNISSEUR DOMESTIQUE FR 7`  `  SUPL
+400`  0012300090`  Fournisseur domestique FR (Ariba FI`  `  SUPL
+400`  EWM12-SU01`  Domestic FR Supplier 1 (EWM)`  `  SUPL
+400`  BP1210`  Usine 1`  `  SUPL
+400`  0012300010`  Fournisseur national FR 10`  `  SUPL
+400`  7K300001`  Domestic LU Supplier 1`  `  SUPL
+400`  7K300002`  Domestic LU Supplier 2`  `  SUPL
+400`  7K300273`  Domestic LU Supplier CPD`  `  CPD
+400`  7K300003`  Domestic Supplier LU 3 (with ERS)`  `  SUPL
+400`  7K300006`  Domestic LU Supplier 6 (Returns)`  `  SUPL
+400`  7K300080`  Domestic LU Supplier (Ariba Network`  `  SUPL
+400`  7K300081`  Domestic LU Supplier (Ariba Sourcin`  `  SUPL
+400`  7K300082`  Domestic LU Supplier (Ariba Sourcin`  `  SUPL
+400`  7K300083`  Domestic LU Supplier (Ariba Sourcin`  `  SUPL
+400`  7K300007`  Domestic-Subcontractor A, LU`  `  SUPL
+400`  7K300090`  Domestic LU Supplier (Ariba FIN)`  `  SUPL
+400`  7K200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM7K-SU01`  EWM-Supplier 01`  `  SUPL
+400`  BP7K10`  PLANT 1`  `  SUPL
+400`  7K300010`  Domestic Supplier LU 10`  `  SUPL
+400`  7K300095`  Domestic Supplier LU (Sales Commiss`  `  SUPL
+400`  0043300001`  공급업체 국내 01`  `  SUPL
+400`  0043300002`  공급업체 국내 02`  `  SUPL
+400`  0043300273`  공급업체 국내 CPD`  `  CPD
+400`  0043300003`  Domestic KR Supplier 3 (with ERS)`  `  SUPL
+400`  0043300006`  Domestic KR Supplier 6 (Returns)`  `  SUPL
+400`  0043300080`  Domestic KR Supplier 80 (Ariba Netw`  `  SUPL
+400`  0043300081`  Domestic KR Supplier 81 (Ariba Sour`  `  SUPL
+400`  0043300082`  Domestic KR Supplier 82 (Ariba Sour`  `  SUPL
+400`  0043300083`  Domestic KR Supplier 83 (Ariba Sour`  `  SUPL
+400`  0043300007`  Inland-Lohnbearbeiter A, KR`  `  SUPL
+400`  0043300090`  Domestic KR Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0015300001`  国内仕入先 01`  `  SUPL
+400`  0015300002`  国内仕入先 02`  `  SUPL
+400`  0015300273`  国内仕入先 CPD`  `  CPD
+400`  0015300050`  Foreign JP Supplier 1`  `  SUPL
+400`  0015300003`  Domestic JP Supplier 3 (with ERS)`  `  SUPL
+400`  0015300030`  国内仕入先 30 (WH)`  `  SUPL
+400`  0015300031`  Foreign Supplier 31 for Withholding`  `  SUPL
+400`  0015300006`  Domestic JP Supplier 6 (Returns)`  `  SUPL
+400`  0015300080`  Domestic JP Supplier 80 (Ariba Netw`  `  SUPL
+400`  0015300081`  Domestic JP Supplier 81 (Ariba Sour`  `  SUPL
+400`  0015300082`  Domestic JP Supplier 82 (Ariba Sour`  `  SUPL
+400`  0015300083`  Domestic JP Supplier 83 (Ariba Sour`  `  SUPL
+400`  0015300007`  Inland-Lohnbearbeiter A, JP`  `  SUPL
+400`  0015300090`  Domestic JP Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM15-SU01`  EWM-仕入先 01`  `  SUPL
+400`  0000710082`  湖南青岛海尔公司`  海尔`  LIEF
+400`  0015300010`  Domestic JP Supplier 10`  `  SUPL
+400`  0015300095`  JP - Sales Commission Recipient`  `  SUPL
+400`  0029300001`  Domestic CA Supplier 1`  `  SUPL
+400`  0029300002`  Domestic CA Supplier 2`  `  SUPL
+400`  0029300273`  Domestic CA Supplier CPD`  `  CPD
+400`  0029300003`  Domestic CA Supplier 3 (with ERS)`  `  SUPL
+400`  0029300006`  Domestic CA Supplier 6 (Returns)`  `  SUPL
+400`  0029300080`  Domestic CA Supplier 80 (Ariba Netw`  `  SUPL
+400`  0029300081`  Domestic CA Supplier 81 (Ariba Sour`  `  SUPL
+400`  0029300082`  Domestic CA Supplier 82 (Ariba Sour`  `  SUPL
+400`  0029300083`  Domestic CA Supplier 83 (Ariba Sour`  `  SUPL
+400`  0029300007`  Domestic CA Subcontractor A`  `  SUPL
+400`  0029300090`  Domestic CA Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM29-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP2910`  Plant 1`  `  SUPL
+400`  0029300010`  Domestic CA Supplier 10`  `  SUPL
+400`  0029300095`  CA - Sales Commission Recipient`  `  SUPL
+400`  0023300001`  Domestic Supplier IT 1`  `  SUPL
+400`  0023300002`  Domestic Supplier IT 2`  `  SUPL
+400`  0023300273`  Inlandslieferant IT CPD`  `  CPD
+400`  0023300003`  Domestic IT Supplier 3 (with ERS)`  `  SUPL
+400`  0023300030`  Domestic IT Supplier 30 (WT)`  `  SUPL
+400`  0023300031`  Foreign Supplier 31 (DE) (WT)`  `  SUPL
+400`  0023300032`  Domestic IT Supplier 32 (WT)`  `  SUPL
+400`  0023300033`  Domestic IT Supplier 33 (WT)`  `  SUPL
+400`  0023300034`  Domestic IT Supplier 34 (WT)`  `  SUPL
+400`  0023300006`  Domestic IT Supplier 6 (Return)`  `  SUPL
+400`  0023300080`  Domestic IT Supplier (Ariba Network`  `  SUPL
+400`  0023300081`  Domestic IT Supplier (Ariba Sourcin`  `  SUPL
+400`  0023300082`  Domestic IT Supplier (Ariba Sourcin`  `  SUPL
+400`  0023300083`  Domestic IT Supplier (Ariba Sourcin`  `  SUPL
+400`  0023300007`  Domestic Vendor IT`  `  SUPL
+400`  0023300090`  Domestic Supplier IT (Ariba FIN)`  `  SUPL
+400`  0023200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM23-SU01`  EWM-SUP01`  `  SUPL
+400`  BP2310`  Plant 1`  `  SUPL
+400`  0023300010`  Inlandslieferant IT 1`  `  SUPL
+400`  0023300095`  Inlandslieferant IT 1 - Sales Commi`  `  SUPL
+400`  0018300001`  Domestic IN Supplier 1`  `  SUPL
+400`  0018300002`  Domestic IN Supplier 2`  `  SUPL
+400`  0018300273`  Domestic IN Supplier CPD`  `  CPD
+400`  0018300003`  Domestic US Supplier 3 (with ERS)`  `  SUPL
+400`  0018300030`  Supplier 30 for Withholding`  `  SUPL
+400`  0018300031`  Supplier 31 for Withholding`  `  SUPL
+400`  0018300006`  Domestic IN Supplier 6`  `  SUPL
+400`  0018300080`  Domestic IN Supplier 80 (Ariba Netw`  `  SUPL
+400`  0018300081`  Domestic IN Supplier IN 1 (Ariba So`  `  SUPL
+400`  0018300082`  Domestic Supplier IN 2 (Ariba Sourc`  `  SUPL
+400`  0018300083`  Domestic Supplier IN 3 (Ariba Sourc`  `  SUPL
+400`  0018300007`  Domestic IN Subcontractor`  `  SUPL
+400`  0018300090`  Domestic IN Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0042300001`  Domestic supplier IE 1`  `  SUPL
+400`  0042300002`  Domestic supplier IE 2`  `  SUPL
+400`  0042300008`  Domestic supplier IE 8`  `  SUPL
+400`  0042300273`  Domestic supplier IE CPD`  `  CPD
+400`  0042300003`  Domestic supplier IE 3 (ERS)`  `  SUPL
+400`  0042300006`  Domestic IE Supplier 6 (Return)`  `  SUPL
+400`  0042300080`  Domestic Supplier IE (Ariba Network`  `  SUPL
+400`  0042300081`  Domestic Supplier IE (Ariba Sourcin`  `  SUPL
+400`  0042300082`  Domestic Supplier IE (Ariba Sourcin`  `  SUPL
+400`  0042300083`  Domestic Supplier IE (Ariba Sourcin`  `  SUPL
+400`  0042300007`  Domestic subcontractor 7, IE`  `  SUPL
+400`  0042300090`  Domestic Supplier IE (Ariba FIN)`  `  SUPL
+400`  0042200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM42-SU01`  Domestic IE Supplier 1 (EWM)`  `  SUPL
+400`  BP4210`  Plant 1`  `  SUPL
+400`  0042300010`  Domestic IE Supplier 10`  `  SUPL
+400`  0042300095`  Domestic IE Supplier 20 - Sales Com`  `  SUPL
+400`  0051300001`  Domestic ID Supplier 1`  `  SUPL
+400`  0051300002`  Domestic ID Supplier 2`  `  SUPL
+400`  0051300273`  Domestic ID Supplier CPD`  `  CPD
+400`  0051300099`  Kas Negara`  `  SUPL
+400`  0051300003`  Domestic ID Supplier 3`  `  SUPL
+400`  0051300006`  Domestic ID Supplier 6 (Return)`  `  SUPL
+400`  0051300080`  Supplier ID(Ariba Network)`  `  SUPL
+400`  0051300081`  Supplier ID(Ariba Sourcing 1)`  `  SUPL
+400`  0051300082`  Supplier ID(Ariba Sourcing 2)`  `  SUPL
+400`  0051300083`  Supplier ID(Ariba Sourcing 3)`  `  SUPL
+400`  0051300007`  Domestic ID Subcontractor`  `  SUPL
+400`  0051300090`  Domestic ID Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0051300010`  Domestic ID Supplier 10`  `  SUPL
+400`  0051300095`  ID - Sales Commission Recipient`  `  SUPL
+400`  0021300001`  Domestic HU Supplier 1`  `  SUPL
+400`  0021300002`  Domestic HU Supplier 2`  `  SUPL
+400`  0021300273`  Domestic HU Supplier CPD`  `  CPD
+400`  0021300003`  Domestic HU Supplier 3 (with ERS)`  `  SUPL
+400`  0021300006`  Domestic HU Supplier 6 (Returns)`  `  SUPL
+400`  0021300080`  Supplier HU(Ariba Network)`  `  SUPL
+400`  0021300081`  Supplier HU(Ariba Sourcing 1)`  `  SUPL
+400`  0021300082`  Supplier HU(Ariba Sourcing 2)`  `  SUPL
+400`  0021300083`  Supplier HU(Ariba Sourcing 3)`  `  SUPL
+400`  0021300007`  Domestic HU Subcontractor`  `  SUPL
+400`  0021300090`  Domestic HU Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0021200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM21-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP2110`  Plant 1`  `  SUPL
+400`  0062300001`  Domestic HK Supplier 1`  `  SUPL
+400`  0062300002`  Domestic HK Supplier 2`  `  SUPL
+400`  0062300273`  Inlandslieferant HK CPD`  `  CPD
+400`  0062300003`  Domestic HK Supplier 3 (ERS)`  `  SUPL
+400`  0062300006`  Domestic HK Supplier 6 (Returns)`  `  SUPL
+400`  0062300080`  Domestic HK Supplier 80 (Ariba Netw`  `  SUPL
+400`  0062300081`  Domestic HK Supplier 81 (Ariba Sour`  `  SUPL
+400`  0062300082`  Domestic HK Supplier 82 (Ariba Sour`  `  SUPL
+400`  0062300083`  Domestic HK Supplier 83 (Ariba Sour`  `  SUPL
+400`  0062300007`  Inland-Lohnbearbeiter A, HK`  `  SUPL
+400`  0062300090`  Domestic HK Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM64-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP6210`  HongKong EWM 6210`  `  SUPL
+400`  0062300010`  Domestic HK Supplier 10`  `  SUPL
+400`  0062300095`  HK - Sales Commission Recipient`  `  SUPL
+400`  0045300001`  Domestic supplier FI 1`  `  SUPL
+400`  0045300002`  Domestic supplier FI 2`  `  SUPL
+400`  0045300273`  Domestic supplier FI CPD`  `  CPD
+400`  0045300003`  Domestic supplier FI 3 (with ERS)`  `  SUPL
+400`  0045300006`  Domestic FI Supplier 6 (Return)`  `  SUPL
+400`  0045300080`  Domestic FI Supplier 80 (Ariba Netw`  `  SUPL
+400`  0045300081`  Domestic FI Supplier 81 (Ariba Sour`  `  SUPL
+400`  0045300082`  Domestic FI Supplier 82 (Ariba Sour`  `  SUPL
+400`  0045300083`  Domestic FI Supplier 83 (Ariba Sour`  `  SUPL
+400`  0045300007`  Domestic Subcontractor 7, (FI)`  `  SUPL
+400`  0045300090`  Domestic FI Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0045200001`  Supplier/Customer for Intrastat (HU`  `  SUPL
+400`  0024300001`  Proveedor Local ES 1`  `  SUPL
+400`  0024300002`  Proveedor Local ES 2`  `  SUPL
+400`  0024300273`  Proveedor Local ES CPD`  `  CPD
+400`  0024300030`  Domestic ES Supplier 1099M Withhold`  `  SUPL
+400`  0024300003`  Proveedor Local ES 3 (mit ERS)`  `  SUPL
+400`  0024300006`  Domestic ES Supplier 6 (Returns)`  `  SUPL
+400`  0024300080`  Proveedor Local ES (Ariba Netzwerk)`  `  SUPL
+400`  0024300081`  Proveedor Local ES (Ariba Sourcing`  `  SUPL
+400`  0024300082`  Proveedor Local ES (Ariba Sourcing`  `  SUPL
+400`  0024300083`  Proveedor Local ES (Ariba Sourcing`  `  SUPL
+400`  0024300007`  Subcontratista Doméstico ES`  `  SUPL
+400`  0024300090`  Proveedor Local ES (Ariba FIN)`  `  SUPL
+400`  0024200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM24-SU01`  EWM-Supplier 01`  `  SUPL
+400`  BP2410`  Plant 1`  `  SUPL
+400`  0024300010`  Proveedor Local ES 10`  `  SUPL
+400`  0024300095`  ES - Sales Commission Recipient`  `  SUPL
+400`  0032300001`  Indenlandske leverandør DK 1`  `  SUPL
+400`  0032300002`  Indenlandske leverandør DK 2`  `  SUPL
+400`  0032300273`  Indenlandske leverandør DK CPD`  `  CPD
+400`  0032300003`  Indenlandske leverandør DK 3 (med E`  `  SUPL
+400`  0032300006`  Indenlandske leverandør DK 6 (afkas`  `  SUPL
+400`  0032300080`  Indenlandsk leverandør DK (Ariba Ne`  `  SUPL
+400`  0032300081`  Indenlandsk leverandør DK 1 (Ariba`  `  SUPL
+400`  0032300082`  Indenlandsk leverandør DK 2 (Ariba`  `  SUPL
+400`  0032300083`  Indenlandsk leverandør DK 3 (Ariba`  `  SUPL
+400`  0032300007`  Underleverandør 1, DK`  `  SUPL
+400`  0032300090`  Indenlandske leverandør DK (Ariba F`  `  SUPL
+400`  0032200001`  Supplier/Customer for Intrastat (HU`  `  SUPL
+400`  0010300095`  DK - Sales Commission Recipient`  `  SUPL
+400`  0032300010`  Domestic Customer DK 10`  `  SUPL
+400`  0020300001`  Domestic CZ Supplier 1`  `  SUPL
+400`  0020300002`  Domestic CZ Supplier 2`  `  SUPL
+400`  0020300273`  Domestic CZ Supplier CPD`  `  CPD
+400`  0020300003`  Domestic CZ Supplier 3`  `  SUPL
+400`  0020300006`  Domestic CZ Supplier 6 (Return)`  `  SUPL
+400`  0020300080`  Domestic CZ Supplier (Ariba Network`  `  SUPL
+400`  0020300081`  Domestic CZ Supplier (Ariba Sourcin`  `  SUPL
+400`  0020300082`  Domestic CZ Supplier (Ariba Sourcin`  `  SUPL
+400`  0020300083`  Domestic CZ Supplier (Ariba Sourcin`  `  SUPL
+400`  0020300007`  Domestic CZ Subcontractor A`  `  SUPL
+400`  0020300090`  Domestic CZ Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0020200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  0022300001`  Domestic Supplier CH 01`  `  SUPL
+400`  0022300002`  Domestic Supplier CH 02`  `  SUPL
+400`  0022300273`  Domestic Supplier CH CPD`  `  CPD
+400`  0022300003`  Domestic CH Supplier 3 (with ERS)`  `  SUPL
+400`  0022300006`  Domestic CH 6 (Returns)`  `  SUPL
+400`  0022300080`  Domestic Supplier CH (Ariba Netzwer`  `  SUPL
+400`  0022300081`  Domestic Supplier CH (Ariba Sourcin`  `  SUPL
+400`  0022300082`  Domestic Supplier CH (Ariba Sourcin`  `  SUPL
+400`  0022300083`  Domestic Supplier CH (Ariba Sourcin`  `  SUPL
+400`  0022300007`  Domestic CH 7 (Subcontracting)`  `  SUPL
+400`  0012200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  XXGS00002`  小熊公司测试供应商0001`  `  LIEF
+400`  0000710000`  m008`  `  KRED
+400`  0000710001`  55`  `  KRED
+400`  0000710003`  44`  `  KRED
+400`  0000710002`  m008 vendor vendor03`  `  KRED
+400`  0000710004`  vendor vvv`  `  KRED
+400`  0000710005`  333`  `  KRED
+400`  0000710006`  556`  `  KRED
+400`  0000710007`  上海金山`  上海金山`  LIEF
+400`  0000710008`  CURRY STPHONE`  `  LIEF
+400`  0000710009`  四川黑莓`  四川黑莓`  KRED
+400`  0000710010`  供应商号码`  `  KRED
+400`  0017300095`  US - Sales Commission Recipient`  `  SUPL
+400`  0000710011`  同煤集团`  `  LIEF
+400`  0000710012`  北京烤鸭`  北京烤鸭`  KRED
+400`  0000710013`  赵 神王`  `  KRED
+400`  0061300003`  Inlandslieferant SG 3 (mit ERS)`  `  SUPL
+400`  0000710014`  均衡教派`  `  KRED
+400`  0000710015`  飞雪连天射白鹿笑书神侠倚碧鸳`  `  KRED
+400`  0010300006`  Inlandslieferant DE 6 (Retouren)`  `  SUPL
+400`  0000710016`  123`  `  KRED
+400`  0100000002`  小熊的测试供应商0007`  `  X004
+400`  0000710020`  sap 成都 测试成品供应商1`  `  KRED
+400`  0000710021`  sap 成都 测试成品供应商1`  `  KRED
+400`  0000710023`  sap 成都 测试成品供应商1`  `  KRED
+400`  0000710022`  sap 成都 测试成品供应商1`  `  KRED
+400`  0700000000`  小熊 袁`  `  X005
+400`  0000710018`  Dell中国`  `  KRED
+400`  0010200001`  Supplier/Customer for Intrastat (HU`  `  SUPL
+400`  0000710025`  BJDM公司测试供应商1`  BJDM公司测试供应商1`  KRED
+400`  0000710024`  批次公司测试`  `  KRED
+400`  0100000001`  小熊的测试供应商0006`  `  X004
+400`  0100000005`  小熊的测试供应商0008`  `  X004
+400`  0000710030`  在远方有限公司`  `  KRED
+400`  0000710017`  Amazon LTD`  Amazon LTD`  KRED
+400`  0000710031`  feng供应商1`  `  KRED
+400`  0000710032`  111`  `  KRED
+400`  0100000999`  333`  `  X004
+400`  1000000000`  零件提供公司`  `  CM02
+400`  0100000998`  333`  `  X004
+400`  BP10003`  333`  `  ZF01
+400`  BP10004`  333`  `  ZF01
+400`  0095000000`  刘三畅`  `  ZK02
+400`  0098000000`  刘二畅`  `  ZK01
+400`  0000710035`  绿点有限公司`  `  KRED
+400`  0000100000`  S001_供应商 01`  `  S001
+400`  0000100001`  S001_BP`  `  S001
+400`  0000001000`  Bayer`  `  ZD01
+400`  BP-8570`  Shanghai Chemical Group`  `  ZPLT
+400`  0000100005`  JERRY`  `  S001
+400`  0000100016`  333`  `  0100
+400`  0000710041`  常州市永安电机厂`  `  LIEF
+400`  0000710042`  FN`  FN`  LIEF
+400`  1000000010`  DDDD的客户01`  `  CM02
+400`  0000007100`  LKH供应商1`  LKH供应商1`  L001
+400`  0000007101`  供应商TEST2`  `  L001
+400`  0000710045`  DD DD A U OK?`  `  EMPL
+400`  0000710050`  常州市永安电机厂`  `  LIEF
+400`  0000710051`  螺蛳粉总供应商`  `  LIEF
+400`  0000710052`  螺鼎记螺蛳粉`  `  LIEF
+400`  0000710053`  供应商承运方`  `  LIEF
+400`  0000710054`  螺蛳粉总供应商`  `  LIEF
+400`  0000100010`  1212`  `  S001
+400`  0000006000`  小米科技`  `  TK01
+400`  0000710055`  VW`  `  LIEF
+400`  0100000053`  供应商P001`  `  TM03
+400`  0000710056`  トトロ 小`  `  LIEF
+400`  0000710057`  sda`  `  LIEF
+400`  0000710077`  BP`  `  LIEF
+400`  0000001100`  DHL`  `  ZD01
+400`  0000710059`  1 2`  `  LIEF
+400`  0000710060`  1 2`  `  LIEF
+400`  0000710061`  1 2`  `  LIEF
+400`  0000710062`  1 123456`  `  LIEF
+400`  0000710063`  UTC`  `  LIEF
+400`  0000710064`  TEST`  `  LIEF
+400`  0000000001`  TEST`  `  Z001
+400`  0000000002`  TEST`  `  Z001
+400`  0000000151`  UTC`  `  Z001
+400`  0000400011`  VW`  `  Z002
+400`  0000710058`  供应商 一次性`  `  XCPD
+400`  0000710092`  zz30-01`  `  LIEF
+400`  0022300090`  Domestic CH Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM22-SU01`  Domestic CH Supplier 1 (EWM)`  `  SUPL
+400`  BP2210`  WERK 1`  `  SUPL
+400`  0022300010`  Domestic Vendor CH 10`  `  SUPL
+400`  0022300095`  CH - Sales Commission Recipient`  `  SUPL
+400`  0025300001`  Domestic BE Supplier 1`  `  SUPL
+400`  0025300002`  Domestic BE Supplier 2`  `  SUPL
+400`  0025300273`  Domestic BE Supplier CPD`  `  CPD
+400`  0025300030`  Domestic BE Supplier 30 WHT`  `  SUPL
+400`  0025300031`  Foreign BE Supplier 31 (HU) WHT`  `  SUPL
+400`  0025300003`  Domestic BE Supplier 3 (with ERS)`  `  SUPL
+400`  0025300006`  Domestic BE Supplier 6 (Returns)`  `  SUPL
+400`  0025300080`  Domestic BE Supplier (Ariba Network`  `  SUPL
+400`  0025300081`  Domestic BE Supplier (Ariba Sourcin`  `  SUPL
+400`  0025300082`  Domestic BE Supplier (Ariba Sourcin`  `  SUPL
+400`  0025300083`  Domestic BE Supplier (Ariba Sourcin`  `  SUPL
+400`  0025300007`  Domestic BE Subcontractor A`  `  SUPL
+400`  0025300090`  Domestic BE Supplier (Ariba FIN)`  `  SUPL
+400`  0025200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  EWM25-SU01`  Domestic BE Supplier 1 (EWM)`  `  SUPL
+400`  BP2510`  Plant 1`  `  SUPL
+400`  0025300010`  Domestic BE Supplier 10`  `  SUPL
+400`  0025300095`  Domestic BE Supplier (Sales Commiss`  `  SUPL
+400`  0030300001`  Domestic AU Supplier 1`  `  SUPL
+400`  0030300002`  Domestic AU Supplier 2`  `  SUPL
+400`  0030300273`  Domestic AU Supplier CPD`  `  CPD
+400`  0030300030`  Supplier 30 for Withholding`  `  SUPL
+400`  0030300031`  Supplier 31 for Withholding`  `  SUPL
+400`  0030300003`  Domestic AU Supplier 3 (ERS)`  `  SUPL
+400`  0030300006`  Domestic AU Supplier 6`  `  SUPL
+400`  0030300080`  Domestic AU Supplier 80 (Ariba Netw`  `  SUPL
+400`  0030300081`  Domestic AU Supplier 81 (Ariba Sour`  `  SUPL
+400`  0030300082`  Domestic AU Supplier 82 (Ariba Sour`  `  SUPL
+400`  0030300083`  Domestic AU Supplier 83 (Ariba Sour`  `  SUPL
+400`  0030300007`  Domestic AU Subcontractor`  `  SUPL
+400`  0030300090`  Domestic AU Supplier 90 (Ariba FIN)`  `  SUPL
+400`  EWM30-SU01`  EWM Supplier 01`  `  SUPL
+400`  BP3010`  Plant 1`  `  SUPL
+400`  0030300010`  Domestic AU Supplier 10`  `  SUPL
+400`  0030300095`  AU - Sales Commission Recipient`  `  SUPL
+400`  0039300001`  Domestic Supplier AT 1`  `  SUPL
+400`  0039300002`  Domestic Supplier AT 2`  `  SUPL
+400`  0039300273`  Domestic Supplier AT CPD`  `  CPD
+400`  0039300003`  Domestic AT Supplier 3 (with ERS)`  `  SUPL
+400`  0039300006`  Domestic AT Supplier 6 (Return)`  `  SUPL
+400`  0039300080`  Domestic Customer AT (Ariba network`  `  SUPL
+400`  0039300081`  Domestic Customer AT 1 (Ariba Sourc`  `  SUPL
+400`  0039300082`  Domestic Customer AT 2 (Ariba Sourc`  `  SUPL
+400`  0039300083`  Domestic Customer AT 3 (Ariba Sourc`  `  SUPL
+400`  0039300007`  Inland-Lohnbearbeiter A, AT`  `  SUPL
+400`  0039300090`  Domestic Vendor AT (Ariba FIN)`  `  SUPL
+400`  0039200001`  Supplier/Customer for Intrastat (DE`  `  SUPL
+400`  0039300010`  Domestic Vendor AT 10`  `  SUPL
+400`  0039300095`  AT - Sales Commission Recipient`  `  SUPL
+400`  0014300001`  Domestic BR Supplier 1`  `  SUPL
+400`  0014300002`  Domestic BR Supplier 2`  `  SUPL
+400`  0014300273`  Domestic BR Supplier CPD`  `  CPD
+400`  0014300003`  Domestic BR Supplier 3 (with ERS)`  `  SUPL
+400`  0014300030`  Domestic BR Supplier 30 WHT`  `  SUPL
+400`  0014300031`  Domestic BR Supplier 31 WHT + IN`  `  SUPL
+400`  0014300006`  Domestic BR Supplier 6 (Returns)`  `  SUPL
+400`  0014300080`  Domestic BR Supplier 80 (Ariba Netw`  `  SUPL
+400`  0014300081`  Domestic BR Supplier 81 (Ariba Sour`  `  SUPL
+400`  0014300082`  Domestic BR Supplier 82 (Ariba Sour`  `  SUPL
+400`  0014300083`  Domestic BR Supplier 83 (Ariba Sour`  `  SUPL
+400`  0014300090`  Domestic BR Supplier 90 (Ariba FIN)`  `  SUPL
+400`  0014300007`  Domestic BR Subcontractor A`  `  SUPL
+400`  0100000007`  001test`  `  TM01
+400`  1000000020`  供`  `  CM02
+400`  6100000000`  国内部品会社D（Test）`  `  ZDV1
+400`  6200000000`  海外部品会社E（Test）`  `  ZFV1
+400`  OTVTEST001`  One-Time部品会社F(Test)`  `  ZOV1
+400`  0000710066`  老王 老王`  `  LIEF
+400`  4000000000`  老王`  `  ZCX1
+400`  0000710074`  gf dd`  `  LIEF
+400`  0000005001`  小米2`  `  ZG01
+400`  0100000019`  299 的供应商`  `  TM01
+400`  4000000002`  测试`  `  ZCX1
+400`  4000000003`  ALibaba`  `  ZCX1
+400`  0000007200`  集团内公司7000`  `  L002
+400`  0000007400`  南方仪表厂`  `  L004
+400`  6000900000`  成都XXX机械有限公司`  `  ZA02
+400`  0100000021`  西方仪表厂`  `  TM01
+400`  0000710075`  北方仪表厂`  `  LIEF
+400`  0000000156`  中间仪表厂`  `  Z001
+400`  0000051000`  大阪仕入先01株式会社`  `  ZSAV
+400`  0000051001`  SAP 中国`  `  ZSAV
+400`  6000900001`  江苏五棵树油漆有限责任公司`  `  ZA01
+400`  6000900002`  浙江美嘉板材有限责任公司`  `  ZA01
+400`  0000710076`  ABC CR`  `  LIEF
+400`  0000400004`  EMAG`  `  Z002
+400`  0000400098`  EMAG`  `  Z002
+400`  0000409800`  KOEPFER Internal supply`  `  Z002
+400`  G10000000`  红星轴承厂`  `  G001
+400`  G10000001`  长平长平铁工厂`  `  G001
+400`  G20000000`  思普机械设备进出口有限公司`  `  G002
+400`  G30000000`  上海电力公司`  `  G003
+400`  G30000001`  佳音地产有限公司`  `  G003
+400`  G30000002`  京通运输公司`  `  G003
+400`  0000053000`  洪テスト_仕入先(会社間)`  `  ZZMV
+400`  0100000033`  天明 陈`  `  TM05
+400`  ZA10000`  清账测试供应商 清账测试供应商`  `  ZA10
+400`  0100000022`  远东国际新材料有限公司`  `  TM02
+400`  0100000024`  湖北红专新材料有限公司`  湖北红专新材料有限公司`  TM01
+400`  0100000026`  湖北阳新钢材有限公司`  `  TM01
+400`  0100000032`  天明汽车制造有限公司`  `  TM03
+400`  0000053001`  スカイネット(会社間_仕入先)`  `  ZZMV
+400`  0000710116`  CH06供应商01`  CH06供应商01`  LIEF
+400`  0100000036`  中国汽车集团`  `  TMH1
+400`  0000007105`  原料供应商`  `  L001
+400`  ZA10001`  合同供应商 合同供应商`  `  ZA10
+400`  0000710080`  test`  `  CPD
+400`  0000710081`  test`  `  CPD
+400`  0100000050`  德邦物流`  `  ZVH1
+400`  0000007115`  清账测试`  `  L001
+400`  0100000052`  金盘科技`  `  ZVH1
+400`  0100000051`  西门子电器`  `  ZVH1
+400`  0000710083`  FJB003`  `  LIEF
+400`  8000000010`  エツの引き取り先　仕入先 ZZSY`  `  ZZSY
+400`  ZA10002`  misumi suruka`  `  ZA10
+400`  4000000005`  MSM shanghai`  `  ZCX1
+400`  6000900011`  Aria成都公司`  `  ZA02
+400`  0000100015`  湖南青岛海尔集团`  `  S001
+400`  BP1510`  Plant 1`  `  SUPL
+400`  0000100017`  湖南青岛海尔`  `  S001
+400`  0000710040`  TEST VENDOR`  `  LIEF
+400`  0000000161`  SUSAN TEST1`  `  Z001
+400`  0100000027`  京东辅助材料有限公司`  `  TM01
+400`  0000710084`  FJB002`  `  LIEF
+400`  0000710085`  FJB003-CUSTOM`  `  LIEF
+400`  0100000056`  WEICHENGUAGN`  WEICHENGUAGN`  ZVH1
+400`  0100000057`  1109采购供应商`  `  ZVH1
+400`  0100000058`  111003测试`  `  ZVH1
+400`  0100000059`  1011采购组织的供应商`  `  ZVH1
+400`  0100000025`  江苏宁波密封材料有限公司`  `  TM01
+400`  0000710065`  傲笑红尘`  `  LIEF
+400`  0000009428`  测试门店`  `  Z007
+400`  0000009429`  测试门店2`  `  Z007
+400`  0000710090`  ZZ20-02`  `  LIEF
+400`  0000710091`  测试`  `  LIEF
+400`  0100000066`  供应商测试`  `  TM04
+400`  0000710093`  供应商测试`  `  LIEF
+400`  8600000001`  哈哈哈`  `  HM03
+400`  8600000002`  韩氏集团`  `  HM05
+400`  8000000011`  エツの引き取り先　仕入先 ZZSZ のみ`  `  ZZSY
+400`  0000710043`  パン ビッグ`  `  LIEF
+400`  SY20`  四川京益大贸易有限公司工厂`  `  Z008
+400`  0000710094`  z500 vendor`  `  LIEF
+400`  0000710112`  Z510 Vendor`  `  LIEF
+400`  0000710096`  Z500`  `  LIEF
+400`  0000710097`  红星轴承厂`  `  LIEF
+400`  0000081000`  浙江大疆供应商0797`  `  ZZX1
+400`  0000011001`  国内供应商1`  `  BB01
+400`  0000710098`  七杯茶供应商`  `  LIEF
+400`  0000710099`  七杯茶供应商1`  `  LIEF
+400`  0000710100`  七杯茶供应商1`  `  LIEF
+400`  0000710101`  七杯茶供应商1`  `  LIEF
+400`  0000710102`  红星轴承厂`  `  LIEF
+400`  0000710103`  红星轴承厂NY`  `  LIEF
+400`  0000710104`  红星轴承厂YN`  `  LIEF
+400`  0000710105`  123123`  `  LIEF
+400`  0000710106`  七杯茶供应商1`  `  LIEF
+400`  0000710107`  红星轴承厂 A888`  `  LIEF
+400`  0000710108`  A888红星轴承厂`  `  LIEF
+400`  0000710110`  Shell  Oil`  `  LIEF
+400`  0000710111`  七杯茶供应商2`  `  LIEF
+400`  0000710113`  1233`  `  LIEF
+400`  0000710114`  test test`  `  LIEF
+400`  0000710095`  default z500 suppiler`  `  LIEF
+400`  0000710115`  BP-测试2`  `  LIEF
+400`  0000100020`  EWM-内部供应商`  `  S001
+400`  0100000035`  一次性供应商`  `  TM04
+400`  0000710117`  甲公司`  `  LIEF
+400`  0000100021`  BP-测试6`  `  F001
+400`  0000710118`  安卓公司`  `  LIEF
+400`  0000710119`  CH06（上海）股份有限公司`  `  LIEF
+400`  YG8260`  华为3006`  `  ZZX2
+400`  0000710120`  BHSJ（深圳）股份有限公司`  `  LIEF
+400`  0000710121`  CCCCCC1`  `  LIEF
+400`  0000710109`  七杯茶供应商2`  `  LIEF
+400`  0000710122`  东风设计院有限公司`  `  LIEF
+400`  0000005020`  华为3006`  `  ZG01
+400`  0000082000`  Vendor`  `  VD00
+400`  8000000020`  深圳XX配件机械有限公司`  `  L04
+400`  0000200112`  TEST1234`  `  ZZZ1
+400`  0000200113`  TEST12345`  `  ZZZ1
+400`  0000710125`  老 大`  `  LIEF
+400`  0000002000`  003 -供应商-公司`  `  77CV
+400`  0000003000`  002-供应商公司`  `  77V1

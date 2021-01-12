@@ -1,0 +1,39 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`ANLKL [C(00016)]`TXK50 [C(00100)]
+400`  E`  00001000`  Real Estate (Land)
+400`  E`  00001100`  Buildings
+400`  E`  00001200`  Land Improvements
+400`  E`  00001500`  Leasehold Improvements
+400`  E`  00002000`  Machinery and Equipment
+400`  E`  00003000`  Fixtures and Fittings
+400`  E`  00003100`  Vehicles
+400`  E`  00003200`  Computer Hardware
+400`  E`  00003210`  Computer Software
+400`  E`  00003300`  Office Equipment
+400`  E`  00004000`  Assets under Construction
+400`  E`  00004001`  AuC as Investment Measure
+400`  E`  00005000`  Low-value Assets
+400`  E`  00006000`  Leased Assets (Operating Lease)
+400`  E`  00006100`  Leased Assets (Capital Lease)
+400`  E`  00006210`  ROU Fin. Lease Land
+400`  E`  00006220`  ROU Fin. Lease Building
+400`  E`  00006230`  ROU Fin. Lease Computer Hardware
+400`  E`  00006240`  ROU Fin. Lease Fixtures & Fittings
+400`  E`  00006250`  ROU Fin. Lease Machinery Equipment
+400`  E`  00006260`  ROU Fin. Lease Vehicles
+400`  E`  00006270`  ROU Fin. Lease Office Equipment
+400`  E`  00006310`  SL Operat. Lease Land
+400`  E`  00006320`  SL Operat. Lease Building
+400`  E`  00006330`  SL Operat. Lease Computer Hardware
+400`  E`  00006340`  SL Operat. Lease Fixtures & Fittings
+400`  E`  00006350`  SL Operat. Lease Machinery Equipment
+400`  E`  00006360`  SL Operat. Lease Vehicles
+400`  E`  00006370`  SL Operat. Lease Office Equipment
+400`  E`  00007000`  Formation expense
+400`  E`  00008000`  Objects of art
+400`  E`  00008100`  Advance payments
+400`  E`  00008200`  Goodwill
+400`  E`  00008300`  Other Intangible Assets
+400`  E`  00009000`  Tax only Assets & negative Value Assets
+400`  E`  Z007`  Low-value Assets
+400`  E`  ZZSY32`  Computer Hardware
+400`  E`  ZZSY40`  Assets under Construction

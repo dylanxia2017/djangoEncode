@@ -1,0 +1,270 @@
+﻿MANDT [C(00006)]`AUART [C(00008)]`BEZEI [C(00040)]`SPRAS [C(00002)]
+400`  01`  Cust.Independent Req`  E
+400`  AA`  Promotion Order`  E
+400`  AD1`  A&D Contract`  E
+400`  AD2`  A&D Deb. Memo Req`  E
+400`  AD3`  A&D Retroactive Bill`  E
+400`  AD9`  RRB Order`  E
+400`  AE`  Qtn from Serv. Order`  E
+400`  AEBO`  Standard order`  E
+400`  AEBQ`  Offer`  E
+400`  AF`  Inquiry`  E
+400`  AFLV`  Inquiry`  E
+400`  AG`  Quotation`  E
+400`  AGLS`  Quotation lumpsum`  E
+400`  AGLV`  Quotation unit BOS`  E
+400`  AP`  Project Quotation`  E
+400`  AR`  Repair Quotation`  E
+400`  AS`  Service Quotation`  E
+400`  AU`  Sales Information`  E
+400`  AV`  Quotation f.Contract`  E
+400`  B1`  Reb.Credit Memo Req.`  E
+400`  B1E`  Exptd RebateCredMemo`  E
+400`  B2`  Rebate Correctn Rqst`  E
+400`  B2E`  Rebate P.Correctn Rt`  E
+400`  B3`  PartRebSettl.Request`  E
+400`  B3E`  Exp.PartRebSettl.Req`  E
+400`  B4`  Reb.Req.f.Man.Accrls`  E
+400`  BIND`  Indir. Sales Rebate`  E
+400`  BK1`  Agrmt Cred.Memo Req.`  E
+400`  BK3`  Agrmt Cred.Memo Req.`  E
+400`  BM1`  Agrmnt Deb.Memo Req.`  E
+400`  BM3`  Agrmnt Deb.Memo Req.`  E
+400`  BSC`  Service Contract BDR`  E
+400`  BSVC`  Service Confirm eBDR`  E
+400`  BSVO`  Service Order eBDR`  E
+400`  BV`  Cash Sale`  E
+400`  CBAR`  Accelerated Return`  E
+400`  CBFD`  Deliv.Free of Charge`  E
+400`  CBG0`  Return Pack./Empties`  E
+400`  CBII`  Invoice Increase Req`  E
+400`  CBOS`  Service credit sheet`  E
+400`  CBRE`  Lean Return`  E
+400`  CBSS`  Service credit sheet`  E
+400`  CCFU`  Consignment Fill-Up`  E
+400`  CCIS`  Consignment Issue`  E
+400`  CCLN`  Ret. Packaging Issue`  E
+400`  CCPU`  Consignment Pick-Up`  E
+400`  CCRE`  Consignment Return`  E
+400`  CFB3`  CF Part.Rebate Sett.`  E
+400`  CFG2`  CF Credit Memo Req.`  E
+400`  CH`  Contract Handling`  E
+400`  CLRP`  Requests + Returns`  E
+400`  CMDM`  Standard Order`  E
+400`  CMR`  Standard Order`  E
+400`  CMRC`  Standard Order`  E
+400`  CMRP`  Standard Order`  E
+400`  CRB`  Credit Memo Req. BR`  E
+400`  DHU`  SlsDocTypeDelyHUmvmt`  E
+400`  DJIT`  Order Type JIT`  E
+400`  DL`  Order Type Sched.Ag.`  E
+400`  DL2`  Return to Customer`  E
+400`  DLR`  Ord.Type Returns Del`  E
+400`  DLRE`  Ord.Type Returns Del`  E
+400`  DMRB`  Standard Order`  E
+400`  DMRP`  Standard Order`  E
+400`  DMRR`  Standard Order`  E
+400`  DRB`  Debit Memo Req. BR`  E
+400`  DZL`  Dec. Dely Order Type`  E
+400`  ED`  Issue by Ext. Agent`  E
+400`  EDKO`  Correction f.ExtAgnt`  E
+400`  EO01`  External Order`  E
+400`  EOX1`  External Order`  E
+400`  FCQ`  Fashion Qty Contract`  E
+400`  FCSO`  Standard Order`  E
+400`  FMSO`  Standard Order`  E
+400`  G2`  Credit Memo Request`  E
+400`  G2LV`  `  E
+400`  G2W`  Credit Memo Request`  E
+400`  G2WT`  Credit Memo Req. Val`  E
+400`  GA2`  Cred. Memo Rqt Ret.`  E
+400`  GCQ`  GG Quantity Contract`  E
+400`  GCTA`  Standard Order`  E
+400`  GK`  Master Contract`  E
+400`  GOR`  GG Standard Order`  E
+400`  GPLM`  GG SW maintenance`  E
+400`  GQT`  GG Quotation`  E
+400`  GRE`  GG Returns`  E
+400`  GVC`  GG Value Contract`  E
+400`  HBIN`  Inquiry`  E
+400`  HBOR`  Standard order`  E
+400`  HBQT`  Quotation`  E
+400`  ICPL`  Customer Price List`  E
+400`  J3G1`  CEM cost settlement`  E
+400`  J3G2`  CEM customer settl.`  E
+400`  J3G6`  CEM mat. sales int.`  E
+400`  J3G7`  CEM mat. repur. int.`  E
+400`  J3G8`  CEM mat. sales ext.`  E
+400`  J3G9`  CEM mat. repur. ext.`  E
+400`  J3GB`  CEM credit memo int.`  E
+400`  J3GC`  CEM credit memo ext.`  E
+400`  JBCD`  Credit Memo Request`  E
+400`  JBDM`  Debit Memo Request`  E
+400`  JGL`  Cred.M.Req.Ret.Good`  E
+400`  JLL`  Deb.M.Requ.Ret.Good`  E
+400`  JOR`  Standard order`  E
+400`  JPCD`  Credit Memo Request`  E
+400`  JPCM`  Credit Memo Request`  E
+400`  JPDD`  Debit Memo Request`  E
+400`  JPDM`  Debit Memo Request`  E
+400`  JRE`  Standard order`  E
+400`  JREW`  Standard order`  E
+400`  JSDC`  Credit Memo Request`  E
+400`  JSDD`  Debit Memo Request`  E
+400`  JSDQ`  Shp&Deb.Qty Contract`  E
+400`  JSMC`  Credit Memo Request`  E
+400`  JST1`  `  E
+400`  KA`  Consignment Pick-up`  E
+400`  KAN2`  Consignment Pick-up`  E
+400`  KAZU`  ConsignPick-up CompS`  E
+400`  KB`  Consignment Fill-up`  E
+400`  KBN1`  Consignment Fill-up`  E
+400`  KE`  Consignment Issue`  E
+400`  KEN3`  Consignment Issue`  E
+400`  KL`  Deliv.Free of Charge`  E
+400`  KM`  Quantity Contract`  E
+400`  KN`  Subs.Dlv.Free of Ch.`  E
+400`  KOE1`  Standard order`  E
+400`  KOE2`  Debit Memo Request`  E
+400`  KOE3`  Deliv.Free of Charge`  E
+400`  KOE4`  Subs.Dlv.Free of Ch.`  E
+400`  KOE5`  Scheduling Agreem601`  E
+400`  KOE6`  Credit Memo Request`  E
+400`  KORE`  Returns Block`  E
+400`  KR`  Consignment Returns`  E
+400`  KRN4`  Consignment Returns`  E
+400`  KRZU`  ConsignReturn CompS`  E
+400`  L2`  Debit Memo Request`  E
+400`  L2DM`  Expense:DebitMemoReq`  E
+400`  L2DP`  Expense:Payment Req.`  E
+400`  L2W`  Debit Memo Request`  E
+400`  L2WT`  Debit Memo Req Value`  E
+400`  LA`  Ret.Packaging Pickup`  E
+400`  LALV`  Service Entry Sheet`  E
+400`  LDPI`  Down DP Request`  E
+400`  LK`  Sched.Agreement ExAg`  E
+400`  LN`  Ret.Packaging Issue`  E
+400`  LP`  Scheduling Agreement`  E
+400`  LV`  Deb.MemoReq. f.Ctrct`  E
+400`  LXE`  `  E
+400`  LXI`  `  E
+400`  LZ`  Sched. Agr. w/ Rel.`  E
+400`  LZER`  `  E
+400`  LZJ`  JIT Scheduling Agt`  E
+400`  LZJE`  JIT Sched.Agmt ESA`  E
+400`  LZJQ`  JIT Sched.Agmt (LQ)`  E
+400`  LZM`  SchedAgrt w/Dly Ord.`  E
+400`  LZS`  SA:Self-bill w/Inv.`  E
+400`  MAKO`  Dely Order Correctn`  E
+400`  MV`  Rental Contract`  E
+400`  NL`  Replenishment Dlv.`  E
+400`  OBSS`  OBSS`  E
+400`  OR1`  Standard order`  E
+400`  PHAM`  `  E
+400`  PHAV`  `  E
+400`  PHOR`  `  E
+400`  PLPA`  Pendulum List Req.`  E
+400`  PLPR`  Pendulum List Ret.`  E
+400`  PLPS`  Pendulum List Cancel`  E
+400`  POOL`  Pooling order`  E
+400`  PV`  Item Proposal`  E
+400`  QCPL`  Customer Price List`  E
+400`  QTLV`  Request LV/ QTO`  E
+400`  RA`  Repair Request`  E
+400`  RA2`  ARM In-House Repair`  E
+400`  RAF`  Stock Inquiry`  E
+400`  RAG`  Stock Information`  E
+400`  RAS`  Repairs / Service`  E
+400`  RCM`  Del.on behalf Ship.`  E
+400`  RCS`  Del.on behalf Inv.`  E
+400`  RE`  Returns`  E
+400`  RE2`  Advanced Returns`  E
+400`  REB`  Returns Customer NF`  E
+400`  RK`  Invoice Correct. Req`  E
+400`  RKDP`  Inv. Correct. Req DP`  E
+400`  RM`  Delvy Order Returns`  E
+400`  ROB`  Returns Own NF`  E
+400`  RTTC`  SPE Return to Cust.`  E
+400`  RTTR`  SPE Return Over.`  E
+400`  RX2`  ARM Ext. Repair Ord.`  E
+400`  RXE`  `  E
+400`  RXI`  `  E
+400`  RZ`  Returns Sched.Agrmnt`  E
+400`  SD2`  Replcmnt Deliv. Ord.`  E
+400`  SE`  Service Order`  E
+400`  SO`  Rush Order`  E
+400`  SOR`  `  E
+400`  SRVO`  Sales Order (Srvce)`  E
+400`  SRVP`  Order in Soln Qtan`  E
+400`  STAT`  Inquiry`  E
+400`  TA`  Standard Order`  E
+400`  TAF`  Standard Order (FPl)`  E
+400`  TALS`  order lump sum`  E
+400`  TALV`  order unit`  E
+400`  TAM`  Delivery Order`  E
+400`  TAV`  Standard Order (VMI)`  E
+400`  TBSS`  Entry of Srvc Prfrmd`  E
+400`  TSA`  Telephone Sales`  E
+400`  TXE`  `  E
+400`  TXI`  `  E
+400`  UPRR`  Used Parts Returns`  E
+400`  UUPR`  New Parts Returns`  E
+400`  VBOS`  Matl-Rel. Value Cont`  E
+400`  VC01`  Value Contract`  E
+400`  VDOR`  Third Party Order BR`  E
+400`  VEF`  Future Dlvy Sales`  E
+400`  VEFR`  Future Dlvy Shipment`  E
+400`  VLAF`  `  E
+400`  VLAG`  `  E
+400`  VLRE`  `  E
+400`  VLTA`  `  E
+400`  VSH1`  Version Order`  E
+400`  WA`  Rel. to Value Contr.`  E
+400`  WD01`  Standard Order`  E
+400`  WD02`  Service Order`  E
+400`  WD03`  Debit Memo Request`  E
+400`  WD04`  Credit Memo Request`  E
+400`  WD05`  Returns`  E
+400`  WK1`  Value Contract- Gen.`  E
+400`  WK2`  Matl-rel. Value Cont`  E
+400`  WL`  `  E
+400`  WMPP`  WM Prod.Supply`  E
+400`  WV`  Service and Maint.`  E
+400`  Z001`  Standard Order`  E
+400`  Z002`  Standard Order`  E
+400`  Z1`  Standard Order`  E
+400`  ZBJ`  GG Quotation`  E
+400`  ZBV`  Cash Sale`  E
+400`  ZBX`  Standard Order`  E
+400`  ZBZ`  Standard Order`  E
+400`  ZCQ1`  Quantity Contract`  E
+400`  ZD`  Deliv.Free of Charge`  E
+400`  ZDR`  Standard Order`  E
+400`  ZFD`  Deliv.Free of Charge`  E
+400`  ZGK`  Cash Sale`  E
+400`  ZGK1`  Quantity Contract`  E
+400`  ZGK2`  Quantity Contract`  E
+400`  ZH1`  Standard Order`  E
+400`  ZHIN`  Inquiry`  E
+400`  ZIV`  Standard Order`  E
+400`  ZM01`  Standard Order`  E
+400`  ZM02`  Standard Order`  E
+400`  ZMF`  Deliv.Free of Charge`  E
+400`  ZMF1`  Standard Order`  E
+400`  ZOR`  Standard Order`  E
+400`  ZOR2`  Standard Order`  E
+400`  ZOR3`  Standard Order`  E
+400`  ZOR4`  Standard Order`  E
+400`  ZOR8`  Standard Order 8570`  E
+400`  ZP01`  Standard Order`  E
+400`  ZPS1`  Standard Order`  E
+400`  ZPS2`  Standard Order`  E
+400`  ZQT`  Quotation`  E
+400`  ZRP1`  Returns`  E
+400`  ZTM1`  Standard order`  E
+400`  ZTM2`  Standard order`  E
+400`  ZTM3`  Standard order`  E
+400`  ZTT`  Standard Order`  E
+400`  ZYG`  Inquiry`  E
+400`  ZZ30`  Standard Order`  E
+400`  ZZ40`  Standard Order`  E

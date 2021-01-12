@@ -1,0 +1,140 @@
+﻿SPRAS [C(00002)]`FEGTB [C(00002)]`FEGRU [C(00004)]`TXT20 [C(00040)]
+E`  A`  01`  Description 1
+E`  A`  02`  Description 2
+E`  A`  03`  General long text
+E`  A`  04`  Inventory number
+E`  A`  05`  Unit of measure
+E`  A`  06`  Quantity
+E`  A`  07`  Asset main no. text
+E`  A`  08`  Investment Order
+E`  A`  09`  Account allocation
+E`  A`  10`  Capitalization date
+E`  A`  11`  Acquisition data
+E`  A`  12`  Deactivation
+E`  A`  13`  Planned deactivation
+E`  A`  14`  License plate number
+E`  A`  15`  Cost center
+E`  A`  16`  Plant
+E`  A`  17`  Business area
+E`  A`  18`  Location
+E`  A`  19`  Building/Room No.
+E`  A`  20`  Activity type
+E`  A`  21`  Cost order
+E`  A`  22`  Multi-shift factor
+E`  A`  23`  Shutdown
+E`  A`  24`  Resp. cost center
+E`  A`  25`  Personnel number HR
+E`  A`  26`  Maintenance order
+E`  A`  27`  Time-dep.date fields
+E`  A`  28`  Purchase order date
+E`  A`  29`  Investment project
+E`  A`  30`  Asset group number
+E`  A`  31`  Evaluation group 1
+E`  A`  32`  Evaluation group 2
+E`  A`  33`  Evaluation group 3
+E`  A`  34`  Evaluation group 4
+E`  A`  35`  Investment purpose
+E`  A`  36`  Evaluation grp-8 pl.
+E`  A`  37`  Inventory data
+E`  A`  39`  Investment support
+E`  A`  40`  Supplier
+E`  A`  41`  Asset under constr.
+E`  A`  42`  Prop.in-house prod.
+E`  A`  43`  Capitalization key
+E`  A`  44`  Manufacturer
+E`  A`  45`  Origin long text
+E`  A`  46`  Affiliated company
+E`  A`  47`  Orig.value
+E`  A`  50`  Prop.classif.key
+E`  A`  51`  Property indicator
+E`  A`  52`  Man.val./assessed vl
+E`  A`  53`  Reason for man. val.
+E`  A`  54`  Longtext:NetWrth.tax
+E`  A`  55`  Man/Assessed val.ind
+E`  A`  57`  Notice of assessment
+E`  A`  58`  Real estate
+E`  A`  59`  Area unit
+E`  A`  60`  Insurance type
+E`  A`  61`  Insur. index series
+E`  A`  62`  Insur.base value
+E`  A`  63`  Man. insurable val.
+E`  A`  64`  Ind.:Man.Ins.value
+E`  A`  65`  Insurance company
+E`  A`  66`  Insurance policy
+E`  A`  67`  Insurance text
+E`  A`  68`  Longtext:Insurance
+E`  A`  69`  Insurance rate
+E`  A`  70`  Leasing data 1
+E`  A`  71`  Leasing data 2
+E`  A`  72`  Leasing long text
+E`  A`  73`  Capital Lease Method
+E`  A`  75`  Serial number
+E`  A`  76`  Environ. investment
+E`  A`  78`  Insurable value
+E`  A`  79`  Longtxt.:C-acc.view
+E`  A`  80`  Longtxt.:Tech.view
+E`  A`  81`  Tax jurisdict. code
+E`  A`  82`  History indicator
+E`  A`  83`  Equipment Number
+E`  A`  84`  Equip. Catg./Type
+E`  A`  85`  Equipment Name
+E`  A`  86`  EquipSynchronization
+E`  A`  87`  Synchronize Asset
+E`  A`  88`  Fund
+E`  A`  89`  Functional Area
+E`  A`  A0`  Grant
+E`  A`  A1`  Funds Center
+E`  A`  A2`  Fund for Cap.Invstmt
+E`  A`  A3`  Inv. Functional Area
+E`  A`  A4`  Grant for Cap. Inv.
+E`  A`  A5`  Funds Ctr for Inv.
+E`  A`  A6`  WBS Element
+E`  A`  A7`  Real Estate Object
+E`  A`  A8`  Budget Period
+E`  A`  A9`  Budget Period APC
+E`  A`  AA`  Segment
+E`  A`  AB`  Profit Center
+E`  A`  G1`  General Data CIS
+E`  A`  G2`  General Data CIS
+E`  A`  G3`  Transport. Tax CIS
+E`  A`  G4`  Transport. Tax CIS
+E`  A`  G5`  Net Worth Tax CIS
+E`  A`  G6`  Net Worth Tax CIS
+E`  A`  G8`  Japan Impairment 1
+E`  A`  G9`  Block Depreciation
+E`  A`  GA`  Net Worth Tax RUS
+E`  A`  GB`  OKOF Code
+E`  A`  GC`  Depreciation Group
+E`  A`  GD`  New OKOF Code
+E`  A`  GE`  Depreciation Group
+E`  A`  J2`  JP: Annex 16
+E`  A`  JA`  Japan Impairment 2
+E`  A`  JB`  Japan Impairment 3
+E`  A`  JC`  Japan Impairment 4
+E`  A`  JD`  Japan Impairment 5
+E`  A`  JE`  Japan Impairment 6
+E`  A`  JF`  Japan Impairment 7
+E`  A`  JG`  Japan Impairment 8
+E`  A`  JH`  Japan Impairment 9
+E`  A`  JI`  SouthKorea:Bus.Place
+E`  B`  01`  Depreciation keys
+E`  B`  02`  Useful life
+E`  B`  03`  Ord.dep.start date
+E`  B`  04`  Spec.dep.start date
+E`  B`  05`  Int.calc.start date
+E`  B`  08`  Index series Rep.val
+E`  B`  09`  Index series by age
+E`  B`  10`  Prop.dep.variable
+E`  B`  11`  Scrap value
+E`  B`  12`  Orig.useful life
+E`  B`  13`  Str.-line chnge-year
+E`  B`  14`  Group asset
+E`  B`  15`  Vintage year/month
+E`  B`  16`  Operating readiness
+E`  B`  17`  Negative values
+E`  B`  18`  Deactiv. area
+E`  B`  19`  Expired useful life
+E`  B`  20`  Exprd Life -Periods
+E`  B`  22`  Scrap Value %
+E`  B`  23`  Base value %
+E`  B`  31`  Revaluation key

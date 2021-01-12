@@ -1,0 +1,153 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`FLREF [C(00040)]`FLRTX [C(00060)]
+400`  E`  $$$$`  Without prices
+400`  E`  $DE1`  Without entry of price
+400`  E`  $DE2`  Without displaying price
+400`  E`  AKTA`  Display
+400`  E`  AKTE`  Extend purchase order
+400`  E`  AKTH`  Create
+400`  E`  AKTV`  Change
+400`  E`  ANA`  Request for Quotation
+400`  E`  ANAR`  Inquiry, Stock Overview
+400`  E`  ANZE`  Display Info Record
+400`  E`  CMKK`  Quantity contract for PSE
+400`  E`  CWKK`  Value Contract for PSE
+400`  E`  ESTD`  Requisition/direct procurement
+400`  E`  ESTF`  Requisition from prodn. order
+400`  E`  ESTV`  Requisition from sales doc.
+400`  E`  FOB`  Framework requisition
+400`  E`  FOF`  Framework order
+400`  E`  FZ01`  Release status 1
+400`  E`  FZ02`  Release status 2
+400`  E`  FZ03`  Release status 3
+400`  E`  LPL`  Scheduling agreement
+400`  E`  LTL`  Transport scheduling agreement
+400`  E`  LUL`  Stock transport sched. agmt.
+400`  E`  ME11`  Create Purchasing Info Record
+400`  E`  ME12`  Change Purchasing Info Record
+400`  E`  ME13`  Display Purchasing Info Record
+400`  E`  ME15`  Delete flag purchasing info
+400`  E`  ME21`  Create purchase order
+400`  E`  ME21N`  Purchase order
+400`  E`  ME22`  Change purchase order
+400`  E`  ME23`  Display purchase order
+400`  E`  ME24`  Maintain PO supplement
+400`  E`  ME25`  Create PO with source
+400`  E`  ME26`  Display PO supplement
+400`  E`  ME27`  Create stock transport order
+400`  E`  ME31`  Create outline agreement
+400`  E`  ME31C`  Create Central Contract
+400`  E`  ME32`  Change outline agreement
+400`  E`  ME32C`  Change Central Contract
+400`  E`  ME33`  Display outline agreement
+400`  E`  ME33C`  Display Central Contract
+400`  E`  ME34`  Maint. outl. agmt. supplement
+400`  E`  ME36`  Display agreement supplement
+400`  E`  ME37`  Create stock trnsp. sch. agmt.
+400`  E`  ME38`  Maintain delivery schedule
+400`  E`  ME39`  Display sched. agmt. schedule
+400`  E`  ME41`  Create request for quotation
+400`  E`  ME42`  Change request for quotation
+400`  E`  ME43`  Display request for quotation
+400`  E`  ME44`  Maintain RFQ supplement
+400`  E`  ME47`  Enter quotation
+400`  E`  ME48`  Display quotation
+400`  E`  ME51`  Create purchase requisition
+400`  E`  ME51N`  Create Enjoy purch. requisitn
+400`  E`  ME52`  Change purchase requisition
+400`  E`  ME53`  Display purchase requisition
+400`  E`  ME54`  Release purchase requisition
+400`  E`  MEM1`  Change PO from goods receipt
+400`  E`  MKC`  Central Quantity Contract
+400`  E`  MKK`  Quantity contract
+400`  E`  NBB`  Purchase requisition
+400`  E`  NBF`  Purchase order
+400`  E`  NBF2`  Advanced Returns Management CC
+400`  E`  PT0A`  Standard item RFQ
+400`  E`  PT0B`  Standard item requisition
+400`  E`  PT0C`  Standard item central contract
+400`  E`  PT0F`  Standard item purchase order
+400`  E`  PT0K`  Standard item contract
+400`  E`  PT0L`  Standard item scheduling agmt.
+400`  E`  PT1B`  Blanket item: requisition
+400`  E`  PT1F`  Blanket item: purchase order
+400`  E`  PT2B`  Consignment item requisition
+400`  E`  PT2F`  Consignment item purch. order
+400`  E`  PT2K`  Consignment item contract
+400`  E`  PT2L`  Consignment item sched. agmt.
+400`  E`  PT3B`  Subcontracting item, requisn.
+400`  E`  PT3F`  Subcontracting item, PO
+400`  E`  PT3K`  Subcontracting item, contract
+400`  E`  PT3L`  Subcontr. item, sched. agmt.
+400`  E`  PT4K`  Material unknown contract
+400`  E`  PT5A`  Third-party item, RFQ
+400`  E`  PT5B`  Third-party item, requisition
+400`  E`  PT5F`  Third-party item, PO
+400`  E`  PT5L`  Third-party item, sched. agmt.
+400`  E`  PT6A`  Text item RFQ
+400`  E`  PT6F`  Text item purchase order
+400`  E`  PT6K`  Text item contract
+400`  E`  PT6L`  Text item, scheduling agmt.
+400`  E`  PT7B`  Stock transfer item, requisn.
+400`  E`  PT7F`  Stock transport item PO
+400`  E`  PT7L`  Stock tfer. item, sched. agmt.
+400`  E`  PT8K`  Material group item contract
+400`  E`  PT9A`  Service item, RFQ
+400`  E`  PT9B`  Service item, requisition
+400`  E`  PT9F`  Service item, PO
+400`  E`  PT9K`  Service item, contract
+400`  E`  PTAB`  Enhanced Limit item PR
+400`  E`  PTAF`  Enhanced limit item, PO
+400`  E`  PTCB`  Consignment item requisition
+400`  E`  PTCF`  CustomerStock
+400`  E`  PTPB`  RTP Item Requisition
+400`  E`  PTPF`  Purch. order returntranspack.
+400`  E`  RVB`  Outline agreement requisition
+400`  E`  S4PR`  Shopping Cart Purchase Req
+400`  E`  UB`  转储订单
+400`  E`  UBF`  Stock transport order
+400`  E`  UBF2`  Advanced Returns Management IC
+400`  E`  UP1A`  Sub-item, variant
+400`  E`  UP1F`  Sub-item, variant
+400`  E`  UP1K`  Sub-item, variant
+400`  E`  UP1L`  Sub-item, variant
+400`  E`  UP2F`  Sub-item, incl. bonus quantity
+400`  E`  UP2L`  Sub-item, incl. bonus quantity
+400`  E`  UP3F`  Sub-item, empties
+400`  E`  UP3L`  Sub-item, empties
+400`  E`  UP4F`  Sub-item, excl. bonus quantity
+400`  E`  UP4L`  Sub-item, excl. bonus quantity
+400`  E`  UP5F`  Sub-item, lot
+400`  E`  UP5L`  Sub-item, lot
+400`  E`  UP6F`  Sub-item, display
+400`  E`  UP6K`  Sub-item, display
+400`  E`  UP6L`  Sub-item, display
+400`  E`  UP7F`  Sub-item, set
+400`  E`  UP7L`  Sub-item, set
+400`  E`  UP8F`  Sub-item part interchange
+400`  E`  UP9F`  SLS sub-item
+400`  E`  UPFF`  Sub-item Forward Exchange
+400`  E`  UPHF`  Subitem: Global Trade Header
+400`  E`  UPIF`  Subitem: Global Trade Item
+400`  E`  UPPF`  Subitem: Product Replacement
+400`  E`  UPSF`  Subitem TPOP SUS
+400`  E`  UPUF`  IUID Embedded Item
+400`  E`  WKC`  Central Value Contract
+400`  E`  WKK`  Value Contract
+400`  E`  ZANBF01`  Purchase order
+400`  E`  ZANBF02`  Purchase order
+400`  E`  ZANBF03`  Purchase order
+400`  E`  ZANBF04`  Purchase order
+400`  E`  ZANBF05`  Purchase order
+400`  E`  ZANBF06`  Purchase order
+400`  E`  ZANBF09`  Purchase order
+400`  E`  ZMA`  消耗品 PO
+400`  E`  ZMF`  固定资产 PO
+400`  E`  ZNA`  集团外 PO
+400`  E`  ZNB`  集团内 PO
+400`  E`  ZNBF`  Purchase order
+400`  E`  ZNBF1`  Purchase order
+400`  E`  ZNC`  委外加工 PO
+400`  E`  ZND`  工序外协 PO
+400`  E`  ZNE`  供应商寄售PO
+400`  E`  ZNG`  服务 PO
+400`  E`  ZRE`  退货 PO

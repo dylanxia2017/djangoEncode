@@ -1,0 +1,3238 @@
+﻿ARBGB [C(00040)]`MSGNR [C(00006)]`MSGTA [C(00010)]`MSGTD [C(00002)]`XIGNO [C(00002)]
+/CCEE/RSFI`  003`  EWI`  E`
+/CCEE/RSFI`  004`  EWI`  E`
+/CCEE/RSFI`  005`  EWI`  I`
+/CCEE/RSFI`  006`  EWI`  I`
+/CCEE/RSFI`  007`  EWI`  E`
+/CCEE/RSFI`  008`  EWI`  E`
+/CCEE/RSFI`  009`  EWI`  E`
+/CCEE/RSFI`  010`  EWI`  E`
+/CCEE/RSFI`  011`  EWI`  E`
+/CCEE/RSFI`  012`  EWI`  E`
+/CCEE/RSFI`  013`  EWI`  W`
+/CCEE/RSFI`  014`  EWI`  E`
+/CCEE/RSFI`  015`  EWI`  E`
+/CCEE/RSFI`  016`  EWI`  E`
+/CCEE/RSFI`  017`  EWI`  I`
+/CCEE/RSFI`  018`  EWI`  I`
+/CCEE/RSFI`  020`  EWI`  W`
+/CCEE/RSFI`  021`  EWI`  W`
+/CCEE/RSFI`  022`  EWI`  W`
+/CCEE/RSFI`  023`  EWI`  W`
+/CCEE/RSFI`  024`  EWI`  W`
+/CCEE/RSFI`  025`  EWI`  E`
+/CCEE/RSFI`  026`  EWI`  E`
+/CCEE/RSFI`  027`  EWI`  E`
+/CCEE/RSFI`  040`  EWI`  I`
+/CCEE/RSFI`  041`  EWI`  W`
+/CEECV/BGFI`  010`  EWI`  E`
+/CEECV/BGFI`  011`  EWI`  E`
+/CEECV/BGFI`  100`  WIE`  W`
+/CEECV/BGFI`  102`  WIE`  W`
+/CEECV/BGFI`  103`  WIE`  W`
+/CEECV/BGFI`  104`  WIE`  W`
+/CEECV/BGFI`  105`  WIE`  W`
+/CEECV/BGFI`  106`  WIE`  W`
+/CEECV/BGFI`  107`  EWI`  E`
+/CEECV/BGFI`  108`  EWI`  E`
+/CEECV/BGFI`  109`  EWI`  E`
+/CEECV/BGFI`  110`  WIE`  W`
+/CEECV/BGFI`  111`  WIE`  W`
+/CEECV/BGFI`  112`  WIE`  W`
+/CEECV/BGFI`  113`  EWI`  E`
+/CEECV/BGFI`  114`  EWI`  E`
+/CEECV/BGFI`  115`  EWI`  E`
+/CEECV/BGFI`  116`  EWI`  E`
+/CEECV/BGFI`  117`  EWI`  E`
+/CEECV/BGFI`  118`  EWI`  E`
+/CWM/CO`  022`  WE`  E`  X
+/CWM/CO`  101`  IWE`  E`  X
+/PM0/ABP_DATATRANS`  001`  WI`  W`  X
+/PM0/ABP_DATATRANS`  002`  WI`  W`  X
+/PRA/CONTRACT_QUAN`  007`  IWE`  E`
+/PRA/WH_PROC`  020`  EWI`  E`
+/PRA/WH_PROC`  021`  EWI`  E`
+/PRA/WH_PROC`  022`  EWI`  E`
+/PRA/WH_PROC`  023`  EWI`  E`
+/PRA/WH_PROC`  024`  EWI`  E`
+/PRA/WH_PROC`  025`  EWI`  E`
+/PRA/WH_PROC`  026`  EWI`  E`
+/SAPCE/IUPL_CORR_INV`  011`  SWE`  S`
+/SAPF15/F15`  142`  IWE`  -`  X
+/SAPF15/F15`  144`  EWI`  -`  X
+/SAPF15/F15`  145`  EWI`  -`  X
+/SAPF15/F15`  146`  EWI`  -`  X
+/SAPF15/F15`  163`  EWI`  W`  X
+/SAPF15/F15`  164`  EWI`  W`  X
+/SAPF15/F15`  165`  EWI`  W`  X
+/SAPF15/F15`  166`  EWI`  -`  X
+/SAPF15/F15`  167`  EWI`  W`  X
+/SAPF15/F15`  168`  EWI`  E`  X
+/SAPF15/F15`  172`  EWI`  W`  X
+/SAPF15/F15`  173`  EWI`  W`  X
+/SAPPCE/01`  004`  EWI`  E`  X
+/SAPPCE/01`  005`  EWI`  E`  X
+/SAPPCE/01`  089`  EWI`  -`  X
+/SAPPCE/DPCM1`  114`  EWI`  E`  X
+/SAPPCE/DPCM1`  210`  EWI`  E`  X
+/SAPPCE/DPCM1`  234`  EW`  W`
+/SAPPCE/DPCM1`  253`  EW`  E`  X
+/SAPPCE/DPCM1`  254`  EW`  W`  X
+/SAPPCE/DPCM1`  255`  EIS`  E`  X
+/SAPPCE/DPCM1`  492`  EW`  -`  X
+/SAPPCE/DPCM1`  493`  EW`  -`  X
+/SAPPCE/DPCM1`  494`  EW`  -`  X
+/SAPPCE/DPCM1`  601`  EWI`  E`  X
+/SAPPCE/DPCM1`  602`  EWI`  E`  X
+/SAPPCE/DPCM1`  603`  EWI`  E`  X
+/SAPPCE/JVAM1`  031`  EWI`  E`  X
+/SAPPCE/JVAM1`  043`  EWI`  E`  X
+/SAPPCE/JVAM1`  062`  EWI`  E`  X
+/SAPPCE/JVAM1`  063`  EWI`  E`  X
+/SAPPCE/PNV`  003`  EW`  E`
+/SAPPCE/PNV`  016`  EW`  E`
+/SAPPCE/PNV`  017`  EW`  E`
+/SAPPCE/PNV`  020`  EW`  E`
+/SAPPCE/PNV`  027`  EW`  E`
+/SAPPCE/PNV`  031`  EW`  E`
+/SAPPCE/PNV`  303`  EI`  E`
+/SAPPCE/PNV`  304`  EI`  E`
+/SAPPCE/PNV`  305`  EI`  E`
+/SAPPCE/PNV`  306`  EI`  E`
+/SAPPCE/PNV`  307`  EI`  E`
+/SAPPSPRO/INFU`  009`  EW`  W`
+/SAPPSPRO/INFU`  010`  EW`  W`
+/SAPPSPRO/INFU`  011`  EW`  W`
+/SAPPSPRO/INFU`  012`  EW`  W`
+1B`  021`  EIS`  S`  X
+1B`  034`  EWIS`  E`  X
+1B`  059`  EW`  E`
+1B_ARCHIVING`  047`  EWI`  E`  X
+1E`  042`  EWIS`  W`  X
+1E`  093`  EW`  E`
+1E`  148`  EWI`  W`  X
+1E`  188`  EWIS`  W`  X
+1E`  295`  EWIS`  W`  X
+1E`  323`  EW`  E`
+1E`  329`  W`  W`  X
+1E`  345`  EW`  E`
+1E`  367`  EW`  W`
+1E`  368`  E`  -`  X
+1E`  376`  EW`  W`  X
+1E`  383`  EW`  E`  X
+1E`  401`  EWI`  W`  X
+1E`  402`  EWI`  W`  X
+1E`  403`  EWI`  W`  X
+1E`  404`  EWI`  W`  X
+1E`  444`  WIS`  I`  X
+1E`  445`  WIS`  I`  X
+1E`  484`  EWI`  W`  X
+1E`  700`  EWIS`  E`  X
+1E`  843`  EW`  E`  X
+1E`  844`  EW`  -`  X
+1E`  846`  EWIS`  E`  X
+1E`  847`  EWIS`  -`  X
+1E`  849`  EWIS`  -`  X
+1E`  853`  E`  E`  X
+1E`  854`  EWI`  E`
+1E`  855`  EW`  E`  X
+1E`  856`  EW`  E`  X
+1E`  857`  EWI`  E`  X
+1E`  858`  EWI`  E`  X
+1E`  859`  EWIS`  E`  X
+1E`  860`  EWIS`  E`  X
+1E`  865`  EWIS`  E`  X
+1FA`  286`  EW`  E`  X
+1FA`  477`  E`  E`  X
+1FA`  506`  EW`  E`
+1FA`  718`  WI`  I`  X
+1FA`  766`  EW`  W`
+1G`  002`  EWIS`  E`  X
+1G`  186`  W`  W`  X
+1G`  589`  E`  E`  X
+1G`  653`  IS`  I`  X
+1G`  663`  IS`  I`  X
+1G`  664`  IS`  I`  X
+1G`  665`  IS`  I`  X
+1G`  666`  IS`  I`  X
+1I`  011`  EWI`  W`  X
+1I`  073`  EW`  E`  X
+1I`  184`  EWIS`  W`  X
+1I`  746`  EW`  E`  X
+1J`  027`  EW`  E`
+1J`  514`  EWIS`  E`  X
+1J`  605`  EWI`  E`
+1J`  610`  EWI`  E`
+/PRA/WH_PROC`  027`  EWI`  E`
+1K`  124`  EW`  E`
+1M`  012`  E`  E`  X
+1M`  166`  EWI`  W`
+1M`  260`  EI`  I`  X
+1N`  171`  E`  E`  X
+1N`  212`  E`  E`  X
+1N`  519`  EWIS`  W`  X
+1P`  163`  EW`  E`
+1P`  844`  EW`  W`  X
+1P`  855`  EW`  E`  X
+1P`  856`  EW`  E`  X
+1Q`  380`  EWI`  I`  X
+1J`  622`  E`  E`  X
+56`  222`  SEW`  W`  X
+56`  146`  EW`  W`
+56`  287`  I`  I`  X
+56`  509`  EW`  W`  X
+56`  893`  I`  I`  X
+56`  894`  I`  I`  X
+62`  785`  WES`  W`  X
+62`  786`  WES`  W`  X
+62`  788`  WES`  W`  X
+62`  950`  IE`  I`
+63`  039`  WE`  W`  X
+63`  040`  WE`  W`  X
+63`  460`  WE`  W`  X
+64`  323`  WE`  W`  X
+64`  485`  EW`  W`  X
+64`  778`  EW-`  W`  X
+64`  798`  SWE`  I`  X
+64`  809`  SWE`  I`  X
+64`  822`  EW`  W`
+65`  078`  IWE`  E`
+65`  081`  WEI-`  W`
+56`  243`  E`  E`  X
+65`  146`  E-`  `  X
+65`  147`  EW-`  W`  X
+65`  184`  EW`  E`
+65`  218`  WE`  E`
+65`  226`  EWI`  E`  X
+65`  237`  WE`  E`
+65`  115`  WE-`  W`
+65`  238`  IWE`  W`  X
+65`  505`  WIE`  I`  X
+67`  049`  WE-`  -`
+67`  170`  I`  I`  X
+65`  239`  IWE`  W`  X
+67`  464`  EW`  E`
+67`  802`  EW`  E`
+67`  172`  WE`  E`
+67`  999`  WE`  E`
+67N`  013`  W`  W`  X
+67`  915`  EI`  -`  X
+67_LOAN`  816`  SW-`  S`  X
+67_LOAN`  012`  EW`  W`
+67_LOAN_STATE`  019`  WE-`  E`
+67_PAYMENTS`  304`  E`  E`  X
+69`  186`  I-`  I`  X
+69`  755`  WE`  W`
+69`  756`  WE`  W`
+69`  829`  E`  -`  X
+6AD`  012`  EW`  W`  X
+6B`  149`  WIEAS`  -`  X
+6D`  369`  WE`  E`  X
+6D`  372`  S`  -`  X
+6D`  373`  S`  -`  X
+6D`  420`  S`  -`  X
+6D`  454`  EWS`  E`
+6D`  837`  WE`  W`  X
+6D`  838`  WE`  W`  X
+6D`  858`  WE`  W`  X
+6D`  859`  WE`  E`  X
+6D`  867`  I`  I`  X
+67_LOAN`  819`  EI`  -`  X
+6X`  179`  WE`  W`
+7Q`  011`  WIES`  E`  X
+7Q`  321`  EWIS`  E`
+7Q`  322`  WIES`  E`
+7Q`  331`  EWIS`  W`  X
+7Q`  332`  I`  I`  X
+7Q`  333`  WIS`  S`  X
+7Q`  334`  WIS`  S`  X
+7Q`  336`  SWIE`  -`  X
+7Q`  338`  EWIS`  I`  X
+7Q`  339`  WISE`  -`  X
+7Q`  454`  WESI-`  -`  X
+8A`  014`  EWIS`  E`  X
+8A`  015`  EWIS`  E`  X
+8A`  502`  EWI`  W`  X
+8B`  520`  EWI`  W`
+8B`  526`  EWI`  E`  X
+8B`  565`  EWI`  E`  X
+8B`  569`  EWI`  W`
+8B`  679`  EWI`  W`
+8B`  699`  WE`  W`
+8B`  797`  WE`  W`  X
+8I`  719`  WE`  W`
+>R`  102`  WEI`  W`
+AA`  335`  EWI`  E`  X
+AA`  348`  AEW`  W`
+AA`  359`  EW`  E`  X
+AA`  407`  AEW`  W`  X
+AA`  445`  EWI`  E`  X
+AA`  446`  EWI`  E`  X
+AA`  571`  AEW`  E`  X
+AA`  614`  EWI`  `  X
+AA`  615`  EWI`  `  X
+AA`  677`  W`  -`  X
+AA`  697`  EWI`  W`  X
+AA`  816`  WISE`  I`  X
+AA`  951`  EW`  E`
+AAPO`  013`  AEW`  W`  X
+AAPO`  108`  AEW`  W`  X
+AAPO`  109`  AEW`  W`  X
+AAPO`  110`  AEW`  W`  X
+AAPO`  111`  AEW`  W`  X
+AAPO`  112`  AEW`  W`  X
+AAPO`  113`  AEW`  W`  X
+AAPO`  123`  EWI`  W`  X
+AAPO`  184`  EW`  E`  X
+AAPO`  196`  EW`  E`  X
+AAPO`  202`  AEW`  W`  X
+AAPO`  214`  EW`  E`  X
+AAPO`  215`  E`  E`  X
+AAPO`  227`  EWI`  E`  X
+AAPO`  228`  EWI`  W`  X
+AAPO`  230`  E`  E`  X
+AAPO`  522`  EW`  E`  X
+AB`  720`  EW`  E`  X
+AC`  301`  EWI`  `
+AC`  302`  EWI`  `
+AC`  305`  EWI`  `
+AC`  306`  EWI`  `
+AC`  308`  EWI`  `
+AC`  309`  EWI`  `
+AC`  476`  EW`  E`
+AC`  673`  EWI`  W`  X
+ACC_AA`  016`  AEWIS`  W`  X
+ACC_AA`  021`  EWS`  W`  X
+ACC_AA`  022`  EWS`  W`  X
+ACC_AA`  253`  EWI`  E`  X
+ACE`  040`  E`  E`  X
+ACE`  073`  EWIS`  I`  X
+ACE`  209`  EWI`  E`
+ACE`  222`  EWIS`  I`  X
+ACE`  250`  EWI`  W`  X
+ACEC`  013`  EW`  E`
+ACEC`  050`  EW`  E`
+ACEC`  053`  EW`  E`
+ACEC`  054`  EW`  E`
+ACEC`  055`  EW`  E`
+ACEC`  056`  EW`  E`
+ACEC`  057`  EW`  E`
+ACEC_S4`  001`  EW`  E`
+ACEDS`  007`  EWIS`  W`  X
+ACEDS`  009`  EWSI`  W`  X
+ACEDS`  018`  EWSI`  S`  X
+ACEDS`  030`  AEWI`  E`  X
+ACEDS`  031`  AEWI`  E`  X
+ACEPS`  055`  EWIS`  E`  X
+AC_FAREA_FROM_COBL`  010`  AEWI`  I`  X
+AIST`  001`  WIS`  W`  X
+AIST`  002`  W`  W`  X
+AIST`  006`  EWI`  W`  X
+AIST`  012`  EW`  E`
+AIST`  013`  EW`  E`
+AIST`  016`  EW`  E`  X
+AIST`  017`  EW`  E`  X
+AIST`  020`  EW`  E`
+AIST`  022`  EWI`  -`  X
+AIST`  023`  EWI`  -`  X
+AM`  228`  EWIS`  W`  X
+AM`  237`  EWIS`  -`  X
+AM`  240`  EWIS`  `  X
+AM`  330`  EWIS`  W`  X
+AO`  472`  IEW`  W`  X
+APERB`  032`  EW`  E`
+APERB`  033`  EW`  E`
+APERB`  034`  EW`  E`
+AR`  103`  EWIS`  E`
+AR`  114`  EWS`  E`  X
+AR`  115`  EWS`  E`  X
+AR`  120`  EWS`  E`  X
+AR`  124`  EWS`  E`  X
+AR`  130`  EW`  E`  X
+AR`  140`  EWSI`  W`  X
+AR`  141`  EWS`  E`  X
+AR`  149`  EWS`  E`  X
+AR`  169`  EW`  E`
+AR`  170`  EW`  E`
+AR`  171`  WIS`  W`  X
+AR`  172`  EWS`  E`  X
+AR`  175`  EW`  E`  X
+AR`  176`  EW`  E`  X
+6D`  868`  WE`  W`  X
+AR`  205`  ESW`  W`
+AR`  206`  WIS`  W`  X
+AW`  607`  EWI`  E`  X
+AW`  624`  EWI`  E`  X
+AW`  851`  EWI`  E`
+AW`  852`  EWI`  E`
+AW`  856`  EWI`  E`
+AW`  857`  EWI`  E`
+B0`  171`  WE`  W`
+B0`  555`  EW`  E`
+BAPI4499`  006`  AEWI`  W`  X
+BE`  213`  E`  E`  X
+BE`  214`  E`  E`  X
+BF00`  009`  EWI`  E`  X
+BF00`  024`  EW`  W`
+BF00`  025`  EWI`  E`  X
+BF00`  026`  I`  I`  X
+BF00`  032`  EWSI`  W`  X
+BF00`  055`  EWIS`  E`
+BF00`  056`  EWIS`  W`
+BF00`  195`  EW`  E`
+BF00`  210`  EWIS`  S`  X
+ACEC_S4`  017`  EWI`  E`
+BFIBL02`  166`  E`  -`  X
+BFIBL02`  169`  WE`  W`  X
+BFIBL02`  317`  SWE`  W`  X
+BFIBL02`  318`  SWE`  W`  X
+BFIBL02`  330`  SWE`  W`  X
+BFIBL02`  331`  SWE`  W`  X
+BFIBL02`  332`  SWE`  W`  X
+BFIBL02`  333`  WE`  E`  X
+BK`  015`  SIW`  W`  X
+BK`  020`  SIWE`  S`
+BK`  025`  WE`  E`
+BK`  042`  EWIS`  W`  X
+BK`  057`  EWIS`  W`  X
+BK`  134`  SIWE`  E`  X
+BK`  187`  EWSI`  E`  X
+BK`  191`  EWIS`  E`  X
+BK`  198`  SIWE`  W`  X
+BK`  200`  EW`  E`  X
+BK`  223`  SIWE`  E`  X
+BK`  229`  E`  E`  X
+BK`  230`  SIW`  I`  X
+BK`  238`  SIWE`  W`  X
+BK`  240`  E`  E`  X
+BK`  242`  E`  E`  X
+BK`  248`  SIW`  W`  X
+BK`  249`  EWSI`  -`  X
+BK`  256`  E`  -`  X
+BK`  258`  EA`  E`  X
+BK`  259`  SIWE`  E`  X
+BK`  261`  E`  E`  X
+BKK_CLS`  020`  EW`  E`
+BKK_CLS`  072`  EW`  E`
+BKK_CLS`  081`  E`  E`  X
+BKK_CLS`  106`  EW`  E`
+BKK_PRENOTE`  051`  EWIS`  E`
+BKN`  514`  I`  I`  X
+BNK_GENERAL`  034`  EWI`  W`  X
+BNK_GENERAL`  230`  EI`  I`  X
+BNK_UTIL`  005`  I`  I`  X
+BP`  552`  IWE`  -`  X
+BP`  741`  EW`  E`
+BPOB`  018`  WE`  E`
+BQ`  205`  EW`  W`  X
+BQ`  207`  EW`  W`  X
+BQ`  209`  EW`  W`  X
+BQ`  211`  EW`  W`  X
+BQ`  227`  EW`  W`  X
+BQ`  233`  EW`  E`  X
+BQ`  235`  EW`  W`  X
+BQ`  237`  EW`  W`  X
+BQ`  257`  EW`  E`  X
+BQ`  259`  EW`  E`  X
+BQ`  282`  EW`  W`  X
+BQ`  284`  EW`  W`  X
+BS`  013`  E`  E`  X
+BS`  014`  E`  E`  X
+BS`  320`  SIWE`  E`  X
+CK`  466`  EWIS`  E`  X
+ACEC_S4`  078`  EW`  E`
+CMCB_MSG`  100`  SIWEA`  W`
+CMCB_MSG`  108`  SIWEA`  E`
+CMCB_MSG`  156`  SIWEA`  W`
+CMCB_MSG`  277`  SIWEA`  E`
+CMCB_MSG`  304`  SIWEA`  E`
+CMCB_MSG`  305`  SIWEA`  E`
+CMCB_MSG`  360`  SIWEA`  E`
+CMCB_MSG`  361`  SIWEA`  E`
+CMD_API`  006`  EWI`  E`  X
+CMD_API`  007`  EWI`  W`  X
+CMD_API`  783`  EWIS`  I`  X
+CMD_API`  784`  I`  -`  X
+CMD_API`  785`  I`  -`  X
+COM_PRODUCT_CUSTMSG`  000`  EWS`  W`
+COM_PRODUCT_CUSTMSG`  001`  EWS`  W`
+COM_PRODUCT_CUSTMSG`  002`  AWS`  W`
+COM_PRODUCT_CUSTMSG`  004`  EWS`  W`
+COM_PRODUCT_CUSTMSG`  005`  EWS`  W`
+COM_PRODUCT_CUSTMSG`  006`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  007`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  009`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  010`  EW`  E`  X
+COM_PRODUCT_CUSTMSG`  011`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  012`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  013`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  014`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  015`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  016`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  017`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  018`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  019`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  020`  EW`  E`
+COM_PRODUCT_CUSTMSG`  021`  EW`  E`  X
+COM_PRODUCT_CUSTMSG`  022`  EW`  E`  X
+COM_PRODUCT_CUSTMSG`  024`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  025`  EW`  W`  X
+COM_PRODUCT_CUSTMSG`  032`  EW`  W`  X
+COPC_CCON`  005`  WE`  E`
+COPC_GRP_UI`  053`  EW`  W`
+COPC_GRP_UI`  054`  EW`  W`
+COPC_RPR_UI`  037`  EW`  W`
+COPC_RPR_UI`  038`  EW`  W`
+ACEC_S4`  108`  EW`  E`
+ACEDS`  040`  AEWI`  E`  X
+CRM_CCM_RECOVERY`  120`  IEW`  E`  X
+ACEDS`  041`  AEWI`  E`  X
+ACEDS`  042`  AEWI`  E`  X
+ACE_S4`  092`  EW`  W`
+AFLE`  013`  EWI`  E`
+AR`  191`  EW`  E`  X
+BF00`  430`  SIWE`  S`  X
+BF00`  431`  EWSI`  E`  X
+BUPA_TAX`  400`  EIW`  I`
+CL_DFPS_COMP_MSGS`  011`  SWE`  E`
+CRM_BOM_CUSTMSG`  000`  EW`  E`
+CRM_CASE_C`  001`  E`  E`  X
+CRM_IPM_IP_CUSTMSG`  006`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  007`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  008`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  009`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  012`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  013`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  014`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  015`  EW`  E`  X
+CRM_IPM_IP_CUSTMSG`  516`  W`  `  X
+CRM_MKTTG_PF`  060`  EWI`  E`
+CRM_PRODUCT_CUSTMSG`  021`  E`  E`  X
+CRM_PRODUCT_CUSTMSG`  022`  E`  E`  X
+CRM_PRODUCT_CUSTMSG`  023`  E`  E`  X
+CVI_API`  026`  EW`  E`
+CVI_API`  053`  WIS`  -`  X
+DPR_CALC`  008`  EWI`  E`  X
+DPR_CALC`  009`  EWI`  E`  X
+DPR_CALC`  010`  EWI`  W`  X
+DPR_CALC`  011`  EWI`  E`  X
+DPR_CALC`  019`  EWI`  E`  X
+EEWA_MD`  005`  SIWE`  I`  X
+EEWA_MD`  072`  SIWE`  S`
+EEWA_SUBCONTRACT`  008`  SIWE`  W`  X
+EP`  439`  -IE`  I`  X
+EPIC_ACTIONS`  135`  EW`  E`
+EPIC_ACTIONS`  141`  EW`  W`
+EPIC_EBR`  036`  WE`  W`
+EPIC_EBR_UI`  010`  WE`  W`
+EPIC_PRTL_PYMNT_LGC`  007`  WE`  W`
+ESFM_NEW_COMM`  005`  EWI`  E`
+ESFM_NEW_COMM`  007`  EWI`  W`
+F0`  222`  E`  E`  X
+F0`  397`  EWI`  E`  X
+F0`  461`  EIW`  W`  X
+F0`  468`  EW`  E`
+F0`  484`  WE`  W`  X
+F0`  493`  EW`  E`
+F0`  494`  EW`  E`
+F0`  495`  EW`  E`
+F0`  496`  E`  E`  X
+CRM_PRODUCT_CUSTMSG`  024`  EW`  E`
+F0`  499`  EA`  E`  X
+F0`  524`  SIWE`  -`  X
+F0`  525`  SIWE`  E`
+CRM_PRODUCT_CUSTMSG`  025`  EW`  E`  X
+F107_CUST`  006`  EW`  E`
+F107_CUST`  007`  EW`  E`
+F2`  `  WEIS`  E`  X
+F2`  030`  W`  -`  X
+F2`  057`  EWI`  W`  X
+F2`  077`  WE`  W`
+F2`  079`  WE`  W`
+F2`  088`  W`  W`  X
+F2`  116`  WE`  E`
+F2`  128`  EWIS`  I`  X
+F2`  129`  EWIS`  I`  X
+F2`  130`  EWIS`  I`  X
+F2`  131`  EWIS`  I`  X
+F2`  132`  EWIS`  I`  X
+F2`  133`  EWIS`  I`  X
+F2`  141`  EWI`  E`  X
+F2`  144`  I`  -`  X
+F2`  145`  I`  -`  X
+F2`  146`  WE`  W`
+F2`  217`  WES`  S`
+F2`  224`  WEIS`  W`  X
+F2`  225`  WEIS`  W`  X
+F2`  226`  WEIS`  W`  X
+F2`  227`  WEIS`  W`  X
+F2`  228`  WI`  I`  X
+F2`  229`  WI`  I`  X
+F2`  230`  WI`  I`  X
+F2`  270`  EWI`  E`  X
+F2`  272`  EWIS`  -`  X
+F2`  273`  EWIS`  -`  X
+F2`  274`  WI`  -`  X
+F2`  275`  WI`  -`  X
+F2`  281`  WI`  -`  X
+F2`  283`  EW`  E`
+F2`  284`  ISWEA`  `  X
+F2`  290`  WEI`  W`  X
+F2`  291`  WI`  W`  X
+F2`  292`  WE`  W`
+F2`  293`  WI`  W`  X
+F2`  294`  WE`  W`
+F2`  295`  I`  I`  X
+F2`  297`  WIS`  W`  X
+F2`  370`  I`  I`  X
+F2`  386`  EWI`  -`  X
+F2`  387`  IWE`  -`  X
+F2`  405`  EWI`  E`  X
+F2`  409`  I`  I`  X
+F2`  410`  I`  I`  X
+F2`  411`  I`  I`  X
+F2`  417`  WEIS`  E`  X
+F2`  420`  WE`  W`
+F2`  423`  WE`  W`
+F2`  443`  WE`  W`
+CRM_PRODUCT_CUSTMSG`  026`  EW`  E`  X
+F2`  578`  EIW`  I`  X
+F2`  579`  WEIS`  E`  X
+F2`  656`  W`  -`  X
+F2`  657`  EWI`  W`
+F2`  658`  EWI`  W`  X
+F2`  778`  EWI`  `  X
+F2`  779`  EWI`  `  X
+F2`  780`  EWI`  E`
+F2`  781`  EWI`  -`  X
+F2`  782`  EWIS`  E`  X
+F2`  783`  EWIS`  I`  X
+F2`  784`  WEIS`  E`
+F2`  785`  WEIS`  E`
+F2`  810`  EWIS`  S`  X
+F2`  813`  WEI`  W`  X
+F2`  814`  EWIS`  W`  X
+F2`  832`  EWI`  E`  X
+F2`  899`  EWI`  E`  X
+F4`  062`  SIW`  -`  X
+F4`  097`  EW`  W`
+F4`  098`  EW`  E`
+F4`  099`  EW`  E`
+F4`  106`  EW`  E`
+F4`  137`  EW`  E`
+F4`  721`  WI`  I`  X
+F4`  726`  WI`  I`  X
+F4`  768`  WEIS`  -`  X
+F4`  796`  WI`  I`  X
+F5`  000`  WIS`  W`  X
+F5`  014`  WSI`  W`  X
+F5`  052`  -E`  -`  X
+F5`  085`  EW`  E`  X
+F5`  095`  SI`  I`  X
+F5`  096`  SI`  I`  X
+F5`  097`  W`  W`  X
+F5`  117`  WE`  W`
+F5`  122`  IS`  S`  X
+F5`  126`  IS`  S`
+F5`  149`  W`  W`  X
+CRM_PRODUCT_CUSTMSG`  027`  EW`  E`  X
+F5`  170`  WE`  W`  X
+F5`  192`  EWIS`  W`  X
+F5`  202`  W`  W`  X
+F5`  212`  EW`  W`
+F5`  216`  WE`  W`
+F5`  231`  W`  W`  X
+F5`  240`  EW`  E`
+F5`  312`  SI`  I`  X
+F5`  317`  EW`  E`  X
+F5`  318`  EWIS`  W`
+F5`  328`  EW`  E`  X
+F5`  349`  EW`  W`  X
+F5`  350`  EW`  E`  X
+F5`  351`  EW`  E`  X
+F5`  361`  EW`  E`
+F5`  371`  EW`  W`
+F5`  373`  WE`  W`
+F5`  378`  EW`  E`
+F5`  407`  EW`  W`  X
+F5`  408`  EW`  W`  X
+F5`  507`  EWIS`  E`  X
+F5`  580`  E-`  -`  X
+F5`  587`  WE`  W`  X
+F5`  590`  EW`  W`  X
+F5`  612`  S`  -`  X
+F5`  636`  -E`  E`  X
+F5`  671`  SIW`  -`  X
+F5`  676`  EW`  W`  X
+F5`  707`  EW`  E`  X
+F5`  708`  W`  W`  X
+F5`  715`  WE`  W`  X
+F5`  729`  EW`  W`  X
+F5`  763`  EWI`  I`  X
+F5`  768`  EWI`  E`  X
+F5`  770`  EWI`  E`  X
+F5`  772`  EWI`  E`  X
+F5`  783`  EW`  E`  X
+F5`  794`  E-`  E`  X
+F5`  844`  EW`  E`  X
+F5`  872`  WI`  W`  X
+F5`  874`  EW`  W`  X
+F5`  876`  WE`  W`  X
+F5`  883`  EWIS`  W`  X
+F5`  885`  EW`  E`  X
+F5`  896`  EW`  E`  X
+F5`  901`  WE`  W`
+F5`  902`  EW`  E`
+F5`  905`  WE`  -`  X
+F5A`  001`  EW`  W`
+F5A`  002`  EW`  W`
+F5A`  003`  EW`  W`
+F5A`  025`  WEI`  W`
+F5A`  031`  E`  E`  X
+F5A`  058`  I`  I`  X
+F5A`  081`  WE`  E`
+F5A`  086`  IWS`  W`  X
+F5A`  087`  S`  S`  X
+F5A`  088`  I`  I`  X
+F5A`  133`  IS`  S`  X
+F5A`  190`  EWIS`  E`  X
+F5A`  192`  EWIS`  E`  X
+F5A`  199`  E`  E`  X
+F5A`  209`  EW`  W`
+F5A`  210`  IWS-`  I`  X
+F5A`  230`  E`  E`  X
+F5A`  232`  EWI`  -`  X
+F5A`  247`  EWI`  -`  X
+F5A`  252`  EW`  W`  X
+F5A`  258`  WE`  W`  X
+F5A`  263`  EWI`  I`  X
+F5A`  268`  EWIS`  W`  X
+F5A`  269`  EWIS`  W`  X
+F5A`  279`  EWI`  -`  X
+F5A`  281`  S`  -`  X
+F5A`  282`  -WE`  W`  X
+F5A`  290`  WI`  -`  X
+F5A`  291`  WE`  W`  X
+F5A`  293`  WE`  W`  X
+F5A`  308`  EW`  W`
+F5A`  316`  SIW-`  S`  X
+F5A`  329`  EW`  E`  X
+F5A`  335`  IW`  S`  X
+F5A`  337`  ISW`  I`  X
+F5A`  338`  ISW`  I`  X
+F5A`  339`  ISW`  I`  X
+F5A`  344`  I`  I`  X
+F5A`  345`  I`  I`  X
+F5A`  355`  I`  I`  X
+F5A`  360`  W`  -`  X
+F5A`  369`  -EW`  W`  X
+F5A`  371`  W`  -`  X
+F5A`  373`  WE`  `
+F5A`  374`  W`  W`  X
+F5A`  400`  E-`  E`  X
+F5A`  426`  -EW`  W`  X
+F5A`  428`  WE`  W`  X
+F5A`  435`  EW`  E`  X
+F5A`  455`  WE`  W`  X
+F5A`  456`  WE`  W`  X
+F5A`  461`  EW-`  -`  X
+CRM_PRODUCT_CUSTMSG`  029`  EW`  E`  X
+CRM_PRODUCT_CUSTMSG`  030`  EW`  E`  X
+CRM_PRODUCT_CUSTMSG`  031`  E`  E`  X
+F6`  230`  E`  `  X
+F6`  565`  E`  `  X
+F7`  204`  AEW`  E`  X
+F7`  255`  EW`  E`  X
+F7`  330`  WE`  W`  X
+F7`  331`  WE`  W`  X
+F7`  332`  WE`  W`  X
+F7`  334`  WE`  W`  X
+F7`  335`  WE`  W`  X
+F7`  336`  WE`  W`  X
+F7`  337`  WE`  W`  X
+F7`  350`  WE`  W`  X
+F7`  582`  EWI`  E`  X
+F=`  014`  IEA`  -`  X
+F=`  020`  AWI`  A`  X
+F=`  030`  IWA`  W`  X
+F=`  039`  IWA`  W`  X
+F=`  087`  IW`  W`  X
+F=`  089`  I`  -`  X
+F=`  104`  I`  I`  X
+F=`  105`  IWE`  W`
+F=`  106`  IWE`  W`  X
+F=`  111`  IWE`  W`  X
+F=`  112`  IW`  I`  X
+F=`  113`  I`  -`  X
+F=`  114`  IWE`  W`  X
+F=`  115`  IWE`  -`  X
+F=`  117`  IWE`  W`  X
+F=`  118`  WE`  W`
+F=`  119`  IWE`  W`  X
+F=`  120`  IWE`  W`  X
+F=`  123`  I`  -`  X
+F=`  135`  I`  -`  X
+F=`  138`  I`  I`  X
+F=`  139`  I`  I`  X
+F=`  141`  I`  I`  X
+F=`  142`  IWE`  W`  X
+F=`  143`  IWE`  W`  X
+F=`  146`  IW`  W`  X
+F=`  154`  IW`  W`  X
+F=`  156`  I`  I`  X
+F=`  159`  W`  W`  X
+F=`  163`  WE`  W`
+F=`  164`  WE`  E`
+F=`  167`  IW`  I`  X
+F=`  171`  IWE`  W`  X
+F=`  204`  IWE`  W`  X
+F=`  207`  WE`  E`
+F=`  223`  WE`  W`  X
+F=`  225`  WE`  W`  X
+F=`  228`  I`  I`  X
+F=`  324`  I`  I`  X
+FAA_POST`  030`  I`  I`  X
+CRM_PRODUCT_CUSTMSG`  032`  EW`  E`  X
+FAA_POST`  060`  EW`  E`
+FAA_POST`  061`  EW`  E`
+FAA_POST`  101`  EA`  E`
+CVIC_UI`  012`  I`  I`  X
+CVIC_UI`  031`  EWIS`  -`  X
+CVIC_UI`  063`  EWIS`  E`  X
+FAGL_ALE`  015`  E`  E`  X
+FAGL_ALE`  016`  E`  E`  X
+FAGL_ALE`  017`  E`  E`  X
+FAGL_ALE`  018`  E`  E`  X
+FAGL_ALE`  019`  E`  E`  X
+FAGL_CL`  013`  EWI-`  E`  X
+FAGL_CL`  059`  EWI-`  E`  X
+FAGL_COFI`  008`  AE`  E`  X
+FAGL_COFI`  025`  SWIE-`  E`  X
+FAGL_COFI`  101`  E`  E`  X
+FAGL_COFI`  102`  EWSI`  W`  X
+FAGL_GBIW`  006`  SIWEA`  A`  X
+FAGL_LEDGER_CUST`  014`  EWI`  E`
+FAGL_LEDGER_CUST`  044`  EWIS`  E`  X
+FAGL_LEDGER_CUST`  052`  IWE`  W`
+FAGL_LEDGER_CUST`  100`  SWIE-`  W`
+FAGL_LEDGER_CUST`  148`  EISW`  E`  X
+FAGL_LEDGER_CUST`  156`  EIW-`  -`  X
+FAGL_MIG`  066`  EW`  E`
+FAGL_MIG`  083`  EW`  E`  X
+FAGL_MIG`  121`  EWSI`  E`  X
+FAGL_MIG`  122`  EWSI`  I`  X
+FAGL_MIG`  139`  E`  E`  X
+FAGL_MIG`  225`  EW`  E`
+FAGL_MIG`  284`  EW`  W`  X
+FAGL_ORG_UNITS`  011`  AEW`  E`
+FAGL_POST_SERVICE`  007`  SIWEA`  -`  X
+FAGL_REORG`  002`  WE`  E`
+FAGL_REORG`  005`  WE`  E`
+FAGL_REORG`  006`  WE`  E`
+FAGL_REORG`  104`  WE`  E`
+FAGL_REORG`  109`  WE`  E`
+FAGL_REORG`  117`  EWIS`  E`  X
+FAGL_REORG`  128`  EWIS`  E`  X
+FAGL_REORG`  129`  EWIS`  W`  X
+FAGL_REORG`  132`  EWIS`  W`  X
+FAGL_REORG`  140`  EWIS`  W`  X
+FAGL_REORG`  205`  WE`  E`
+FAGL_REORG`  206`  WE`  E`
+FAGL_REORG`  207`  WE`  E`
+FAGL_REORG`  208`  WE`  E`
+FAGL_REORGANIZATION`  019`  EWI`  E`  X
+FAGL_REORGANIZATION`  029`  EWI`  E`  X
+FAGL_REORGANIZATION`  043`  EWI`  E`  X
+FAGL_REORGANIZATION`  071`  EWI`  E`  X
+FAGL_REORGANIZATION`  072`  EWI`  E`  X
+FAGL_REORGANIZATION`  080`  I`  I`  X
+FAGL_REORGANIZATION`  086`  EWI`  W`  X
+FAGL_REORGANIZATION`  087`  EWI`  W`  X
+FAGL_REORGANIZATION`  120`  EW`  E`
+FAGL_REORGANIZATION`  339`  WE`  E`
+FAGL_REORGANIZATION`  343`  EW`  E`
+FAGL_REORGANIZATION`  502`  EWI`  E`  X
+FAGL_REORGANIZATION`  567`  EW`  E`
+FAGL_REORGANIZATION`  601`  EW`  E`
+FAGL_REORGANIZATION`  603`  EW`  E`
+FAGL_REORGANIZATION`  605`  EW`  E`
+FAGL_REORGANIZATION`  707`  EWI`  E`  X
+FAGL_REORGANIZATION`  708`  EWI`  E`  X
+FAGL_REORGANIZATION`  709`  EWI`  E`  X
+FAGL_REORGANIZATION`  710`  EWI`  E`  X
+FAGL_REORGANIZATION`  801`  EWI`  W`  X
+FAGL_REORGANIZATION`  803`  EW`  E`
+FAGL_REORGANIZATION`  804`  EWI`  E`  X
+FAGL_REORGANIZATION`  807`  EWI`  W`  X
+FAGL_REORG_SEG`  001`  WE`  E`
+FAGL_REORG_SEG`  003`  EW`  E`
+FAGL_REORG_SEG`  004`  EW`  E`
+FAGL_REORG_SEG`  009`  EW`  E`
+FAGL_REORG_SEG`  207`  EW`  E`
+FAGL_REORG_SEG`  414`  EW`  E`
+FAGL_SWITCH_LEAD_LDG`  112`  EW`  E`
+FAGL_SWITCH_LEAD_LDG`  131`  EW`  E`
+FAGL_ZERO_BAL`  003`  WIE`  W`  X
+FAGL_ZERO_BAL`  004`  WI`  W`  X
+FAGL_ZERO_BAL`  005`  WIE`  W`  X
+CVIV_UI`  023`  EWIS`  -`  X
+FARRIC_SD`  016`  EWI`  E`  X
+FARRIC_SD`  017`  EWI`  E`  X
+FARR_MSG_CUSTOM`  001`  WE`  W`  X
+FARR_MSG_CUSTOM`  002`  WE`  W`  X
+FARR_MSG_CUSTOM`  003`  WE`  W`  X
+FARR_MSG_CUSTOM`  004`  WE`  W`  X
+FARR_MSG_CUSTOM`  006`  WE`  W`  X
+FARR_MSG_CUSTOM`  007`  WE`  W`  X
+FARR_MSG_CUSTOM`  008`  WE`  W`  X
+FARR_MSG_CUSTOM`  010`  WE`  W`  X
+FARR_MSG_CUSTOM`  011`  WE`  W`  X
+FARR_MSG_CUSTOM`  012`  WE`  W`  X
+FARR_MSG_CUSTOM`  013`  WE`  W`  X
+FARR_MSG_CUSTOM`  014`  WE`  -`  X
+FARR_MSG_CUSTOM`  015`  WE`  -`  X
+FARR_MSG_CUSTOM`  016`  WE`  -`  X
+FARR_MSG_CUSTOM`  017`  WE`  W`  X
+FARR_MSG_CUSTOM`  018`  WE`  W`  X
+FARR_MSG_CUSTOM`  019`  WE`  -`  X
+FARR_MSG_CUSTOM`  020`  WE`  E`  X
+FARR_MSG_CUSTOM`  021`  WE`  W`  X
+FARR_MSG_CUSTOM`  022`  WEI`  W`  X
+FARR_MSG_CUSTOM`  023`  WEI`  W`  X
+FARR_MSG_CUSTOM`  024`  WE`  E`  X
+FARR_MSG_CUSTOM`  025`  WE`  E`  X
+FARR_MSG_CUSTOM`  026`  WE`  E`  X
+FARR_MSG_CUSTOM`  027`  WE`  E`  X
+FARR_MSG_CUSTOM`  028`  WE`  E`  X
+FARR_MSG_CUSTOM`  029`  WE`  E`  X
+FARR_MSG_CUSTOM`  030`  WE`  E`  X
+FARR_MSG_CUSTOM`  031`  WE`  E`  X
+CVP_DP_ILM`  143`  WE`  E`
+F0`  497`  EW-`  E`
+F0`  800`  AS`  S`
+F2`  513`  IWE`  -`  X
+FARR_MSG_CUSTOM`  343`  WE`  E`  X
+FARR_MSG_CUSTOM`  501`  WEI`  E`  X
+FARR_MSG_CUSTOM`  502`  WE`  E`  X
+FARR_MSG_CUSTOM`  503`  WE`  E`  X
+FARR_MSG_CUSTOM`  504`  WE`  E`  X
+FARR_MSG_CUSTOM`  505`  WE`  E`  X
+FARR_MSG_CUSTOM`  506`  WE`  E`  X
+FARR_MSG_CUSTOM`  507`  WE`  E`  X
+FARR_MSG_CUSTOM`  508`  WE`  E`  X
+FARR_MSG_CUSTOM`  509`  WE`  E`  X
+FARR_MSG_CUSTOM`  510`  WEI`  E`  X
+FARR_MSG_CUSTOM`  511`  WEI`  I`  X
+FARR_MSG_CUSTOM`  512`  WE`  E`  X
+FARR_MSG_CUSTOM`  513`  WE`  E`  X
+FARR_MSG_CUSTOM`  514`  WE`  E`  X
+FARR_MSG_CUSTOM`  515`  WE`  E`  X
+FARR_MSG_CUSTOM`  516`  WE`  E`  X
+FARR_MSG_CUSTOM`  517`  WEI`  E`  X
+F5`  160`  W`  W`  X
+F5A`  462`  EW-`  -`  X
+F5A`  470`  E-`  -`  X
+FARR_MSG_CUSTOM`  855`  WE`  E`  X
+FB`  074`  EIS`  E`  X
+FB`  075`  EIS`  E`  X
+F5A`  471`  EW-`  -`  X
+FB`  207`  S`  -`  X
+FB`  211`  ISW-`  `  X
+FB`  304`  I-`  -`  X
+FB`  639`  I`  -`  X
+FB`  702`  S-`  -`  X
+FB`  729`  AI`  I`  X
+FB`  733`  SIWE`  E`  X
+FB`  759`  AI`  A`  X
+FB`  770`  IA`  I`  X
+FB`  771`  AWIE-`  I`  X
+FB`  772`  AI`  A`  X
+FAA_POST`  044`  W`  W`  X
+FB`  853`  I`  I`  X
+FB`  876`  AI`  I`  X
+FBDI`  014`  EWIS`  E`  X
+FBICRC`  626`  WE`  W`  X
+FBICRC`  627`  WE`  -`  X
+FBZ_WF`  006`  A`  A`  X
+FBZ_WF`  013`  IS`  I`  X
+FBZ_WF`  017`  EI`  E`
+FBZ_WF`  019`  E`  E`  X
+FBZ_WF`  022`  E`  -`  X
+FB_ICRC`  102`  AESIW`  E`  X
+FB_ICRC`  140`  EISW`  E`  X
+FB_ICRC`  147`  EIW`  W`  X
+FB_ICRC`  148`  EISW`  W`  X
+FB_ICRC`  150`  S`  -`  X
+FB_ICRC`  152`  AESIW`  S`  X
+FB_RC`  017`  W`  W`  X
+FC`  174`  WE`  W`
+FC`  214`  EWI`  E`
+FC`  221`  EW`  E`
+FC`  446`  EW`  E`
+FCC0`  502`  EW`  E`
+FCC1`  009`  EW`  E`
+FCC1`  317`  EW`  W`  X
+FCC1`  422`  WE`  E`
+FCC1`  429`  WE`  E`
+FCC1`  439`  WE`  E`
+FCC1`  444`  WE`  E`
+FCJ`  000`  I`  I`  X
+FCJ`  006`  EI`  E`
+FCJ`  007`  -I`  -`
+FCJ`  037`  I`  -`  X
+FCJ`  041`  EI`  E`
+FCJ`  050`  WEI-`  E`  X
+FCJ`  053`  EIW`  I`
+FCJ`  055`  IW`  I`  X
+FACI_ANA`  001`  EW-`  -`  X
+FD`  062`  E`  E`  X
+FD`  585`  S`  -`  X
+FDC_POSTING_001`  043`  EW`  E`  X
+FDM_AR`  030`  I`  I`  X
+FDM_AR`  052`  I`  I`  X
+FDM_AR`  209`  IW`  I`  X
+FDM_AR`  216`  IESW`  I`  X
+FDM_AR`  265`  A`  A`  X
+FDM_AR`  266`  A`  A`  X
+FDM_AR`  267`  A`  -`  X
+FDM_COLLECTION`  009`  WE`  W`
+FDM_COLLECTION`  025`  I`  I`  X
+FDM_COLLECTION`  051`  W`  W`  X
+FDM_COLLECTION`  311`  EI`  I`  X
+FDM_COLL_01`  014`  EWI`  E`  X
+FDM_COLL_01`  055`  WIS`  W`  X
+FDM_GENERAL`  059`  WE`  W`  X
+FDM_GENERAL`  062`  W`  W`  X
+FDM_GENERAL`  073`  WE`  W`  X
+FDM_GENERAL`  074`  WE`  -`  X
+FDM_MIRROR`  102`  WE`  W`  X
+FE`  146`  EIS`  E`  X
+FEB_BSPROC`  033`  I`  I`  X
+FEB_BSPROC`  041`  E`  E`  X
+FEB_BSPROC`  042`  E`  E`  X
+FEB_BSPROC`  046`  I`  -`  X
+FEB_BSPROC`  082`  WE`  W`  X
+FEB_BSPROC`  108`  SI-`  -`  X
+FF`  050`  EWS`  -`  X
+FF`  051`  EWS`  W`  X
+FF`  052`  EWS`  -`  X
+FF`  053`  EWS`  W`  X
+FF`  116`  EW-`  E`  X
+FF`  222`  WE`  W`  X
+FF`  223`  WE`  W`  X
+FF`  224`  WEIS`  W`  X
+FF`  707`  WI`  W`  X
+FF`  724`  EWI`  E`  X
+FACI_ANA`  100`  E-`  -`  X
+FF`  753`  EW`  E`  X
+FF`  754`  EW`  W`  X
+FF`  758`  EW`  W`  X
+FF`  760`  EWI`  E`  X
+FF`  766`  EWI`  `  X
+FF`  777`  EWI`  I`  X
+FF`  785`  EWI`  E`  X
+FF`  787`  EWI`  E`  X
+FF`  788`  EWI`  E`  X
+FF`  791`  E-`  E`  X
+FF`  792`  EWI`  E`  X
+FF`  795`  EWI`  E`  X
+FF`  800`  EWI`  E`  X
+FF`  803`  EWI`  E`  X
+FF`  817`  E`  E`  X
+FF`  818`  E`  E`  X
+FF`  819`  EW-`  E`  X
+FF`  821`  IWE`  I`  X
+FF`  823`  EW-`  -`  X
+FF`  827`  E-`  E`  X
+FF`  830`  I`  I`  X
+FF`  831`  I`  I`  X
+FF`  832`  WIES-`  W`  X
+FF`  833`  WIES-`  W`  X
+FF`  834`  WIES-`  W`  X
+FF`  835`  WIES-`  E`  X
+FACRA`  055`  EW`  W`
+FF`  854`  E-`  -`  X
+FF`  856`  WE`  E`  X
+FF`  857`  W-`  W`  X
+FF`  858`  AE-`  -`  X
+FAP_SPP`  028`  WE`  E`
+FH`  022`  EW`  E`
+FH`  165`  EW`  W`  X
+FH`  166`  EW`  W`  X
+FH`  167`  EW`  W`  X
+FH`  171`  EW`  W`  X
+FH`  172`  EW`  W`  X
+FH`  184`  EW`  E`
+FH`  188`  IS`  -`  X
+FH`  189`  EWI`  W`
+FH`  190`  EW`  E`
+FH`  216`  EW`  E`  X
+FH`  221`  EIWS`  W`  X
+FH`  222`  EIWS`  E`  X
+FH`  600`  EWI`  E`
+FH`  601`  EW`  E`
+FH`  602`  EW`  E`
+FH`  610`  EWI`  E`
+FH`  701`  WE`  W`
+FI`  `  `  `
+FI`  335`  W-`  W`  X
+FI`  365`  IEW`  W`
+FIBC`  010`  EWSI`  E`  X
+FIBL`  664`  ES`  E`  X
+FICUSTOM`  `  `  `
+FICUSTOM`  000`  IWE`  W`  X
+FICUSTOM`  001`  IWE`  W`  X
+FICUSTOM`  002`  IWE`  W`  X
+FICUSTOM`  003`  IWE`  W`  X
+FICUSTOM`  004`  IWE`  W`  X
+FICUSTOM`  005`  IWE`  W`  X
+FICUSTOM`  006`  IWE`  W`  X
+FICUSTOM`  007`  IW`  -`  X
+FICUSTOM`  008`  IW`  -`  X
+FICUSTOM`  009`  IWE`  E`  X
+FICUSTOM`  010`  IWE`  W`  X
+FICUSTOM`  011`  E`  E`  X
+FICUSTOM`  012`  IW`  -`  X
+FICUSTOM`  013`  IW`  -`  X
+FICUSTOM`  014`  IEW`  W`  X
+FICUSTOM`  015`  IWE`  W`  X
+FICUSTOM`  016`  IWE`  W`  X
+FICUSTOM`  017`  EW`  E`
+FICUSTOM`  018`  WES`  W`
+FICUSTOM`  019`  WES`  W`
+FICUSTOM`  020`  WE`  E`  X
+FICUSTOM`  021`  WES`  W`  X
+FICUSTOM`  022`  WES`  W`  X
+FICUSTOM`  023`  WES`  E`  X
+FICUSTOM`  024`  WES`  E`  X
+FICUSTOM`  025`  WES`  W`
+FICUSTOM`  026`  EWS`  W`  X
+FICUSTOM`  027`  WS`  W`  X
+FICUSTOM`  028`  WS`  -`  X
+FICUSTOM`  029`  WES`  W`  X
+FICUSTOM`  030`  WE`  E`  X
+FICUSTOM`  031`  IWE`  W`  X
+FICUSTOM`  032`  EWI`  -`  X
+FICUSTOM`  033`  EWI`  -`  X
+FICUSTOM`  034`  I`  I`  X
+FICUSTOM`  035`  EWS`  W`  X
+FICUSTOM`  036`  EWIS-`  W`  X
+FICUSTOM`  037`  EWIS`  W`
+FICUSTOM`  038`  EWS`  E`  X
+FICUSTOM`  039`  EWIS-`  E`  X
+FICUSTOM`  040`  EWIS-`  W`  X
+FICUSTOM`  041`  IWE`  W`  X
+FICUSTOM`  042`  WE`  W`  X
+FICUSTOM`  043`  WEI`  W`  X
+FICUSTOM`  044`  IWE`  E`  X
+FICUSTOM`  045`  EWS`  W`  X
+FICUSTOM`  046`  WEI`  W`  X
+FICUSTOM`  047`  WE`  W`  X
+FICUSTOM`  048`  WEI`  E`  X
+FICUSTOM`  049`  WE`  W`  X
+FICUSTOM`  050`  WE`  E`  X
+FICUSTOM`  051`  AEWIS`  W`  X
+FICUSTOM`  052`  WE-`  W`  X
+FICUSTOM`  053`  WE`  E`
+FICUSTOM`  054`  WSI`  W`  X
+FICUSTOM`  055`  EW`  E`
+FICUSTOM`  056`  EW`  E`
+FICUSTOM`  057`  E`  E`  X
+FICUSTOM`  058`  WE-`  -`  X
+FICUSTOM`  059`  WIE`  E`  X
+FICUSTOM`  060`  IWE`  W`  X
+FICUSTOM`  061`  WIE`  E`  X
+FICUSTOM`  062`  EWI`  W`  X
+FICUSTOM`  063`  SI`  S`  X
+FICUSTOM`  064`  WIE`  E`  X
+FICUSTOM`  065`  WEA`  E`
+FICUSTOM`  066`  EWI`  W`  X
+FICUSTOM`  067`  EW`  E`  X
+FICUSTOM`  068`  EW`  E`
+FICUSTOM`  069`  WIE`  E`  X
+FICUSTOM`  070`  EW`  E`
+FICUSTOM`  072`  EWS`  E`  X
+FICUSTOM`  073`  IWE`  W`
+FICUSTOM`  074`  IWE`  W`
+FICUSTOM`  075`  WI`  E`
+FICUSTOM`  076`  WI-`  W`  X
+FICUSTOM`  077`  IWE`  E`  X
+FICUSTOM`  078`  IWE`  W`  X
+FICUSTOM`  080`  IWE`  W`
+FICUSTOM`  081`  ISWE`  E`
+FICUSTOM`  082`  WE-`  W`  X
+FICUSTOM`  083`  WE`  E`
+FICUSTOM`  084`  IWE`  W`
+FICUSTOM`  085`  EW`  E`  X
+FICUSTOM`  086`  EIW-`  E`  X
+FICUSTOM`  087`  EIW-`  E`  X
+FICUSTOM`  088`  EIW-`  E`  X
+FICUSTOM`  089`  E`  E`  X
+FICUSTOM`  090`  EWI`  E`  X
+FICUSTOM`  091`  EWI-`  I`  X
+FICUSTOM`  092`  EIW-`  I`  X
+FARR_MSG_CUSTOM`  033`  WE`  E`  X
+FICUSTOM`  094`  EWI-`  -`  X
+FICUSTOM`  095`  EWI-`  E`  X
+FICUSTOM`  096`  EWI-`  W`  X
+FICUSTOM`  097`  WE`  W`
+FICUSTOM`  098`  EW-`  E`  X
+FICUSTOM`  099`  WE`  W`
+FICUSTOM`  100`  EW`  E`  X
+FICUSTOM`  101`  EW`  E`  X
+FICUSTOM`  103`  EW`  W`  X
+FICUSTOM`  104`  EW`  E`  X
+FICUSTOM`  105`  EW`  E`  X
+FICUSTOM`  106`  EW`  W`  X
+FICUSTOM`  107`  E`  E`  X
+FICUSTOM`  108`  E`  E`
+FICUSTOM`  109`  EW`  W`  X
+FICUSTOM`  110`  WEIS`  W`  X
+FICUSTOM`  112`  EW-`  E`  X
+FICUSTOM`  113`  EW-`  E`  X
+FICUSTOM`  114`  WE`  W`  X
+FICUSTOM`  115`  WE`  E`  X
+FICUSTOM`  116`  EWI`  E`  X
+FICUSTOM`  117`  EWI`  E`  X
+FICUSTOM`  118`  WE-`  E`  X
+FICUSTOM`  119`  EW-`  E`  X
+FICUSTOM`  120`  WEI`  W`
+FICUSTOM`  121`  IEW`  E`  X
+FICUSTOM`  122`  IEW`  E`  X
+FICUSTOM`  123`  IEW`  E`  X
+FICUSTOM`  124`  IEW`  W`  X
+FICUSTOM`  125`  IEW`  W`  X
+FICUSTOM`  126`  IEW`  W`  X
+FICUSTOM`  127`  IEW`  W`  X
+FICUSTOM`  128`  IEW`  W`  X
+FICUSTOM`  129`  EW-`  E`  X
+FICUSTOM`  130`  IWE`  -`  X
+FICUSTOM`  131`  IWE`  -`  X
+FICUSTOM`  132`  IWE`  -`  X
+FICUSTOM`  133`  IWE`  -`  X
+FICUSTOM`  134`  SIWE`  -`  X
+FICUSTOM`  135`  IWE`  -`  X
+FICUSTOM`  137`  IWE`  W`
+FICUSTOM`  138`  IWE`  W`
+FICUSTOM`  139`  IWE`  W`
+FICUSTOM`  140`  IWE`  W`
+FICUSTOM`  141`  EWI-`  W`  X
+FICUSTOM`  142`  EW-`  E`  X
+FICUSTOM`  143`  E-`  E`  X
+FARR_MSG_CUSTOM`  034`  WE`  E`  X
+FICUSTOM`  145`  EW-`  E`  X
+FICUSTOM`  146`  EIW-`  E`  X
+FICUSTOM`  147`  WI-`  W`  X
+FICUSTOM`  148`  WE-`  E`  X
+FICUSTOM`  149`  EWI-`  E`  X
+FICUSTOM`  150`  E`  E`  X
+FICUSTOM`  151`  E`  E`  X
+FICUSTOM`  152`  W`  W`  X
+FICUSTOM`  153`  WE`  E`
+FICUSTOM`  154`  EWI-`  E`  X
+FARR_MSG_CUSTOM`  035`  WE`  E`
+FARR_MSG_CUSTOM`  039`  WEI`  E`
+FICUSTOM`  169`  EW-`  E`  X
+FICUSTOM`  170`  EW`  -`
+FICUSTOM`  171`  EW`  -`
+FICUSTOM`  172`  EW`  -`
+FICUSTOM`  173`  EW`  -`
+FICUSTOM`  174`  EW`  -`
+FICUSTOM`  175`  W-`  W`
+FICUSTOM`  176`  EW`  E`
+FICUSTOM`  177`  EW`  E`
+FICUSTOM`  178`  EW`  E`
+FICUSTOM`  179`  EW`  E`
+FICUSTOM`  180`  EW`  E`
+FICUSTOM`  181`  IWE`  -`  X
+FICUSTOM`  182`  IWE`  W`  X
+FICUSTOM`  183`  WE`  E`
+FARR_MSG_CUSTOM`  040`  WE`  E`  X
+FARR_MSG_CUSTOM`  518`  WEI`  E`  X
+FICUSTOM`  190`  EWI`  W`
+FICUSTOM`  201`  WIE-`  E`  X
+FICUSTOM`  202`  IEW`  W`
+FICUSTOM`  221`  EW`  W`
+FICUSTOM`  222`  EW`  W`
+FICUSTOM`  223`  EW`  E`
+FICUSTOM`  227`  W`  W`  X
+FICUSTOM`  230`  IEW`  -`
+FICUSTOM`  234`  WIE`  E`  X
+FICUSTOM`  235`  WIE`  E`  X
+FICUSTOM`  249`  SW`  -`  X
+FICUSTOM`  250`  EWIS`  E`  X
+FICUSTOM`  251`  IWE`  -`
+FICUSTOM`  287`  WEI-`  -`  X
+FICUSTOM`  288`  WEI-`  -`  X
+FICUSTOM`  295`  WIS`  W`  X
+FICUSTOM`  296`  E`  E`  X
+FICUSTOM`  297`  WE`  W`
+FICUSTOM`  298`  IS`  I`  X
+FICUSTOM`  299`  ISWE`  -`  X
+FICUSTOM`  300`  EW-`  E`
+FICUSTOM`  302`  I-`  I`  X
+FICUSTOM`  303`  WEI`  E`
+FICUSTOM`  306`  EWI`  W`  X
+FICUSTOM`  310`  EW`  E`  X
+FICUSTOM`  312`  EWI`  E`  X
+FICUSTOM`  313`  EWI`  E`  X
+FICUSTOM`  314`  EWI`  W`  X
+FICUSTOM`  320`  EWI`  E`  X
+FICUSTOM`  330`  WI`  W`
+FICUSTOM`  331`  WI`  W`
+FICUSTOM`  332`  WI`  W`
+FICUSTOM`  333`  EWI`  E`
+FICUSTOM`  334`  EWI`  W`
+FICUSTOM`  335`  EWI`  W`
+FICUSTOM`  336`  EWI`  W`
+FICUSTOM`  337`  EWI`  W`
+FICUSTOM`  340`  WIS`  W`  X
+FICUSTOM`  350`  EWI`  E`
+FICUSTOM`  351`  EWI`  E`
+FICUSTOM`  352`  EWI`  E`
+FICUSTOM`  360`  EWI`  W`  X
+FICUSTOM`  370`  EW`  E`  X
+FICUSTOM`  400`  WE`  -`  X
+FICUSTOM`  401`  EW-`  W`
+FICUSTOM`  402`  EW-`  W`
+FICUSTOM`  403`  EW-`  E`  X
+FICUSTOM_CORE`  001`  EW-`  W`
+FICUSTOM_CORE`  002`  EW-`  W`
+FICUSTOM_CORE`  003`  EW-`  W`
+FICUSTOM_CORE`  004`  EW-`  W`
+FICUSTOM_CORE`  010`  EW-`  W`  X
+FIEBPP`  119`  EW`  W`  X
+FILAE`  606`  E`  E`
+FINS`  `  `  `
+FINS_ACDOC_CUST`  004`  EWIS`  I`  X
+FINS_ACDOC_CUST`  005`  EWIS`  I`  X
+FINS_ACDOC_CUST`  015`  EEWSI`  E`  X
+FINS_ACDOC_CUST`  069`  EW`  E`
+FINS_ACDOC_CUST`  116`  EWI`  E`
+FINS_ACDOC_CUST`  121`  EW`  E`
+FINS_ACDOC_CUST`  135`  EWI`  E`
+FINS_ACDOC_CUST`  188`  EW`  E`
+FINS_ACDOC_CUST`  200`  AEW`  E`  X
+FINS_ACDOC_CUST`  201`  AEW`  E`  X
+FINS_ACDOC_CUST`  226`  WIS`  W`  X
+FINS_ACDOC_CUST`  227`  EWIS`  W`  X
+FINS_ACDOC_CUST`  278`  EWI`  E`
+FINS_ACDOC_CUST`  289`  EWIS`  W`  X
+FINS_ACDOC_CUST`  290`  EWIS`  W`  X
+FINS_ACDOC_CUST`  291`  EWIS`  W`  X
+FINS_ACDOC_CUST`  368`  EWI`  E`  X
+FARR_MSG_CUSTOM`  836`  WE`  E`  X
+FARR_MSG_CUSTOM`  837`  WE`  -`  X
+FINS_ACDOC_POST`  008`  EWI-`  W`
+FINS_ACDOC_POST`  051`  EW`  W`  X
+FINS_ACDOC_POST`  073`  EW`  E`  X
+FINS_ACDOC_POST`  075`  EW`  E`  X
+FB`  086`  S`  S`  X
+FB`  773`  SE`  S`
+FCO_COPA`  035`  E`  E`  X
+FF`  400`  WISE`  W`  X
+FF`  731`  E-`  E`  X
+FF`  836`  WIES-`  W`  X
+FINS_CFIN_CMT_MSG`  003`  IE`  E`
+FF`  840`  WISE`  E`  X
+FINS_CFIN_CO_MESSAGE`  702`  SWE`  E`
+FINS_CFIN_EX_INTF`  024`  IWE`  W`  X
+FINS_CFIN_MAPPING`  032`  EWI`  E`  X
+FINS_CFIN_MAPPING`  036`  WE`  E`
+FINS_CFIN_MAPPING`  037`  WE`  W`
+FINS_CFIN_MAPPING`  055`  I`  I`  X
+FINS_CFIN_MAPPING`  056`  I`  I`  X
+FF`  841`  WISE`  W`  X
+FINS_FI_MIG`  093`  EW`  E`
+FINS_FI_MIG`  150`  EWIS-`  E`
+FINS_FI_MIG`  210`  EW`  E`  X
+FINS_FI_MPROJ`  040`  EWIS-`  E`
+FF`  843`  WISE`  W`  X
+FF`  845`  WISE`  W`  X
+FINS_FI_SIF`  013`  EWIS-`  I`
+FF`  846`  WISE`  W`  X
+FINS_FI_SIF`  020`  EWIS-`  I`
+FINS_FI_SIF`  026`  EWIS-`  E`
+FINS_FI_SIF`  027`  EWIS-`  E`
+FINS_FI_SIF`  029`  EWIS-`  E`
+FINS_FI_SIF`  033`  EWIS-`  W`
+FINS_FI_SIF`  036`  WE`  E`
+FINS_FI_SIF`  038`  EWIS-`  E`
+FINS_FI_SIF`  218`  EWI`  E`
+FF`  861`  WIE-`  E`  X
+FH`  226`  WIE`  `  X
+FICUSTOM`  093`  EWI-`  -`  X
+FICUSTOM`  144`  EW-`  E`  X
+FINS_FI_SIF`  522`  EWI-`  E`
+FINS_IC_CUST`  003`  EWIS`  E`  X
+FINS_IC_CUST`  004`  EWIS`  E`  X
+FINS_IC_CUST`  005`  EWIS`  W`  X
+FINS_IC_CUST`  008`  EWIS`  E`  X
+FINS_IC_CUST`  009`  EWIS`  E`  X
+FINS_IC_CUST`  010`  EWIS`  E`  X
+FINS_IC_CUST`  011`  EWIS`  E`  X
+FINS_IC_CUST`  012`  EWIS`  E`  X
+FINS_IC_CUST`  013`  EWIS`  E`  X
+FINS_IC_CUST`  014`  EWIS`  E`  X
+FINS_IC_CUST`  015`  EWIS`  E`  X
+FINS_IC_CUST`  016`  EWIS`  W`  X
+FINS_IC_CUST`  017`  EWIS`  E`  X
+FINS_IC_CUST`  018`  EWIS`  E`  X
+FINS_IC_CUST`  019`  EWIS`  E`  X
+FINS_IC_CUST`  020`  EWIS`  E`  X
+FINS_IC_CUST`  021`  EWIS`  E`  X
+FINS_IC_CUST`  022`  EWIS`  E`  X
+FINS_IC_CUST`  023`  EWIS`  E`  X
+FINS_IC_CUST`  024`  EWIS`  E`  X
+FINS_IC_CUST`  025`  EWIS`  E`  X
+FINS_IC_CUST`  026`  EWIS`  E`  X
+FINS_IC_CUST`  030`  EWIS`  E`  X
+FINS_IC_CUST`  031`  EWIS`  E`  X
+FINS_IC_CUST`  037`  EW`  E`
+FINS_IC_CUST`  040`  EWIS`  E`  X
+FINS_IC_CUST`  047`  EWIS`  E`  X
+FINS_IC_CUST`  048`  EWIS`  E`  X
+FINS_IC_CUST`  049`  EWIS`  E`  X
+FINS_IC_CUST`  050`  EWIS`  E`  X
+FINS_IC_CUST`  051`  IS`  I`  X
+FINS_RECON`  763`  EWI`  E`
+FINS_SIS_CUST`  106`  EWI`  E`  X
+FINS_SIS_CUST`  109`  EWI`  E`  X
+FINS_SIS_CUST`  110`  EWI`  E`  X
+FINS_SIS_CUST`  111`  EWI`  E`  X
+FINS_SIS_CUST`  133`  EWI`  E`  X
+FINS_SIS_CUST`  303`  EWI`  E`  X
+FINS_SIS_CUST`  304`  EWI`  E`  X
+FINS_SIS_CUST`  306`  EWI`  E`  X
+FICUSTOM`  155`  EWI-`  W`  X
+FIN_PAYSP`  001`  WEIS`  E`  X
+FIN_PAYSP`  002`  WEIS`  W`  X
+FIN_PAYSP`  003`  WEIS`  W`  X
+FIORB`  305`  WSE`  W`  X
+FIORB`  306`  WES`  W`  X
+FIPAY_GTS`  001`  AS`  A`
+FIPAY_GTS`  002`  EWI`  E`  X
+FIPAY_GTS`  003`  EWI`  E`  X
+FISA_LOC`  413`  EWIS`  E`  X
+FICUSTOM`  157`  EW-`  E`  X
+FI_CCEE_AFLE`  000`  W`  W`  X
+FI_E`  751`  IS-`  I`  X
+FKBT`  006`  E`  E`  X
+FKKORDER`  237`  WESI-`  E`  X
+FM`  030`  S`  -`  X
+FICUSTOM`  158`  EW-`  E`  X
+FICUSTOM`  159`  EW-`  E`  X
+FM`  708`  `  `  X
+FM`  715`  `  `  X
+FM`  716`  `  `  X
+FM`  722`  `  `  X
+FM`  723`  `  `  X
+FM`  725`  `  `  X
+FM`  804`  `  `  X
+FM`  809`  `  `  X
+FM`  810`  `  `  X
+FM`  820`  `  `  X
+FM`  821`  `  `  X
+FICUSTOM`  184`  EI`  E`
+FM`  837`  `  `  X
+FM`  838`  `  `  X
+FM`  847`  `  `  X
+FM`  848`  `  `  X
+FICUSTOM`  185`  EI`  E`
+FMCE`  521`  SIWEA`  I`  X
+FMEUFCST`  001`  EI-`  E`
+FMEUFCST`  002`  EI-`  E`
+FMEUFCST`  003`  EI-`  E`
+FMEUFCST`  004`  EWI`  E`  X
+FMEUFCST`  005`  EI-`  E`
+FMEUFCST`  006`  EI-`  E`
+FMEUFCST`  007`  EI-`  E`
+FMEUFCST`  008`  EI-`  E`
+FMEUFCST`  009`  EI-`  E`
+FMFG_BLEXT`  004`  WEI`  W`  X
+FMFG_BLEXT`  015`  WEI`  W`  X
+FMFG_BLEXT`  018`  WEI`  W`  X
+FMFG_BLEXT`  019`  EW`  E`  X
+FMFG_MM01`  034`  IWE`  E`
+FMFG_MM01`  035`  IWE`  W`
+FMFG_MM01`  036`  IWE`  W`
+FMPEB`  063`  -WE`  E`  X
+FMPEB`  064`  -WE`  E`  X
+FM_FAGL_REORG`  001`  WE`  E`  X
+FM_FAGL_REORG`  007`  WEI`  E`  X
+FM_FAGL_REORG`  009`  WE`  E`
+FOAP_CD_ASSIGNMENT`  008`  IS`  I`
+FOT_US_INT_TAX_CALC`  028`  EWI`  E`  X
+FOT_US_INT_TAX_CALC`  036`  EWI`  E`  X
+FOT_US_INT_TAX_CALC`  048`  EWI`  E`  X
+FOT_US_INT_TAX_CALC`  078`  EWI`  E`  X
+FOT_US_INT_TAX_CALC`  087`  EWI`  E`  X
+FOT_US_INT_TAX_CALC`  092`  EWI`  E`  X
+FP`  001`  IS`  I`  X
+FP`  140`  ES`  E`  X
+FP`  153`  IS`  -`  X
+FP`  171`  EW`  E`  X
+FPDP_DOWN_PAYMENTS`  005`  EWIS`  W`  X
+FPDP_DOWN_PAYMENTS`  020`  WE-`  -`  X
+FQ`  336`  IWE`  E`  X
+FQ`  337`  IWE`  E`  X
+FQ`  338`  IWE`  E`  X
+FQ`  339`  IWE`  E`  X
+FQ`  484`  IWE`  E`  X
+FQ`  485`  IWE`  E`  X
+FQ`  486`  IWE`  E`  X
+FQ`  487`  IWE`  E`  X
+FR`  098`  W`  W`  X
+FR`  523`  AEWSI`  W`  X
+FR`  524`  W`  W`  X
+FR`  525`  W`  W`  X
+FR`  595`  AEIWX`  W`  X
+FR`  621`  I`  I`  X
+FR`  655`  SIWEA`  W`  X
+FR`  656`  SIWEA`  W`  X
+FICUSTOM`  260`  EWI`  I`  X
+FR`  894`  EWIS`  E`  X
+FS`  210`  EW`  E`
+FS`  215`  EWI`  E`
+FS`  216`  EWI`  E`
+FS`  217`  EWI`  E`
+FS`  218`  EWI`  E`
+FS`  219`  W`  W`  X
+FS`  222`  EW`  E`  X
+FS`  229`  EWI`  E`
+FS`  551`  EW`  W`
+FS`  605`  ES`  S`
+FS`  664`  ES`  E`  X
+FS`  668`  EI`  E`  X
+FS`  670`  SA`  A`
+FS`  674`  EW`  W`  X
+FS`  675`  EW`  E`  X
+FS`  819`  E`  E`  X
+FS`  870`  SIWE`  E`
+FS`  885`  WEI`  -`  X
+FS`  890`  EWI`  E`  X
+FS`  893`  AEWIS`  I`  X
+FS`  894`  AEWI`  I`  X
+FS`  895`  AEWI`  I`  X
+FS`  896`  IWEA`  W`  X
+FS`  898`  EWI`  E`  X
+FSBP`  341`  EW`  E`
+FSBP`  342`  EW`  E`
+FSBP_BANK_DATA`  006`  EW`  E`
+FSBP_BANK_DATA`  007`  EWI`  W`
+FSBP_BO`  003`  EW`  E`
+FSBP_BO`  004`  EW`  E`
+FSBP_BO`  005`  EW`  E`
+FSBP_BO`  006`  EW`  E`
+FSBP_BO`  007`  EW`  E`
+FSBP_BO`  008`  EW`  E`
+FSBP_BO`  011`  EW`  E`
+FSBP_BO`  012`  EW`  E`
+FSBP_BO`  013`  EW`  E`
+FSBP_BO`  014`  EW`  E`
+FSBP_BO`  015`  EW`  E`
+FSBP_BO`  016`  EW`  E`
+FSBP_EMPLOYMENT`  004`  IWE`  W`  X
+FSBP_EMPLOYMENT`  007`  EW`  E`
+FSBP_FISCAL_YEAR`  007`  EW`  E`  X
+FSBP_FISCAL_YEAR`  008`  EW`  E`  X
+FSBP_FISCAL_YEAR`  012`  EW`  E`  X
+FSBP_FISCAL_YEAR`  013`  EW`  E`  X
+FSBP_FISCAL_YEAR`  015`  EW`  E`  X
+FSBP_FISCAL_YEAR`  018`  EW`  E`  X
+FSBP_FISCAL_YEAR`  031`  EW`  E`  X
+FICUSTOM`  261`  EWI`  I`  X
+FICUSTOM`  262`  EWI`  E`  X
+FICUSTOM`  263`  EWI`  E`  X
+FICUSTOM`  264`  EWI`  E`  X
+FICUSTOM`  265`  EWI`  E`  X
+FSBP_GENERIC`  011`  SIWE`  -`  X
+FSBP_LEGAL_DATA`  007`  SIWEA`  E`  X
+FSBP_LEGAL_DATA`  008`  SIWEA`  E`  X
+FSBP_LEGAL_DATA`  009`  SIWEA`  -`  X
+FSBP_LEGAL_DATA`  010`  SIWEA`  -`  X
+FSBP_TAX_COMP`  007`  EWI`  E`  X
+FSBP_TAX_COMP`  025`  EWI`  I`  X
+FS_BP_CENTRAL_DATA`  401`  IWE`  E`  X
+FT`  063`  IWS`  E`  X
+FT`  303`  E`  E`  X
+FTBCVA`  020`  EWI`  E`  X
+FTBCVA`  021`  EWI`  E`  X
+FTBCVA`  022`  IWE`  W`  X
+FTBCVA`  048`  EWI`  E`  X
+FTBCVA`  062`  EWI`  E`
+FTBCVA`  063`  EWI`  E`  X
+FTBCVA`  064`  EWI`  E`
+FTBCVA`  065`  EWI`  E`  X
+FTBCVA`  077`  EWI`  W`  X
+FICUSTOM`  266`  EWI`  E`  X
+FICUSTOM`  267`  EWI`  E`  X
+FTBP`  070`  WE`  E`
+FTI_LDB_MESSAGE`  041`  WE`  E`  X
+FTI_LDB_MESSAGE`  075`  S`  -`  X
+FTI_LDB_MESSAGE`  076`  S`  -`  X
+FTI_LDB_MESSAGE`  077`  S`  -`  X
+FTI_LDB_MESSAGE`  078`  S`  -`  X
+FTI_LDB_MESSAGE`  083`  S`  -`  X
+FTI_LDB_MESSAGE`  115`  WE`  E`
+FTI_LDB_MESSAGE`  413`  S`  -`  X
+FTI_LDB_MESSAGE`  414`  S`  -`  X
+FTI_LDB_MESSAGE`  415`  S`  -`  X
+FTI_LDB_MESSAGE`  416`  S`  -`  X
+FTI_LDB_MESSAGE`  417`  S`  -`  X
+FTI_LDB_MESSAGE`  418`  S`  -`  X
+FTI_LDB_MESSAGE`  419`  S`  -`  X
+FTI_LDB_MESSAGE`  420`  S`  -`  X
+FTI_LDB_MESSAGE`  421`  S`  -`  X
+FTI_LDB_MESSAGE`  422`  S`  -`  X
+FTI_LDB_MESSAGE`  425`  S`  -`  X
+FTR0`  030`  W`  W`  X
+FTR0`  036`  EW`  W`  X
+FICUSTOM`  268`  EWI`  E`  X
+FTR0`  606`  E-`  E`  X
+FTR_ASSIGNMENT`  003`  EW`  W`
+FTR_FC`  013`  EW`  E`
+FTR_GENERAL`  051`  IWE`  I`
+FTR_GENERAL`  052`  IWE`  I`
+FTR_GENERAL`  053`  IWE`  I`
+FTR_GENERAL`  054`  IWE`  I`
+FTR_GENERAL`  215`  IWE`  E`  X
+FTR_GUI`  573`  EI`  I`
+FTR_GUI`  574`  EW`  W`  X
+FTR_GUI`  575`  EW`  W`  X
+FICUSTOM`  269`  EWI`  E`  X
+FTR_GUI`  722`  EW`  W`
+FTR_GUI`  723`  EW`  W`
+FTR_LC`  003`  EW-`  W`  X
+FTR_LC`  009`  EW`  W`  X
+FTR_LC`  010`  EW-`  W`  X
+FICUSTOM`  270`  EWI`  E`  X
+FTR_LC`  051`  EW`  W`  X
+FTR_LC`  055`  EW`  E`  X
+FTR_LC`  061`  EW`  E`  X
+FTR_LC`  062`  EW`  E`  X
+FTR_LC`  067`  EW`  W`  X
+FTR_LC`  074`  EW`  W`  X
+FICUSTOM`  271`  EWI`  I`  X
+FTR_LC`  118`  EW`  E`  X
+FTR_LC`  146`  EW`  W`  X
+FTR_LC`  147`  EW`  E`  X
+FTR_LOANS`  053`  EW-`  E`  X
+FTR_MIR`  018`  WE`  W`
+FTR_TEX1`  018`  EW`  E`
+FTR_TEX1`  205`  E-`  -`  X
+FTR_TEX1`  210`  EW-`  -`  X
+FTR_TF_INTG`  054`  EW-`  W`
+FTR_TF_INTG`  057`  EW-`  W`
+FTR_TRADE_REP`  115`  EW`  E`
+FTR_TRADE_REP`  116`  EW`  E`
+FTR_TRADE_REP`  119`  ES`  E`
+FTR_TREA`  104`  E`  E`  X
+FU`  066`  WE`  W`  X
+FU`  067`  WE`  W`  X
+FV`  058`  WE`  W`  X
+FV`  156`  WE`  -`  X
+FV`  170`  SEI`  -`  X
+FV`  780`  SI`  -`  X
+FV`  781`  SI`  -`  X
+FV`  783`  AI`  A`  X
+FVD_CLI_CLOAN`  119`  EW`  E`
+FVD_CLI_CLOAN`  120`  EW`  E`
+FVD_CLI_CLOAN`  124`  EWI-`  -`  X
+FVD_CNCL`  211`  IEW-`  E`  X
+FVD_DEBTTR`  054`  EW`  E`  X
+FVD_DEBTTR`  094`  WEI`  E`  X
+FVD_DEFCAP`  058`  EWI`  E`  X
+FVD_DEFCAP`  320`  EWI`  E`  X
+FVD_DEFCAP`  324`  EWI`  E`  X
+FVD_DEFCAP`  335`  EWI`  E`  X
+FVD_DEFCAP`  336`  EWI`  E`  X
+FVD_IOA`  115`  EWI`  E`
+FVD_IOA`  226`  I`  I`  X
+FVD_MODEL`  001`  EIW`  E`  X
+FVD_MODEL`  044`  EW`  W`
+FVD_REPAY`  006`  EW`  E`
+FVD_REPAY`  039`  EWI`  E`
+FVD_REPAY`  217`  W`  W`  X
+FVD_SEPA`  043`  EI`  E`  X
+FVD_UI_CLOAN`  146`  E`  E`  X
+FVKM`  025`  WEI-`  W`
+FVVD_CH`  006`  W`  W`  X
+FX`  090`  W`  W`  X
+FZ`  072`  EWI`  W`  X
+FZ`  108`  WE`  W`
+FZ`  113`  IE`  E`  X
+FZ`  320`  E`  E`  X
+FICUSTOM`  272`  EWI`  I`  X
+FZ`  615`  EWIS`  E`  X
+FZ`  677`  ES`  E`
+FZ`  689`  EIS`  S`
+FZ`  753`  IWE`  I`  X
+FZ`  757`  EWS`  S`  X
+FZ`  763`  E`  E`  X
+FZ`  766`  E`  E`  X
+FZ`  813`  E`  E`  X
+FZ`  814`  IWE`  I`
+FZ`  817`  WE`  -`  X
+FZ`  819`  WE`  -`  X
+FZ`  827`  S`  -`  X
+FZ`  828`  S`  -`  X
+FZ`  959`  WE`  E`  X
+FZ`  962`  ES`  -`  X
+G4`  035`  WE`  W`
+G4`  492`  WE`  W`  X
+G4`  496`  WE`  W`  X
+G4`  497`  WE`  W`  X
+G4`  519`  WE`  E`  X
+G4`  520`  WE`  E`  X
+GA`  197`  IWE`  I`  X
+GA`  270`  IWE`  I`  X
+GA`  572`  IWE`  I`  X
+FICUSTOM`  273`  EWI`  E`  X
+GB`  559`  I`  I`  X
+FICUSTOM`  274`  EWI`  E`  X
+GH`  807`  SIWEA`  E`  X
+GI`  128`  I`  I`  X
+GI`  129`  I`  I`  X
+GI`  578`  IWE`  E`  X
+GI`  579`  IWE`  E`  X
+GJV_PM`  200`  EWIS`  -`  X
+GJV_PM`  201`  EWIS`  -`  X
+GJV_PM`  202`  EWIS`  -`  X
+GLE_ECS_MSG_S`  001`  EW-`  E`  X
+FICUSTOM`  275`  EWI`  E`  X
+GLT0`  300`  EW`  E`  X
+GM`  155`  EWIS`  I`  X
+GMCUSTOM`  006`  E`  E`  X
+GMCUSTOM`  007`  EWI`  W`  X
+GMCUSTOM`  008`  EWI`  W`  X
+GMCUSTOM`  009`  EW`  E`  X
+GMCUSTOM`  010`  EW`  E`  X
+GMCUSTOM`  011`  EWI`  E`  X
+GMCUSTOM`  012`  EWI`  W`  X
+GMCUSTOM`  013`  EWI`  E`  X
+GMCUSTOM`  015`  EI`  E`  X
+GMCUSTOM`  016`  EWI`  W`  X
+GMCUSTOM`  017`  EWI`  W`  X
+GMCUSTOM`  018`  EWI`  W`  X
+GMCUSTOM`  020`  EWI-`  E`  X
+GMCUSTOM`  021`  EWI`  W`  X
+GMCUSTOM`  022`  EI-`  -`  X
+GMCUSTOM`  023`  EW-`  W`  X
+GMCUSTOM`  024`  EWI-`  W`  X
+GMCUSTOM`  030`  EWI-`  E`  X
+FICUSTOM`  276`  EWI`  E`  X
+FICUSTOM`  277`  EWI`  E`  X
+GP`  051`  EWIS`  E`  X
+GP`  519`  E`  -`  X
+GP`  714`  EWI`  E`  X
+GP`  857`  EWIS`  E`  X
+GP`  859`  EWIS`  W`  X
+GRPG`  101`  IWE`  W`  X
+GRPG`  130`  IWE`  E`  X
+GTR_FI`  092`  EW`  E`
+GTR_FI`  106`  EWI`  E`
+GU`  223`  IWE`  E`  X
+GU`  635`  WE`  E`
+GZ`  262`  WISE`  I`  X
+HDB`  001`  SIWEA`  E`  X
+HDB`  025`  AWXIS`  E`  X
+HRFPMCUSTOM`  001`  EWI`  E`  X
+HRFPMCUSTOM`  002`  EWI`  E`  X
+HRFPMCUSTOM`  003`  WE-`  W`  X
+HRFPMCUSTOM`  004`  WE-`  W`  X
+HRFPMCUSTOM`  005`  WE-`  W`  X
+HRFPMCUSTOM`  006`  EWI-`  E`  X
+HRFPMCUSTOM`  007`  EWI-`  -`  X
+HRFPMCUSTOM`  008`  EWI-`  -`  X
+HRFPMCUSTOM`  009`  EWI-`  W`  X
+HRFPMCUSTOM`  010`  EWI-`  W`  X
+HRFPMCUSTOM`  011`  EWI-`  -`  X
+HRFPMCUSTOM`  012`  EWI-`  -`  X
+HRFPMCUSTOM`  014`  EWI-`  -`  X
+HRFPMCUSTOM`  015`  EWI-`  -`  X
+HRFPMCUSTOM`  016`  EWI-`  -`  X
+HRFPMCUSTOM`  101`  WEI-`  I`  X
+HRFPMCUSTOM`  102`  WEI-`  -`  X
+HRFPMCUSTOM`  111`  WEI-`  -`  X
+HRFPMCUSTOM`  115`  WEI-`  -`  X
+FICUSTOM`  278`  EWI`  E`  X
+FICUSTOM`  279`  EWI`  E`  X
+HRPADKZ_IT`  000`  WE-`  W`
+HRPADKZ_IT`  001`  WE-`  W`
+HRPADKZ_IT`  002`  WE-`  W`
+HRPADKZ_IT`  003`  WE-`  W`
+HRPADKZ_IT`  004`  WE-`  W`
+HRPADKZ_IT`  005`  WE-`  W`
+HRPADKZ_IT`  018`  WSE`  W`  X
+HRPADKZ_IT`  019`  WSE`  W`  X
+HRPADKZ_IT`  020`  WSE`  S`  X
+HRPADKZ_IT`  040`  WE`  E`
+HRPADKZ_IT`  044`  WE`  E`
+HRPADRUINFOTYPES`  027`  WE-`  E`
+HRPADRUINFOTYPES`  028`  WE-`  E`
+HRPADRUINFOTYPES`  029`  WE-`  E`
+HRPADRUINFOTYPES`  030`  WE-`  E`
+HRPADRUIT`  041`  WE`  E`
+HRPADRUIT`  042`  WE`  E`
+HRPADRUIT`  043`  WE`  E`
+HRPADRUIT`  044`  WE`  E`
+HRPADRUIT`  045`  WE`  E`
+HRPADRUIT`  046`  WE`  E`
+HRPADRUIT`  047`  WE`  E`
+HRPADRUIT`  048`  WE`  E`
+HRPADRUIT`  049`  WE`  E`
+HRPADRUIT`  070`  WE`  E`
+HRPADRUIT`  074`  WE`  E`
+HRPADRUIT`  075`  WE`  E`
+HRPADRUIT`  076`  WE`  E`
+HRPADRUIT`  077`  WE`  E`
+HRPADRUIT`  078`  WE`  E`
+HRPADRUIT`  086`  WE`  E`
+FICUSTOM`  280`  EWI`  E`  X
+FICUSTOM`  281`  EWI`  I`  X
+FICUSTOM`  282`  EWI`  I`  X
+FICUSTOM`  283`  EWI`  E`  X
+HRPADRUIT_CE`  114`  SIW`  W`  X
+HRPADRUIT_CE`  115`  SIW`  I`  X
+HRPADRUPS`  010`  EW`  E`
+HRPADRUPS`  011`  EW`  E`
+HRPADRUPS`  012`  EW`  E`
+HRPADRUPS`  014`  EW`  E`
+HRPADRUPS`  015`  EW`  E`
+HRPADRUPS`  017`  EWI`  E`  X
+HRPADRUPS_INFTY`  005`  EWA`  E`
+HRPADRUPS_INFTY`  006`  EWA`  E`  X
+HRPADRUPS_INFTY`  007`  EWA`  W`
+FICUSTOM`  284`  EWI`  I`  X
+FICUSTOM`  285`  EWI`  I`  X
+FICUSTOM`  404`  EWI-`  E`  X
+FINS_ACDOC_CUST`  462`  EW`  E`
+HRPADRU_FIAS`  008`  WE`  W`  X
+HRPADRU_FIAS`  009`  WE`  W`  X
+HRPADRU_FIAS`  010`  WE`  W`  X
+HRPADRU_FIAS`  011`  WE`  W`  X
+HRPADRU_FIAS`  012`  WE`  W`  X
+HRPADRU_FIAS`  014`  WE`  W`  X
+HRPADRU_FIAS`  015`  WE`  W`  X
+HRPADRU_FIAS`  018`  WE`  W`  X
+HRPADRU_FIAS`  019`  WE`  W`  X
+HRPADRU_FIAS`  020`  WEI`  E`  X
+HRPADRU_FIAS`  022`  WE`  W`  X
+HRPADRU_FIAS`  023`  WE`  W`  X
+HRPADRU_FIAS`  024`  WE`  W`  X
+HRPADRU_FIAS`  025`  WE`  W`  X
+FINS_ACDOC_CUST`  463`  EW`  E`
+FINS_ACDOC_POST`  001`  SIWEA`  E`  X
+FINS_CFIN_BC_REPORT`  091`  EWS`  E`  X
+FINS_CFIN_BC_REPORT`  093`  EWS`  E`  X
+FINS_CFIN_BC_REPORT`  094`  EWS`  E`  X
+HRPAYRULOG`  029`  WE`  W`  X
+HRPAYRULOG`  030`  WE`  E`  X
+HRPAYRULOG`  031`  WE`  E`  X
+HRPAYRULOG`  033`  EWS`  E`
+HRPAYRULOG`  303`  EWS`  E`
+HRPAYRULOG_PS`  001`  EWI`  E`  X
+HRPAYRULOG_PS`  002`  EWI`  E`  X
+HRPAYRULOG_PS`  011`  EWI`  W`  X
+HUGENERAL`  337`  EWI`  `  X
+ICC_NF_WRITER`  022`  IWE`  -`  X
+ICC_NF_WRITER`  025`  IWE`  -`  X
+ICC_TR`  704`  EW`  E`
+ICL_CONF_ACT`  000`  IS`  I`  X
+ICL_CONF_BRF`  000`  EW-`  E`  X
+ICL_CONF_PAY`  012`  EWSI-`  E`  X
+IDMX`  417`  E`  E`  X
+IF`  017`  E`  E`  X
+IHC_DIRECT`  600`  EIW`  -`  X
+IHC_DIRECT`  607`  EIW`  -`  X
+IHC_DIRECT`  608`  EIW`  -`  X
+IHC_DIRECT`  609`  EIW`  -`  X
+IHC_DIRECT`  610`  EIW`  -`  X
+IHC_DIRECT`  611`  EIW`  -`  X
+IHC_DIRECT`  612`  EIW`  -`  X
+IHC_DIRECT`  615`  EIW`  -`  X
+IHC_DIRECT`  617`  EIW`  -`  X
+IHC_DIRECT`  619`  EIW`  -`  X
+IHC_DIRECT`  620`  EIW`  -`  X
+IHC_DIRECT`  633`  EIW`  -`  X
+IHC_DIRECT`  634`  EIW`  -`  X
+IHC_DIRECT`  635`  EIW`  -`  X
+IHC_DIRECT`  636`  EIW`  -`  X
+IHC_DIRECT`  637`  EIW`  -`  X
+IHC_DIRECT`  638`  EIW`  -`  X
+IHC_DIRECT`  646`  EIW`  -`  X
+IHC_DIRECT`  647`  EIW`  -`  X
+IHC_DIRECT`  648`  EIW`  -`  X
+IHC_DIRECT`  649`  EIW`  -`  X
+IHC_DIRECT`  650`  EIW`  -`  X
+IHC_DIRECT`  654`  EIW`  -`  X
+IHC_GUI_MSG`  090`  EWI`  W`  X
+IHC_GUI_MSG`  091`  EWI`  W`  X
+IHC_GUI_MSG`  092`  EWI`  W`  X
+IHC_GUI_MSG`  600`  EIW`  E`  X
+IHC_GUI_MSG`  607`  EIW`  E`  X
+IHC_GUI_MSG`  608`  EIW`  E`  X
+IHC_GUI_MSG`  609`  EIW`  E`  X
+IHC_GUI_MSG`  610`  EIW`  E`  X
+IHC_GUI_MSG`  611`  EIW`  E`  X
+IHC_GUI_MSG`  612`  EIW`  E`  X
+IHC_GUI_MSG`  615`  EIW`  E`  X
+IHC_GUI_MSG`  617`  EIW`  E`  X
+IHC_GUI_MSG`  619`  EIW`  W`  X
+IHC_GUI_MSG`  620`  EIW`  W`  X
+IHC_GUI_MSG`  633`  EIW`  W`  X
+IHC_GUI_MSG`  634`  EIW`  W`  X
+IHC_GUI_MSG`  635`  EIW`  W`  X
+IHC_GUI_MSG`  636`  EIW`  E`  X
+IHC_GUI_MSG`  637`  EIW`  E`  X
+IHC_GUI_MSG`  638`  EIW`  E`  X
+IHC_GUI_MSG`  640`  EIW`  E`  X
+IHC_GUI_MSG`  646`  EIW`  E`  X
+IHC_GUI_MSG`  647`  EIW`  E`  X
+IHC_GUI_MSG`  648`  EIW`  E`  X
+IHC_GUI_MSG`  650`  EIW`  E`  X
+IHC_GUI_MSG`  654`  EIW`  E`  X
+IHC_GUI_MSG`  659`  EIW`  I`  X
+IHC_GUI_MSG`  660`  EIW`  -`  X
+IHC_GUI_MSG`  670`  EWI`  W`  X
+IHC_GUI_MSG`  671`  EWI`  W`  X
+IHC_IDOC`  600`  EIW`  W`  X
+IHC_IDOC`  607`  EIW`  W`  X
+IHC_IDOC`  608`  EIW`  W`  X
+IHC_IDOC`  609`  EIW`  W`  X
+IHC_IDOC`  610`  EIW`  W`  X
+IHC_IDOC`  611`  EIW`  W`  X
+IHC_IDOC`  612`  EIW`  W`  X
+IHC_IDOC`  615`  EIW`  W`  X
+IHC_IDOC`  617`  EIW`  W`  X
+IHC_IDOC`  619`  EIW`  -`  X
+IHC_IDOC`  633`  EIW`  -`  X
+IHC_IDOC`  634`  EIW`  -`  X
+IHC_IDOC`  635`  EIW`  -`  X
+IHC_IDOC`  636`  EIW`  -`  X
+IHC_IDOC`  637`  EIW`  W`  X
+IHC_IDOC`  638`  EIW`  W`  X
+IHC_IDOC`  639`  EIW`  E`  X
+IHC_IDOC`  648`  EIW`  W`  X
+IHC_IDOC`  649`  EIW`  -`  X
+IHC_IDOC`  650`  EIW`  W`  X
+IHC_IDOC`  654`  EIW`  W`  X
+IHC_XBS`  600`  EIW`  W`  X
+IHC_XBS`  615`  EIW`  W`  X
+IHC_XBS`  619`  EIW`  -`  X
+IHC_XBS`  620`  EIW`  -`  X
+IHC_XBS`  637`  EIW`  W`  X
+IHC_XBS`  639`  EIW`  -`  X
+IHC_XBS`  640`  EIW`  W`  X
+IHC_XBS`  654`  EIW`  W`  X
+ISJP`  006`  EIW`  W`  X
+ISJP`  602`  EIW`  W`  X
+ISJP`  660`  EIW`  W`  X
+ISJP`  701`  WIS-`  W`
+IW`  215`  EIW`  W`  X
+J+`  113`  EWI`  W`  X
+J+`  248`  EWI`  W`  X
+J+`  252`  IW`  I`  X
+J-`  018`  AWIE`  A`
+J-`  109`  WI`  W`
+J-`  131`  WI`  W`  X
+J-`  233`  IWE`  W`
+JSEL`  008`  WI`  I`  X
+J_1A_WS_CAE`  005`  EW`  E`
+J_1A_WS_CAE`  100`  EW`  E`
+J_1A_WS_CAE`  101`  EW`  E`
+J_1A_WS_CAE`  102`  EW`  E`
+J_1A_WS_CAE`  106`  EW`  E`
+J_1A_WS_CAE`  110`  EW`  E`
+J_1A_WS_CAE`  111`  EW`  E`
+J_1A_WS_CAE`  112`  EW`  E`
+J_1A_WS_CAE`  113`  EW`  E`
+J_1A_WS_CAE`  114`  EW`  E`
+J_1A_WS_CAE`  115`  EW`  E`
+J_1A_WS_CAE`  116`  EW`  E`
+J_1A_WS_CAE`  117`  EW`  E`
+J_1A_WS_CAE`  118`  EW`  E`
+K/`  846`  IWE`  W`  X
+K4`  004`  EWI`  E`
+K4`  010`  EWI`  E`
+K4`  202`  WEI`  W`  X
+K4`  203`  WEI`  W`  X
+K4`  205`  WEI`  W`  X
+K41C`  001`  SIWE`  I`  X
+K41C`  032`  SIW`  I`  X
+K5`  071`  IWE`  W`  X
+K5`  132`  EWI`  E`  X
+KA`  210`  EWI`  E`
+KAFM`  006`  WI`  I`  X
+KD`  042`  IWE`  I`  X
+KD`  118`  WE`  E`  X
+KD`  120`  IWE`  I`  X
+KD`  262`  WE`  E`
+KD`  276`  WE`  E`
+KD`  285`  WE`  E`
+KD`  315`  WEI`  W`  X
+KD`  565`  SIWE`  W`  X
+KD`  569`  IWE`  E`  X
+KD`  570`  IWE`  E`  X
+KD`  574`  IWE`  E`  X
+KD`  575`  IEW`  W`  X
+KD`  579`  IE`  E`  X
+KD`  614`  IWE`  E`  X
+KD`  625`  IWE`  E`  X
+KEO`  408`  SIWE`  I`  X
+KEO`  409`  SIWE`  I`  X
+KEO`  410`  SIWE`  I`  X
+KEO`  411`  SIWE`  I`  X
+KF`  029`  IWE`  W`  X
+KFPR`  090`  EW`  W`
+KFPR`  103`  EWS`  E`  X
+KFPR`  211`  EWI`  `  X
+KFPR`  213`  EWI`  E`  X
+KFPR`  214`  EWI`  `  X
+KG`  323`  EW`  E`  X
+KI`  005`  WE`  W`  X
+KI`  098`  E`  E`  X
+KI`  099`  SIWE`  E`  X
+KI`  100`  SIWE`  E`  X
+KI`  113`  SIWE`  E`  X
+KI`  114`  EWI`  I`  X
+KI`  137`  SIWE`  E`  X
+KI`  140`  SIWE`  E`  X
+KI`  141`  SIWE`  E`  X
+KI`  142`  SIWE`  E`  X
+KI`  144`  SIWE`  E`  X
+KI`  145`  SIWE`  E`  X
+KI`  148`  SIWE`  E`  X
+KI`  149`  SIWE`  E`  X
+KI`  155`  SIWEA`  W`  X
+KI`  158`  WE`  W`
+KI`  161`  WE`  W`  X
+KI`  162`  E`  E`  X
+KI`  163`  SI`  I`  X
+KI`  166`  SIWE`  E`  X
+KI`  168`  WE`  W`
+KI`  169`  WE`  W`
+KI`  170`  WE`  W`
+KI`  171`  WE`  W`
+KI`  172`  WE`  W`
+KI`  173`  WE`  W`
+KI`  174`  WE`  W`
+KI`  175`  WE`  W`
+KI`  176`  SIWE`  I`  X
+KI`  183`  SIWA`  E`  X
+KI`  188`  SIWE`  E`  X
+KI`  189`  SIWE`  W`  X
+KI`  196`  SIWE`  E`  X
+KI`  211`  SIWE`  E`  X
+KI`  227`  SIWE`  W`  X
+KI`  235`  IE`  I`
+KI`  272`  WE`  E`  X
+KI`  280`  SIWE`  E`
+KI`  281`  SIWE`  W`  X
+KI`  302`  EWI`  E`  X
+KI`  337`  I`  I`  X
+KI`  339`  SI`  I`  X
+KI`  350`  SIWEA`  W`  X
+KI`  351`  SIWE`  W`  X
+KI`  398`  SIW`  -`  X
+KI`  399`  SIW`  W`  X
+KI`  620`  EWI`  E`  X
+KI`  621`  SEWI`  E`  X
+KI`  622`  SEWI`  E`  X
+KI`  623`  SEWI`  E`  X
+KI`  625`  EI`  I`  X
+KM`  194`  SIWE`  W`  X
+KM`  198`  SIWE`  E`  X
+KM`  585`  SIWE`  E`  X
+KM`  586`  SIWE`  E`  X
+KM`  700`  SEWI`  I`  X
+KM`  738`  SIW`  I`
+KM`  783`  IWE`  E`  X
+KM`  825`  SIWE`  E`  X
+KO`  013`  WE`  E`
+KO`  015`  WE`  E`
+KO`  016`  WE`  E`
+KO`  363`  WE`  W`
+KO`  364`  WE`  W`
+KO`  367`  WE`  E`
+KO`  372`  AEW`  E`
+KO`  438`  WE`  W`  X
+KO`  458`  IWE`  W`  X
+KO`  459`  IWE`  W`  X
+KO`  505`  EW`  W`
+KP`  040`  E`  -`  X
+KP`  267`  EWI`  W`  X
+KP`  278`  EWI`  W`  X
+KP`  292`  SIWEA`  W`  X
+KP`  293`  EWI`  -`  X
+KP`  294`  EWI`  -`  X
+KS`  096`  IWE`  W`  X
+KS`  149`  WE`  W`
+KS`  266`  IWE`  E`  X
+KS`  309`  WEI-`  -`  X
+KS`  899`  SE`  S`
+KT`  026`  SIWE`  E`  X
+KV`  165`  WI`  W`  X
+KW`  106`  WE`  W`  X
+KW`  114`  WE`  W`
+KW`  413`  WI`  I`  X
+KW`  590`  IWE`  I`
+K_RTOHC`  001`  S`  S`  X
+LEINT`  122`  EI`  -`  X
+LEINT`  123`  EI`  -`  X
+LMBP`  103`  EWI`  `  X
+LMBP`  104`  EWI`  `  X
+LMBP`  106`  EWI`  `  X
+LMBP`  107`  EWI`  `  X
+LTRQ`  028`  EWI`  `  X
+LXYRD`  154`  EWI`  `  X
+LXYRD`  159`  EWI`  `  X
+LXYRD`  160`  EWI`  `  X
+M8`  010`  IWE`  E`
+M8`  039`  IWE`  W`  X
+M8`  051`  E`  E`  X
+M8`  060`  IS`  S`
+M8`  070`  IWE`  W`  X
+M8`  075`  IS`  S`
+M8`  076`  IWE`  W`  X
+M8`  081`  IWE`  W`  X
+M8`  082`  IWE`  W`  X
+M8`  083`  IWE`  W`  X
+M8`  084`  IWE`  W`  X
+M8`  085`  IWE`  W`  X
+M8`  087`  IWE`  W`  X
+M8`  088`  IWE`  W`  X
+M8`  090`  W`  W`  X
+M8`  091`  IWE`  W`
+M8`  092`  IWE`  W`  X
+M8`  095`  IWE`  W`  X
+M8`  108`  IE`  I`  X
+M8`  153`  IWE`  W`
+M8`  154`  IWE`  W`  X
+M8`  155`  IE`  E`  X
+M8`  183`  WE`  E`
+M8`  194`  IWE`  W`  X
+M8`  195`  IWE`  W`  X
+M8`  220`  IE`  I`  X
+M8`  225`  IWE`  W`  X
+M8`  275`  IW`  W`  X
+M8`  286`  EWI`  W`
+M8`  287`  EWI`  E`
+M8`  288`  EWI`  W`
+M8`  289`  EWI`  W`
+M8`  291`  WI`  I`  X
+M8`  292`  WI`  I`  X
+M8`  293`  WI`  I`  X
+M8`  294`  WI`  I`  X
+M8`  297`  EWI`  W`  X
+M8`  298`  EI`  I`  X
+M8`  299`  IW`  I`  X
+M8`  364`  WI`  I`  X
+M8`  392`  IS`  S`
+M8`  393`  IWE`  W`  X
+M8`  394`  E`  E`  X
+M8`  399`  IS`  S`
+M8`  414`  IWE`  E`  X
+M8`  417`  IWE`  W`  X
+M8`  419`  IWE`  W`  X
+M8`  424`  E`  -`  X
+M8`  436`  IW`  W`  X
+M8`  443`  WE`  E`  X
+M8`  444`  E`  E`  X
+M8`  446`  WE`  E`  X
+M8`  447`  WE`  E`  X
+M8`  448`  WE`  E`  X
+M8`  449`  WE`  E`  X
+M8`  462`  IWE`  W`  X
+M8`  465`  IEW`  W`  X
+M8`  466`  IWE`  E`  X
+M8`  471`  IWE`  W`  X
+M8`  473`  IWE`  W`  X
+M8`  477`  IWE`  W`  X
+M8`  478`  IWE`  W`  X
+M8`  479`  IWE`  W`  X
+M8`  480`  IWE`  W`  X
+M8`  481`  IWE`  W`  X
+M8`  482`  IWE`  W`  X
+M8`  483`  IWE`  W`
+M8`  484`  IWE`  W`  X
+M8`  503`  IWE`  W`  X
+M8`  504`  IWE`  W`  X
+M8`  525`  I`  -`
+M8`  538`  EWI`  I`
+M8`  557`  IW`  -`  X
+M8`  564`  IS`  S`
+M8`  579`  I`  I`  X
+M8`  598`  IW`  I`  X
+M8`  636`  WI`  W`  X
+M8`  694`  WI`  I`  X
+M8`  697`  IS`  S`
+M8`  698`  IS`  S`
+M8`  706`  IWE`  W`  X
+M8`  708`  IWE`  E`
+M8`  749`  EWI`  W`  X
+M8`  759`  EWI`  W`  X
+M8`  764`  WI`  W`  X
+M8`  768`  EWI`  W`
+M8`  769`  EWI`  W`
+M8`  771`  WE`  W`
+M8`  773`  WE`  W`  X
+M8`  783`  IWE`  W`  X
+M8`  784`  IE`  I`  X
+M8`  785`  IE`  I`  X
+M8`  786`  IE`  I`  X
+M8`  791`  E`  E`  X
+M8`  792`  EWIS`  I`  X
+M8`  793`  E`  E`  X
+M8`  795`  EWI`  W`
+M8`  796`  IWE`  W`  X
+M8`  797`  IWE`  W`  X
+M8`  799`  IWE`  W`  X
+FINS_CFIN_BC_REPORT`  096`  EWS`  E`  X
+FINS_CFIN_BC_REPORT`  097`  EWS`  E`  X
+M8`  820`  S`  -`  X
+M8`  862`  EWI`  E`  X
+M8`  889`  EW`  E`  X
+M8_2`  739`  WI`  W`  X
+MDG_BS_ECC_BP_CHECK`  042`  EIW`  I`
+MDG_BS_ECC_BP_CHECK`  043`  EIW`  I`
+MDG_BS_ECC_BP_CHECK`  044`  EIW`  I`
+MDG_CLF_LEAN`  027`  EWI`  W`  X
+MD_BP`  028`  S-`  S`
+MRER`  227`  IWE`  `  X
+MSITEM`  126`  SI`  I`  X
+N2M`  134`  E`  E`  X
+N2M`  135`  WEIS`  W`  X
+N2M`  137`  WEIS`  W`  X
+N2M`  181`  WEIS`  W`  X
+N2M`  183`  EISA`  S`  X
+N2M`  207`  WEIS`  I`  X
+N2M`  266`  WEIS`  I`  X
+NEW_FEBA`  001`  -IS`  -`  X
+NEW_FEBA`  002`  -IS`  -`  X
+NEW_FEBA`  110`  -IS`  -`  X
+NEW_FEBA`  122`  -I`  -`  X
+O8`  536`  WEIS`  E`  X
+OIH_J1B`  860`  WESA`  W`
+OIH_J1B`  861`  WESA`  W`
+OIH_J1B`  862`  WESA`  W`
+OIH_J1B`  863`  WESA`  W`
+OIH_J1B`  864`  WESA`  W`
+OIH_J1B`  865`  WESA`  W`
+OIH_J1B`  866`  WESA`  W`
+OIH_J1B`  867`  WESA`  W`
+OIH_J1B`  868`  WESA`  W`
+OIH_J1B`  869`  WESA`  W`
+PTRA_DIALOGUE`  092`  W`  W`  X
+PTRA_DIALOGUE`  097`  E`  -`  X
+PTRA_DIALOGUE`  098`  SWI`  -`  X
+PTRA_DIALOGUE`  100`  EW`  -`  X
+FINS_CFIN_BC_REPORT`  099`  EWS`  E`  X
+PTRA_WEB_INTERFACE`  062`  W`  W`  X
+PTRA_WEB_INTERFACE`  063`  W`  W`  X
+PTRA_WEB_INTERFACE`  150`  E`  E`  X
+PZ`  039`  E`  -`  X
+PZ`  052`  W`  W`  X
+PZ`  437`  SI`  S`  X
+PZ`  447`  EW`  E`  X
+PZ`  683`  WE`  E`  X
+PZ`  850`  E`  E`  X
+PZ`  860`  SI`  I`  X
+PZ`  861`  I`  I`  X
+R1`  227`  EW`  E`
+R1`  232`  WIS`  W`
+R1`  658`  EW`  E`
+R1`  703`  I-`  I`
+R1`  816`  EWIS`  I`
+R11`  340`  EWIS`  W`  X
+RDB_REC`  016`  WI`  W`
+RDB_REC`  803`  I`  I`  X
+RDB_REC`  804`  I`  I`  X
+RDPT`  217`  EW`  W`  X
+RDPT`  221`  WE`  E`
+RDPT`  227`  WE`  W`  X
+RDPT`  228`  EIW-`  W`  X
+RE`  023`  EWI`  E`
+RE`  032`  IEWS`  W`  X
+RE`  038`  EWI`  W`  X
+RE`  049`  IEWS`  W`  X
+RE`  072`  EWI`  E`
+RE`  164`  EWI`  E`
+RE`  165`  EWI`  E`
+RE`  166`  IEWS`  W`  X
+RE`  168`  IEWS`  W`  X
+RE`  172`  IEWS`  W`  X
+RE`  173`  IEWS`  W`  X
+RE`  226`  EWIS`  W`  X
+RE`  259`  WIE`  W`  X
+RE`  290`  EWI`  -`  X
+RE`  291`  EWI`  -`  X
+RE`  341`  EW`  E`  X
+RE`  569`  WI`  W`  X
+RE`  587`  I`  I`  X
+RE`  601`  S`  S`  X
+RE`  602`  IEW`  I`  X
+RE`  603`  IEWS`  W`  X
+RE`  604`  IWE`  I`  X
+RE`  605`  E`  E`  X
+REAJBD`  105`  EW`  W`  X
+REAJBD`  110`  EWS`  W`  X
+REAJBD`  122`  EW`  W`  X
+REAJBD`  138`  EW`  -`  X
+REAJME`  030`  EWS`  S`
+REAJME`  035`  EWS`  E`  X
+REAJME`  036`  EWS`  E`  X
+REAJME`  049`  S`  S`  X
+REAJME`  050`  S`  S`  X
+REAJME`  051`  S`  S`  X
+REAJME`  052`  S`  S`  X
+REAJME`  053`  S`  S`  X
+REAJME`  054`  S`  S`  X
+REAJME`  057`  S`  S`  X
+REAJME`  069`  SWE`  E`
+REAJME`  070`  SWE`  E`
+REAJME`  099`  S`  S`  X
+REAJME`  120`  S`  S`  X
+REAJME`  121`  S`  S`  X
+REAJME`  123`  S`  S`  X
+REAJME`  124`  S`  S`  X
+REAJME`  125`  S`  S`  X
+REAJME`  136`  E`  E`  X
+REAJME`  150`  S`  S`  X
+REAJME`  153`  S`  S`  X
+REAJME`  154`  S`  S`  X
+REAJME`  155`  S`  S`  X
+REAJME`  156`  S`  S`  X
+REAJME`  157`  S`  S`  X
+REAJME`  158`  S`  S`  X
+REAJME`  159`  S`  S`  X
+REAJME`  161`  S`  S`  X
+REAJME`  162`  S`  S`  X
+REAJME`  166`  S`  S`  X
+REAJME`  168`  S`  S`  X
+REAJME`  169`  S`  S`  X
+REAJME`  173`  S`  S`  X
+REAJME`  178`  S`  S`  X
+REAJME`  179`  S`  S`  X
+REAJME`  180`  S`  S`  X
+REAJME`  182`  S`  S`  X
+REAJME`  183`  S`  S`  X
+REAJME`  184`  S`  S`  X
+REAJME`  185`  S`  S`  X
+REAJME`  186`  S`  S`  X
+REAJME`  187`  S`  S`  X
+REAJME`  188`  S`  S`  X
+REAJME`  189`  S`  S`  X
+REAJME`  193`  S`  S`  X
+REAJME`  194`  S`  S`  X
+REAJME`  197`  SWE`  E`  X
+REAJME`  198`  SWE`  E`  X
+REAJME`  202`  EWI`  E`
+REAJME`  204`  EWI`  E`
+REAJME`  236`  WE`  E`
+REAJME`  237`  WI`  W`  X
+REAJME`  420`  E`  E`  X
+REAJME`  421`  EW`  E`  X
+REAJPR`  021`  S`  S`  X
+REAJPR`  022`  S`  S`  X
+REAJPR`  023`  S`  S`  X
+REAJPR`  024`  S`  S`  X
+REAJPR`  025`  S`  S`  X
+REAJPR`  026`  S`  S`  X
+REAJPR`  027`  S`  S`  X
+REAJPR`  029`  S`  S`  X
+REAJPR`  065`  S`  S`  X
+REAJPR`  100`  S`  S`  X
+REAJPR`  132`  EW`  E`
+REAJTM`  005`  WE`  W`
+REBD`  039`  WE`  W`  X
+REBD`  041`  W`  W`  X
+REBD`  042`  W`  W`  X
+REBD`  052`  IWE`  W`  X
+REBD`  053`  WE`  W`
+REBD`  054`  WE`  W`  X
+REBD`  056`  WE`  W`  X
+REBD`  058`  E`  E`  X
+REBD`  059`  E`  E`  X
+REBD`  061`  WE`  E`  X
+FINS_CFIN_CO_MESSAGE`  341`  WE`  E`  X
+FINS_CFIN_EX_INTF`  027`  EWI`  E`
+FINS_CO_2_ACDOC`  011`  EW`  W`  X
+FINS_FI_MPROJ`  097`  EW`  E`
+REBDAO`  085`  EW`  E`  X
+REBDAO`  088`  EW`  E`  X
+REBDAO`  092`  WEI`  E`  X
+REBDBE`  017`  EW`  E`  X
+REBDBE`  018`  EW`  E`  X
+REBDBE`  019`  EW`  E`  X
+REBDBE`  020`  EW`  E`  X
+REBDBE`  021`  EW`  E`  X
+REBDCA`  076`  WE`  W`
+REBDCA`  078`  WE`  E`
+REBDCA`  079`  WE`  W`
+REBDCA`  080`  WE`  W`
+REBDCA`  085`  WE`  -`  X
+REBDCA`  087`  W`  W`  X
+REBDCA`  089`  WE`  E`
+REBDCA`  095`  IWE`  W`  X
+REBDCA`  096`  IWE`  W`  X
+REBDCA`  097`  E`  E`  X
+REBDCA`  100`  WE`  E`  X
+REBDCA`  108`  EW`  E`  X
+REBDCA`  109`  EW`  E`  X
+REBDCA`  110`  EW`  E`  X
+REBDCA`  111`  EW`  E`  X
+REBDCA`  112`  EW`  E`  X
+REBDCA`  113`  EW`  E`  X
+REBDCA`  114`  EW`  E`  X
+REBDCA`  115`  EW`  E`  X
+REBDMS`  042`  EW`  E`  X
+REBDMS`  043`  EWI`  W`  X
+REBDMS`  044`  EWI`  W`  X
+REBDMS`  045`  EWI`  W`  X
+FINS_FI_SIF`  005`  EW`  E`
+FINS_FI_SIF`  015`  EW`  E`
+REBDOA`  013`  W`  W`  X
+REBDOA`  023`  WE`  E`
+REBDOA`  031`  SIWE`  E`  X
+REBDOA`  035`  SIWE`  E`  X
+REBDOA`  036`  SIWE`  E`  X
+REBDOA`  039`  IWE`  E`  X
+REBDRO`  060`  EW`  W`  X
+REBDRO`  061`  EW`  E`  X
+REBPBP`  003`  EW`  E`  X
+REBPBP`  023`  EW`  E`  X
+REBPBP`  028`  WI`  W`
+REBPBP`  032`  EW`  E`  X
+REBPBP`  037`  IWE`  E`  X
+REBPBP`  051`  WE`  W`  X
+REBPBP`  066`  WI`  I`  X
+REBPBP`  070`  I`  -`  X
+RECAAP`  180`  EWI`  E`  X
+FINS_FI_SIF`  228`  EW`  E`
+FINS_FI_SIF`  229`  EWIS-`  I`
+FINS_FI_SIF`  230`  EW`  E`
+RECABC`  056`  E`  E`  X
+RECACT`  005`  W`  W`  X
+RECACT`  008`  W`  W`  X
+RECAPT`  011`  E`  -`  X
+RECARS`  025`  EW`  -`  X
+RECD`  021`  W`  W`  X
+RECD`  104`  E`  E`  X
+RECD`  170`  WE`  W`
+RECD`  197`  EW`  E`  X
+RECD`  199`  EW`  W`
+RECD`  241`  IWE`  E`  X
+RECD`  268`  E`  E`  X
+RECD`  269`  EW`  -`  X
+RECD`  277`  EW`  -`  X
+RECD`  510`  W`  W`  X
+FINS_FI_SIF`  302`  EW`  E`
+RECECF`  001`  SEW`  S`  X
+RECECF`  002`  SEW`  S`  X
+RECEPR`  015`  SW`  W`  X
+RECEPR`  058`  E`  E`  X
+RECEPR`  143`  SWE`  W`  X
+FIN_CFIN`  029`  EWIS`  E`
+FITH_VAT`  012`  -WEIS`  W`  X
+RECETM`  014`  WEIS`  E`  X
+RECETM`  015`  WEIS`  E`  X
+RECETM`  016`  WEIS`  E`  X
+RECETM`  033`  SEW`  W`  X
+RECETM`  064`  SEW`  W`  X
+RECETM`  078`  WIS`  W`  X
+RECETM`  079`  WEIS`  E`  X
+RECETM`  080`  WEIS`  E`  X
+RECETM`  090`  WEIS`  W`  X
+FM`  504`  S`  S`  X
+FM`  509`  S`  S`  X
+FM`  833`  `  `  X
+RECETM`  221`  WIS`  W`  X
+RECETM`  246`  WEIS`  E`  X
+RECETM`  249`  WEIS`  E`  X
+RECN`  043`  WE`  W`  X
+RECN`  065`  E`  -`  X
+FM`  882`  W`  E`  X
+RECNDP`  006`  EWI`  W`  X
+RECNDP`  016`  EWI`  E`  X
+RECNDP`  017`  EWI`  E`  X
+FML_CUST`  041`  WE`  E`
+RECNMS`  016`  IWE`  W`  X
+RECNMS`  017`  IWE`  W`  X
+RECNNT`  023`  IW`  -`  X
+RECNNT`  026`  EW`  E`  X
+RECNNT`  027`  EW`  E`  X
+RECPSF`  061`  EW`  W`
+REEXAA`  002`  WE`  E`
+REEXAA`  015`  WE`  -`  X
+REEXAA`  024`  EW`  E`  X
+REEXCO`  112`  EWI`  -`  X
+REEXCO`  113`  EWI`  -`  X
+REEXFI`  030`  EW`  W`  X
+REEXFI`  152`  EW`  -`  X
+REEXFI`  201`  E`  E`  X
+REEXFI`  233`  E`  E`  X
+REEXFI`  245`  EW`  E`
+REEXFI`  248`  ES`  E`  X
+REEXFI`  254`  W`  W`  X
+REEXFI`  256`  EW`  W`
+REEXFI`  257`  W`  W`  X
+REEXFI`  284`  W`  W`  X
+REEXFI`  314`  WE`  W`  X
+REEXFI`  316`  WEIS`  E`  X
+REEXFI`  317`  WEIS`  I`  X
+REEXFI`  318`  WEIS`  W`  X
+REEXFI`  321`  WEIS`  E`  X
+REEXFI`  322`  E`  -`  X
+REEXFI`  330`  EW`  E`  X
+REEXFI`  331`  EW`  W`  X
+REEXFI`  332`  E`  -`  X
+FOT_TDT`  074`  EWI`  E`  X
+REEXFI`  450`  E-`  E`  X
+FOT_US_INT_TAX_CALC`  102`  EWI`  E`  X
+REEXFM`  033`  IWE`  W`  X
+REEXFM`  038`  IW`  -`  X
+FR`  889`  WEIS`  W`  X
+REEXPM`  011`  WE`  E`
+REFXNL`  037`  EW`  W`  X
+REFXNL`  054`  EW`  W`  X
+REFXNL`  055`  EW`  W`  X
+REISCA`  020`  W`  W`  X
+REITDS`  021`  E`  E`  X
+REITDS`  023`  WE`  E`
+REITOR`  024`  W`  W`  X
+REITOR`  031`  W`  W`  X
+REITOR`  034`  W`  W`  X
+REITOR`  040`  W`  W`  X
+REITOR`  044`  W`  W`  X
+REITOR`  049`  W`  W`  X
+REITOR`  051`  WE`  E`
+REITOR`  064`  W`  -`  X
+REITTC`  008`  WEIS`  E`  X
+REITTC`  011`  WEIS`  E`  X
+REITTC`  024`  WEIS`  E`  X
+REITTC`  025`  WEIS`  E`  X
+REITTC`  102`  WEIS`  E`  X
+REITTC`  105`  WE`  E`
+REITTC`  109`  WE`  E`  X
+REITTC`  110`  WE`  W`  X
+REITTC`  138`  WE`  W`  X
+RELMLR`  023`  WE`  E`  X
+RELMLR`  025`  WE`  E`  X
+RELMLR`  029`  WE`  E`
+RELMLR`  037`  WE`  -`  X
+RELMLR`  038`  WEI`  E`  X
+RELMLR`  056`  WE`  E`
+RELMLR`  077`  WE`  E`  X
+RELMLR`  079`  WE`  E`  X
+RELMNA`  011`  EW`  W`  X
+RELMPE`  023`  EW`  E`  X
+RELMPL`  037`  WE`  E`  X
+RELMPL`  085`  WE`  -`  X
+RELMRC`  020`  EW`  E`
+RELMRC`  061`  WE`  W`  X
+RELMRC`  062`  WE`  W`  X
+REMICL`  105`  EW`  W`
+REMICL`  113`  EW`  W`  X
+REMICL`  118`  EW`  W`  X
+REMICL`  119`  EW`  W`  X
+REMICL`  120`  EW`  E`  X
+REMICL`  124`  EWI`  I`  X
+REMICL`  126`  EW`  E`  X
+REMICL`  139`  EW`  E`  X
+REMICL`  140`  EW`  E`  X
+REMICL`  148`  I`  I`  X
+REMICL`  149`  EW`  E`
+REMICL`  150`  EW`  E`
+REMICL`  151`  W`  -`  X
+REMMMN`  044`  EWSI`  W`  X
+REMMMN`  078`  E-`  E`
+REORCA`  061`  WEI`  W`  X
+REOROF`  007`  E`  -`  X
+REORPO`  018`  WE`  W`  X
+REORPO`  022`  WE`  W`  X
+REORPO`  034`  WE`  W`
+REORPO`  053`  WE`  W`  X
+REORPO`  054`  WE`  W`  X
+REORPO`  056`  E`  E`  X
+REORPO`  067`  WE`  W`  X
+REORPO`  069`  EW`  E`
+REORPO`  080`  WE`  W`  X
+REORPO`  083`  WE`  W`  X
+REORPO`  087`  WE`  W`  X
+REORPO`  096`  WEI`  E`  X
+REORPO`  097`  WEI`  E`  X
+REORRS`  040`  WE`  W`  X
+RERAAL`  013`  EW`  -`  X
+RERAAP`  009`  EW`  E`
+RERACA`  004`  EW`  E`
+RERACA`  038`  EW`  W`
+RERACA`  080`  WI`  W`  X
+RERACA`  081`  W`  W`  X
+RERACL`  015`  EWI`  E`  X
+FSBP_FS_ATTRIBUTES`  003`  EWIS`  E`  X
+FSBP_FS_ATTRIBUTES`  005`  EWIS`  E`  X
+RERAOP`  001`  EW`  W`
+RERAOP`  034`  E`  E`  X
+RERAPP`  012`  EI`  I`
+RESCAJ`  006`  S`  S`  X
+RESCAJ`  008`  S`  S`  X
+RESCAJ`  009`  S`  S`  X
+RESCAJ`  010`  S`  S`  X
+RESCAJ`  011`  S`  S`  X
+RESCAJ`  012`  S`  S`  X
+RESCAJ`  013`  S`  S`  X
+RESCAJ`  015`  S`  S`  X
+RESCAJ`  017`  S`  S`  X
+RESCAJ`  018`  S`  S`  X
+RESCAJ`  019`  S`  S`  X
+RESCAJ`  020`  S`  S`  X
+RESCAJ`  021`  S`  S`  X
+RESCAJ`  022`  S`  S`  X
+RESCAJ`  024`  S`  S`  X
+RESCAJ`  025`  S`  S`  X
+RESCAJ`  028`  S`  S`  X
+RESCAJ`  029`  S`  S`  X
+RESCAJ`  030`  S`  S`  X
+RESCAJ`  031`  S`  S`  X
+RESCAJ`  032`  S`  S`  X
+RESCAJ`  036`  S`  S`  X
+RESCAJ`  060`  S`  S`  X
+RESCAJ`  061`  SW`  -`  X
+RESCAJ`  070`  S`  S`  X
+RESCAJ`  074`  EW`  E`  X
+RESCAJ`  077`  E`  -`  X
+RESCAJ`  084`  S`  S`  X
+RESCBC`  062`  S`  -`  X
+RESCBC`  065`  EWI`  W`
+RESCCC`  016`  WE`  E`  X
+RESCCC`  018`  EW`  E`
+RESCCC`  028`  WE`  E`
+FSBP_FS_ATTRIBUTES`  006`  EWIS`  E`  X
+RESCDC`  005`  EWI`  E`
+RESCDC`  006`  EW`  E`
+RESCMM`  012`  IWE`  E`  X
+RESCMS`  002`  IWE`  E`  X
+RESCMS`  009`  I`  I`  X
+RESCMS`  026`  I`  I`  X
+RESCPG`  055`  IWE`  W`  X
+RESCPG`  058`  W`  -`  X
+RESCPG`  060`  W`  W`  X
+RESCPG`  061`  W`  W`  X
+RESCSE`  033`  E`  -`  X
+RESCSH`  024`  IWE`  W`  X
+RESCSH`  035`  IWE`  E`
+RESCSH`  050`  I`  I`  X
+RESCSH`  054`  I`  I`  X
+RESCSP`  007`  W`  W`  X
+RESCSP`  011`  EW`  W`
+RESCSP`  012`  EW`  W`  X
+RESCSP`  013`  EW`  W`  X
+RESCSP`  014`  W`  W`  X
+RESCSP`  017`  W`  W`  X
+RESCSP`  018`  EW`  E`  X
+RESCSP`  021`  WE`  W`  X
+RESCSP`  024`  WE`  E`
+RESCSU`  035`  EW`  E`
+RESCSU`  036`  EW`  E`
+RESCSU`  049`  W`  W`  X
+RESCSU`  072`  W`  W`  X
+RESCSU`  090`  W`  W`  X
+RESCSU`  108`  E`  W`
+RESCSU`  116`  EW`  E`  X
+RESCSU`  118`  EW`  -`  X
+RESCSU`  120`  WEI`  W`  X
+RESCSU`  121`  WEI`  W`  X
+RESCSU`  209`  EW`  E`
+RESCSU`  210`  EW`  E`
+RESCSU`  550`  W`  W`  X
+RESCTA`  006`  EW`  E`  X
+RESRBC`  009`  EW`  W`
+RESRBC`  013`  EWSI`  -`  X
+RESRCL`  008`  E`  -`  X
+RESRRP`  005`  IS`  -`  X
+RESRTM`  017`  W`  W`  X
+RESRTM`  054`  EWI`  -`  X
+RESRTM`  064`  EWI`  -`  X
+RESRTM`  065`  EWI`  W`  X
+RESRTM`  066`  E`  -`  X
+RESRTM`  067`  E`  -`  X
+RETMFI`  029`  EWI`  E`  X
+RETMFI`  031`  EWI`  E`  X
+RETMFI`  037`  EW`  W`  X
+RETMFI`  049`  EWI`  W`  X
+RETMFI`  053`  EWI`  E`  X
+RETMFI`  057`  EWI`  W`  X
+RETMFI`  058`  EWI`  W`  X
+RETMFI`  068`  EWI`  W`  X
+RETMFI`  071`  EW`  E`  X
+RETMFI`  072`  EW`  -`  X
+RETMPE`  051`  EW`  E`  X
+RETMPE`  052`  EW`  E`  X
+RETMPE`  057`  EW`  E`  X
+RETMPE`  208`  EWI`  E`  X
+RETMPE`  219`  EW`  E`  X
+RETMPE`  221`  EWI`  -`  X
+RETMPE`  222`  EWI`  -`  X
+RETMPE`  223`  EW`  E`  X
+RETMPE`  405`  EW`  W`
+RETMPE`  410`  EW`  -`  X
+REXCIN`  200`  EW`  W`  X
+REXCIN`  201`  EW`  W`  X
+REXCIN`  202`  EW`  W`  X
+REXCIN`  203`  EW`  W`  X
+REXCIN`  204`  EW`  W`  X
+REXCIN`  205`  EW`  W`  X
+REXCIN`  206`  EW`  W`  X
+RE_BE`  112`  WSE`  W`  X
+RE_BE`  113`  WSE`  W`  X
+RE_IT`  009`  WA`  A`
+RE_IT`  210`  E`  `  X
+RE_IT`  211`  E`  `  X
+RE_IT`  212`  E`  `  X
+RE_IT`  213`  E`  `  X
+RMPS_USERCUSTOMIZBLE`  011`  EW`  W`  X
+RMPS_USERCUSTOMIZBLE`  012`  EW`  W`  X
+RMPS_USERCUSTOMIZBLE`  013`  EW`  E`  X
+RMPS_USERCUSTOMIZBLE`  014`  EW`  W`  X
+RMPS_USERCUSTOMIZBLE`  015`  EW`  E`  X
+RMPS_USERCUSTOMIZBLE`  016`  EW`  W`  X
+RMPS_USERCUSTOMIZBLE`  017`  EW`  E`  X
+RMPS_USERCUSTOMIZBLE`  018`  EW`  W`  X
+RMPS_USERCUSTOMIZBLE`  041`  WE`  E`  X
+RMPS_USERCUSTOMIZBLE`  042`  WI`  W`  X
+RMPS_USERCUSTOMIZBLE`  051`  WEI`  E`  X
+RMPS_USERCUSTOMIZBLE`  054`  AEWI`  `  X
+RMPS_USERCUSTOMIZBLE`  115`  WE`  E`  X
+RO`  021`  WE`  E`
+RO`  238`   E`  E`  X
+RQ`  046`  EWI`  E`  X
+RW`  660`  EW-`  E`  X
+RY`  018`  WE`  E`  X
+RY`  435`  EW`  E`
+RY`  436`  EW`  E`
+RY`  437`  EW`  E`
+RY`  438`  EW`  E`
+RY`  468`  IWE`  I`  X
+RY`  470`  IWE`  I`  X
+FSBP_FS_ATTRIBUTES`  007`  EWIS`  E`  X
+RY`  773`  WIE`  W`  X
+RY`  904`  EW`  W`  X
+SAFM_EOPO`  035`  EWIS`  E`  X
+SAFM_EOPO`  093`  EWIS`  W`  X
+SAFM_EOPO`  094`  EWIS`  W`  X
+SAFM_EXPO`  002`  EWIS`  W`  X
+SEPA`  050`  EIW`  I`  X
+SEPA`  193`  EIW`  I`  X
+T0`  449`  WE`  E`  X
+T0`  827`  EWI`  I`  X
+T0`  828`  EWI`  I`  X
+T0`  829`  EWI`  I`  X
+T0`  843`  EWI`  I`  X
+T0`  877`  EWI`  E`  X
+T0`  878`  EWI`  E`  X
+T0`  879`  EWI`  E`  X
+T0`  880`  EWI`  E`  X
+T0`  881`  EWI`  E`  X
+T0`  882`  EI`  E`
+T0`  883`  EIW`  E`  X
+T1`  156`  WE`  W`
+T4`  340`  SIW`  W`  X
+T4`  341`  SIW`  W`  X
+T7`  291`  WIE`  E`  X
+T7`  292`  WIE`  W`  X
+T7`  357`  WIE`  E`
+T8`  402`  WI`  W`  X
+TAN_TCC1`  126`  IWE`  W`  X
+TAX_TXJCD`  100`  EWIS`  E`  X
+TAX_TXJCD`  101`  EWIS`  E`  X
+TAX_TXJCD`  102`  EWIS`  E`  X
+TAX_TXJCD`  103`  EWIS`  E`  X
+TAX_TXJCD`  104`  EWIS`  E`  X
+TAX_TXJCD`  105`  EWIS`  E`  X
+TAX_TXJCD`  107`  EWIS`  E`  X
+TAX_TXJCD`  108`  EWIS`  E`  X
+TAX_TXJCD`  110`  EWIS`  E`  X
+TAX_TXJCD`  763`  EWIS`  E`  X
+TAX_TXJCD`  786`  EWIS`  E`  X
+TAX_TXJCD`  861`  EWIS`  E`  X
+TAX_TXJCD`  863`  EWIS`  E`  X
+TAX_TXJCD`  864`  EWIS`  E`  X
+TBLP`  060`  IWES`  W`
+TEM_MESSAGES_PER`  501`  WE`  E`  X
+TFC0`  502`  EW`  E`  X
+THMHR_ADMIN`  603`  WE`  W`  X
+THM_CENTRAL`  087`  E`  E`  X
+THM_EXPOSURE`  039`  WE`  W`  X
+THM_EXPOSURE`  048`  WE`  W`  X
+THM_EXPOSURE`  076`  E`  E`  X
+THM_EXPOSURE`  121`  S`  S`  X
+THM_EXPOSURE`  125`  EW`  W`  X
+THM_EXPOSURE`  195`  EWI`  W`  X
+THM_EXPOSURE`  218`  EWI`  E`  X
+THM_EXPOSURE`  247`  WE`  W`  X
+THM_EXPOSURE`  250`  WS`  W`  X
+THM_EXPOSURE`  307`  SWE`  W`  X
+TI`  031`  E`  E`  X
+TPM_AD`  101`  WE`  W`
+TPM_AD`  202`  W`  W`  X
+FSBP_FS_ATTRIBUTES`  022`  EWIS`  E`  X
+TPM_CAL`  899`  EX`  X`  X
+TPM_THX1`  501`  EWI`  W`  X
+TPM_THX1`  507`  EWI`  W`  X
+TPM_THXE1`  101`  EWI`  E`  X
+TPM_TRAC1`  024`  EWSI`  E`  X
+TPM_TRAC1`  025`  EWSI`  E`  X
+TPM_TRAC1`  122`  WE`  W`
+TPM_TRAC1`  213`  I-`  I`
+TPM_TRAC1`  214`  EWI`  `  X
+TPM_TRCO_CTY`  089`  WI`  W`  X
+TPM_TRCO_CTY`  140`  IWE`  E`  X
+TPM_TRG`  197`  EW`  E`
+TPM_TRG`  212`  EW`  E`
+TPM_TRG`  219`  WE`  E`
+TPM_TRG`  255`  EW`  E`
+TPM_TRG`  415`  WE`  W`  X
+TPM_TRIG01`  003`  WEI-`  W`
+TPM_TRIG01`  007`  WE`  E`
+TPM_TRIL1`  202`  E`  E`  X
+TPM_TRL`  242`  WE`  E`
+TPM_TRL`  296`  W-`  W`
+TPM_TRL`  350`  IE`  E`
+TPM_TRM2`  259`  WES`  W`  X
+FTBP`  001`  EWIS`  -`  X
+FTBP`  002`  EWIS`  S`  X
+TPM_TRPR`  111`  WE`  E`
+TPM_TRPR`  112`  EWI-`  W`  X
+TPM_TRPR`  210`  ISW`  I`  X
+TPM_TRPR`  252`  EWS-`  W`  X
+TRCBCUSTOM`  000`  IWE`  W`  X
+TRCBCUSTOM`  001`  IWE`  W`  X
+TRCBCUSTOM`  002`  IWE`  E`  X
+TRCBCUSTOM`  003`  IWE`  E`  X
+TRCBCUSTOM`  004`  WE`  W`  X
+TRF0`  048`  E`  E`  X
+TRIA`  033`  W-`  W`
+TRQ0`  074`  WE`  -`  X
+FTR0`  031`  EW`  W`
+UDM_BUPA_MSG`  056`  EIW`  S`  X
+UDM_BUPA_TRANS_DATA`  151`  I`  -`  X
+UDM_CUST`  020`  EW`  E`  X
+UDM_WORK_LIST`  021`  IW`  I`
+UDM_WORK_LIST`  031`  IW`  I`
+UDM_WORK_LIST`  045`  IS`  I`  X
+UDM_WORK_LIST`  051`  EW-`  E`
+UDM_WORK_LIST`  052`  IS`  I`
+UKM_BP`  010`  SIW`  S`  X
+UKM_BP`  012`  SIWE`  S`  X
+UKM_BP`  013`  SIW`  S`  X
+UKM_BP`  015`  SIW`  S`  X
+UKM_BP`  016`  SIW`  S`  X
+UKM_DCD_MSG`  008`  IWS`  I`  X
+UKM_DCD_MSG`  035`  WE`  W`  X
+UKM_DCD_MSG`  036`  WE`  W`  X
+UKM_DCD_MSG`  037`  WE`  W`  X
+UKM_DCD_MSG`  038`  WE`  W`  X
+UKM_PI`  008`  SIEW`  E`  X
+UKM_PI`  139`  WSIE`  -`  X
+USMD7`  120`  EWI`  W`  X
+USMDZ10`  000`  EWI`  E`
+USMDZ10`  012`  EWI`  E`
+USMDZ3`  001`  EWI`  E`
+USMDZ3`  002`  EWI`  E`
+USMDZ3`  018`  EWI`  E`
+USMDZ3`  019`  EWI`  E`
+USMDZ3`  022`  EWI`  E`
+USMDZ3`  023`  EWI`  E`
+USMDZ3`  025`  EWI`  E`
+USMDZ3`  026`  EWI`  E`
+USMDZ3`  027`  EWI`  E`
+USMDZ3`  029`  EWI`  E`
+USMDZ3`  030`  EWI`  W`
+USMDZ3`  032`  EWI`  E`
+USMDZ3`  035`  EWI`  E`
+USMDZ3`  039`  EWI`  E`
+USMDZ3`  048`  EWI`  E`
+USMDZ3`  051`  EWI`  E`
+USMDZ3`  055`  EWI`  E`
+USMDZ3`  057`  EWI`  W`
+USMDZ3`  058`  EWI`  E`
+USMDZ3`  064`  EWI`  E`
+USMDZ3`  071`  EWI`  I`
+USMDZ3`  072`  EWI`  E`
+USMDZ3`  074`  EWI`  E`
+USMDZ3`  076`  EWI`  E`
+USMDZ3`  081`  EWI`  E`
+USMDZ3`  085`  EWI`  E`
+USMDZ3`  097`  EWI`  E`
+USMDZ3`  098`  EWI`  E`
+USMDZ3`  099`  EWI`  E`
+USMDZ3`  201`  EWI`  E`
+USMDZ3`  202`  EWI`  E`
+USMDZ3`  203`  EWI`  E`
+USMDZ3`  204`  EWI`  E`
+USMDZ3`  206`  EWI`  E`
+USMDZ3`  207`  EWI`  E`
+USMDZ3`  208`  EWI`  E`
+USMDZ3`  209`  EWI`  E`
+USMDZ3`  210`  EWI`  E`
+USMDZ3`  211`  EWI`  E`
+USMDZ3`  212`  EWI`  E`
+USMDZ3`  213`  EWI`  E`
+USMDZ3`  214`  EWI`  E`
+USMDZ3`  215`  EWI`  E`
+USMDZ3`  216`  EWI`  W`
+USMDZ3`  217`  EWI`  E`
+USMDZ3`  218`  EWI`  E`
+USMDZ3`  219`  EWI`  E`
+USMDZ3`  220`  EWI`  W`
+USMDZ3`  221`  EWI`  E`
+USMDZ3`  222`  EWI`  E`
+USMDZ3`  223`  EWI`  W`
+USMDZ3`  224`  EWI`  E`
+USMDZ3`  225`  EWI`  E`
+USMDZ3`  226`  EWI`  E`
+USMDZ3`  227`  EWI`  E`
+USMDZ3`  228`  EWI`  W`
+USMDZ3`  229`  EWI`  E`
+USMDZ3`  230`  EWI`  W`
+USMDZ3`  231`  EWI`  E`  X
+USMDZ3`  232`  EWI`  I`
+USMDZ3`  233`  EWI`  W`
+USMDZ3`  234`  EWI`  E`
+USMDZ3`  235`  EWI`  E`
+USMDZ3`  236`  EWI`  E`
+USMDZ3`  237`  EWI`  E`
+USMDZ3`  239`  EWI`  E`
+USMDZ3`  241`  EWI`  I`
+USMDZ3`  242`  EWI`  E`
+USMDZ3`  243`  EWI`  E`
+USMDZ3`  244`  EWI`  E`
+USMDZ3`  245`  EWI`  W`
+USMDZ3`  246`  EWI`  W`
+USMDZ3`  247`  EWI`  W`
+USMDZ3`  248`  EWI`  W`
+USMDZ3`  249`  EWI`  I`
+USMDZ3`  250`  EWI`  E`
+USMDZ3`  251`  EWI`  I`
+USMDZ3`  252`  EWI`  E`
+USMDZ3`  253`  EWI`  I`
+USMDZ3`  254`  EWI`  I`
+USMDZ3`  255`  EWI`  E`
+USMDZ3`  256`  EWI`  E`
+USMDZ3`  257`  EWI`  I`
+USMDZ3`  258`  EWI`  I`
+USMDZ3`  259`  EWI`  E`
+USMDZ3`  260`  EWI`  E`
+USMDZ3`  261`  EWI`  E`
+USMDZ3`  262`  EWI`  E`
+USMDZ3`  263`  EWI`  W`
+USMDZ3`  264`  EWI`  W`
+USMDZ3`  265`  EWI`  E`
+USMDZ3`  266`  EWI`  E`
+USMDZ3`  267`  EWI`  E`
+USMDZ3`  268`  EWI`  E`
+USMDZ3`  269`  EWI`  E`
+USMDZ3`  270`  EWI`  E`
+USMDZ3`  271`  EWI`  E`
+USMDZ3`  272`  EWI`  E`
+USMDZ3`  273`  EWI`  E`
+USMDZ3`  274`  EWI`  E`
+USMDZ3`  275`  EWI`  E`
+USMDZ3`  276`  EWI`  E`
+USMDZ3`  277`  EWI`  E`
+USMDZ3`  278`  EWI`  E`
+USMDZ3`  279`  EWI`  E`
+USMDZ3`  280`  EWI`  E`
+USMDZ3`  281`  EWI`  E`
+USMDZ3`  282`  EWI`  E`
+USMDZ3`  283`  EWI`  E`
+USMDZ3`  284`  EWI`  E`
+USMDZ3`  285`  EWI`  E`
+USMDZ3`  286`  EWI`  E`
+USMDZ3`  287`  EWI`  E`
+USMDZ3`  288`  EWI`  E`
+USMDZ3`  289`  EWI`  E`
+USMDZ3`  290`  EWI`  E`
+USMDZ3`  291`  EWI`  E`
+USMDZ3`  292`  EWI`  E`
+USMDZ3`  293`  EWI`  E`
+USMDZ3`  294`  EWI`  E`
+USMDZ3`  295`  EWI`  E`
+USMDZ3`  296`  EWI`  E`
+USMDZ3`  297`  EWI`  E`
+USMDZ3`  298`  EWI`  E`
+USMDZ3`  299`  EWI`  E`
+USMDZ3`  300`  EWI`  E`
+USMDZ3`  301`  EWI`  E`
+USMDZ3`  302`  EWI`  W`
+USMDZ3`  303`  EWI`  E`
+USMDZ3`  304`  EWI`  E`
+USMDZ3`  305`  EWI`  E`
+USMDZ3`  306`  EWI`  W`
+USMDZ3`  307`  EWI`  W`
+USMDZ3`  308`  EWI`  E`
+USMDZ3`  309`  EWI`  W`
+USMDZ3`  310`  EWI`  E`
+USMDZ3`  311`  EWI`  E`
+USMDZ3`  312`  EWI`  E`
+USMDZ3`  313`  EWI`  E`
+USMDZ3`  314`  EIW`  E`
+USMDZ3`  316`  EWI`  E`
+USMDZ3`  317`  EWI`  E`
+USMDZ3`  318`  EWI`  E`
+USMDZ3`  319`  EWI`  E`
+USMDZ3`  320`  EWI`  E`
+USMDZ3`  321`  EWI`  E`
+USMDZ3`  322`  EWI`  W`
+USMDZ3`  323`  EWI`  E`
+USMDZ3`  324`  EWI`  E`
+USMDZ3`  325`  EWI`  E`
+USMDZ3`  326`  EWI`  E`
+USMDZ3`  327`  EWI`  E`
+USMDZ3`  328`  EWI`  E`
+USMDZ3`  329`  EWI`  W`
+USMDZ3`  330`  EWI`  E`
+USMDZ3`  331`  EWI`  E`
+USMDZ3`  332`  EWI`  E`
+FTR0`  169`  WEI`  W`  X
+USMDZ3`  335`  EWI`  E`
+USMDZ3`  336`  EWI`  E`
+USMDZ3`  337`  EWI`  E`
+USMDZ3`  338`  EWI`  E`
+USMDZ3`  339`  EWI`  E`
+USMDZ3`  340`  EWI`  E`
+USMDZ3`  341`  EWI`  E`
+USMDZ3`  342`  EWI`  E`
+USMDZ3`  343`  EWI`  E`
+USMDZ3`  344`  EWI`  E`
+USMDZ3`  345`  EWI`  E`
+USMDZ3`  346`  EWI`  E`
+USMDZ3`  347`  EWI`  E`
+USMDZ3`  348`  EWI`  E`
+USMDZ3`  349`  EWI`  E`
+USMDZ3`  350`  EWI`  E`
+USMDZ3`  351`  EWI`  E`
+USMDZ3`  352`  EWI`  E`
+USMDZ3`  353`  EWI`  E`
+USMDZ3`  354`  EWI`  E`
+USMDZ3`  355`  EWI`  W`
+USMDZ3`  356`  EWI`  E`
+USMDZ3`  357`  EWI`  E`
+USMDZ3`  358`  EWI`  E`
+USMDZ3`  359`  EWI`  E`
+USMDZ3`  360`  EWI`  E`
+USMDZ3`  361`  EWI`  E`
+USMDZ3`  362`  EWI`  E`
+USMDZ3`  363`  EWI`  W`
+USMDZ3`  364`  EWI`  E`
+USMDZ3`  365`  EWI`  E`
+FTR_GUI`  630`  EI`  E`
+USMDZ3`  367`  EWI`  E`
+FTR_LC`  022`  EW-`  E`  X
+V/`  053`  E`  E`  X
+VAL`  114`  WE`  E`  X
+VAL`  224`  WE`  W`
+VAL`  225`  WE`  W`
+VAL`  704`  WE`  -`  X
+VMD_API`  041`  EWI`  E`  X
+VMD_API`  043`  EWI`  W`  X
+VMD_API`  783`  EWIS`  I`  X
+VMD_API`  784`  I`  -`  X
+VMD_API`  785`  I`  -`  X
+VPKGUI`  027`  EW`  E`
+WAB`  033`  EW`  E`  X
+WAB`  119`  E`  E`  X
+WAB`  120`  E`  E`  X
+WB2B`  074`  EWIS`  E`
+WB2B`  094`  EWIS-`  E`  X
+WB2B`  095`  EIWS`  W`  X
+WB2B`  285`  SIW`  I`  X
+WB2B`  513`  WIE`  -`  X
+WB2B`  514`  WIE`  -`  X
+WB2B`  526`  IEWS`  E`  X
+WB2B`  529`  EISW`  E`  X
+WB2B`  530`  EISW`  E`  X
+WB2B`  531`  WIES`  W`  X
+WB2B`  552`  EWIS`  E`  X
+WB2B`  553`  EWIS`  E`  X
+WB2R`  108`  IEW`  I`  X
+WB2R`  164`  E`  E`  X
+WB2R`  218`  E`  E`  X
+WB2R`  219`  E`  E`  X
+FTR_LC`  116`  EW-`  E`  X
+FWTR`  122`  WE-`  -`  X
+WRF_MRM_PREPAY`  196`  E`  E`  X
+WRF_PRC_CTR`  000`  E`  E`
+WRF_PRC_CTR`  027`  EIW`  W`  X
+WRF_PRC_CTR`  120`  AEIW`  E`
+WRF_PRC_CTR`  121`  AEIW`  -`  X
+WRF_PRC_CTR`  122`  AEIW`  W`  X
+WRF_PRC_POHF`  185`  W`  W`  X
+WRF_PRC_POHF`  226`  EW`  W`  X
+WRF_PRC_POHF`  234`  EW`  W`  X
+WRF_PRC_POHF`  235`  EW`  W`  X
+WRF_PRC_POHF`  241`  EW`  `  X
+WRF_PRC_SCD`  408`  WI`  W`  X
+WRF_PRC_SCD`  409`  WI`  W`  X
+WRF_PRC_SCD`  410`  WI`  W`  X
+WRF_PRC_SCD`  413`  WI`  I`  X
+WRF_PRC_SCD`  414`  WI`  I`  X
+WRF_PRC_SCD`  431`  EW`  W`  X
+WRF_PRC_SCD`  439`  EWI`  W`  X
+WRF_PRC_SCD`  443`  WI`  W`  X
+WRF_PRC_SCD`  454`  IW`  W`  X
+WRF_PRC_SCD`  487`  EWI`  E`  X
+WRF_PRC_SCD`  521`  EW`  E`  X
+WRF_PRC_SCD`  524`  IW`  I`  X
+WRF_PRC_SCD`  527`  EW`  W`  X
+WRF_PRC_SCD`  529`  IWE`  W`  X
+WS`  010`  WE`  W`  X
+WS`  029`  E`  E`  X
+WS`  030`  I`  I`  X
+WS`  054`  I`  I`  X
+WS`  089`  EW`  W`  X
+WS`  094`  EWI`  E`  X
+WS`  102`  WEI`  W`  X
+WS`  108`  EWI-`  W`  X
+WS`  113`  EIWS`  W`  X
+WS`  120`  EIWS`  W`  X
+WS`  121`  EW`  W`  X
+WS`  127`  I`  I`  X
+WS`  211`  E`  E`  X
+WS`  219`  WI`  I`  X
+WS`  233`  EIWS`  E`  X
+WS`  234`  EIWS`  E`  X
+WS`  268`  E`  E`  X
+WS`  296`  EWIS-`  -`  X
+WS`  297`  EWIS-`  E`  X
+WS`  382`  WEIS`  W`  X
+WS`  474`  I`  I`  X
+WS`  475`  WEI`  E`  X
+WS`  476`  I`  I`  X
+WS`  477`  WEI`  E`  X
+WS`  478`  I`  I`  X
+WS`  479`  I`  I`  X
+WS`  480`  WIE`  E`  X
+WS`  493`  WIE`  E`  X
+WS`  538`  EWI`  E`  X
+WS`  541`  E`  E`  X
+WS`  542`  E`  E`  X
+WS`  588`  EW`  W`  X
+WS`  589`  EW`  W`  X
+WS`  598`  WE`  E`  X
+WS`  642`  E`  E`  X
+WS`  665`  WIEA`  A`  X
+WS`  682`  E-`  E`
+WS`  701`  EWIS`  S`  X
+WS`  704`  WEIS`  I`  X
+WS`  705`  WEIS`  I`  X
+WS`  723`  IEWS`  E`  X
+WS`  748`  IWS`  E`  X
+WS`  749`  IWS`  E`  X
+WS`  815`  S`  S`  X
+WS`  820`  EI`  I`
+WS`  828`  E`  E`  X
+WS`  833`  EWI`  W`  X
+WS`  837`  E`  E`  X
+WS`  845`  EWI-`  -`  X
+WS`  855`  E`  E`  X
+WS`  856`  E`  E`  X
+WS`  896`  EWI-`  -`  X
+WS_EA`  016`  I`  I`  X
+WY`  106`  WE`  W`  X
+WY`  107`  WE`  W`  X
+WY`  178`  WE`  W`  X
+WY`  179`  WE`  W`  X
+WY`  182`  WE`  W`  X
+WY`  778`  EWI`  `  X
+WY`  783`  EWIS`  I`  X
+XS`  138`  IWE`  I`
+FZ`  497`  A`  -`  X
+GA`  727`  EWI`  W`  X
+GA`  901`  IWE`  I`  X
+GH`  067`  SIWEA`  E`  X
+GLT0`  100`  IE`  I`  X
+GMCUSTOM`  031`  EWI`  W`  X
+GMCUSTOM`  032`  EWI`  W`  X
+HRFPMCUSTOM`  116`  WI-`  -`  X
+HRFPMCUSTOM`  117`  WI-`  -`  X
+HRPADPL_LEAVES`  018`  WE`  W`
+HRPADPL_LEAVES`  019`  WE`  W`
+HRPADPL_LEAVES`  020`  WE`  W`
+HRPADRUIT`  090`  WE`  W`  X
+HRPADRUIT`  091`  WE`  W`  X
+HRPADRUIT`  093`  WE`  W`  X
+HRPADRUIT`  102`  WE`  W`  X
+HRPADRU_COMMON_REPS`  016`  WESI-`  W`
+HRPADRU_COMMON_REPS`  017`  WEI-`  W`
+HRPADRU_COMMON_REPS`  868`  WE-`  W`  X
+HRPADRU_COMMON_REPS`  892`  WESI-`  E`
+HRPADRU_FIAS`  049`  WISE`  W`
+HRPADRU_FSS_CR`  021`  EWS-`  W`
+HRPADRU_FSS_CR`  022`  EWS-`  W`
+HRPADRU_FSS_CR`  051`  EW`  E`
+HRPADUAREPORTS`  078`  WE`  W`
+HRPADUAREPORTS`  079`  WE`  E`
+HRPAYRULOG`  360`  WE`  E`
+ICL_CONF_ACT`  001`  IS`  I`  X
+ID_PL_DP`  049`  WIE`  E`  X
+KM`  844`  -E`  -`  X
+M8`  804`  WE`  -`  X
+M8`  805`  WE`  -`  X
+MDC_BP_MODEL`  060`  EIW-`  I`
+OIUCA`  139`  EIW`  W`
+OIUCA`  372`  EIW`  W`
+PTRA_DIALOGUE`  120`  WE`  -`  X
+REBD`  063`  E`  E`  X
+REBD`  064`  E`  E`  X
+REBD`  065`  E`  E`  X
+REBD`  066`  E`  E`  X
+REBDMS`  046`  EW`  W`
+REBDMS`  047`  EW`  W`
+REBDOA`  014`  WE`  E`
+RECAAR`  095`  SI`  I`  X
+RECAAR`  100`  E`  E`  X
+RECAAR`  101`  E`  E`  X
+RECEAA`  033`  E`  E`  X
+RECEPR`  151`  SWE`  E`  X
+RECEPR`  180`  SWE`  E`  X
+RECETM`  091`  WEIS`  W`  X
+RECETM`  093`  EW`  E`
+RECETM`  206`  WEIS`  E`  X
+RECN`  069`  WE`  W`  X
+RECNDP`  021`  WE`  W`  X
+REEXFI`  420`  EW`  W`  X
+REEXFI`  451`  EW`  E`
+REEXFM`  039`  WE-`  E`  X
+REEXFM`  080`  WE-`  W`  X
+RERAIV`  035`  EW`  E`
+RERAIV`  045`  EW`  E`
+RESCAJ`  086`  EW`  E`  X
+RESCCP`  009`  WE`  E`
+RY`  042`  IWE`  -`  X
+RY`  486`  W`  W`  X
+T4`  277`  IWE-`  E`  X
+TAX_TXJCD`  792`  E`  E`  X
+TPM_AD`  213`  WE-`  E`
+TPM_PFL`  023`  WIE`  W`
+TPM_TRPA_POS_CLASS`  063`  WE`  W`
+TPM_TRPA_POS_CLASS`  064`  WE`  W`
+TRS0`  085`  EWI-`  E`  X
+USMDZ3`  368`  EWI`  E`
+WB2R`  255`  WE`  W`  X
+WB2R`  256`  WE`  W`  X
+USMDZ3`  334`  EWI`  E`
+USMDZ3`  366`  EWI`  E`
+FPDP_DOWN_PAYMENTS`  001`  EWIS`  E`  X
+M8`  705`  WE`  -`  X
+M8`  707`  WE`  -`  X
+M8`  766`  W`  W`  X
+M8`  776`  WE`  -`  X
+M8`  777`  WE`  -`  X
+M8`  778`  I`  -`  X
+M8`  774`  WE`  W`  X
+FPRL`  068`  I`  I`  X
+FPRL`  078`  SE`  S`  X
+FPRL`  080`  WE`  E`  X

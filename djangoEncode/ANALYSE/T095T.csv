@@ -1,0 +1,66 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`KTOGR [C(00016)]`KTGRTX [C(00100)]
+400`  E`  00010000`  Real estate and similar rights
+400`  E`  00011000`  Buildings
+400`  E`  00020000`  Machinery and Equipment
+400`  E`  00021000`  Concessions Rights Licenses
+400`  E`  00025000`  Internal Development
+400`  E`  00030000`  Fixtures and Fittings
+400`  E`  00031000`  Vehicles
+400`  E`  00032000`  Hardware (IT)
+400`  E`  00040000`  Down payments paid and assets under construction
+400`  E`  00050000`  Low-value assets
+400`  E`  00060000`  Leasing
+400`  E`  00080000`  Objects of art
+400`  E`  00160000`  Land and Land Improvements
+400`  E`  00160001`  Fixed Asset ROU RE Land - FL
+400`  E`  00160002`  Fixed Asset SL RE Land - OL
+400`  E`  00160010`  Buildings
+400`  E`  00160011`  Fixed Asset ROU RE Building - FL
+400`  E`  00160012`  Fixed Asset SL RE Building - OL
+400`  E`  00160020`  Machinery and Equipment
+400`  E`  00160021`  Fixed Asset ROU Machine - FL
+400`  E`  00160022`  Fixed Asset SL Machine - OL
+400`  E`  00160030`  Leasehold Imrovements
+400`  E`  00160040`  Vehicles
+400`  E`  00160041`  Fixed Asset ROU Vehicle - FL
+400`  E`  00160042`  Fixed Asset SL Vehicle - OL
+400`  E`  00160050`  Office Equipment
+400`  E`  00160051`  Fixed Asset ROU Office Equipment - FL
+400`  E`  00160052`  Fixed Asset SL Office Equipment - OL
+400`  E`  00160060`  Furniture and Fixtures
+400`  E`  00160061`  Fixed Asset ROU Fixtures - FL
+400`  E`  00160062`  Fixed Asset SL Fixtures - OL
+400`  E`  00160070`  Computer Hardware
+400`  E`  00160071`  Fixed Asset ROU Computer - FL
+400`  E`  00160072`  Fixed Asset SL Computer - OL
+400`  E`  00160080`  Computer Software
+400`  E`  00160090`  Assets under Construction
+400`  E`  00160200`  Low Value Assets
+400`  E`  00193300`  Goodwill
+400`  E`  00900000`  Tax only & negative Value Assets
+400`  E`  L16001`  Buildings
+400`  E`  TR250`  Land and construction sites
+400`  E`  TR251`  Infrastructure and structures
+400`  E`  TR252`  Buildings
+400`  E`  TR253`  Assets, machines and devices
+400`  E`  TR254`  Vehicles
+400`  E`  TR255`  Furniture and fittings
+400`  E`  TR256`  Other tangible fixed assets
+400`  E`  TR258`  Asset under construction
+400`  E`  TR260`  Rights
+400`  E`  TR261`  Goodwill
+400`  E`  TR262`  Organization costs
+400`  E`  TR263`  Research and development costs
+400`  E`  TR264`  Special costs
+400`  E`  TR267`  Other intangible fixed assets
+400`  E`  X1000`  Machinery and Equipment
+400`  E`  X2000`  Machinery and Equipment
+400`  E`  X3000`  Machinery and Equipment
+400`  E`  X4000`  Machinery and Equipment
+400`  E`  Z001`  Buildings
+400`  E`  Z002`  Machinery and Equipment
+400`  E`  ZP1601`  Buildings
+400`  E`  ZP1602`  Buildings
+400`  E`  ZP1603`  Buildings
+400`  E`  ZZSY3200`  Computer Hardware
+400`  E`  ZZSY4000`  Down payments paid and assets under construction

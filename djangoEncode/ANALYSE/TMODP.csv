@@ -1,0 +1,2157 @@
+﻿FAUNA [C(00022)]`MODIF [C(00006)]`SPRAS [C(00002)]`FTEXT [C(00060)]
+FVV-D`  001`  E`  Commitment Date
+FVV-D`  002`  E`  Approval Date
+FVV-D`  003`  E`  Loan Type
+FVV-D`  004`  E`  Loan Class
+FVV-D`  005`  E`  Currency
+FVV-D`  006`  E`  Total Capital Syndicated Loan
+FVV-D`  007`  E`  Finance Project
+FVV-D`  008`  E`  Primary Collateral
+FVV-D`  009`  E`  Alternative Number 1
+FVV-D`  010`  E`  Alternative Number 2
+FVV-D`  011`  E`  File Number
+FVV-D`  012`  E`  Note to Payee
+FVV-D`  013`  E`  Type of Financing
+FVV-D`  014`  E`  IP Distribution Control
+FVV-D`  016`  E`  Authorization Group
+FVV-D`  017`  E`  Asset Grouping
+FVV-D`  018`  E`  SCB Asset Group
+FVV-D`  019`  E`  Balance Sheet Indicator
+FVV-D`  020`  E`  Group Key 1
+FVV-D`  021`  E`  Group Key 2
+FVV-D`  022`  E`  Group Key 3
+FVV-D`  023`  E`  Group Key 4
+FVV-D`  024`  E`  Sales Region
+FVV-D`  025`  E`  Manual Dunning Level
+FVV-D`  026`  E`  Minimum Assignment Amount
+FVV-D`  027`  E`  Planned/Actual Principle
+FVV-D`  028`  E`  Bank Details for Loans
+FVV-D`  029`  E`  Loan Type Acc. to GBA §14
+FVV-D`  030`  E`  Loan Type Acc.to Aus.Bank Act
+FVV-D`  031`  E`  Loan Maturity
+FVV-D`  032`  E`  DTI Indicator
+FVV-D`  033`  E`  Home Statement
+FVV-D`  034`  E`  Preferential Treatment ID
+FVV-D`  035`  E`  Special Treatment of Posting
+FVV-D`  036`  E`  Applic.Capital / Applic.Date
+FVV-D`  037`  E`  Security Type
+FVV-D`  038`  E`  Restraint on Drawing
+FVV-D`  039`  E`  Guarantee Number
+FVV-D`  040`  E`  Validity Period End
+FVV-D`  041`  E`  Commitment capital
+FVV-D`  042`  E`  Contract / contract date
+FVV-D`  043`  E`  Notice date (borrower)
+FVV-D`  044`  E`  Notice date (lender)
+FVV-D`  045`  E`  Offer on / Offer upto
+FVV-D`  046`  E`  Offer reserved on / upto
+FVV-D`  047`  E`  Offer acceptance
+FVV-D`  048`  E`  Start of fixed period
+FVV-D`  049`  E`  Effective interest method
+FVV-D`  050`  E`  Internal effective int/methods
+FVV-D`  051`  E`  Special interest ID
+FVV-D`  052`  E`  Comparative effective interest
+FVV-D`  053`  E`  Repayment type
+FVV-D`  054`  E`  Discount calculation method
+FVV-D`  055`  E`  Borrower's note loan post.sys.
+FVV-D`  056`  E`  Short name
+FVV-D`  057`  E`  Long name
+FVV-D`  058`  E`  District / Organization dist.
+FVV-D`  059`  E`  Branch office
+FVV-D`  060`  E`  Assignment
+FVV-D`  061`  E`  Syndic.loan contract clos.date
+FVV-D`  062`  E`  Number of syndicate members
+FVV-D`  063`  E`  No. of possible assignments
+FVV-D`  064`  E`  Foreign assignment possible
+FVV-D`  065`  E`  Assignee
+FVV-D`  066`  E`  No. of assignment contract
+FVV-D`  067`  E`  Assignment date
+FVV-D`  068`  E`  Reservation to accept
+FVV-D`  069`  E`  Interest calculation method
+FVV-D`  070`  E`  Restraint on disposal upto
+FVV-D`  071`  E`  Accrual/deferral method
+FVV-D`  072`  E`  Fixed contract control
+FVV-D`  073`  E`  Capital not guaranteed
+FVV-D`  074`  E`  Date of legal notice
+FVV-D`  075`  E`  Legal termination excluded
+FVV-D`  076`  E`  Country
+FVV-D`  077`  E`  Notice Type
+FVV-D`  078`  E`  Cancellation Reason
+FVV-D`  079`  E`  Lender notice agreements
+FVV-D`  080`  E`  Borrower notice agreements
+FVV-D`  081`  E`  Borrower notice date
+FVV-D`  082`  E`  Assignment
+FVV-D`  083`  E`  Internal bank account
+FVV-D`  084`  E`  Portfolio
+FVV-D`  085`  E`  Eff.int.rate calculation from
+FVV-D`  086`  E`  Business area
+FVV-D`  087`  E`  External account statement
+FVV-D`  088`  E`  Interest certificate
+FVV-D`  089`  E`  No dunning for loan
+FVV-D`  090`  E`  Dunning summarization level
+FVV-D`  091`  E`  Inc.payt dist lock due to rpyt
+FVV-D`  092`  E`  General Valuation Class
+FVV-D`  093`  E`  Value Adjustment
+FVV-D`  094`  E`  Correspondence Role
+FVV-D`  095`  E`  No Status Plan Completed
+FVV-D`  096`  E`  Fixed Period End
+FVV-D`  097`  E`  Internal reference
+FVV-D`  098`  E`  Characteristics
+FVV-D`  099`  E`  Date of market interest rate
+FVV-D`  109`  E`  Consumer Loan Class
+FVV-D`  110`  E`  Compl. Identification Code
+FVV-D`  129`  E`  Add. Effective Interest Rate
+FVV-D`  015`  E`  SPPI Classification
+FVV-D`  130`  E`  Syndicated contract identifier
+FVV-D`  131`  E`  Recourse
+FVV-D`  132`  E`  Project finance loan
+FVV-D`  133`  E`  Type of securitisation
+FVV-IBW`  001`  E`  Date received
+FVV-IVW`  001`  E`  Business area
+FVV-W010`  001`  E`  Long name
+FVV-W020`  001`  E`  Long name
+FVV-W030`  001`  E`  Long name
+FVV-W040`  001`  E`  Long name
+FVV-W041`  001`  E`  Long name
+FVV-W042`  001`  E`  Long Name
+FVV-W060`  001`  E`  Long name
+FVV-W070`  001`  E`  Long name
+FVV-W111`  001`  E`  Long name
+FVV-W112`  001`  E`  Long name
+FVV-W113`  001`  E`  Long name
+FVV-W114`  001`  E`  Long name
+FVV-W160`  001`  E`  Long name
+FVV-W700`  001`  E`  Long Name
+FVV-W750`  001`  E`  Long Name
+RERAOPBD`  001`  E`  Currency
+T077D-FAUSF`  001`  E`  Reconciliation account
+T077K-FAUSA`  001`  E`  Name 1
+T077K-FAUSF`  001`  E`  Reconciliation account
+T077K-FAUSM`  001`  E`  Purchase order currency
+T077K-FAUST`  001`  E`  Purchase order currency
+T077K-FAUSW`  001`  E`  Purchase order currency
+T077S-FAUSS`  001`  E`  Currency
+FVV-CL`  001`  E`  Manual Dunning Level
+FVV-ENH`  001`  E`  Status Non-Performing
+FVV-IME`  001`  E`  Usage Type
+FVV-W`  001`  E`  Counterparty
+FVV-WDEP`  001`  E`  Securities account name
+MEWE-STAMM`  001`  E`  ID number
+MEWE-STAMM`  006`  E`  Asset Type
+MEWE-UMBUCH`  001`  E`  Id number
+MEWE-UMBUCH`  006`  E`  NV 101/201/600
+RERAOPBD`  006`  E`  House Bank/House Bank Account
+RERAOPIT`  001`  E`  Flow Type
+RERAOPIT`  006`  E`  Tax Type/Tax Group
+SKB1-FAUS1`  001`  E`  Assignment number
+SKB1-FAUS1`  006`  E`  Value date
+T037-AUSWA`  001`  E`  Value date/planning date
+T037-AUSWA`  006`  E`  Local currency fields
+T077D-FAUSA`  001`  E`  Name 1/last name
+T077D-FAUSV`  001`  E`  Sales group
+T077D-FAUSW`  001`  E`  Company code
+T156B-FAUSW`  001`  E`  Assignment number    (FI only)
+TESTFDIS`  001`  E`  Value date
+TIV00-FS-GB`  001`  E`  Land register type
+TIV00-FS-GE`  001`  E`  Text on building
+TIV00-FS-GR`  001`  E`  Text on property
+TIV00-FS-WE`  001`  E`  Text on business entity
+TWRF2-FAUSW`  001`  E`  Form of Address
+FVV-CL`  006`  E`  Sales Region
+FVV-ENH`  006`  E`  Int. to Non-Perf. Classifictn
+FVV-IBW`  006`  E`  Entitlement certificate
+FVV-IME`  006`  E`  RU linked to
+FVV-IVW`  006`  E`  Acct determin.value
+FVV-W`  006`  E`  Option ratio
+FVV-W010`  006`  E`  Tax treatment
+FVV-W020`  006`  E`  Tax treatment
+FVV-W030`  006`  E`  Tax treatment
+FVV-W040`  006`  E`  Tax treatment
+FVV-W041`  006`  E`  Tax treatment
+T077D-FAUSA`  006`  E`  Postal code, city
+T077D-FAUSF`  006`  E`  Authorization
+T077D-FAUSV`  006`  E`  Sales district
+T077K-FAUSA`  006`  E`  Postal code, city
+T077K-FAUSF`  006`  E`  Authorization
+T077K-FAUSM`  006`  E`  ABC indicator
+T077K-FAUST`  006`  E`  ABC indicator
+T077K-FAUSW`  006`  E`  ABC indicator
+T077S-FAUSS`  006`  E`  Open item management
+T156B-FAUSW`  006`  E`  Value date           (FI only)
+TIV00-FS-GB`  006`  E`  Land
+TIV00-FS-GE`  006`  E`  Number of floors
+TIV00-FS-GR`  006`  E`  Current usage
+TIV00-FS-WE`  006`  E`  Location
+TWRF2-FAUSW`  006`  E`  Name 3
+FVV-W010`  009`  E`  Eligible for PRF
+FVV-W020`  009`  E`  Eligible for PRF
+FVV-W030`  009`  E`  Eligible for PRF
+FVV-W040`  009`  E`  Eligible for PRF
+FVV-W041`  009`  E`  Eligible for PRF
+FVV-W042`  006`  E`  Tax treatment
+FVV-W042`  009`  E`  Eligible for PRF
+FVV-W060`  006`  E`  Tax treatment
+FVV-W060`  009`  E`  Eligible for PRF
+FVV-W070`  006`  E`  Tax treatment
+FVV-W070`  009`  E`  Eligible for PRF
+FVV-W111`  006`  E`  Tax treatment
+FVV-W111`  009`  E`  Eligible for PRF
+FVV-W112`  006`  E`  Tax treatment
+FVV-W112`  009`  E`  Eligible for PRF
+FVV-W113`  006`  E`  Tax treatment
+FVV-W113`  009`  E`  Eligible for PRF
+FVV-W114`  006`  E`  Tax treatment
+FVV-W114`  009`  E`  Eligible for PRF
+FVV-W160`  006`  E`  Tax treatment
+FVV-W160`  009`  E`  Eligible for PRF
+FVV-W700`  006`  E`  Tax treatment
+FVV-W700`  009`  E`  Eligible for PRF
+FVV-W750`  006`  E`  Tax treatment
+FVV-W750`  009`  E`  Eligible for PRF
+FVV-WDEP`  006`  E`  Payee
+T077D-FAUSA`  009`  E`  Region
+T077K-FAUSA`  009`  E`  Region
+TIV00-FS-WE`  009`  E`  District
+FVV-CL`  009`  E`  Agent District
+FVV-ENH`  009`  E`  Days in Arrears
+FVV-IBW`  009`  E`  Reference
+FVV-IME`  009`  E`  Input tax deduct.for vacancy
+FVV-IVW`  009`  E`  Authorization Group
+FVV-WDEP`  009`  E`  Fund Type
+MEWE-STAMM`  009`  E`  Hist. identification number
+MEWE-UMBUCH`  009`  E`  Accepted value currency
+RERAOPBD`  009`  E`  Document Type
+RERAOPIT`  009`  E`  Contract Number
+SKB1-FAUS1`  009`  E`  Material number
+T037-AUSWA`  009`  E`  Characteristic
+T077D-FAUSF`  009`  E`  Payment block
+T077D-FAUSV`  009`  E`  Price list type
+T077K-FAUSF`  009`  E`  Payment block
+T077K-FAUSM`  009`  E`  Autom.generated purchase order
+T077K-FAUST`  009`  E`  Autom.generated purchase order
+T077K-FAUSW`  009`  E`  Autom.generated purchase order
+T077S-FAUSS`  009`  E`  Field status group
+T156B-FAUSW`  009`  E`  Material number      (FI only)
+TIV00-FS-GB`  009`  E`  Real properties reg.no.
+TIV00-FS-GE`  009`  E`  Heritab. build.right
+TIV00-FS-GR`  009`  E`  Transfer usge/charges
+TWRF2-FAUSW`  009`  E`  Name 4
+FVV-CL`  005`  E`  Authorization Group
+FVV-ENH`  005`  E`  Unpaid Interest
+FVV-IBW`  005`  E`  Creditworthiness
+FVV-IME`  005`  E`  RU no. old
+FVV-IVW`  005`  E`  Manager
+FVV-W`  005`  E`  Internal bank account
+FVV-WDEP`  005`  E`  Net worth tax
+MEWE-STAMM`  005`  E`  Subsection
+MEWE-UMBUCH`  005`  E`  Tax office stock indicator
+RERAOPBD`  005`  E`  Reference
+RERAOPIT`  005`  E`  Value Date
+SKB1-FAUS1`  005`  E`  Due Date
+T037-AUSWA`  005`  E`  Planned currency fields
+T077D-FAUSA`  005`  E`  Name 3, name 4
+T077D-FAUSF`  005`  E`  Head office
+T077D-FAUSV`  005`  E`  Customer group
+T077K-FAUSA`  005`  E`  Name 3, name 4
+T077K-FAUSF`  005`  E`  Head office
+T077K-FAUSM`  005`  E`  Name, tel. (salesperson)
+T077K-FAUST`  005`  E`  Name, tel. (salesperson)
+T077K-FAUSW`  005`  E`  Name, tel. (salesperson)
+T156B-FAUSW`  005`  E`  Due date             (FI only)
+TIV00-FS-GB`  005`  E`  ID: Entry deleted
+TIV00-FS-GE`  005`  E`  Building condition
+TIV00-FS-GR`  005`  E`  Usage acc.to developm.plan
+TWRF2-FAUSW`  005`  E`  Search term 2
+FVV-W010`  005`  E`  Listed
+FVV-W010`  008`  E`  Eligible as collateral
+FVV-W020`  005`  E`  Listed
+FVV-W020`  008`  E`  Eligible as collateral
+FVV-W030`  005`  E`  Listed
+FVV-W040`  005`  E`  Listed
+FVV-W040`  008`  E`  Eligible as collateral
+FVV-W041`  005`  E`  Listed
+FVV-W041`  008`  E`  Eligible as collateral
+FVV-W042`  005`  E`  Listed
+FVV-W060`  005`  E`  Listed
+FVV-W060`  008`  E`  Eligible as collateral
+FVV-W070`  005`  E`  Listed
+FVV-W070`  008`  E`  Eligible as collateral
+FVV-W111`  005`  E`  Listed
+FVV-W112`  005`  E`  Listed
+FVV-W113`  005`  E`  Listed
+FVV-W114`  005`  E`  Listed
+FVV-W160`  005`  E`  Listed
+FVV-W700`  005`  E`  Listed
+FVV-W750`  005`  E`  Listed
+FVV-WDEP`  008`  E`  Business area
+T077D-FAUSA`  008`  E`  District
+T077K-FAUSA`  008`  E`  District
+FVV-CL`  008`  E`  Organizational District
+FVV-ENH`  008`  E`  Calculate Parameters
+FVV-IBW`  008`  E`  Age/sex of children
+FVV-IME`  008`  E`  Subsequent rental from
+FVV-IVW`  008`  E`  Correspondence partner
+FVV-W042`  008`  E`  Eligible as Collateral
+FVV-W160`  008`  E`  Eligible as collateral
+FVV-W700`  008`  E`  Eligible as Collateral
+FVV-W750`  008`  E`  Eligible as Collateral
+MEWE-STAMM`  008`  E`  Tax office stock indicator
+MEWE-UMBUCH`  008`  E`  Accepted value
+RERAOPBD`  008`  E`  Posting Date
+RERAOPIT`  008`  E`  Due Date
+SKB1-FAUS1`  008`  E`  Cash discount deduction
+SKB1-FAUS1`  011`  E`  CO/PP order
+T037-AUSWA`  008`  E`  Assignment number
+T037-AUSWA`  011`  E`  Reference
+T077D-FAUSF`  008`  E`  Bill of exch. charges terms
+T077D-FAUSV`  008`  E`  Price group
+T077K-FAUSF`  008`  E`  Double invoice validation
+T077K-FAUSM`  008`  E`  Order acknwl. reqmt.
+T077K-FAUST`  008`  E`  Order acknwl. reqmt.
+T077K-FAUSW`  008`  E`  Order acknwl. reqmt.
+T077S-FAUSS`  008`  E`  Authorization group
+T156B-FAUSW`  008`  E`  Cash discnt deduction(FI only)
+TIV00-FS-GB`  008`  E`  Note on plots
+TIV00-FS-GE`  008`  E`  Top floor
+TIV00-FS-GR`  008`  E`  Plan dated
+TIV00-FS-WE`  008`  E`  Location
+FVV-CL`  011`  E`  Currency
+FVV-ENH`  011`  E`  Reset Days
+FVV-IBW`  011`  E`  Number of persons
+FVV-IME`  011`  E`  Cost center for vacancy
+FVV-W010`  011`  E`  Possible custody type
+FVV-W020`  011`  E`  Possible custody type
+FVV-W030`  011`  E`  Possible custody type
+FVV-W040`  011`  E`  Possible custody type
+FVV-W041`  011`  E`  Possible custody type
+FVV-W042`  011`  E`  Possible Custody Type
+T077D-FAUSA`  011`  E`  Teletex
+T077D-FAUSF`  011`  E`  Alternative payer account
+T077D-FAUSV`  011`  E`  Units of measure group
+T077D-FAUSW`  011`  E`  Placement profile
+T077K-FAUSA`  011`  E`  Teletex
+T077K-FAUSF`  011`  E`  Alternative payee account
+T077K-FAUSM`  011`  E`  Mode of transport
+T077K-FAUST`  011`  E`  Mode of transport
+T077K-FAUSW`  011`  E`  Mode of transport
+T077S-FAUSS`  011`  E`  Supplement automatic postings
+T156B-FAUSW`  011`  E`  CO/PP order
+TIV00-FS-GB`  011`  E`  Attributed property
+TIV00-FS-GE`  011`  E`  Elev. to floor
+TIV00-FS-GR`  011`  E`  Sale date
+TIV00-FS-WE`  011`  E`  Authorization Group
+TWRF2-FAUSW`  011`  E`  PO Box
+FVV-IBW`  012`  E`  Rejection
+FVV-W010`  012`  E`  Securities account statistics
+FVV-W020`  012`  E`  Securities account statistics
+FVV-W040`  012`  E`  Securities account statistics
+FVV-W041`  012`  E`  Securities account statistics
+FVV-W042`  012`  E`  Securities account statistics
+FVV-W060`  012`  E`  Securities account statistics
+FVV-W070`  011`  E`  Possible custody type
+FVV-W070`  012`  E`  Securities account statistics
+FVV-W112`  011`  E`  Possible custody type
+FVV-W160`  012`  E`  Securities account statistics
+FVV-W700`  011`  E`  Possible Custody Type
+FVV-W700`  012`  E`  Securities account statistics
+FVV-W750`  011`  E`  Possible Custody Type
+FVV-W750`  012`  E`  Securities account statistics
+FVV-WDEP`  011`  E`  Payment Currency
+MEWE-STAMM`  011`  E`  Approval date
+RERAOPBD`  011`  E`  Exchange Rate/Date
+RERAOPIT`  011`  E`  Payment Method
+SKB1-FAUS1`  012`  E`  WBS element
+T077D-FAUSA`  012`  E`  Telebox
+T077D-FAUSV`  012`  E`  Transportation zone
+T077K-FAUSA`  012`  E`  Telebox
+T077K-FAUSM`  012`  E`  Office of exit
+T077K-FAUST`  012`  E`  Office of exit
+T077K-FAUSW`  012`  E`  Office of exit
+T156B-FAUSW`  012`  E`  Project
+FVV-CL`  012`  E`  Day of Installment Payment
+FVV-ENH`  012`  E`  Status Delinquent
+FVV-IME`  012`  E`  Occupancy Obligation
+FVV-W`  012`  E`  Order notation
+FVV-WDEP`  012`  E`  Validity
+MEWE-STAMM`  012`  E`  Approval file number
+RERAOPIT`  012`  E`  Payment Block
+T077D-FAUSF`  012`  E`  Clearing with vendor
+T077D-FAUSW`  012`  E`  Area profile
+T077K-FAUSF`  012`  E`  Clearing with customer
+T077S-FAUSS`  012`  E`  Blocked for posting
+TIV00-FS-GB`  012`  E`  Property old
+TIV00-FS-GE`  012`  E`  Protection of Historical Sites
+TIV00-FS-GR`  012`  E`  Permitted surface area
+TWRF2-FAUSW`  012`  E`  City
+RERAOPBD`  012`  E`  Exchange Rate/Date
+T037-AUSWA`  012`  E`  Offset.bank acct/Offset. group
+FVV-CL`  007`  E`  Branch Office
+FVV-ENH`  007`  E`  Int. fm Non-Perf. Classifictn
+FVV-IBW`  007`  E`  No. co-applicants
+FVV-IME`  007`  E`  Init.occup as from
+FVV-IVW`  007`  E`  Managed objects
+FVV-W010`  007`  E`  Security type
+FVV-W020`  007`  E`  Security Type
+FVV-W030`  007`  E`  Possible Custody Type
+FVV-W040`  007`  E`  Security Type
+FVV-W041`  007`  E`  Security Type
+FVV-W042`  007`  E`  Security Type
+FVV-W060`  007`  E`  Security Type
+FVV-W070`  007`  E`  Security Type
+FVV-W160`  007`  E`  Security Type
+FVV-WDEP`  007`  E`  House Bank Account
+MEWE-STAMM`  007`  E`  Place of deposit
+MEWE-UMBUCH`  007`  E`  Settlement currency
+RERAOPBD`  007`  E`  Tax Type/Tax Group
+RERAOPIT`  007`  E`  Jurisdiction
+SKB1-FAUS1`  007`  E`  Payment terms
+T037-AUSWA`  007`  E`  Exchange rate
+T077D-FAUSA`  007`  E`  Street
+T077D-FAUSF`  007`  E`  Terms of payment
+T077D-FAUSV`  007`  E`  Pricing procedure
+T077K-FAUSA`  007`  E`  Street
+T077K-FAUSF`  007`  E`  Terms of payment
+T077K-FAUSM`  007`  E`  Goods-receipt-based inv.verif.
+T077K-FAUST`  007`  E`  Goods-receipt-based inv.verif.
+T077K-FAUSW`  007`  E`  Goods-receipt-based inv.verif.
+T077S-FAUSS`  007`  E`  Sort key
+T156B-FAUSW`  007`  E`  Payment term         (FI only)
+TIV00-FS-GB`  007`  E`  Parcels of land
+TIV00-FS-GR`  007`  E`  Development plan
+TIV00-FS-WE`  007`  E`  Transport connections
+TWRF2-FAUSW`  007`  E`  Language
+FVV-CL`  010`  E`  Loan Type
+FVV-ENH`  010`  E`  Reset Category
+FVV-IBW`  010`  E`  Household income
+FVV-W010`  010`  E`  Eligible as trustee stock
+FVV-W020`  010`  E`  Eligible as trustee stock
+FVV-W040`  010`  E`  Eligible as trustee stock
+FVV-W041`  010`  E`  Eligible as trustee stock
+FVV-W042`  010`  E`  Eligible as Trustee Stock
+FVV-W060`  010`  E`  Eligible as trustee stock
+FVV-W070`  010`  E`  Eligible as trustee stock
+SKB1-FAUS1`  010`  E`  Cost center
+T037-AUSWA`  010`  E`  Text
+T077D-FAUSA`  010`  E`  Telex, fax, tel.
+T077D-FAUSF`  010`  E`  Payment methods
+T077D-FAUSV`  010`  E`  Shipping condits/POD relevance
+T077D-FAUSW`  010`  E`  Sales area
+T077K-FAUSA`  010`  E`  Telex, fax, tel.
+T077K-FAUSF`  010`  E`  Payment methods
+T077K-FAUSM`  010`  E`  Vendor schema group
+T077S-FAUSS`  010`  E`  Post automatically only
+T156B-FAUSW`  010`  E`  Cost center
+TIV00-FS-GB`  010`  E`  Business type
+TIV00-FS-GE`  010`  E`  Basements
+TIV00-FS-GR`  010`  E`  Sale planned on
+TIV00-FS-WE`  010`  E`  Option rate basis
+TWRF2-FAUSW`  010`  E`  Street
+FVV-W010`  023`  E`  No. of stocks issued
+FVV-W040`  023`  E`  Issuer call
+FVV-W041`  023`  E`  Issuer call
+FVV-W042`  023`  E`  Issuer Call
+FVV-W060`  023`  E`  Issuer call
+FVV-W070`  023`  E`  Issuer call
+FVV-W111`  023`  E`  Exercise minimum
+FVV-W112`  023`  E`  Exercise minimum
+FVV-W113`  023`  E`  Exercise minimum
+FVV-W114`  023`  E`  Exercise minimum
+FVV-W160`  010`  E`  Eligible as trustee stock
+FVV-W160`  023`  E`  No. of stocks issued
+FVV-W700`  010`  E`  Eligible as Trustee Stock
+FVV-W750`  010`  E`  Eligible as Trustee Stock
+FVV-WDEP`  010`  E`  Funds Category
+MEWE-STAMM`  010`  E`  Approval
+MEWE-STAMM`  023`  E`  Accepted value
+RERAOPBD`  010`  E`  Posting Period
+RERAOPIT`  010`  E`  Settlement Reference Date
+RERAOPIT`  023`  E`  Street
+SKB1-FAUS1`  023`  E`  Ext. GA amount in LC
+T037-AUSWA`  023`  E`  Segment
+T077D-FAUSA`  023`  E`  Industry
+T077K-FAUSA`  023`  E`  Industry
+T077K-FAUSF`  023`  E`  W/holding tax exemp.,w/h tax 2
+T156B-FAUSW`  023`  E`  Ext. GA amount in LC
+TWRF2-FAUSW`  023`  E`  c/o name
+FVV-CL`  023`  E`  Loan Maturity
+FVV-IME`  023`  E`  Part of building
+FVV-W010`  013`  E`  Reporting obl. Sec.Trading Law
+FVV-W020`  013`  E`  Reporting obl. Sec.Trading Law
+FVV-W020`  023`  E`  Public fund
+FVV-W040`  013`  E`  Reporting obl. Sec.Trading Law
+FVV-W041`  013`  E`  Reporting obl. Sec.Trading Law
+FVV-W042`  013`  E`  Reporting obl. Sec.Trading Law
+FVV-W700`  013`  E`  Reporting obl. Sec.Trading Law
+FVV-W750`  013`  E`  Reporting obl. Sec.Trading Law
+FVV-W750`  023`  E`  Strike Percentage
+FVV-WDEP`  023`  E`  List of Payment Methods
+MEWE-STAMM`  013`  E`  NV 101/201/600
+SKB1-FAUS1`  013`  E`  Sales order
+T077D-FAUSF`  023`  E`  Collective invoice variant
+T077D-FAUSV`  013`  E`  Incoterms
+T077D-FAUSV`  023`  E`  Billing period
+T077K-FAUSW`  023`  E`  MRP Controller
+T077S-FAUSS`  023`  E`  Account managed in ext. system
+T156B-FAUSW`  013`  E`  Sales order
+TIV00-FS-GB`  023`  E`  Date of appr. conveyance
+TIV00-FS-GE`  023`  E`  Transfer usage / debit
+TIV00-FS-GR`  023`  E`  Purchase price
+TWRF2-FAUSW`  013`  E`  ZIP
+FVV-CL`  013`  E`  Payment Status
+FVV-ENH`  013`  E`  Reason for Delinquency
+FVV-I`  013`  E`  Move-in/move-out date
+FVV-IBW`  013`  E`  Processing indicator
+FVV-IME`  013`  E`  Oblig.to
+FVV-W040`  021`  E`  Classification
+FVV-W041`  021`  E`  Classification
+FVV-W042`  021`  E`  Classification
+FVV-W060`  021`  E`  Classification
+FVV-W070`  021`  E`  Classification
+FVV-WDEP`  013`  E`  Update Type
+RERAOPIT`  013`  E`  Terms of Payment
+T037-AUSWA`  013`  E`  Offsetting company code
+T077D-FAUSA`  013`  E`  Data line
+T077D-FAUSF`  013`  E`  Bill of exchange limit
+T077K-FAUSA`  013`  E`  Data line
+T077K-FAUSF`  013`  E`  Bill of exchange limit
+T077K-FAUSM`  013`  E`  Control pricing date
+T077K-FAUSM`  021`  E`  PO entry: vendor
+T077K-FAUST`  013`  E`  Control pricing date
+T077K-FAUST`  021`  E`  PO entry: vendor
+T077K-FAUSW`  013`  E`  Control pricing date
+T077K-FAUSW`  021`  E`  PO entry: vendor
+T077S-FAUSS`  013`  E`  Blocked for planning
+TIV00-FS-GB`  013`  E`  LocSubDist.
+TIV00-FS-GE`  013`  E`  Planning inquiry
+TIV00-FS-GR`  013`  E`  Permitted Floor Area Ratio
+TIV00-FS-WE`  021`  E`  Jurisdiction code
+FVV-CL`  021`  E`  No Status "Plan Completed"
+FVV-IME`  021`  E`  Rooms
+FVV-W010`  021`  E`  Stock Category
+FVV-W020`  021`  E`  Foreign Investment Law
+FVV-W160`  021`  E`  Stock Category
+FVV-W750`  021`  E`  Strike Amount
+FVV-WDEP`  021`  E`  Determine Grouping Definition
+MEWE-STAMM`  021`  E`  ID R5/97 attachment 10
+RERAOPIT`  021`  E`  Name 2, Name 3, Name 4
+SKB1-FAUS1`  021`  E`  Reservation number
+T037-AUSWA`  021`  E`  Statistics indicator
+T077D-FAUSA`  021`  E`  International location number
+T077D-FAUSF`  021`  E`  Account statement
+T077D-FAUSV`  021`  E`  Order probability
+T077D-FAUSW`  021`  E`  Holiday calendar
+T077K-FAUSA`  021`  E`  International location number
+T077K-FAUSF`  021`  E`  Withholding tax code,w/h tax 2
+T077S-FAUSS`  021`  E`  Bank account
+T156B-FAUSW`  021`  E`  Reservation number   (FI only)
+TIV00-FS-GB`  015`  E`  Location
+TIV00-FS-GB`  021`  E`  Basis of entry
+TIV00-FS-GE`  015`  E`  Applic. for building permit
+TIV00-FS-GE`  021`  E`  Ready for occupancy
+TIV00-FS-GR`  015`  E`  Actual surface area
+TIV00-FS-GR`  021`  E`  Overall condition
+TWRF2-FAUSW`  015`  E`  Postal code/P.O.Box city
+FVV-ENH`  015`  E`  Calculation Method
+FVV-IBW`  015`  E`  Processing status
+FVV-IME`  015`  E`  Reserved until
+FVV-W010`  015`  E`  Indicator: Funded
+FVV-W020`  015`  E`  Indicator: Funded
+FVV-W040`  015`  E`  Indicator: Funded
+FVV-W041`  015`  E`  Indicator: Funded
+FVV-W042`  015`  E`  Indicator: Funded
+FVV-W700`  015`  E`  Indicator: Funded
+FVV-W750`  015`  E`  Indicator: Funded
+FVV-WDEP`  015`  E`  Partner Bank
+MEWE-STAMM`  015`  E`  New entry
+RERAOPIT`  015`  E`  House Bank
+SKB1-FAUS1`  015`  E`  Customer goods movement
+T037-AUSWA`  015`  E`  Transaction type
+T077D-FAUSA`  015`  E`  PO Box
+T077D-FAUSF`  015`  E`  Payment notices
+T077D-FAUSV`  015`  E`  Partial deliveries/tolerances
+T077D-FAUSW`  015`  E`  Requirements planning
+T077K-FAUSA`  015`  E`  PO Box
+T077K-FAUSF`  015`  E`  Minority indicator
+T077K-FAUSM`  015`  E`  Purchasing group
+T077K-FAUST`  015`  E`  Purchasing group
+T077K-FAUSW`  015`  E`  Purchasing group
+T077S-FAUSS`  015`  E`  Planning level
+T156B-FAUSW`  015`  E`  Customer
+FVV-CL`  002`  E`  Dunning Summarization Level
+FVV-CL`  015`  E`  Internal Product ID
+FVV-IME`  002`  E`  Buildings
+FVV-IVW`  002`  E`  Profit center
+FVV-W`  002`  E`  External order number
+FVV-W010`  002`  E`  Alternative key 1
+MEWE-STAMM`  002`  E`  Eligible for premium res.fund
+MEWE-UMBUCH`  002`  E`  Insurance branch
+RERAOPIT`  002`  E`  General Ledger Account
+SKB1-FAUS1`  002`  E`  Text
+T077D-FAUSA`  002`  E`  Form of address
+T077D-FAUSF`  002`  E`  Cash management group
+T077D-FAUSW`  002`  E`  Purchasing organization
+T077K-FAUSA`  002`  E`  Form of address
+T077K-FAUSF`  002`  E`  Cash management group
+T077K-FAUSM`  002`  E`  Terms of payment
+T077K-FAUST`  002`  E`  Terms of payment
+T077K-FAUSW`  002`  E`  Terms of payment
+T156B-FAUSW`  002`  E`  Line item text
+TIV00-FS-GB`  002`  E`  LndRegist.from
+TIV00-FS-GE`  002`  E`  Profit center
+TIV00-FS-GR`  002`  E`  Profit center
+TIV00-FS-WE`  002`  E`  Business area
+TWRF2-FAUSW`  002`  E`  Name 1
+FVV-ENH`  002`  E`  Reason for Non-Performance
+FVV-IBW`  002`  E`  Passport
+FVV-IME`  024`  E`  Floor
+FVV-W010`  024`  E`  Investment
+FVV-W040`  024`  E`  Oblig.to offer for sale until
+FVV-W041`  024`  E`  Oblig.to offer for sale until
+FVV-W042`  024`  E`  Oblig.to offer for sale until
+FVV-W160`  024`  E`  Investment
+FVV-WDEP`  002`  E`  Securities account no.
+FVV-WDEP`  024`  E`  Repetitive Code
+MEWE-STAMM`  024`  E`  Accepted value currency
+RERAOPBD`  002`  E`  Tax Amount
+RERAOPIT`  024`  E`  Country
+T037-AUSWA`  002`  E`  Planning group/name
+T037-AUSWA`  024`  E`  Profit Center
+T077D-FAUSA`  024`  E`  Nielsen ID
+T077D-FAUSV`  002`  E`  Statistics group
+T077D-FAUSV`  024`  E`  Cust.scheme product proposal
+T077K-FAUSA`  024`  E`  VAT registration number
+T077K-FAUSM`  024`  E`  Business partner assignment
+T077K-FAUST`  024`  E`  Business partner assignment
+T077K-FAUSW`  024`  E`  Business partner assignment
+T077S-FAUSS`  002`  E`  Tax category
+TWRF2-FAUSW`  024`  E`  House number suppl.
+FVV-CL`  024`  E`  Required Runtime Start
+FVV-W`  024`  E`  Daily method
+FVV-W010`  022`  E`  Joint partner vote
+FVV-W020`  024`  E`  Fund volume
+FVV-W040`  022`  E`  Bond holder notice
+FVV-W041`  022`  E`  Bond holder notice
+FVV-W042`  022`  E`  Bond holder notice
+FVV-W060`  022`  E`  Bond holder notice
+FVV-W070`  022`  E`  Bond holder notice
+FVV-W160`  022`  E`  Joint partner vote
+FVV-W750`  024`  E`  Strike Points
+MEWE-STAMM`  022`  E`  Settlement currency
+SKB1-FAUS1`  024`  E`  Asset number / subnumber
+T037-AUSWA`  022`  E`  Business area
+T077D-FAUSA`  022`  E`  Fiscal address
+T077D-FAUSF`  022`  E`  Local processing
+T077D-FAUSF`  024`  E`  Account at customer
+T077K-FAUSA`  022`  E`  Fiscal address
+T077K-FAUSF`  022`  E`  Local processing
+T077K-FAUSF`  024`  E`  Account at vendor
+T077S-FAUSS`  024`  E`  Only balances in local crcy
+T156B-FAUSW`  024`  E`  Asset no. / sub-no.
+TIV00-FS-GB`  024`  E`  Date of conveyance
+TIV00-FS-GE`  022`  E`  Year Built
+TIV00-FS-GE`  024`  E`  Reconstruct.
+TIV00-FS-GR`  024`  E`  Land ref.value
+FVV-CL`  022`  E`  Incoming Payment Distribution
+FVV-IBW`  020`  E`  Enquiry method
+FVV-IME`  020`  E`  Cubic volume
+FVV-IME`  022`  E`  Half room
+FVV-W`  022`  E`  Traded flat
+FVV-W020`  020`  E`  Joint partner vote
+FVV-W020`  022`  E`  Fund type
+FVV-W750`  022`  E`  Strike Currency
+FVV-WDEP`  022`  E`  Same Direction
+RERAOPIT`  022`  E`  Postal Code
+SKB1-FAUS1`  020`  E`  Commitment item
+SKB1-FAUS1`  022`  E`  Inventory fields
+T077D-FAUSF`  020`  E`  Dunning data
+T077D-FAUSV`  022`  E`  Subsequent invoice processing
+T077D-FAUSW`  022`  E`  Opening Hours
+T077K-FAUSF`  020`  E`  Dunning data
+T077K-FAUSM`  020`  E`  Rack-jobbing
+T077K-FAUST`  020`  E`  Rack-jobbing
+T077K-FAUSW`  020`  E`  Rack-jobbing
+T077S-FAUSS`  020`  E`  House bank
+T077S-FAUSS`  022`  E`  Exchange Rate Difference
+T156B-FAUSW`  020`  E`  Commitment item
+T156B-FAUSW`  022`  E`  Phys.inventory fields(FI only)
+TIV00-FS-GB`  020`  E`  List of properties
+TIV00-FS-GB`  022`  E`  Date of preselection
+TIV00-FS-GR`  022`  E`  Market value
+TIV00-FS-WE`  020`  E`  Pr.not.stt.var.heat.exp.
+TWRF2-FAUSW`  020`  E`  Fax
+TWRF2-FAUSW`  022`  E`  House number
+FVV-CL`  003`  E`  Partner
+FVV-CL`  020`  E`  Account Assignment Reference
+FVV-I`  020`  E`  Industry sector ID
+FVV-IBW`  003`  E`  Application valid to
+FVV-IO`  020`  E`  Industry sector ID
+FVV-W750`  020`  E`  Index Point Value
+FVV-WDEP`  020`  E`  Individual Payment
+MEWE-STAMM`  003`  E`  Insurance branch
+MEWE-STAMM`  020`  E`  ID R5/97 attachment 8
+MEWE-UMBUCH`  003`  E`  Department
+RERAOPIT`  020`  E`  Assignment Number
+T037-AUSWA`  020`  E`  Calendar Type
+T077D-FAUSA`  020`  E`  Sales Equalization Tax
+T077D-FAUSF`  003`  E`  Previous account number
+T077D-FAUSV`  020`  E`  Our account with customer
+T077D-FAUSW`  020`  E`  Opening date, closing date
+T077K-FAUSA`  020`  E`  Sales Equalization Tax
+T077K-FAUSF`  003`  E`  Previous account number
+T077K-FAUSM`  003`  E`  Incoterms
+T077K-FAUST`  003`  E`  Incoterms
+T077K-FAUSW`  003`  E`  Incoterms
+TIV00-FS-GB`  003`  E`  Vol.
+TIV00-FS-GE`  020`  E`  Final inspection
+TIV00-FS-GR`  020`  E`  Location quality
+FVV-ENH`  003`  E`  Date of Non-Performance
+FVV-IME`  003`  E`  Property
+FVV-IVW`  003`  E`  Notice data
+FVV-W`  003`  E`  Traders
+FVV-W010`  003`  E`  Alternative key 2
+FVV-W010`  044`  E`  General security classific.
+FVV-W020`  044`  E`  General security classific.
+FVV-W030`  044`  E`  General security classific.
+FVV-W040`  044`  E`  General security classific.
+FVV-W041`  044`  E`  General security classific.
+FVV-W042`  044`  E`  General security classific.
+FVV-W060`  044`  E`  General security classific.
+FVV-W070`  044`  E`  General security classific.
+FVV-W111`  044`  E`  General security classific.
+FVV-W112`  044`  E`  General security classific.
+FVV-W113`  044`  E`  General security classific.
+FVV-W114`  044`  E`  General security classific.
+FVV-W160`  044`  E`  General security classific.
+FVV-W700`  044`  E`  General security classific.
+FVV-W750`  044`  E`  General security classific.
+FVV-WDEP`  003`  E`  Clearing account
+RERAOPBD`  003`  E`  Document Header Text
+SKB1-FAUS1`  003`  E`  Settlement period
+T037-AUSWA`  003`  E`  Checkbox: Inverted exch. rate
+T077D-FAUSA`  003`  E`  Search term A
+T077D-FAUSV`  003`  E`  Account assignment group
+T077D-FAUSW`  003`  E`  Assigned sales area
+T077K-FAUSA`  003`  E`  Search term
+T077S-FAUSS`  003`  E`  Reconcil.acct ready for input
+T156B-FAUSW`  003`  E`  Calculation period   (FI only)
+TIV00-FS-GR`  003`  E`  Land register
+TIV00-FS-WE`  003`  E`  Maintenance district
+TWRF2-FAUSW`  003`  E`  Search term 1
+FVV-CL`  044`  E`  Internal Reference
+FVV-IBW`  016`  E`  Authorization Group
+FVV-IME`  044`  E`  Margin
+FVV-IMWU`  044`  E`  Area from
+FVV-W040`  016`  E`  Secondary loans
+FVV-W041`  016`  E`  Secondary loans
+FVV-W060`  016`  E`  Secondary loans
+FVV-W070`  016`  E`  Secondary loans
+SKB1-FAUS1`  044`  E`  Cost Object
+T077D-FAUSA`  044`  E`  Sales
+T077D-FAUSF`  044`  E`  Withholding tax number
+T077D-FAUSV`  016`  E`  Currency
+T077K-FAUSA`  044`  E`  Person subject to withhold.tax
+T077K-FAUSF`  044`  E`  Bank Statement
+T077K-FAUSM`  016`  E`  Planned deliv. time
+T077K-FAUSM`  044`  E`  Relevant to agency business
+T077K-FAUST`  016`  E`  Planned deliv. time
+T077K-FAUSW`  016`  E`  Planned deliv. time
+T156B-FAUSW`  044`  E`  Cost object
+TIV00-FS-GB`  016`  E`  ID: Entry deleted
+TIV00-FS-GB`  044`  E`  Area unit
+TIV00-FS-GE`  044`  E`  Higher level building
+TWRF2-FAUSW`  044`  E`  Time zone
+FVV-CL`  004`  E`  Status
+FVV-CL`  016`  E`  Note to Payee
+FVV-IBW`  004`  E`  Dom.anim.
+FVV-IME`  016`  E`  Application
+FVV-W042`  016`  E`  Secondary Loans
+FVV-WDEP`  004`  E`  House bank
+FVV-WDEP`  016`  E`  Payment Transaction
+MEWE-STAMM`  016`  E`  Trustee addition/withdrawal
+RERAOPBD`  004`  E`  Jurisdiction
+RERAOPIT`  016`  E`  House Bank Account
+SKB1-FAUS1`  016`  E`  Asset retirement
+T037-AUSWA`  016`  E`  Statement day
+T077D-FAUSA`  016`  E`  P.O. box postal code
+T077D-FAUSF`  004`  E`  Sort key
+T077D-FAUSF`  016`  E`  Next payee
+T077D-FAUSV`  004`  E`  Terms of payment
+T077D-FAUSW`  004`  E`  District
+T077D-FAUSW`  016`  E`  Regular vendor
+T077K-FAUSA`  004`  E`  Name 2
+T077K-FAUSA`  016`  E`  P.O. box postal code
+T077K-FAUSF`  004`  E`  Sort key
+T077K-FAUSF`  016`  E`  Cashed checks duration
+T077K-FAUSM`  004`  E`  Minimum order value
+T077K-FAUST`  004`  E`  Minimum order value
+T077K-FAUSW`  004`  E`  Minimum order value
+T077S-FAUSS`  004`  E`  Reconciliation account
+T077S-FAUSS`  016`  E`  Recovery indicator
+T156B-FAUSW`  016`  E`  Fixed asset retirmnt (FI only)
+TIV00-FS-GE`  016`  E`  Building permit
+TIV00-FS-GR`  016`  E`  Actual Floor Area Ratio
+TIV00-FS-WE`  004`  E`  Profit Center
+TWRF2-FAUSW`  004`  E`  Name 2
+FVV-ENH`  004`  E`  Set Non-Perf. Status Autom.
+FVV-IBW`  019`  E`  Partner reason
+FVV-IME`  004`  E`  Condominium
+FVV-IVW`  004`  E`  Owner
+FVV-W`  004`  E`  Paying bank
+MEWE-STAMM`  004`  E`  Department
+MEWE-UMBUCH`  004`  E`  Subsection
+RERAOPIT`  004`  E`  Segment Text
+SKB1-FAUS1`  019`  E`  Network
+T037-AUSWA`  004`  E`  Exchange rate type
+T077D-FAUSA`  004`  E`  Name 2/first name
+T077K-FAUSM`  019`  E`  Price marking
+T077K-FAUST`  019`  E`  Price marking
+T077K-FAUSW`  019`  E`  Price marking
+T156B-FAUSW`  019`  E`  Network
+TIV00-FS-GB`  004`  E`  Page
+TIV00-FS-GB`  019`  E`  ID: Entry deleted
+TIV00-FS-GE`  004`  E`  Building type
+TIV00-FS-GR`  004`  E`  Usage acc.to area plan
+TIV00-FS-WE`  019`  E`  Pr.not.stt.var.oper.costs
+FVV-CL`  019`  E`  Life
+FVV-I`  019`  E`  Contract renewal
+FVV-IME`  019`  E`  Park space no.
+FVV-IO`  019`  E`  Contract renewal
+FVV-W040`  025`  E`  Right to offer until
+FVV-W041`  025`  E`  Right to offer until
+FVV-W042`  025`  E`  Right to offer until
+FVV-WDEP`  019`  E`  Payment Request
+MEWE-STAMM`  019`  E`  ID R5/97 attachment 6
+RERAOPIT`  019`  E`  Dunning Block
+T037-AUSWA`  019`  E`  Interest rate
+T037-AUSWA`  025`  E`  Fund
+T077D-FAUSA`  019`  E`  Tax code 1
+T077D-FAUSA`  025`  E`  Transportation zone
+T077D-FAUSF`  019`  E`  Acctng clerk's communication
+T077D-FAUSF`  025`  E`  Accounting clerks
+T077D-FAUSV`  019`  E`  Delivery priority
+T077D-FAUSW`  019`  E`  Supply region
+T077K-FAUSA`  019`  E`  Tax code 1
+T077K-FAUSF`  019`  E`  Acctng clerk's communication
+T077K-FAUSF`  025`  E`  Accounting clerks
+T077K-FAUSM`  025`  E`  Plant
+T077S-FAUSS`  019`  E`  Relevant to cash flow
+T077S-FAUSS`  025`  E`  Administrator
+TIV00-FS-GB`  025`  E`  ID: Entry deleted
+TIV00-FS-GE`  019`  E`  Completion
+TIV00-FS-GR`  019`  E`  Ground type
+TWRF2-FAUSW`  019`  E`  Telephone no.
+FVV-IME`  025`  E`  Location on Floor
+FVV-W`  025`  E`  Closing date
+FVV-W020`  025`  E`  Fund category
+FVV-W070`  025`  E`  Conversion ratio
+FVV-WDEP`  017`  E`  Payment Method
+FVV-WDEP`  025`  E`  Ref. Text for Repetitive Code
+MEWE-STAMM`  025`  E`  BAV stock indicator
+RERAOPIT`  025`  E`  Bank Data
+SKB1-FAUS1`  017`  E`  Purchase order
+SKB1-FAUS1`  025`  E`  Transport Order
+T077D-FAUSA`  017`  E`  Vendor
+T077D-FAUSV`  025`  E`  Hedging and credit contr. area
+T077D-FAUSW`  017`  E`  Auto. create PO
+T077D-FAUSW`  025`  E`  Valuation
+T077K-FAUSA`  017`  E`  Customer
+T077K-FAUSA`  025`  E`  Train station
+T077S-FAUSS`  017`  E`  Commitment item
+T156B-FAUSW`  017`  E`  Purchase order
+T156B-FAUSW`  025`  E`  Transport request    (FI only)
+TIV00-FS-GE`  025`  E`  End of usage
+TIV00-FS-GR`  025`  E`  Land value
+TWRF2-FAUSW`  017`  E`  Region
+TWRF2-FAUSW`  025`  E`  House number range
+FVV-W040`  017`  E`  SPPI Classification
+FVV-W041`  017`  E`  SPPI Classification
+FVV-W042`  017`  E`  SPPI Classification
+FVV-W010`  017`  E`  SPPI Classification
+FVV-CL`  017`  E`  Net Credit
+FVV-I`  042`  E`  Rej.on/assign./exempt./AEC
+FVV-IME`  017`  E`  Increase (%)
+FVV-W040`  042`  E`  Yield method
+FVV-W041`  042`  E`  Yield method
+FVV-W042`  042`  E`  Yield method
+FVV-W060`  042`  E`  Yield method
+FVV-W070`  042`  E`  Yield method
+MEWE-STAMM`  017`  E`  ID R5/97 attachment 3
+RERAOPIT`  017`  E`  Dunning Area
+SKB1-FAUS1`  042`  E`  Profit Center
+T037-AUSWA`  017`  E`  Statement number
+T077D-FAUSF`  017`  E`  Indicate payment history
+T077D-FAUSV`  017`  E`  Order combination
+T077K-FAUSF`  017`  E`  Invoice verification tol.group
+T077K-FAUSM`  042`  E`  Eval.receipt sttlmnt. returns
+T077K-FAUST`  042`  E`  Eval.receipt sttlmnt. returns
+T077K-FAUSW`  017`  E`  Delivery cycle
+T077K-FAUSW`  042`  E`  Eval.receipt sttlmnt. returns
+T156B-FAUSW`  042`  E`  Profit Center
+TIV00-FS-GB`  017`  E`  Date of apprecn/deprecn
+TIV00-FS-GE`  017`  E`  Building permit note
+TIV00-FS-GR`  017`  E`  Actual constr.dimension
+FVV-CL`  042`  E`  Group Key 4
+FVV-IBW`  014`  E`  Selection indicator
+FVV-IME`  042`  E`  Location class
+FVV-IMWU`  042`  E`  Number of rooms from
+FVV-W`  014`  E`  Expenses key
+FVV-W010`  042`  E`  Date for payment of balance
+FVV-W020`  042`  E`  Reinvestment discount
+FVV-W160`  042`  E`  Date for payment of balance
+MEWE-STAMM`  014`  E`  NV 102
+SKB1-FAUS1`  014`  E`  Vendor goods movement
+T037-AUSWA`  014`  E`  Off.acct assignment value date
+T077D-FAUSA`  042`  E`  Taxes on sales/purchases
+T077D-FAUSF`  014`  E`  Preference indicator
+T077D-FAUSF`  042`  E`  Gross income tax
+T077K-FAUSA`  014`  E`  Language
+T077K-FAUSA`  042`  E`  Taxes on sales/purchases
+T077K-FAUSF`  014`  E`  Preference indicator
+T077K-FAUSF`  042`  E`  Gross income tax
+T077K-FAUSM`  014`  E`  Eval.receipt settlement deliv.
+T077K-FAUST`  014`  E`  Eval.receipt settlement deliv.
+T077K-FAUSW`  014`  E`  Eval.receipt settlement deliv.
+T077S-FAUSS`  014`  E`  Interest calculation
+T156B-FAUSW`  014`  E`  Vendor
+TIV00-FS-GB`  014`  E`  Area
+TIV00-FS-GB`  042`  E`  Text about charge
+TIV00-FS-GE`  042`  E`  Condition of roof
+TWRF2-FAUSW`  014`  E`  District
+FVV-CL`  014`  E`  Credit Life Insurance Included
+FVV-CL`  018`  E`  Installment
+FVV-ENH`  014`  E`  Date of Counter Update
+FVV-I`  018`  E`  Buy option/as from
+FVV-IBW`  018`  E`  Partner from
+FVV-IME`  014`  E`  Reserved from
+FVV-IME`  018`  E`  Deviation reason
+FVV-IO`  018`  E`  Buy option/as from
+FVV-WDEP`  014`  E`  Payer/Payee
+MEWE-STAMM`  018`  E`  ID R5/97 attachment 5
+RERAOPIT`  014`  E`  Partner Bank Details
+RERAOPIT`  018`  E`  Dunning Keys
+SKB1-FAUS1`  018`  E`  Personnel number
+T037-AUSWA`  018`  E`  Start date
+T077D-FAUSA`  018`  E`  Corporate group
+T077D-FAUSF`  018`  E`  Tolerance group
+T077D-FAUSV`  014`  E`  Default plant
+T077D-FAUSW`  018`  E`  Source list requirement
+T077K-FAUSA`  018`  E`  Corporate group
+T077K-FAUSF`  018`  E`  Tolerance group
+TIV00-FS-GB`  018`  E`  Text on appre./deprec.
+TIV00-FS-GE`  014`  E`  Prior notice
+TIV00-FS-GE`  018`  E`  Beginning of construction
+TIV00-FS-GR`  014`  E`  Permitted constr.dimension
+TIV00-FS-WE`  018`  E`  Representative list of rents
+TWRF2-FAUSW`  018`  E`  Standard communication type
+FVV-CL`  033`  E`  Credit Installment
+FVV-I`  033`  E`  Authorization Group
+FVV-IBW`  033`  E`  Option
+FVV-IME`  033`  E`  Tenant SC settlement
+FVV-IO`  033`  E`  Authorization Group
+FVV-W`  033`  E`  Posting Date
+FVV-W040`  041`  E`  Cutting Days
+FVV-W041`  041`  E`  Cutting Days
+FVV-W042`  041`  E`  Cutting Days
+FVV-W060`  041`  E`  Cutting Days
+FVV-W070`  041`  E`  Cutting Days
+FVV-WDEP`  018`  E`  Payment Method Supplement
+RERAOPIT`  033`  E`  External Reference 3
+SKB1-FAUS1`  033`  E`  Business Area
+T077D-FAUSA`  033`  E`  Alternative payer in document
+T077D-FAUSF`  033`  E`  Lockbox
+T077D-FAUSV`  033`  E`  Rebate/pricing
+T077K-FAUSA`  033`  E`  Alternative payee in document
+T077K-FAUSF`  033`  E`  Withholding Tax Country
+T077K-FAUSM`  033`  E`  Units of measure group
+T077K-FAUST`  033`  E`  Units of measure group
+T077K-FAUSW`  018`  E`  Planning cycle
+T077K-FAUSW`  033`  E`  Units of measure group
+T156B-FAUSW`  018`  E`  Personnel number     (FI only)
+T156B-FAUSW`  033`  E`  Business area
+TIV00-FS-GB`  033`  E`  Deletion date
+TIV00-FS-GE`  033`  E`  Building value 1913
+TIV00-FS-GR`  018`  E`  Property type
+TIV00-FS-GR`  033`  E`  Land
+TWRF2-FAUSW`  033`  E`  Transportation zone
+FVV-CL`  041`  E`  Group Key 3
+FVV-IME`  041`  E`  Representative list of rents
+FVV-IMWU`  041`  E`  Building type
+FVV-W010`  041`  E`  Pay-in rate
+FVV-W020`  041`  E`  Reinvestment
+FVV-W040`  027`  E`  Drawing indicator
+FVV-W041`  027`  E`  Drawing indicator
+FVV-W060`  027`  E`  Drawing indicator
+FVV-W160`  041`  E`  Pay-in rate
+FVV-WDEP`  027`  E`  Portfolio
+RERAOPIT`  027`  E`  Region
+SKB1-FAUS1`  041`  E`  Financial Assets Management
+T077D-FAUSA`  041`  E`  Tax code 2
+T077D-FAUSF`  041`  E`  Credit memo terms of payment
+T077D-FAUSV`  027`  E`  Documents
+T077D-FAUSV`  041`  E`  Document Index Active
+T077K-FAUSA`  041`  E`  Tax code 2
+T077K-FAUSF`  041`  E`  Credit memo terms of payment
+T077K-FAUSM`  041`  E`  Account with vendor
+T156B-FAUSW`  041`  E`  Fixed assets managemt(FI only)
+TIV00-FS-GB`  041`  E`  Debit
+TIV00-FS-GE`  041`  E`  Roof Area
+TIV00-FS-GR`  027`  E`  Option rate basis
+FVV-I`  031`  E`  False occup.charges
+FVV-IBW`  031`  E`  Date received
+FVV-IME`  027`  E`  Surch/Reduct. (%)
+FVV-IO`  031`  E`  False occup.charges
+FVV-W042`  027`  E`  Drawing Indicator
+SKB1-FAUS1`  027`  E`  Transaction Type
+T077D-FAUSA`  027`  E`  Location code
+T077D-FAUSF`  027`  E`  Account memo
+T077D-FAUSF`  031`  E`  Interest calculation
+T077K-FAUSA`  027`  E`  Tax office responsible
+T077K-FAUSF`  027`  E`  Account memo
+T077K-FAUSF`  031`  E`  Interest calculation
+T077K-FAUSM`  027`  E`  Free goods
+T077K-FAUSM`  031`  E`  Confirmation control keys
+T077K-FAUST`  031`  E`  Confirmation control keys
+T077K-FAUSW`  031`  E`  Confirmation control keys
+T077S-FAUSS`  027`  E`  Inflation key
+T156B-FAUSW`  027`  E`  Transaction type     (FI only)
+TIV00-FS-GB`  027`  E`  Charges and restrictions
+TIV00-FS-GB`  031`  E`  Currency
+TIV00-FS-GE`  027`  E`  Public authority funding by
+TIV00-FS-GE`  031`  E`  Cubic volume
+TIV00-FS-GR`  031`  E`  Municipality
+TWRF2-FAUSW`  027`  E`  Street supplement 2
+TWRF2-FAUSW`  031`  E`  Floor
+FVV-CL`  031`  E`  Charges
+FVV-CL`  043`  E`  Assignment
+FVV-IME`  031`  E`  Cond.transfer percent.rate
+FVV-IME`  043`  E`  Public Funding
+FVV-IMWU`  043`  E`  No. of rooms upto
+FVV-W010`  043`  E`  Issue start
+FVV-W020`  043`  E`  Issue start
+FVV-W040`  043`  E`  Discounted
+FVV-W041`  043`  E`  Discounted
+FVV-W042`  031`  E`  Pool Comments
+FVV-W042`  043`  E`  Discounted
+FVV-W060`  043`  E`  Discounted
+FVV-W070`  043`  E`  Discounted
+FVV-W111`  031`  E`  Index-based currency
+FVV-W160`  043`  E`  Issue start
+RERAOPIT`  031`  E`  External Reference 1
+SKB1-FAUS1`  031`  E`  Invoice Reference
+SKB1-FAUS1`  043`  E`  Profitability Segment
+T037-AUSWA`  026`  E`  Grant
+T077D-FAUSA`  043`  E`  Natural person
+T077D-FAUSF`  043`  E`  Diff. payer in document
+T077D-FAUSV`  031`  E`  Taxes and licenses
+T077K-FAUSA`  043`  E`  Natural person
+T077K-FAUSF`  043`  E`  Alternative payee in document
+T077K-FAUSW`  043`  E`  Creation profile
+T156B-FAUSW`  031`  E`  Invoice reference    (FI only)
+T156B-FAUSW`  043`  E`  Profitability segment
+TIV00-FS-GB`  043`  E`  Date of appr. of entry
+TIV00-FS-GE`  043`  E`  Condition of facade
+FVV-I`  045`  E`  Planned sales
+FVV-IME`  026`  E`  Fixtures and fittings category
+FVV-IO`  045`  E`  Planned sales
+FVV-W`  026`  E`  Closing time
+FVV-W070`  026`  E`  Conversion period
+FVV-WDEP`  026`  E`  Sec.Acc.ID
+RERAOPIT`  026`  E`  Control Key
+SKB1-FAUS1`  026`  E`  Plant
+T077D-FAUSA`  026`  E`  Regional market
+T077D-FAUSF`  026`  E`  Users at customer
+T077D-FAUSV`  026`  E`  Business partner assignment
+T077D-FAUSW`  026`  E`  Listing
+T077K-FAUSA`  026`  E`  Existing quality assur.systems
+T077K-FAUSF`  026`  E`  Users at vendor
+T077K-FAUSM`  026`  E`  Pricing hierarchy
+T077K-FAUSM`  045`  E`  PROACT control prof.
+T077K-FAUST`  045`  E`  PROACT control prof.
+T077K-FAUSW`  045`  E`  PROACT control prof.
+T077S-FAUSS`  026`  E`  Alternative account number
+T156B-FAUSW`  026`  E`  Plant                (FI only)
+TIV00-FS-GB`  026`  E`  List of properties
+TIV00-FS-GE`  026`  E`  Modernization
+TIV00-FS-GE`  045`  E`  Business area
+TIV00-FS-GR`  026`  E`  Date of land value
+TWRF2-FAUSW`  026`  E`  Street supplement 1
+TWRF2-FAUSW`  045`  E`  Street 4
+FVV-CL`  045`  E`  Characteristics
+FVV-I`  046`  E`  Minimum rent
+FVV-IME`  045`  E`  Percentage apport. loss risk
+FVV-IMWU`  045`  E`  Area to
+FVV-IO`  046`  E`  Minimum rent
+FVV-W040`  045`  E`  Price Index
+FVV-W040`  046`  E`  Calculation From
+FVV-W041`  045`  E`  Price Index
+SKB1-FAUS1`  045`  E`  Joint venture acct assignment
+T077D-FAUSA`  045`  E`  Employees
+T077D-FAUSF`  045`  E`  Withholding tax types
+T077D-FAUSF`  046`  E`  Value adjustment key
+T077K-FAUSA`  045`  E`  Carrier details
+T077K-FAUSF`  045`  E`  Withholding tax category
+T077K-FAUSM`  046`  E`  New value method
+T077K-FAUST`  046`  E`  New value method
+T077K-FAUSW`  046`  E`  New value method
+T156B-FAUSW`  045`  E`  Joint venture acct assgnmt(FI)
+TIV00-FS-GB`  045`  E`  Date of change
+TIV00-FS-GB`  046`  E`  Date of entry
+TIV00-FS-GE`  046`  E`  Authorization Group
+FVV-CL`  032`  E`  Contract Capital
+FVV-CL`  034`  E`  Currency
+FVV-CL`  046`  E`  Alternative Identification 1
+FVV-I`  032`  E`  Jurisdiction
+FVV-IBW`  032`  E`  Enterprise
+FVV-IME`  032`  E`  To Floor
+FVV-IME`  046`  E`  Land register number
+FVV-IMWU`  046`  E`  Reference type
+FVV-W`  032`  E`  Assignment text
+FVV-W042`  032`  E`  Pool Classification
+FVV-W042`  046`  E`  Tranche Classification
+RERAOPIT`  032`  E`  External Reference 2
+SKB1-FAUS1`  032`  E`  Hedging
+SKB1-FAUS1`  046`  E`  Real Estate Management
+T077D-FAUSA`  032`  E`  Alternative payer account
+T077D-FAUSA`  046`  E`  Business form
+T077D-FAUSF`  032`  E`  Known/negotiated leave
+T077D-FAUSV`  032`  E`  Authorization
+T077K-FAUSA`  032`  E`  Alternative payee account
+T077K-FAUSA`  046`  E`  Transport statistics
+T077K-FAUSF`  032`  E`  Withh.tax cat.,exemp.reason(1)
+T077K-FAUSF`  046`  E`  Assignment Group
+T077K-FAUSM`  032`  E`  Returns with shipping process.
+T156B-FAUSW`  032`  E`  Exchange hedging     (FI only)
+T156B-FAUSW`  046`  E`  Real estate management
+TIV00-FS-GB`  032`  E`  Date of entry
+TIV00-FS-GE`  032`  E`  Amount per volume unit
+TIV00-FS-GR`  032`  E`  Local Subdistrict
+TWRF2-FAUSW`  032`  E`  Delivery district
+TWRF2-FAUSW`  046`  E`  Data Line
+FVV-IBW`  034`  E`  Credit information
+FVV-IME`  034`  E`  Index status for rent adj. CH
+FVV-IMWU`  051`  E`  Transport connections
+FVV-W042`  034`  E`  Nominal Amount of Pool
+FVV-W750`  051`  E`  Last Trade Date
+RERAOPIT`  034`  E`  External Reference 4
+SKB1-FAUS1`  034`  E`  Customs Data
+T077D-FAUSA`  034`  E`  VAT registration number
+T077D-FAUSF`  034`  E`  Buying Group
+T077D-FAUSV`  034`  E`  Exchange rate type
+T077K-FAUSA`  034`  E`  DME details
+T077K-FAUSF`  034`  E`  Payment advice via EDI
+T077K-FAUSM`  034`  E`  Rounding profile
+T077K-FAUST`  034`  E`  Rounding profile
+T077K-FAUST`  051`  E`  Reserved for IS Automotive
+T077K-FAUSW`  034`  E`  Rounding profile
+T077K-FAUSW`  051`  E`  Reserved for IS Automotive
+T156B-FAUSW`  034`  E`  Customs data         (FI only)
+TIV00-FS-GB`  034`  E`  Text on entry
+TIV00-FS-GB`  051`  E`  Authorization Group
+TIV00-FS-GE`  034`  E`  Current build.stock
+TIV00-FS-GR`  034`  E`  Parcel of land
+TWRF2-FAUSW`  034`  E`  Company postal code
+FVV-CL`  051`  E`  Table - Model Parameters
+FVV-CL`  052`  E`  Table - Contract Parameter 1
+FVV-I`  051`  E`  Complaint date
+FVV-I`  052`  E`  House bank
+FVV-IMWU`  052`  E`  District
+FVV-W700`  052`  E`  Settlement date
+FVV-W750`  052`  E`  Settlement date
+T077D-FAUSA`  051`  E`  DME details
+T077D-FAUSA`  052`  E`  Foreign trade
+T077K-FAUSA`  051`  E`  Standard comm.type
+T077K-FAUSA`  052`  E`  c/o name
+T077K-FAUSM`  051`  E`  Settlement profile
+T077K-FAUSM`  052`  E`  Absolute handling surcharge
+T077K-FAUST`  052`  E`  Reserved for IS Automotive
+T077K-FAUSW`  052`  E`  Reserved for IS Automotive
+T156B-FAUSW`  051`  E`  Final issue indicator
+T156B-FAUSW`  052`  E`  Sales value in local currency
+TIV00-FS-GB`  052`  E`  Assigned real estate
+TWRF2-FAUSW`  051`  E`  Alternative City
+TWRF2-FAUSW`  052`  E`  Alternative Country
+FVV-CL`  035`  E`  Validity Period End
+FVV-CL`  048`  E`  Guarantee Number
+FVV-I`  048`  E`  Net sales
+FVV-IBW`  035`  E`  Rejection
+FVV-IBW`  048`  E`  Partner from
+FVV-IME`  048`  E`  Internet presentation text
+FVV-IMWU`  048`  E`  Company code
+FVV-IO`  048`  E`  Net sales
+FVV-W042`  048`  E`  Expected End of Term
+RERAOPIT`  035`  E`  WBS Elem. Assgnd Statistically
+SKB1-FAUS1`  048`  E`  Joint Venture Recovery Indctr
+T077D-FAUSA`  048`  E`  Fiscal year
+T077D-FAUSF`  035`  E`  Payment advice via EDI
+T077D-FAUSF`  048`  E`  Withholding tax country key
+T077K-FAUSA`  048`  E`  Transportation zone
+T077K-FAUSF`  035`  E`  W/hold.tax country, w/h tax 2
+T077K-FAUSM`  048`  E`  Service-based invoice verif.
+T077K-FAUST`  048`  E`  Service-based invoice verif.
+T077K-FAUSW`  048`  E`  Service-based invoice verif.
+T156B-FAUSW`  048`  E`  Joint venture recovery indctr
+TIV00-FS-GB`  035`  E`  ID: Entry deleted
+TIV00-FS-GB`  048`  E`  Text change or deletion
+TIV00-FS-GE`  048`  E`  Municipality
+TWRF2-FAUSW`  035`  E`  Comments
+TWRF2-FAUSW`  048`  E`  Jurisdiction Code
+FVV-CL`  050`  E`  Long Name
+FVV-IBW`  050`  E`  Enquiry method
+FVV-IME`  035`  E`  Rental units-Text
+FVV-W042`  035`  E`  Reinvestment Period
+FVV-W042`  050`  E`  Calculation From
+FVV-W750`  050`  E`  Validity Start
+SKB1-FAUS1`  035`  E`  Collective Invoice
+T077D-FAUSA`  035`  E`  Customer class
+T077D-FAUSA`  050`  E`  P.O. Box city
+T077D-FAUSF`  050`  E`  CIIU Code
+T077D-FAUSV`  035`  E`  Switch off rounding for cust.
+T077D-FAUSW`  035`  E`  BlckReason
+T077K-FAUSA`  035`  E`  ISR Subscriber Number
+T077K-FAUSA`  050`  E`  Search term B
+T077K-FAUSF`  050`  E`  CIIU Code
+T077K-FAUSM`  035`  E`  Subsequent settlement
+T077K-FAUST`  050`  E`  Reserved for IS Automotive
+T077K-FAUSW`  050`  E`  Reserved for IS Automotive
+T156B-FAUSW`  035`  E`  Collective invoice   (FI only)
+TIV00-FS-GB`  050`  E`  Currency
+TIV00-FS-GE`  035`  E`  Assessed value
+TIV00-FS-GR`  035`  E`  Fractional Parcel of Land
+TWRF2-FAUSW`  050`  E`  E-Mail
+FVV-IME`  029`  E`  Profit center
+FVV-IME`  030`  E`  Transfer ID for LO cond.
+FVV-IMWU`  050`  E`  Rent.unit requested
+FVV-W042`  030`  E`  Pool Rating
+FVV-W111`  030`  E`  Index point
+SKB1-FAUS1`  029`  E`  Withholding Tax Amounts
+SKB1-FAUS1`  030`  E`  SCB / Supplying Country
+SKB1-FAUS1`  050`  E`  Funds Center
+T077D-FAUSA`  029`  E`  Authorization
+T077D-FAUSA`  030`  E`  Bank details
+T077D-FAUSF`  030`  E`  House bank
+T077D-FAUSV`  029`  E`  Sales office
+T077D-FAUSV`  030`  E`  Rail specifications
+T077D-FAUSW`  030`  E`  Communication profile
+T077K-FAUSA`  029`  E`  Authorization
+T077K-FAUSA`  030`  E`  Bank details
+T077K-FAUSF`  029`  E`  Wthld.tax exempt., wthld.tax 1
+T077K-FAUSF`  030`  E`  House bank
+T077K-FAUSM`  030`  E`  Vendor sort criterion
+T077K-FAUSM`  050`  E`  Auto. debit creation
+T077S-FAUSS`  030`  E`  Multi Currency Accounting
+T156B-FAUSW`  029`  E`  Withholding tax amnts(FI only)
+T156B-FAUSW`  030`  E`  SCB / supplying cntry(FI only)
+T156B-FAUSW`  050`  E`  Funds center
+TIV00-FS-GB`  029`  E`  Date of entry
+TIV00-FS-GB`  030`  E`  Net present value
+TIV00-FS-GE`  030`  E`  Sales
+TIV00-FS-GR`  029`  E`  Authorization Group
+TIV00-FS-GR`  030`  E`  Jurisdiction code
+TWRF2-FAUSW`  030`  E`  Floor
+FVV-CL`  053`  E`  Table - Contract Parameter 2
+FVV-I`  053`  E`  Acct determin.value
+FVV-IMWU`  053`  E`  Parking spaces
+FVV-W060`  029`  E`  Cum/Ex indicator
+FVV-W111`  029`  E`  Index base
+FVV-W700`  053`  E`  Expiry Date
+FVV-W750`  053`  E`  Expiry Date
+RERAOPIT`  029`  E`  Quantity, Quantity Unit
+T077D-FAUSA`  053`  E`  Hierarchy Assignment
+T077D-FAUSF`  029`  E`  Export credit insurance
+T077K-FAUSA`  053`  E`  Street 2
+T077K-FAUSM`  029`  E`  Plant - relevance
+T077K-FAUSM`  053`  E`  Percentage handling surcharge
+T077K-FAUST`  053`  E`  Reserved for IS Automotive
+T077K-FAUSW`  053`  E`  Reserved for IS Automotive
+T077S-FAUSS`  029`  E`  Clearing Spec. to Ledger Group
+TIV00-FS-GE`  029`  E`  Public authority funding upto
+TWRF2-FAUSW`  029`  E`  Building code
+TWRF2-FAUSW`  053`  E`  PO-Box w/o Number
+FVV-CL`  055`  E`  Table - KLV
+FVV-I`  055`  E`  Old contract
+FVV-IMWU`  055`  E`  Move-in by
+FVV-W010`  62`  E`  Short Attr3
+FVV-W020`  62`  E`  Short Attr3
+FVV-W030`  62`  E`  Short Attr3
+FVV-W040`  62`  E`  Short Attr3
+FVV-W041`  62`  E`  Short Attr3
+FVV-W042`  62`  E`  Short Attr3
+FVV-W060`  62`  E`  Short Attr3
+FVV-W070`  62`  E`  Short Attr3
+FVV-W111`  62`  E`  Short Attr3
+FVV-W112`  62`  E`  Short Attr3
+FVV-W113`  62`  E`  Short Attr3
+FVV-W114`  62`  E`  Short Attr3
+FVV-W160`  62`  E`  Short Attr3
+FVV-W700`  055`  E`  Factory Calendar
+FVV-W750`  055`  E`  Factory Calendar
+T077D-FAUSA`  055`  E`  Business Place
+T077K-FAUSA`  055`  E`  Business Place
+T077K-FAUSM`  055`  E`  Maximum handling surcharge
+T077K-FAUST`  055`  E`  Reserved for IS Automotive
+T077K-FAUSW`  055`  E`  Reserved for IS Automotive
+TWRF2-FAUSW`  055`  E`  PO Box Reg.
+FVV-CL`  049`  E`  Short Name
+FVV-I`  049`  E`  Amount/settlement period
+FVV-IBW`  049`  E`  Partner reason
+FVV-IME`  049`  E`  Reference available capacity
+FVV-IMWU`  049`  E`  Requested bus.entity
+FVV-IO`  049`  E`  Amount/settlement period
+FVV-W042`  049`  E`  Partner Ranking/Assignment
+FVV-W700`  62`  E`  Commodity ID
+FVV-W750`  62`  E`  Commodity ID
+FVV-W990`  62`  E`  Fixed Price
+SKB1-FAUS1`  049`  E`  Fund
+T077D-FAUSA`  049`  E`  Reference account group (OTA)
+T077K-FAUSA`  049`  E`  Ext. manufacturer
+T077K-FAUSM`  049`  E`  Reserved for IS Oil & Gas
+T077K-FAUST`  049`  E`  Reserved for IS Oil & Gas
+T077K-FAUSW`  049`  E`  Reserved for IS Oil & Gas
+T156B-FAUSW`  049`  E`  Fund
+TIV00-FS-GB`  049`  E`  Amount
+TWRF2-FAUSW`  049`  E`  Reg. Str. Gr.
+FVV-CL`  047`  E`  Alternative Identification 2
+FVV-I`  047`  E`  Min.sales/reporting interval
+FVV-IME`  047`  E`  Internet release
+FVV-IO`  047`  E`  Min.sales/reporting interval
+FVV-W010`  61`  E`  Short Attr2
+FVV-W020`  61`  E`  Short Attr2
+FVV-W030`  61`  E`  Short Attr2
+FVV-W040`  61`  E`  Short Attr2
+FVV-W041`  61`  E`  Short Attr2
+FVV-W042`  047`  E`  End of Contract Term
+FVV-W042`  61`  E`  Short Attr2
+FVV-W060`  61`  E`  Short Attr2
+FVV-W070`  61`  E`  Short Attr2
+FVV-W111`  61`  E`  Short Attr2
+FVV-W112`  61`  E`  Short Attr2
+FVV-W113`  61`  E`  Short Attr2
+FVV-W114`  61`  E`  Short Attr2
+FVV-W160`  61`  E`  Short Attr2
+FVV-W700`  61`  E`  Tick Value (Commodity)
+FVV-W750`  61`  E`  Tick Value (Commodity)
+FVV-W990`  61`  E`  Price Weighting
+SKB1-FAUS1`  047`  E`  Joint Venture Partner
+T077D-FAUSA`  047`  E`  Tax jurisdiction code
+T077D-FAUSF`  047`  E`  Accts recble pledging ind.
+T077K-FAUSA`  047`  E`  Credit information
+T077K-FAUSM`  047`  E`  Shipping conditions
+T156B-FAUSW`  047`  E`  Joint venture partner
+TIV00-FS-GB`  047`  E`  ID: Entry deleted
+TIV00-FS-GE`  047`  E`  Jurisdiction code
+TWRF2-FAUSW`  047`  E`  Telebox
+FVV-W010`  63`  E`  Short Attr4
+FVV-W010`  64`  E`  Short Attr5
+FVV-W020`  63`  E`  Short Attr4
+FVV-W020`  64`  E`  Short Attr5
+FVV-W030`  63`  E`  Short Attr4
+FVV-W030`  64`  E`  Short Attr5
+FVV-W040`  047`  E`  Price Index Base Date
+FVV-W040`  63`  E`  Short Attr4
+FVV-W040`  64`  E`  Short Attr5
+FVV-W041`  63`  E`  Short Attr4
+FVV-W041`  64`  E`  Short Attr5
+FVV-W042`  63`  E`  Short Attr4
+FVV-W042`  64`  E`  Short Attr5
+FVV-W060`  63`  E`  Short Attr4
+FVV-W060`  64`  E`  Short Attr5
+FVV-W070`  63`  E`  Short Attr4
+FVV-W070`  64`  E`  Short Attr5
+FVV-W111`  63`  E`  Short Attr4
+FVV-W111`  64`  E`  Short Attr5
+FVV-W112`  63`  E`  Short Attr4
+FVV-W112`  64`  E`  Short Attr5
+FVV-W113`  63`  E`  Short Attr4
+FVV-W113`  64`  E`  Short Attr5
+FVV-W114`  63`  E`  Short Attr4
+FVV-W114`  64`  E`  Short Attr5
+FVV-W160`  63`  E`  Short Attr4
+FVV-W160`  64`  E`  Short Attr5
+FVV-W700`  63`  E`  Contract Size
+FVV-W750`  63`  E`  Contract Size
+FVV-W990`  63`  E`  Fixed Price Currency
+T077K-FAUSF`  047`  E`  Prepayment
+FVV-W010`  65`  E`  Short Attr6
+FVV-W020`  65`  E`  Short Attr6
+FVV-W030`  65`  E`  Short Attr6
+FVV-W040`  65`  E`  Short Attr6
+FVV-W041`  65`  E`  Short Attr6
+FVV-W042`  65`  E`  Short Attr6
+FVV-W060`  65`  E`  Short Attr6
+FVV-W070`  65`  E`  Short Attr6
+FVV-W111`  65`  E`  Short Attr6
+FVV-W112`  65`  E`  Short Attr6
+FVV-W113`  65`  E`  Short Attr6
+FVV-W114`  65`  E`  Short Attr6
+FVV-W160`  65`  E`  Short Attr6
+FVV-W700`  64`  E`  Unit/Measure for Contract Size
+FVV-W700`  65`  E`  Quantity
+FVV-W750`  64`  E`  Unit/Measure for Contract Size
+FVV-W750`  65`  E`  Quantity
+FVV-W990`  64`  E`  Quotation Price Unit
+FVV-W990`  65`  E`  Unit of Measure
+FVV-I`  054`  E`  Bank procedure account number
+FVV-W010`  60`  E`  Short Attr 1
+FVV-W020`  60`  E`  Short Attr 1
+FVV-W030`  60`  E`  Short Attr 1
+FVV-W040`  60`  E`  Short Attr 1
+FVV-W041`  60`  E`  Short Attr 1
+FVV-W042`  60`  E`  Short Attr 1
+FVV-W060`  60`  E`  Short Attr 1
+FVV-W070`  60`  E`  Short Attr 1
+FVV-W111`  60`  E`  Short Attr 1
+FVV-W112`  60`  E`  Short Attr 1
+FVV-W113`  60`  E`  Short Attr 1
+FVV-W114`  60`  E`  Short Attr 1
+FVV-W160`  60`  E`  Short Attr 1
+FVV-W750`  054`  E`  Put/Call Indicator
+FVV-W750`  60`  E`  Tick Amount (Commodity)
+FVV-W990`  60`  E`  Quotation Time
+T077D-FAUSA`  054`  E`  Internet address
+T077K-FAUSA`  054`  E`  Internet address
+T077K-FAUST`  054`  E`  Reserved for IS Automotive
+T077K-FAUSW`  054`  E`  Reserved for IS Automotive
+FVV-CL`  039`  E`  Group Key 1
+FVV-CL`  054`  E`  Table - Contract Parameter 3
+FVV-IBW`  039`  E`  Processing status
+FVV-IME`  039`  E`  Authorization Group
+FVV-IMWU`  054`  E`  Occup.as from
+SKB1-FAUS1`  028`  E`  Withholding Tax Code
+SKB1-FAUS1`  039`  E`  Quantity
+T077D-FAUSA`  039`  E`  Unloading points
+T077D-FAUSF`  028`  E`  W/hold.tax deduction,w/h tax 2
+T077D-FAUSF`  039`  E`  Release Group
+T077D-FAUSV`  039`  E`  Customer hierarchy
+T077K-FAUSA`  039`  E`  Tax jurisdiction code
+T077K-FAUSF`  028`  E`  Withholding tax code (1)
+T077K-FAUSF`  039`  E`  Release Group
+T077K-FAUSM`  028`  E`  VSR - relevance
+T077K-FAUSM`  039`  E`  Order optimizing restrictions
+T077K-FAUSM`  054`  E`  Minimum handling surcharge
+T077K-FAUST`  039`  E`  Order optimizing restrictions
+T077K-FAUSW`  039`  E`  Order optimizing restrictions
+T077S-FAUSS`  028`  E`  Tolerance group
+T156B-FAUSW`  028`  E`  Withholding tax code (FI only)
+T156B-FAUSW`  039`  E`  Quantity             (FI only)
+TIV00-FS-GB`  028`  E`  Date of appr. of entry
+TIV00-FS-GB`  039`  E`  Amount
+TIV00-FS-GE`  039`  E`  Option rate basis
+TIV00-FS-GR`  028`  E`  Business area
+TWRF2-FAUSW`  028`  E`  Location
+TWRF2-FAUSW`  054`  E`  PO Box City
+FVV-IME`  028`  E`  Fixt./Fittings Characteristics
+FVV-W010`  69`  E`  Short Attr 10
+FVV-W020`  69`  E`  Short Attr 10
+FVV-W030`  69`  E`  Short Attr 10
+FVV-W040`  69`  E`  Short Attr 10
+FVV-W041`  69`  E`  Short Attr 10
+FVV-W042`  69`  E`  Short Attr 10
+FVV-W060`  69`  E`  Short Attr 10
+FVV-W070`  69`  E`  Short Attr 10
+FVV-W111`  028`  E`  Securities index
+FVV-W111`  69`  E`  Short Attr 10
+FVV-W112`  69`  E`  Short Attr 10
+FVV-W113`  69`  E`  Short Attr 10
+FVV-W114`  69`  E`  Short Attr 10
+FVV-W160`  69`  E`  Short Attr 10
+FVV-W700`  69`  E`  Tick Value
+FVV-W750`  69`  E`  Tick Value
+RERAOPIT`  028`  E`  PO Box, Postal Code PO Box
+T077D-FAUSA`  028`  E`  Trn statn,/express trn statn
+T077D-FAUSV`  028`  E`  Default product proposal
+TIV00-FS-GE`  028`  E`  Planned sale
+FVV-W010`  68`  E`  Short Attr9
+FVV-W010`  71`  E`  Free Attr 1
+FVV-W020`  68`  E`  Short Attr9
+FVV-W020`  71`  E`  Free Attr 1
+FVV-W030`  68`  E`  Short Attr9
+FVV-W030`  71`  E`  Free Attr 1
+FVV-W040`  68`  E`  Short Attr9
+FVV-W040`  71`  E`  Free Attr 1
+FVV-W041`  68`  E`  Short Attr9
+FVV-W041`  71`  E`  Free Attr 1
+FVV-W042`  68`  E`  Short Attr9
+FVV-W042`  71`  E`  Free Attr 1
+FVV-W060`  68`  E`  Short Attr9
+FVV-W060`  71`  E`  Free Attr 1
+FVV-W070`  68`  E`  Short Attr9
+FVV-W070`  71`  E`  Free Attr 1
+FVV-W111`  68`  E`  Short Attr9
+FVV-W111`  71`  E`  Free Attr 1
+FVV-W112`  68`  E`  Short Attr9
+FVV-W112`  71`  E`  Free Attr 1
+FVV-W113`  68`  E`  Short Attr9
+FVV-W113`  71`  E`  Free Attr 1
+FVV-W114`  68`  E`  Short Attr9
+FVV-W114`  71`  E`  Free Attr 1
+FVV-W160`  68`  E`  Short Attr9
+FVV-W160`  71`  E`  Free Attr 1
+FVV-W700`  68`  E`  Currency
+FVV-W700`  71`  E`  Long Attr 1
+FVV-W750`  68`  E`  Currency
+FVV-W750`  71`  E`  Long Attr 1
+FVV-W010`  66`  E`  Short Attr7
+FVV-W010`  67`  E`  Short Attr8
+FVV-W020`  66`  E`  Short Attr7
+FVV-W020`  67`  E`  Short Attr8
+FVV-W030`  66`  E`  Short Attr7
+FVV-W030`  67`  E`  Short Attr8
+FVV-W040`  66`  E`  Short Attr7
+FVV-W040`  67`  E`  Short Attr8
+FVV-W041`  66`  E`  Short Attr7
+FVV-W041`  67`  E`  Short Attr8
+FVV-W042`  66`  E`  Short Attr7
+FVV-W042`  67`  E`  Short Attr8
+FVV-W060`  66`  E`  Short Attr7
+FVV-W060`  67`  E`  Short Attr8
+FVV-W070`  66`  E`  Short Attr7
+FVV-W070`  67`  E`  Short Attr8
+FVV-W111`  66`  E`  Short Attr7
+FVV-W111`  67`  E`  Short Attr8
+FVV-W112`  66`  E`  Short Attr7
+FVV-W112`  67`  E`  Short Attr8
+FVV-W113`  66`  E`  Short Attr7
+FVV-W113`  67`  E`  Short Attr8
+FVV-W114`  66`  E`  Short Attr7
+FVV-W114`  67`  E`  Short Attr8
+FVV-W160`  66`  E`  Short Attr7
+FVV-W160`  67`  E`  Short Attr8
+FVV-W700`  67`  E`  First Display Date (of Offer)
+FVV-W750`  67`  E`  First Display Date (of Offer)
+FVV-W010`  72`  E`  Free Attr 2
+FVV-W020`  72`  E`  Free Attr 2
+FVV-W030`  72`  E`  Free Attr 2
+FVV-W040`  72`  E`  Free Attr 2
+FVV-W041`  72`  E`  Free Attr 2
+FVV-W042`  72`  E`  Free Attr 2
+FVV-W060`  72`  E`  Free Attr 2
+FVV-W070`  72`  E`  Free Attr 2
+FVV-W111`  72`  E`  Free Attr 2
+FVV-W112`  72`  E`  Free Attr 2
+FVV-W113`  72`  E`  Free Attr 2
+FVV-W114`  72`  E`  Free Attr 2
+FVV-W160`  72`  E`  Free Attr 2
+FVV-W700`  66`  E`  Unit of Measure
+FVV-W700`  72`  E`  Long Attr 2
+FVV-W750`  66`  E`  Unit of Measure
+FVV-W750`  72`  E`  Long Attr 2
+FVV-W010`  73`  E`  Free Attr 3
+FVV-W010`  74`  E`  Free Attr 4
+FVV-W020`  73`  E`  Free Attr 3
+FVV-W020`  74`  E`  Free Attr 4
+FVV-W030`  73`  E`  Free Attr 3
+FVV-W030`  74`  E`  Free Attr 4
+FVV-W040`  73`  E`  Free Attr 3
+FVV-W040`  74`  E`  Free Attr 4
+FVV-W041`  73`  E`  Free Attr 3
+FVV-W041`  74`  E`  Free Attr 4
+FVV-W042`  73`  E`  Free Attr 3
+FVV-W042`  74`  E`  Free Attr 4
+FVV-W060`  73`  E`  Free Attr 3
+FVV-W060`  74`  E`  Free Attr 4
+FVV-W070`  73`  E`  Free Attr 3
+FVV-W070`  74`  E`  Free Attr 4
+FVV-W111`  73`  E`  Free Attr 3
+FVV-W111`  74`  E`  Free Attr 4
+FVV-W112`  73`  E`  Free Attr 3
+FVV-W112`  74`  E`  Free Attr 4
+FVV-W113`  73`  E`  Free Attr 3
+FVV-W113`  74`  E`  Free Attr 4
+FVV-W114`  73`  E`  Free Attr 3
+FVV-W114`  74`  E`  Free Attr 4
+FVV-W160`  73`  E`  Free Attr 3
+FVV-W160`  74`  E`  Free Attr 4
+FVV-W700`  73`  E`  Long Attr 3
+FVV-W700`  74`  E`  Long Attr 4
+FVV-W750`  73`  E`  Long Attr 3
+FVV-W750`  74`  E`  Long Attr 4
+FVV-W010`  75`  E`  Free Attr 5
+FVV-W010`  81`  E`  Date Attr 1
+FVV-W020`  75`  E`  Free Attr 5
+FVV-W020`  81`  E`  Date Attr 1
+FVV-W030`  75`  E`  Free Attr 5
+FVV-W030`  81`  E`  Date Attr 1
+FVV-W040`  75`  E`  Free Attr 5
+FVV-W040`  81`  E`  Date Attr 1
+FVV-W041`  75`  E`  Free Attr 5
+FVV-W041`  81`  E`  Date Attr 1
+FVV-W042`  75`  E`  Free Attr 5
+FVV-W042`  81`  E`  Date Attr 1
+FVV-W060`  75`  E`  Free Attr 5
+FVV-W060`  81`  E`  Date Attr 1
+FVV-W070`  75`  E`  Free Attr 5
+FVV-W070`  81`  E`  Date Attr 1
+FVV-W111`  75`  E`  Free Attr 5
+FVV-W111`  81`  E`  Date Attr 1
+FVV-W112`  75`  E`  Free Attr 5
+FVV-W112`  81`  E`  Date Attr 1
+FVV-W113`  75`  E`  Free Attr 5
+FVV-W113`  81`  E`  Date Attr 1
+FVV-W114`  75`  E`  Free Attr 5
+FVV-W114`  81`  E`  Date Attr 1
+FVV-W160`  75`  E`  Free Attr 5
+FVV-W160`  81`  E`  Date Attr 1
+FVV-W700`  75`  E`  Long Attr 5
+FVV-W700`  81`  E`  Short Attr6
+FVV-W750`  75`  E`  Long Attr 5
+FVV-W750`  81`  E`  Short Attr6
+FVV-W010`  82`  E`  Date Attr 2
+FVV-W010`  83`  E`  Attr Date From
+FVV-W020`  82`  E`  Date Attr 2
+FVV-W020`  83`  E`  Attr Date From
+FVV-W030`  82`  E`  Date Attr 2
+FVV-W030`  83`  E`  Attr Date From
+FVV-W040`  82`  E`  Date Attr 2
+FVV-W040`  83`  E`  Attr Date From
+FVV-W041`  82`  E`  Date Attr 2
+FVV-W041`  83`  E`  Attr Date From
+FVV-W042`  82`  E`  Date Attr 2
+FVV-W042`  83`  E`  Attr Date From
+FVV-W060`  82`  E`  Date Attr 2
+FVV-W060`  83`  E`  Attr Date From
+FVV-W070`  82`  E`  Date Attr 2
+FVV-W070`  83`  E`  Attr Date From
+FVV-W111`  82`  E`  Date Attr 2
+FVV-W111`  83`  E`  Attr Date From
+FVV-W112`  82`  E`  Date Attr 2
+FVV-W112`  83`  E`  Attr Date From
+FVV-W113`  82`  E`  Date Attr 2
+FVV-W113`  83`  E`  Attr Date From
+FVV-W114`  82`  E`  Date Attr 2
+FVV-W114`  83`  E`  Attr Date From
+FVV-W160`  82`  E`  Date Attr 2
+FVV-W160`  83`  E`  Attr Date From
+FVV-W700`  82`  E`  Short Attr7
+FVV-W750`  82`  E`  Short Attr7
+FVV-W010`  84`  E`  Attr Date To
+FVV-W020`  84`  E`  Attr Date To
+FVV-W030`  84`  E`  Attr Date To
+FVV-W040`  84`  E`  Attr Date To
+FVV-W041`  84`  E`  Attr Date To
+FVV-W042`  84`  E`  Attr Date To
+FVV-W060`  84`  E`  Attr Date To
+FVV-W070`  84`  E`  Attr Date To
+FVV-W111`  84`  E`  Attr Date To
+FVV-W112`  84`  E`  Attr Date To
+FVV-W113`  84`  E`  Attr Date To
+FVV-W114`  84`  E`  Attr Date To
+FVV-W160`  84`  E`  Attr Date To
+FVV-W700`  83`  E`  Short Attr8
+FVV-W700`  84`  E`  Short Attr9
+FVV-W750`  83`  E`  Short Attr8
+FVV-W750`  84`  E`  Short Attr9
+FVV-CL`  036`  E`  Effective Interest Rate
+FVV-IBW`  036`  E`  Application valid to
+FVV-IME`  036`  E`  Business area
+FVV-W010`  91`  E`  Curr Attr 1
+FVV-W020`  91`  E`  Curr Attr 1
+FVV-W030`  91`  E`  Curr Attr 1
+FVV-W040`  91`  E`  Curr Attr 1
+FVV-W041`  91`  E`  Curr Attr 1
+FVV-W042`  91`  E`  Curr Attr 1
+FVV-W060`  91`  E`  Curr Attr 1
+FVV-W070`  91`  E`  Curr Attr 1
+FVV-W111`  91`  E`  Curr Attr 1
+FVV-W112`  91`  E`  Curr Attr 1
+FVV-W113`  91`  E`  Curr Attr 1
+FVV-W114`  91`  E`  Curr Attr 1
+FVV-W160`  91`  E`  Curr Attr 1
+FVV-W700`  91`  E`  Date Attr 1
+FVV-W750`  91`  E`  Date Attr 1
+RERAOPIT`  036`  E`  Int.Order Assgnd Statistically
+SKB1-FAUS1`  036`  E`  Partner Business Area
+T077D-FAUSA`  036`  E`  Trading partner
+T077D-FAUSF`  036`  E`  Payment advice notes
+T077D-FAUSV`  036`  E`  ABC class
+T077D-FAUSW`  036`  E`  Blocking period
+T077K-FAUSA`  036`  E`  Trading partner
+T077K-FAUSF`  036`  E`  W/holding tax cat., w/h tax 2
+T077K-FAUSM`  036`  E`  Subsequent settlement index
+T156B-FAUSW`  036`  E`  Trad.partn.bus.area (FI only)
+TIV00-FS-GB`  036`  E`  List of properties
+TIV00-FS-GR`  036`  E`  Inward/outward movements
+FVV-W010`  51`  E`  Long Attr 1
+FVV-W010`  92`  E`  Curr Attr 2
+FVV-W020`  51`  E`  Long Attr 1
+FVV-W020`  92`  E`  Curr Attr 2
+FVV-W030`  51`  E`  Long Attr 1
+FVV-W030`  92`  E`  Curr Attr 2
+FVV-W040`  51`  E`  Long Attr 1
+FVV-W040`  92`  E`  Curr Attr 2
+FVV-W041`  51`  E`  Long Attr 1
+FVV-W041`  92`  E`  Curr Attr 2
+FVV-W042`  51`  E`  Long Attr 1
+FVV-W042`  92`  E`  Curr Attr 2
+FVV-W060`  51`  E`  Long Attr 1
+FVV-W060`  92`  E`  Curr Attr 2
+FVV-W070`  51`  E`  Long Attr 1
+FVV-W070`  92`  E`  Curr Attr 2
+FVV-W111`  51`  E`  Long Attr 1
+FVV-W111`  92`  E`  Curr Attr 2
+FVV-W112`  51`  E`  Long Attr 1
+FVV-W112`  92`  E`  Curr Attr 2
+FVV-W113`  51`  E`  Long Attr 1
+FVV-W113`  92`  E`  Curr Attr 2
+FVV-W114`  51`  E`  Long Attr 1
+FVV-W114`  92`  E`  Curr Attr 2
+FVV-W160`  51`  E`  Long Attr 1
+FVV-W160`  92`  E`  Curr Attr 2
+FVV-W700`  92`  E`  Date Attr 2
+FVV-W750`  92`  E`  Date Attr 2
+FVV-W990`  51`  E`  Delivery Quantity
+T077D-FAUSA`  037`  E`  County Code, City Code
+T077D-FAUSF`  037`  E`  Personnel number
+T077K-FAUSF`  037`  E`  Personnel number
+FVV-CL`  037`  E`  Nominal Interest Rate
+FVV-CL`  040`  E`  Group Key 2
+FVV-I`  040`  E`  Tenant SC settlement
+FVV-IBW`  037`  E`  Processing indicator
+FVV-IBW`  040`  E`  Authorization Group
+FVV-IME`  037`  E`  Reconstruction/refurbishment
+FVV-IME`  040`  E`  Jurisdiction code
+FVV-IMWU`  040`  E`  Date received
+FVV-IO`  040`  E`  Tenant SC settlement
+RERAOPIT`  037`  E`  CostCtr Assigned Statistically
+SKB1-FAUS1`  037`  E`  Own Bank
+SKB1-FAUS1`  040`  E`  EC tax data
+T077D-FAUSA`  040`  E`  Contact person
+T077D-FAUSF`  040`  E`  Withholding tax code (2)
+T077D-FAUSV`  037`  E`  Agency business
+T077K-FAUSA`  037`  E`  Reference account group (OTA)
+T077K-FAUSA`  040`  E`  Contact Persons
+T077K-FAUSF`  040`  E`  W/holding tax reg. number (2)
+T077K-FAUSM`  037`  E`  Doc. index active
+T077K-FAUSM`  040`  E`  Service level
+TIV00-FS-GB`  037`  E`  Ranking
+TIV00-FS-GB`  040`  E`  Currency
+TIV00-FS-GE`  037`  E`  Insurable value
+TIV00-FS-GE`  040`  E`  Construction costs index
+TIV00-FS-GR`  037`  E`  Heritable building right
+FVV-W010`  52`  E`  Long Attr 2
+FVV-W010`  53`  E`  Long Attr 3
+FVV-W020`  52`  E`  Long Attr 2
+FVV-W020`  53`  E`  Long Attr 3
+FVV-W030`  52`  E`  Long Attr 2
+FVV-W030`  53`  E`  Long Attr 3
+FVV-W040`  52`  E`  Long Attr 2
+FVV-W040`  53`  E`  Long Attr 3
+FVV-W041`  52`  E`  Long Attr 2
+FVV-W041`  53`  E`  Long Attr 3
+FVV-W042`  52`  E`  Long Attr 2
+FVV-W042`  53`  E`  Long Attr 3
+FVV-W060`  52`  E`  Long Attr 2
+FVV-W060`  53`  E`  Long Attr 3
+FVV-W070`  52`  E`  Long Attr 2
+FVV-W070`  53`  E`  Long Attr 3
+FVV-W111`  52`  E`  Long Attr 2
+FVV-W111`  53`  E`  Long Attr 3
+FVV-W112`  52`  E`  Long Attr 2
+FVV-W112`  53`  E`  Long Attr 3
+FVV-W113`  52`  E`  Long Attr 2
+FVV-W113`  53`  E`  Long Attr 3
+FVV-W114`  52`  E`  Long Attr 2
+FVV-W114`  53`  E`  Long Attr 3
+FVV-W160`  52`  E`  Long Attr 2
+FVV-W160`  53`  E`  Long Attr 3
+FVV-W990`  53`  E`  Delivery Status
+FVV-CL`  038`  E`  Credit Life Ins. Single Prem.
+FVV-IBW`  038`  E`  Selection indicator
+FVV-IME`  038`  E`  Acct determin.value
+FVV-W010`  55`  E`  Long Attr 5
+FVV-W020`  55`  E`  Long Attr 5
+FVV-W030`  55`  E`  Long Attr 5
+FVV-W040`  55`  E`  Long Attr 5
+FVV-W041`  55`  E`  Long Attr 5
+FVV-W042`  55`  E`  Long Attr 5
+FVV-W060`  55`  E`  Long Attr 5
+FVV-W070`  55`  E`  Long Attr 5
+FVV-W111`  55`  E`  Long Attr 5
+FVV-W112`  55`  E`  Long Attr 5
+FVV-W113`  55`  E`  Long Attr 5
+FVV-W114`  55`  E`  Long Attr 5
+FVV-W160`  55`  E`  Long Attr 5
+FVV-W990`  52`  E`  Delivery Percentage
+RERAOPIT`  038`  E`  ID of Mandate
+SKB1-FAUS1`  038`  E`  Bank Business Partners
+T077D-FAUSA`  038`  E`  Industry sectors
+T077D-FAUSF`  038`  E`  Single pmnt, grp key, PM supl.
+T077K-FAUSA`  038`  E`  P.O. Box city
+T077K-FAUSF`  038`  E`  Single pmnt, grp key, PM supl.
+T077K-FAUSM`  038`  E`  Bus.vol.comparison/agrmnt nec.
+T156B-FAUSW`  038`  E`  Bank business partner(FI only)
+TIV00-FS-GB`  038`  E`  Loan number
+TIV00-FS-GR`  038`  E`  Permitted building height
+FVV-CL`  060`  E`  Main Borrower
+FVV-I`  060`  E`  Dunning block
+FVV-IMWU`  060`  E`  Floor - Selection
+FVV-W010`  54`  E`  Long Attr 4
+FVV-W020`  54`  E`  Long Attr 4
+FVV-W030`  54`  E`  Long Attr 4
+FVV-W040`  54`  E`  Long Attr 4
+FVV-W041`  54`  E`  Long Attr 4
+FVV-W042`  54`  E`  Long Attr 4
+FVV-W060`  54`  E`  Long Attr 4
+FVV-W070`  54`  E`  Long Attr 4
+FVV-W111`  54`  E`  Long Attr 4
+FVV-W112`  54`  E`  Long Attr 4
+FVV-W113`  54`  E`  Long Attr 4
+FVV-W114`  54`  E`  Long Attr 4
+FVV-W160`  54`  E`  Long Attr 4
+T077D-FAUSA`  060`  E`  Street 3
+T077K-FAUSA`  060`  E`  Room number
+T156B-FAUSW`  060`  E`  WM storage bin
+FVV-CL`  091`  E`  USE05: Unit Quantity Fields
+FVV-CL`  092`  E`  USR06: Values (Length 10,3)
+FVV-I`  061`  E`  Business area
+SKB1-FAUS1`  091`  E`  Trading Partner Profit Center
+SKB1-FAUS1`  092`  E`  Joint venture calculation type
+T077D-FAUSA`  091`  E`  2. academic title
+T077D-FAUSA`  092`  E`  2nd prefix
+T156B-FAUSW`  091`  E`  Trad.part.prof.center(FI only)
+T156B-FAUSW`  092`  E`  Joint venture calculation type
+TWRF2-FAUSW`  091`  E`  POS inbound profile
+TWRF2-FAUSW`  092`  E`  Assort. list profile
+FVV-CL`  061`  E`  Payment
+FVV-CL`  062`  E`  Payment
+FVV-CL`  064`  E`  Credit Life Insur.
+T077D-FAUSA`  061`  E`  Tax type
+T077D-FAUSA`  062`  E`  CFOP category
+T077D-FAUSA`  064`  E`  Tax number 4
+T077K-FAUSA`  061`  E`  Tax type
+T077K-FAUSA`  062`  E`  Social insurance
+T077K-FAUSA`  064`  E`  Tax number 4
+T156B-FAUSW`  061`  E`  Sales order
+T156B-FAUSW`  062`  E`  Partner company code
+T156B-FAUSW`  064`  E`  Accounting indicator
+TWRF2-FAUSW`  062`  E`  Purchasing organization
+TWRF2-FAUSW`  064`  E`  District
+FVV-CL`  065`  E`  Further Partners
+FVV-CL`  071`  E`  Instruction Dte
+T077D-FAUSA`  065`  E`  Brazilian taxes: ICMS,IPI,S.T.
+T077D-FAUSA`  071`  E`  Reserved for withholding tax
+T077K-FAUSA`  065`  E`  Tax split
+T077K-FAUSA`  071`  E`  Reserved for withholding tax
+T077K-FAUSA`  072`  E`  Reserved for withholding tax
+T156B-FAUSW`  065`  E`  Receiving batch
+T156B-FAUSW`  071`  E`  Tax code
+TWRF2-FAUSW`  065`  E`  Sales office
+TWRF2-FAUSW`  071`  E`  Layout
+FVV-CL`  072`  E`  Schufa Declaration Signed
+FVV-CL`  074`  E`  Organizational Unit
+FVV-CL`  075`  E`  Distribution Channel
+T077D-FAUSA`  072`  E`  Company postal code
+T077D-FAUSA`  074`  E`  Reserved for withholding tax
+T077D-FAUSA`  075`  E`  Reserved for withholding tax
+T077K-FAUSA`  074`  E`  Reserved for withholding tax
+T077K-FAUSA`  075`  E`  Reserved for withholding tax
+T156B-FAUSW`  072`  E`  Alternate base amount
+TWRF2-FAUSW`  072`  E`  Area schema
+TWRF2-FAUSW`  074`  E`  Date created
+TWRF2-FAUSW`  075`  E`  Requirements planning
+FVV-CL`  063`  E`  Document Folder
+FVV-CL`  081`  E`  Dunning Lock to
+FVV-CL`  082`  E`  Lock for Interest on Arrears
+T077D-FAUSA`  063`  E`  Tax number 3
+T077D-FAUSA`  081`  E`  Sex
+T077D-FAUSA`  082`  E`  Date of birth
+T077K-FAUSA`  063`  E`  Tax number 3
+T077K-FAUSA`  081`  E`  Date Limit: Ext. Document ID
+T077K-FAUSA`  082`  E`  Annual Repetition
+T156B-FAUSW`  063`  E`  Project
+TWRF2-FAUSW`  081`  E`  Calendar
+TWRF2-FAUSW`  082`  E`  Valuation at Retail
+FVV-CL`  073`  E`  Cancellation Date
+FVV-I`  068`  E`  Partner from
+FVV-IO`  068`  E`  Partner from
+T077D-FAUSA`  068`  E`  Buildings
+T077D-FAUSA`  073`  E`  Reserved for withholding tax
+T077K-FAUSA`  068`  E`  Company postal code
+T077K-FAUSA`  069`  E`  Reserved for withholding tax
+T077K-FAUSA`  073`  E`  Reserved for withholding tax
+TWRF2-FAUSW`  073`  E`  Time key
+FVV-CL`  056`  E`  Table - List of Attachments
+FVV-CL`  066`  E`  Collateral
+FVV-I`  056`  E`  Note
+FVV-I`  069`  E`  Partner reason
+FVV-IMWU`  056`  E`  Total rent
+FVV-IO`  056`  E`  Note
+FVV-IO`  069`  E`  Partner reason
+T077D-FAUSA`  056`  E`  Search term B
+T077D-FAUSA`  066`  E`  Street 5
+T077D-FAUSA`  069`  E`  Floor
+T077K-FAUSA`  056`  E`  Street 3
+T077K-FAUSA`  066`  E`  Reduced tax base
+T077K-FAUSM`  056`  E`  Procurement Monitoring
+T156B-FAUSW`  056`  E`  Receiving material
+TWRF2-FAUSW`  056`  E`  Street Address Undeliverable
+FVV-CL`  057`  E`  Table - Disbursements
+FVV-CL`  083`  E`  Lock Int. Arrears to
+FVV-CL`  084`  E`  USR00: 20 Characters
+FVV-I`  057`  E`  Dunning proced. rent adjustmt
+FVV-I`  059`  E`  Profit center
+FVV-IMWU`  057`  E`  Locat.- Selection
+T077D-FAUSA`  057`  E`  Standard comm.type
+T077D-FAUSA`  067`  E`  Tax categories
+T077D-FAUSA`  083`  E`  Marital status
+T077K-FAUSA`  057`  E`  Street 5
+T077K-FAUSA`  059`  E`  Floor
+T077K-FAUSA`  067`  E`  Tax categories
+T156B-FAUSW`  057`  E`  Receiving plant
+TWRF2-FAUSW`  057`  E`  Undeliverable Postbox
+TWRF2-FAUSW`  083`  E`  Retail revaluation profile
+TWRF2-FAUSW`  084`  E`  Value-based inv.mngmnt profile
+FVV-CL`  098`  E`  USR10: Evaluation Indicator
+FVV-CL`  099`  E`  USR11: Evaluation Indicator
+FVV-I`  070`  E`  Enquiry method
+FVV-IMWU`  059`  E`  Areas - Selection
+FVV-IO`  070`  E`  Enquiry method
+SKB1-FAUS1`  095`  E`  Functional Area
+SKB1-FAUS1`  098`  E`  Activity Type
+SKB1-FAUS1`  099`  E`  Business process
+SKB1-FAUS1`  100`  E`  Grant
+T077D-FAUSA`  059`  E`  Street 2
+T077D-FAUSA`  070`  E`  Room number
+T077D-FAUSA`  098`  E`  Country for format
+T077D-FAUSA`  099`  E`  Format name
+T077D-FAUSA`  100`  E`  Internet mail address
+T077K-FAUSA`  070`  E`  Reserved for withholding tax
+T077K-FAUSA`  100`  E`  Internet mail address
+T156B-FAUSW`  059`  E`  Goods recipient
+T156B-FAUSW`  095`  E`  Functional Area
+T156B-FAUSW`  098`  E`  Activity type
+T156B-FAUSW`  099`  E`  Business process
+T156B-FAUSW`  100`  E`  Grant
+TWRF2-FAUSW`  070`  E`  Sales area (floor space)
+TWRF2-FAUSW`  098`  E`  Batch status management active
+TWRF2-FAUSW`  099`  E`  Negative stocks
+TWRF2-FAUSW`  100`  E`  Listing basic rule
+FVV-CL`  076`  E`  Correspondence Role
+FVV-CL`  077`  E`  Contract Creation Date
+FVV-CL`  078`  E`  Commitment Date from Lender
+FVV-CL`  079`  E`  Key Date for Eff.Int.Rate Cal.
+FVV-CL`  080`  E`  Dunning Block
+FVV-CL`  085`  E`  USR01: 20 Characters
+FVV-CL`  095`  E`  USE07: Unit Value Fields
+T077D-FAUSA`  076`  E`  Comments
+T077D-FAUSA`  077`  E`  Time zone
+T077D-FAUSA`  078`  E`  Delivery district
+T077D-FAUSA`  079`  E`  Street 4
+T077D-FAUSA`  080`  E`  Regional structure grouping
+T077D-FAUSA`  085`  E`  P.O. Box Lobby
+T077D-FAUSA`  095`  E`  Name affix
+T077K-FAUSA`  076`  E`  Comments
+T077K-FAUSA`  077`  E`  Time zone
+T077K-FAUSA`  078`  E`  Delivery district
+T077K-FAUSA`  079`  E`  Street 4
+T077K-FAUSA`  080`  E`  Regional structure grouping
+T077K-FAUSA`  085`  E`  P.O. Box Lobby
+TWRF2-FAUSW`  076`  E`  Regular vendor
+TWRF2-FAUSW`  077`  E`  Auto. create PO
+TWRF2-FAUSW`  078`  E`  Source list requirement
+TWRF2-FAUSW`  079`  E`  Supply region
+TWRF2-FAUSW`  080`  E`  Conditions at plant level
+TWRF2-FAUSW`  085`  E`  Valuation grouping code
+TWRF2-FAUSW`  095`  E`  Block Reason
+FVV-CL`  088`  E`  USR04: Quantity (Length 10,3)
+FVV-CL`  089`  E`  USE04: Unit Quantity Fields
+FVV-CL`  093`  E`  USE06: Unit Value Fields
+FVV-CL`  094`  E`  USR07: Values (Length 10,3)
+SKB1-FAUS1`  093`  E`  Earmarked Funds
+SKB1-FAUS1`  094`  E`  Complete earmarked funds
+SKB1-FAUS1`  101`  E`  Segment
+SKB1-FAUS1`  102`  E`  Partner Segment
+T077D-FAUSA`  088`  E`  Tax Number 5
+T077D-FAUSA`  089`  E`  Academic title
+T077D-FAUSA`  093`  E`  Name at Birth
+T077D-FAUSA`  094`  E`  Nickname
+T077D-FAUSA`  101`  E`  Alternative place of residence
+T077D-FAUSA`  102`  E`  P.O. box without number
+T077D-FAUSA`  103`  E`  PO box country
+T077K-FAUSA`  088`  E`  Tax Number 5
+T077K-FAUSA`  089`  E`  Brazilian Fields
+T077K-FAUSA`  101`  E`  Alternative place of residence
+T077K-FAUSA`  102`  E`  P.O. box without number
+T077K-FAUSA`  103`  E`  PO box country
+T156B-FAUSW`  093`  E`  Funds reservation         (FI)
+T156B-FAUSW`  094`  E`  Funds reservation item    (FI)
+TWRF2-FAUSW`  088`  E`  Listing procedure
+TWRF2-FAUSW`  089`  E`  SOP plant
+TWRF2-FAUSW`  101`  E`  Sales pricing
+TWRF2-FAUSW`  102`  E`  Stock difference perc. rate
+TWRF2-FAUSW`  103`  E`  Optim. PO-based load building
+FVV-CL`  086`  E`  USR02: 10 Characters
+FVV-CL`  087`  E`  USR03: 10 Characters
+SKB1-FAUS1`  103`  E`  Partner Fund
+SKB1-FAUS1`  104`  E`  Partner Grant
+SKB1-FAUS1`  106`  E`  Partner Budget Period
+SKB1-FAUS1`  107`  E`  Partner Functional Area
+T077D-FAUSA`  086`  E`  Type of Delivery Service
+T077D-FAUSA`  087`  E`  Number of Delivery Service
+T077D-FAUSA`  104`  E`  PO Box Region
+T077D-FAUSA`  106`  E`  Undeliverable Street
+T077D-FAUSA`  107`  E`  Undeliverable Postbox
+T077D-FAUSA`  108`  E`  Mobile Telephone
+T077K-FAUSA`  086`  E`  Type of Delivery Service
+T077K-FAUSA`  087`  E`  Number of Delivery Service
+T077K-FAUSA`  104`  E`  PO Box Region
+T077K-FAUSA`  106`  E`  Proof of delivery
+T077K-FAUSA`  107`  E`  Undeliverable Street
+T077K-FAUSA`  108`  E`  Internet address
+TWRF2-FAUSW`  086`  E`  Listing conditions
+TWRF2-FAUSW`  087`  E`  Subsequent listing indicator
+TWRF2-FAUSW`  104`  E`  Sales area determination
+TWRF2-FAUSW`  106`  E`  County code, City code
+TWRF2-FAUSW`  107`  E`  Tax code 2
+TWRF2-FAUSW`  108`  E`  Space management profile
+FVV-IMWU`  058`  E`  Room - Selection
+T077D-FAUSA`  058`  E`  c/o name
+T077K-FAUSA`  058`  E`  Buildings
+T156B-FAUSW`  058`  E`  Receiving storage location
+FVV-W020`  017`  E`  SPPI Classification
+FVV-W990`  11`  E`  External Item Number
+FVV-W990`  12`  E`  Profit Center
+FVV-W990`  14`  E`  External Document Number
+FVV-W990`  15`  E`  Exposure Origin
+FVV-W990`  16`  E`  Logical System
+FVV-W990`  17`  E`  Physical inventory indicator
+FVV-W990`  22`  E`  Long Item Attribute 1
+FVV-W990`  23`  E`  Long Item Attribute 2
+FVV-W990`  24`  E`  Long Item Attribute 3
+FVV-W990`  25`  E`  Long Item Attribute 4
+FVV-W990`  26`  E`  Medium Item Attribute 1
+FVV-W990`  27`  E`  Medium Item Attribute 2
+FVV-W990`  28`  E`  Short Item Attribute 1
+FVV-W990`  29`  E`  Date Item Attribute 1
+FVV-W990`  3`  E`  Company Code
+FVV-W990`  30`  E`  Planning Period
+FVV-W990`  31`  E`  Planning Year
+FVV-W990`  32`  E`  Due Date
+FVV-W060`  017`  E`  SPPI Classification
+FVV-W990`  35`  E`  Exposure Amount
+FVV-W990`  36`  E`  Exposure Currency
+FVV-W990`  37`  E`  Target Currency
+FVV-W990`  39`  E`  Payment Date
+FVV-W990`  4`  E`  Country
+FVV-W990`  40`  E`  Delivery Date
+FVV-W990`  44`  E`  Portfolio
+FVV-W990`  45`  E`  Cost Center
+FVV-W990`  46`  E`  Business Area
+FVV-W990`  47`  E`  WBS Element
+FVV-W990`  50`  E`  Delivery Date
+FVV-W990`  56`  E`  Pricing Date
+FVV-W990`  57`  E`  Commodity
+FVV-W990`  58`  E`  Quotation Source
+FVV-W990`  59`  E`  Quotation Type
+FVV-W990`  6`  E`  Short Header Attribute 1
+FVV-W990`  7`  E`  Short Header Attribute 2
+FVV-W990`  8`  E`  Long Header Attribute 1
+FVV-W990`  9`  E`  Date Header Attribute 1
+FVV-W990`  86`  E`  Segment
+FVV-W990`  87`  E`  On behalf of company
+FVV-W070`  017`  E`  SPPI Classification
+FVV-W160`  017`  E`  SPPI Classification
+FVV-W700`  76`  E`  Short Attr 1
+FVV-W700`  77`  E`  Short Attr2
+FVV-W700`  78`  E`  Short Attr3
+FVV-W700`  79`  E`  Short Attr4
+FVV-W700`  80`  E`  Short Attr5
+FVV-W700`  85`  E`  Short Attr 10
+FVV-W700`  86`  E`  Free Attr 1
+FVV-W700`  87`  E`  Free Attr 2
+FVV-W700`  88`  E`  Free Attr 3
+FVV-W700`  89`  E`  Free Attr 4
+FVV-W700`  90`  E`  Free Attr 5
+FVV-W700`  93`  E`  Attr Date From
+FVV-W700`  94`  E`  Attr Date To
+FVV-W700`  95`  E`  Curr Attr 1
+FVV-W700`  96`  E`  Curr Attr 2
+FVV-W750`  76`  E`  Short Attr 1
+FVV-W750`  77`  E`  Short Attr2
+FVV-W750`  78`  E`  Short Attr3
+FVV-W750`  79`  E`  Short Attr4
+FVV-W750`  80`  E`  Short Attr5
+FVV-W750`  85`  E`  Short Attr 10
+FVV-W750`  86`  E`  Free Attr 1
+FVV-W750`  87`  E`  Free Attr 2
+FVV-W750`  88`  E`  Free Attr 3
+FVV-W750`  89`  E`  Free Attr 4
+FVV-W750`  90`  E`  Free Attr 5
+FVV-W750`  93`  E`  Attr Date From
+FVV-W750`  94`  E`  Attr Date To
+FVV-W750`  95`  E`  Curr Attr 1
+FVV-W750`  96`  E`  Curr Attr 2
+FVV-CL`  090`  E`  USR05: Quantity (Length 10,3)
+FVV-CL`  096`  E`  USR08: Date
+FVV-CL`  097`  E`  USR09: Date
+SKB1-FAUS1`  097`  E`  Add. Insurance Acct Assignment
+SKB1-FAUS1`  105`  E`  Budget Period
+SKB1-FAUS1`  129`  E`  Reason Code
+SKB1-FAUS1`  130`  E`  Reference specification 1/2
+SKB1-FAUS1`  131`  E`  Reference specification 3
+SKB1-FAUS1`  132`  E`  Instruction key for payment
+SKB1-FAUS1`  133`  E`  Payment Reference
+SKB1-FAUS1`  134`  E`  Gross Income Tax
+SKB1-FAUS1`  135`  E`  Inflation Index
+SKB1-FAUS1`  136`  E`  Payment currency
+SKB1-FAUS1`  137`  E`  Payment currency amount
+SKB1-FAUS1`  139`  E`  Mandate Reference
+T077D-FAUSA`  090`  E`  Name prefix
+T077D-FAUSA`  096`  E`  Initials
+T077D-FAUSA`  105`  E`  Name Formatting
+T077D-FAUSA`  109`  E`  ETM Basic Data
+T077D-FAUSA`  110`  E`  ETM Settlement Data
+T077K-FAUSA`  109`  E`  Mobile Telephone
+T077K-FAUSA`  110`  E`  Procurement Monitoring
+TWRF2-FAUSW`  090`  E`  POS outbound profile
+TWRF2-FAUSW`  096`  E`  Blocking period
+TWRF2-FAUSW`  105`  E`  Distribution profile
+TWRF2-FAUSW`  109`  E`  Order Allocation Run
+SKB1-FAUS1`  109`  E`  Funds precommitment
+T156B-FAUSW`  109`  E`  Funds precommitment
+FVV-W700`  054`  E`  First Notice Day
+FVV-W040`  048`  E`  Calculation w. Nominal per TU
+FVV-W042`  093`  E`  Calculation w. Nominal per TU
+FVV-W990`  88`  E`  Raw Exposure Description
+FVV-W700`  050`  E`  First Quotation
+FVV-W700`  051`  E`  Last Quotation
+FVV-W700`  60`  E`  Tick Size
+SKB1-FAUS1`  108`  E`  US Government Fields
+FVV-D`  135`  E`  Para. 14 GBA Open Loan Com.
+FVV-W010`  018`  E`  CI Country
+FVV-W010`  019`  E`  CI Code
+FVV-W020`  018`  E`  CI Country
+FVV-W020`  019`  E`  CI Code
+FVV-W030`  018`  E`  CI Country
+FVV-W030`  019`  E`  CI Code
+FVV-W040`  018`  E`  CI Country
+FVV-W040`  019`  E`  CI Code
+FVV-W041`  018`  E`  CI Country
+FVV-W041`  019`  E`  CI Code
+FVV-W042`  018`  E`  CI Country
+FVV-W042`  019`  E`  CI Code
+FVV-W060`  018`  E`  CI Country
+FVV-W060`  019`  E`  CI Code
+FVV-W070`  018`  E`  CI Country
+FVV-W070`  019`  E`  CI Code
+FVV-W111`  018`  E`  CI Country
+FVV-W111`  019`  E`  CI Code
+FVV-W112`  018`  E`  CI Country
+FVV-W112`  019`  E`  CI Code
+FVV-W113`  018`  E`  CI Country
+FVV-W113`  019`  E`  CI Code
+FVV-W114`  018`  E`  CI Country
+FVV-W114`  019`  E`  CI Code
+FVV-W160`  018`  E`  CI Country
+FVV-W160`  019`  E`  CI Code
+FVV-W700`  018`  E`  CI Country
+FVV-W700`  019`  E`  CI Code
+FVV-W700`  056`  E`  First Notice Day
+FVV-W750`  018`  E`  CI Country
+FVV-W750`  019`  E`  CI Code
+FVV-W750`  056`  E`  First Notice Day
+SKB1-FAUS1`  004`  E`  Accrual Object
+SKB1-FAUS1`  110`  E`  Service Document
+SKB1-FAUS1`  140`  E`  Period of Performance
+T156B-FAUSW`  110`  E`  Service Document
+T077K-FAUST`  056`  E`  Procurement Monitoring
+T077K-FAUSW`  056`  E`  Procurement Monitoring
+TWRF2-FAUSW`  110`  E`  Fashion Indicators

@@ -1,0 +1,24 @@
+﻿SPRAS [C(00002)]`FEGTB [C(00002)]`FEGLG [C(00006)]`FEGBEZ [C(00060)]
+E`  A`  001`  General data
+E`  A`  002`  Posting information
+E`  A`  003`  Time-dependent data
+E`  A`  004`  Allocations
+E`  A`  005`  Leasing
+E`  A`  006`  Net worth valuation
+E`  A`  007`  Real estate and similar rights
+E`  A`  008`  Insurance
+E`  A`  009`  Origin
+E`  A`  010`  Inv. account assignment
+E`  A`  011`  Inventory
+E`  A`  012`  Investment support measures
+E`  A`  013`  Equipment
+E`  A`  201`  Time-independent country data
+E`  A`  202`  Time-dependent country data
+E`  A`  206`  Japan:Property Tax (Time-Ind.)
+E`  A`  207`  JP: Annex 16
+E`  A`  208`  South Korea: Business Place
+E`  A`  400`  IN : Block Depreciation
+E`  B`  001`  General specifications
+E`  B`  002`  Start of calculation
+E`  B`  003`  Additional specifications
+E`  B`  004`  Custom base value

@@ -1,0 +1,21 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`KNTTP [C(00002)]`KNTTX [C(00040)]
+400`  E`  A`  Asset
+400`  E`  B`  MTS prod./sales ord.
+400`  E`  C`  Sales order
+400`  E`  D`  Indiv.cust./project
+400`  E`  E`  Ind. cust. w. KD-CO
+400`  E`  F`  Order
+400`  E`  G`  MTS prod./project
+400`  E`  H`  Nonstock sales
+400`  E`  K`  Cost center
+400`  E`  M`  Ind. cust. w/o KD-CO
+400`  E`  N`  Network
+400`  E`  P`  Project
+400`  E`  Q`  Proj. make-to-order
+400`  E`  S`  Third-Party Project
+400`  E`  T`  All new aux.acc.ass.
+400`  E`  U`  Unknown
+400`  E`  W`  3rd Party With SN
+400`  E`  X`  All aux.acct.assgts.
+400`  E`  Y`  3rd Party W/O SN
+400`  E`  Z`  Returnable Packaging

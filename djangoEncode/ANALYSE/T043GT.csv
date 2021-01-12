@@ -1,0 +1,428 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`BUKRS [C(00008)]`TOGRU [C(00008)]`TXT30 [C(00060)]
+400`  E`  0002`  `  Default Tolerance Cust/vend
+400`  E`  0002`  CUS1`  Tol CUS1
+400`  E`  0002`  CUS2`  Tol CUS2
+400`  E`  0002`  VEN1`  Tol VEN1
+400`  E`  0002`  VEN2`  Tol VEN2
+400`  E`  0AES`  `
+400`  E`  0AES`  DEB1`
+400`  E`  0AES`  DEB2`
+400`  E`  0AES`  DEB3`
+400`  E`  0AES`  DEB4`
+400`  E`  0AES`  KRE1`
+400`  E`  1006`  `  Default Tolerance Cust/vend
+400`  E`  1006`  CUS1`  Tol CUS1
+400`  E`  1006`  CUS2`  Tol CUS2
+400`  E`  1006`  VEN1`  Tol VEN1
+400`  E`  1006`  VEN2`  Tol VEN2
+400`  E`  1008`  `  Default Tolerance Cust/vend
+400`  E`  1008`  CUS1`  Tol CUS1
+400`  E`  1008`  CUS2`  Tol CUS2
+400`  E`  1008`  VEN1`  Tol VEN1
+400`  E`  1008`  VEN2`  Tol VEN2
+400`  E`  1010`  `  Default Tolerance Cust/vend
+400`  E`  1010`  CUS1`  Tol CUS1
+400`  E`  1010`  CUS2`  Tol CUS2
+400`  E`  1010`  VEN1`  Tol VEN1
+400`  E`  1010`  VEN2`  Tol VEN2
+400`  E`  1110`  `  Default Tolerance Cust/vend
+400`  E`  1110`  CUS1`  Tol CUS1
+400`  E`  1110`  CUS2`  Tol CUS2
+400`  E`  1110`  VEN1`  Tol VEN1
+400`  E`  1110`  VEN2`  Tol VEN2
+400`  E`  1210`  `  Default Tolerance Cust/vend
+400`  E`  1210`  CUS1`  Tol CUS1
+400`  E`  1210`  CUS2`  Tol CUS2
+400`  E`  1210`  VEN1`  Tol VEN1
+400`  E`  1210`  VEN2`  Tol VEN2
+400`  E`  1310`  `  Default Tolerance Cust/vend
+400`  E`  1310`  CUS1`  Tol CUS1
+400`  E`  1310`  CUS2`  Tol CUS2
+400`  E`  1310`  VEN1`  Tol VEN1
+400`  E`  1310`  VEN2`  Tol VEN2
+400`  E`  1320`  `  Default Tolerance Cust/vend
+400`  E`  1320`  CUS1`  Tol CUS1
+400`  E`  1320`  CUS2`  Tol CUS2
+400`  E`  1320`  VEN1`  Tol VEN1
+400`  E`  1320`  VEN2`  Tol VEN2
+400`  E`  1410`  `  Default Tolerance Cust/vend
+400`  E`  1410`  CUS1`  Tol CUS1
+400`  E`  1410`  CUS2`  Tol CUS2
+400`  E`  1410`  VEN1`  Tol VEN1
+400`  E`  1410`  VEN2`  Tol VEN2
+400`  E`  1510`  `  Default Tolerance Cust/vend
+400`  E`  1510`  CUS1`  Tol CUS1
+400`  E`  1510`  CUS2`  Tol CUS2
+400`  E`  1510`  VEN1`  Tol VEN1
+400`  E`  1510`  VEN2`  Tol VEN2
+400`  E`  1610`  `  Default Tolerance Cust/vend
+400`  E`  1610`  CUS1`  Tol CUS1
+400`  E`  1610`  CUS2`  Tol CUS2
+400`  E`  1610`  VEN1`  Tol VEN1
+400`  E`  1610`  VEN2`  Tol VEN2
+400`  E`  1710`  `  Default Tolerance Cust/vend
+400`  E`  1710`  CUS1`  Tol CUS1
+400`  E`  1710`  CUS2`  Tol CUS2
+400`  E`  1710`  VEN1`  Tol VEN1
+400`  E`  1710`  VEN2`  Tol VEN2
+400`  E`  1810`  `  Default Tolerance Cust/Vend
+400`  E`  1810`  CUS1`  Tol CUS1
+400`  E`  1810`  CUS2`  Tol CUS2
+400`  E`  1810`  VEN1`  Tol VEN1
+400`  E`  1810`  VEN2`  Tol VEN2
+400`  E`  1910`  `  Default Tolerance Cust/vend
+400`  E`  1910`  CUS1`  Tol CUS1
+400`  E`  1910`  CUS2`  Tol CUS2
+400`  E`  1910`  VEN1`  Tol VEN1
+400`  E`  1910`  VEN2`  Tol VEN2
+400`  E`  2006`  `  Default Tolerance Cust/vend
+400`  E`  2006`  CUS1`  Tol CUS1
+400`  E`  2006`  CUS2`  Tol CUS2
+400`  E`  2006`  VEN1`  Tol VEN1
+400`  E`  2006`  VEN2`  Tol VEN2
+400`  E`  2010`  `  Default Tolerance Cust/vend
+400`  E`  2010`  CUS1`  Tol CUS1
+400`  E`  2010`  CUS2`  Tol CUS2
+400`  E`  2010`  VEN1`  Tol VEN1
+400`  E`  2010`  VEN2`  Tol VEN2
+400`  E`  2020`  `  Default Tolerance Cust/vend
+400`  E`  2020`  CUS1`  Tol CUS1
+400`  E`  2020`  CUS2`  Tol CUS2
+400`  E`  2020`  VEN1`  Tol VEN1
+400`  E`  2020`  VEN2`  Tol VEN2
+400`  E`  2021`  `  Default Tolerance Cust/vend
+400`  E`  2021`  CUS1`  Tol CUS1
+400`  E`  2021`  CUS2`  Tol CUS2
+400`  E`  2021`  VEN1`  Tol VEN1
+400`  E`  2021`  VEN2`  Tol VEN2
+400`  E`  2030`  `  Default Tolerance Cust/vend
+400`  E`  2030`  CUS1`  Tol CUS1
+400`  E`  2030`  CUS2`  Tol CUS2
+400`  E`  2030`  VEN1`  Tol VEN1
+400`  E`  2030`  VEN2`  Tol VEN2
+400`  E`  2110`  `  Default Tolerance Cust/vend
+400`  E`  2110`  CUS1`  Tol CUS1
+400`  E`  2110`  CUS2`  Tol CUS2
+400`  E`  2110`  VEN1`  Tol VEN1
+400`  E`  2110`  VEN2`  Tol VEN2
+400`  E`  2210`  `  Default Tolerance Cust/vend
+400`  E`  2210`  CUS1`  Tol CUS1
+400`  E`  2210`  CUS2`  Tol CUS2
+400`  E`  2210`  VEN1`  Tol VEN1
+400`  E`  2210`  VEN2`  Tol VEN2
+400`  E`  2310`  `  Default Tolerance Cust/vend
+400`  E`  2310`  CUS1`  Tol CUS1
+400`  E`  2310`  CUS2`  Tol CUS2
+400`  E`  2310`  VEN1`  Tol VEN1
+400`  E`  2310`  VEN2`  Tol VEN2
+400`  E`  2410`  `  Default Tolerance Cust/vend
+400`  E`  2410`  CUS1`  Tol CUS1
+400`  E`  2410`  CUS2`  Tol CUS2
+400`  E`  2410`  VEN1`  Tol VEN1
+400`  E`  2410`  VEN2`  Tol VEN2
+400`  E`  2510`  `  Default Tolerance Cust/vend
+400`  E`  2510`  CUS1`  Tol CUS1
+400`  E`  2510`  CUS2`  Tol CUS2
+400`  E`  2510`  VEN1`  Tol VEN1
+400`  E`  2510`  VEN2`  Tol VEN2
+400`  E`  2610`  `  Default Tolerance Cust/vend
+400`  E`  2610`  CUS1`  Tol CUS1
+400`  E`  2610`  CUS2`  Tol CUS2
+400`  E`  2610`  VEN1`  Tol VEN1
+400`  E`  2610`  VEN2`  Tol VEN2
+400`  E`  2810`  `  Default Tolerance Cust/vend
+400`  E`  2810`  CUS1`  Tol CUS1
+400`  E`  2810`  CUS2`  Tol CUS2
+400`  E`  2810`  VEN1`  Tol VEN1
+400`  E`  2810`  VEN2`  Tol VEN2
+400`  E`  2910`  `  Default Tolerance Cust/vend
+400`  E`  2910`  CUS1`  Tol CUS1
+400`  E`  2910`  CUS2`  Tol CUS2
+400`  E`  2910`  VEN1`  Tol VEN1
+400`  E`  2910`  VEN2`  Tol VEN2
+400`  E`  3006`  `  Default Tolerance Cust/vend
+400`  E`  3006`  CUS1`  Tol CUS1
+400`  E`  3006`  CUS2`  Tol CUS2
+400`  E`  3006`  VEN1`  Tol VEN1
+400`  E`  3006`  VEN2`  Tol VEN2
+400`  E`  3010`  `  Default Tolerance Cust/Vend
+400`  E`  3010`  CUS1`  Tol CUS1
+400`  E`  3010`  CUS2`  Tol CUS2
+400`  E`  3010`  VEN1`  Tol VEN1
+400`  E`  3010`  VEN2`  Tol VEN2
+400`  E`  3210`  `  Default Tolerance Cust/vend
+400`  E`  3210`  CUS1`  Tol CUS1
+400`  E`  3210`  CUS2`  Tol CUS2
+400`  E`  3210`  VEN1`  Tol VEN1
+400`  E`  3210`  VEN2`  Tol VEN2
+400`  E`  3310`  `  Default Tolerance Cust/vend
+400`  E`  3310`  CUS1`  Tol CUS1
+400`  E`  3310`  CUS2`  Tol CUS2
+400`  E`  3310`  VEN1`  Tol VEN1
+400`  E`  3310`  VEN2`  Tol VEN2
+400`  E`  3444`  `  cust vendor default tolerance
+400`  E`  3444`  JJ12`  customer and vendor tolerance
+400`  E`  3510`  `  Default Tolerance Cust/vend
+400`  E`  3510`  CUS1`  Tol CUS1
+400`  E`  3510`  CUS2`  Tol CUS2
+400`  E`  3510`  VEN1`  Tol VEN1
+400`  E`  3510`  VEN2`  Tol VEN2
+400`  E`  3610`  `  Default Tolerance Cust/vend
+400`  E`  3610`  CUS1`  Tol CUS1
+400`  E`  3610`  CUS2`  Tol CUS2
+400`  E`  3610`  VEN1`  Tol VEN1
+400`  E`  3610`  VEN2`  Tol VEN2
+400`  E`  3710`  `  Default Tolerance Cust/vend
+400`  E`  3710`  CUS1`  Tol CUS1
+400`  E`  3710`  CUS2`  Tol CUS2
+400`  E`  3710`  VEN1`  Tol VEN1
+400`  E`  3710`  VEN2`  Tol VEN2
+400`  E`  3910`  `  Default Tolerance Cust/vend
+400`  E`  3910`  CUS1`  Tol CUS1
+400`  E`  3910`  CUS2`  Tol CUS2
+400`  E`  3910`  VEN1`  Tol VEN1
+400`  E`  3910`  VEN2`  Tol VEN2
+400`  E`  4210`  `  Default Tolerance Cust/vend
+400`  E`  4210`  CUS1`  Tol CUS1
+400`  E`  4210`  CUS2`  Tol CUS2
+400`  E`  4210`  VEN1`  Tol VEN1
+400`  E`  4210`  VEN2`  Tol VEN2
+400`  E`  4310`  `  Default Tolerance Cust/vend
+400`  E`  4310`  CUS1`  Tol CUS1
+400`  E`  4310`  CUS2`  Tol CUS2
+400`  E`  4310`  VEN1`  Tol VEN1
+400`  E`  4310`  VEN2`  Tol VEN2
+400`  E`  4410`  `  Default Tolerance Cust/vend
+400`  E`  4410`  CUS1`  Tol CUS1
+400`  E`  4410`  CUS2`  Tol CUS2
+400`  E`  4410`  VEN1`  Tol VEN1
+400`  E`  4410`  VEN2`  Tol VEN2
+400`  E`  4450`  `  Default Tolerance Cust/vend
+400`  E`  4450`  CUS1`  Tol CUS1
+400`  E`  4450`  CUS2`  Tol CUS2
+400`  E`  4450`  VEN1`  Tol VEN1
+400`  E`  4450`  VEN2`  Tol VEN2
+400`  E`  4510`  `  Default Tolerance Cust/vend
+400`  E`  4510`  CUS1`  Tol CUS1
+400`  E`  4510`  CUS2`  Tol CUS2
+400`  E`  4510`  VEN1`  Tol VEN1
+400`  E`  4510`  VEN2`  Tol VEN2
+400`  E`  5110`  `  Default Tolerance Cust/vend
+400`  E`  5110`  CUS1`  Tol CUS1
+400`  E`  5110`  CUS2`  Tol CUS2
+400`  E`  5110`  VEN1`  Tol VEN1
+400`  E`  5110`  VEN2`  Tol VEN2
+400`  E`  5410`  `  Default Tolerance Cust/vend
+400`  E`  5410`  CUS1`  Tol CUS1
+400`  E`  5410`  CUS2`  Tol CUS2
+400`  E`  5410`  VEN1`  Tol VEN1
+400`  E`  5410`  VEN2`  Tol VEN2
+400`  E`  5510`  `  Default Tolerance Cust/vend
+400`  E`  5510`  CUS1`  Tol CUS1
+400`  E`  5510`  CUS2`  Tol CUS2
+400`  E`  5510`  VEN1`  Tol VEN1
+400`  E`  5510`  VEN2`  Tol VEN2
+400`  E`  5810`  `  Default Tolerance Cust/vend
+400`  E`  5810`  CUS1`  Tol CUS1
+400`  E`  5810`  CUS2`  Tol CUS2
+400`  E`  5810`  VEN1`  Tol VEN1
+400`  E`  5810`  VEN2`  Tol VEN2
+400`  E`  5910`  `  Default Tolerance Cust/vend
+400`  E`  5910`  CUS1`  Tol CUS1
+400`  E`  5910`  CUS2`  Tol CUS2
+400`  E`  5910`  VEN1`  Tol VEN1
+400`  E`  5910`  VEN2`  Tol VEN2
+400`  E`  6110`  `  Default Tolerance Cust/vend
+400`  E`  6110`  CUS1`  Tol CUS1
+400`  E`  6110`  CUS2`  Tol CUS2
+400`  E`  6110`  VEN1`  Tol VEN1
+400`  E`  6110`  VEN2`  Tol VEN2
+400`  E`  6210`  `  Default Tolerance Cust/vend
+400`  E`  6210`  CUS1`  Tol CUS1
+400`  E`  6210`  CUS2`  Tol CUS2
+400`  E`  6210`  VEN1`  Tol VEN1
+400`  E`  6210`  VEN2`  Tol VEN2
+400`  E`  6310`  `  Default Tolerance Cust/vend
+400`  E`  6310`  CUS1`  Tol CUS1
+400`  E`  6310`  CUS2`  Tol CUS2
+400`  E`  6310`  VEN1`  Tol VEN1
+400`  E`  6310`  VEN2`  Tol VEN2
+400`  E`  6410`  `  Default Tolerance Cust/vend
+400`  E`  6410`  CUS1`  Tol CUS1
+400`  E`  6410`  CUS2`  Tol CUS2
+400`  E`  6410`  VEN1`  Tol VEN1
+400`  E`  6410`  VEN2`  Tol VEN2
+400`  E`  6600`  `  Default Tolerance Cust/vend
+400`  E`  6600`  CUS1`  Tol CUS1
+400`  E`  6600`  CUS2`  Tol CUS2
+400`  E`  6600`  VEN1`  Tol VEN1
+400`  E`  6600`  VEN2`  Tol VEN2
+400`  E`  6810`  `  Default Tolerance Cust/vend
+400`  E`  6810`  CUS1`  Tol CUS1
+400`  E`  6810`  CUS2`  Tol CUS2
+400`  E`  6810`  VEN1`  Tol VEN1
+400`  E`  6810`  VEN2`  Tol VEN2
+400`  E`  6910`  `  Default Tolerance Cust/Vend
+400`  E`  6910`  CUS1`  Tol CUS1
+400`  E`  6910`  CUS2`  Tol CUS2
+400`  E`  6910`  VEN1`  Tol VEN1
+400`  E`  6910`  VEN2`  Tol VEN2
+400`  E`  7K10`  `  Default Tolerance Cust/vend
+400`  E`  7K10`  CUS1`  Tol CUS1
+400`  E`  7K10`  CUS2`  Tol CUS2
+400`  E`  7K10`  VEN1`  Tol VEN1
+400`  E`  7K10`  VEN2`  Tol VEN2
+400`  E`  8999`  `  Default Tolerance Cust/vend
+400`  E`  8999`  CUS1`  Tol CUS1
+400`  E`  8999`  CUS2`  Tol CUS2
+400`  E`  8999`  VEN1`  Tol VEN1
+400`  E`  8999`  VEN2`  Tol VEN2
+400`  E`  9399`  `  Default Tolerance Cust/vend
+400`  E`  9399`  CUS1`  Tol CUS1
+400`  E`  9399`  CUS2`  Tol CUS2
+400`  E`  9399`  VEN1`  Tol VEN1
+400`  E`  9399`  VEN2`  Tol VEN2
+400`  E`  93A9`  `  Default Tolerance Cust/vend
+400`  E`  93A9`  CUS1`  Tol CUS1
+400`  E`  93A9`  CUS2`  Tol CUS2
+400`  E`  93A9`  VEN1`  Tol VEN1
+400`  E`  93A9`  VEN2`  Tol VEN2
+400`  E`  9800`  `  Default Tolerance Cust/Vend
+400`  E`  9800`  CUS1`  Tol CUS1
+400`  E`  9800`  CUS2`  Tol CUS2
+400`  E`  9800`  VEN1`  Tol VEN1
+400`  E`  9800`  VEN2`  Tol VEN2
+400`  E`  9801`  `  Default Tolerance Cust/Vend
+400`  E`  9801`  CUS1`  Tol CUS1
+400`  E`  9801`  CUS2`  Tol CUS2
+400`  E`  9801`  VEN1`  Tol VEN1
+400`  E`  9801`  VEN2`  Tol VEN2
+400`  E`  9919`  `  Default Tolerance Cust/vend
+400`  E`  9919`  CUS1`  Tol CUS1
+400`  E`  9919`  CUS2`  Tol CUS2
+400`  E`  9919`  VEN1`  Tol VEN1
+400`  E`  9919`  VEN2`  Tol VEN2
+400`  E`  A026`  `  Default Tolerance Cust/vend
+400`  E`  A026`  CUS1`  Tol CUS1
+400`  E`  A026`  CUS2`  Tol CUS2
+400`  E`  A026`  VEN1`  Tol VEN1
+400`  E`  A026`  VEN2`  Tol VEN2
+400`  E`  A101`  `  Default Tolerance Cust/vend
+400`  E`  A101`  CUS1`  Tol CUS1
+400`  E`  A101`  CUS2`  Tol CUS2
+400`  E`  A101`  VEN1`  Tol VEN1
+400`  E`  A101`  VEN2`  Tol VEN2
+400`  E`  AA01`  `  Default Tolerance Cust/vend
+400`  E`  AA01`  CUS1`  Tol CUS1
+400`  E`  AA01`  CUS2`  Tol CUS2
+400`  E`  AA01`  VEN1`  Tol VEN1
+400`  E`  AA01`  VEN2`  Tol VEN2
+400`  E`  AA02`  `  Default Tolerance Cust/vend
+400`  E`  AA02`  CUS1`  Tol CUS1
+400`  E`  AA02`  CUS2`  Tol CUS2
+400`  E`  AA02`  VEN1`  Tol VEN1
+400`  E`  AA02`  VEN2`  Tol VEN2
+400`  E`  BL01`  `  Default Tolerance Cust/vend
+400`  E`  BL01`  CUS1`  Tol CUS1
+400`  E`  BL01`  CUS2`  Tol CUS2
+400`  E`  BL01`  VEN1`  Tol VEN1
+400`  E`  BL01`  VEN2`  Tol VEN2
+400`  E`  CD01`  `  Default Tolerance Cust/vend
+400`  E`  CD01`  CUS1`  Tol CUS1
+400`  E`  CD01`  CUS2`  Tol CUS2
+400`  E`  CD01`  VEN1`  Tol VEN1
+400`  E`  CD01`  VEN2`  Tol VEN2
+400`  E`  CD02`  `  Default Tolerance Cust/vend
+400`  E`  CD02`  CUS1`  Tol CUS1
+400`  E`  CD02`  CUS2`  Tol CUS2
+400`  E`  CD02`  VEN1`  Tol VEN1
+400`  E`  CD02`  VEN2`  Tol VEN2
+400`  E`  DA01`  `
+400`  E`  DA01`  DEB1`
+400`  E`  DA01`  DEB2`
+400`  E`  DA01`  DEB3`
+400`  E`  DA01`  DEB4`
+400`  E`  DA01`  KRE1`
+400`  E`  DDDD`  `  Default Tolerance Cust/vend
+400`  E`  DDDD`  CUS1`  Tol CUS1
+400`  E`  DDDD`  CUS2`  Tol CUS2
+400`  E`  DDDD`  VEN1`  Tol VEN1
+400`  E`  DDDD`  VEN2`  Tol VEN2
+400`  E`  HHHH`  `  Default Tolerance Cust/vend
+400`  E`  HHHH`  CUS1`  Tol CUS1
+400`  E`  HHHH`  CUS2`  Tol CUS2
+400`  E`  HHHH`  VEN1`  Tol VEN1
+400`  E`  HHHH`  VEN2`  Tol VEN2
+400`  E`  HXGS`  `  Default Tolerance Cust/vend
+400`  E`  HXGS`  CUS1`  Tol CUS1
+400`  E`  HXGS`  CUS2`  Tol CUS2
+400`  E`  HXGS`  VEN1`  Tol VEN1
+400`  E`  HXGS`  VEN2`  Tol VEN2
+400`  E`  K001`  `  Default Tolerance Cust/vend
+400`  E`  K001`  CUS1`  Tol CUS1
+400`  E`  K001`  CUS2`  Tol CUS2
+400`  E`  K001`  VEN1`  Tol VEN1
+400`  E`  K001`  VEN2`  Tol VEN2
+400`  E`  LIU1`  `  Default Tolerance Cust/vend
+400`  E`  LIU1`  CUS1`  Tol CUS1
+400`  E`  LIU1`  CUS2`  Tol CUS2
+400`  E`  LIU1`  VEN1`  Tol VEN1
+400`  E`  LIU1`  VEN2`  Tol VEN2
+400`  E`  M008`  `  Default Tolerance Cust/vend
+400`  E`  M110`  `
+400`  E`  M110`  DEB1`
+400`  E`  M110`  DEB2`
+400`  E`  M110`  DEB3`
+400`  E`  M110`  DEB4`
+400`  E`  M110`  KRE1`
+400`  E`  M120`  `
+400`  E`  M120`  DEB1`
+400`  E`  M120`  DEB2`
+400`  E`  M120`  DEB3`
+400`  E`  M120`  DEB4`
+400`  E`  M120`  KRE1`
+400`  E`  M130`  `
+400`  E`  M130`  DEB1`
+400`  E`  M130`  DEB2`
+400`  E`  M130`  DEB3`
+400`  E`  M130`  DEB4`
+400`  E`  M130`  KRE1`
+400`  E`  S001`  `  Default Tolerance Cust/vend
+400`  E`  SNOW`  `  Default Tolerance Cust/vend
+400`  E`  SNOW`  CUS1`  Tol CUS1
+400`  E`  SNOW`  CUS2`  Tol CUS2
+400`  E`  SNOW`  VEN1`  Tol VEN1
+400`  E`  SNOW`  VEN2`  Tol VEN2
+400`  E`  TAKU`  `  Default Tolerance Cust/vend
+400`  E`  TAKU`  CUS1`  Tol CUS1
+400`  E`  TAKU`  CUS2`  Tol CUS2
+400`  E`  TAKU`  VEN1`  Tol VEN1
+400`  E`  TAKU`  VEN2`  Tol VEN2
+400`  E`  XN88`  `
+400`  E`  XN88`  DEB1`
+400`  E`  XN88`  DEB2`
+400`  E`  XN88`  DEB3`
+400`  E`  XN88`  DEB4`
+400`  E`  XN88`  KRE1`
+400`  E`  XXGS`  `  Default Tolerance Cust/vend
+400`  E`  XXGS`  CUS1`  Tol CUS1
+400`  E`  XXGS`  CUS2`  Tol CUS2
+400`  E`  XXGS`  VEN1`  Tol VEN1
+400`  E`  XXGS`  VEN2`  Tol VEN2
+400`  E`  Z500`  `  Default Tolerance Cust/vend
+400`  E`  Z500`  CUS1`  Tol CUS1
+400`  E`  Z500`  CUS2`  Tol CUS2
+400`  E`  Z500`  VEN1`  Tol VEN1
+400`  E`  Z500`  VEN2`  Tol VEN2
+400`  E`  ZJ01`  `  Default Tolerance Cust/vend
+400`  E`  ZJ01`  CUS1`  Tol CUS1
+400`  E`  ZJ01`  CUS2`  Tol CUS2
+400`  E`  ZJ01`  VEN1`  Tol VEN1
+400`  E`  ZJ01`  VEN2`  Tol VEN2
+400`  E`  ZSAP`  `  Default Tolerance Cust/vend
+400`  E`  ZZ02`  `  Default Tolerance Cust/vend
+400`  E`  ZZ02`  CUS1`  Tol CUS1
+400`  E`  ZZ02`  CUS2`  Tol CUS2
+400`  E`  ZZ02`  VEN1`  Tol VEN1
+400`  E`  ZZ02`  VEN2`  Tol VEN2
+400`  E`  ZZSY`  `  Default Tolerance Cust/vend

@@ -1,0 +1,70 @@
+﻿STATUS [C(00004)]`LANGUA [C(00002)]`DESCRP [C(00120)]
+00`  E`  Not used, only R/2
+01`  E`  IDoc created
+02`  E`  Error passing data to port
+03`  E`  Data passed to port OK
+04`  E`  Error within control information of EDI subsystem
+05`  E`  Translation error
+06`  E`  Translation OK
+07`  E`  Error during syntax check
+08`  E`  Syntax check OK
+09`  E`  Error during interchange handling
+10`  E`  Interchange handling OK
+11`  E`  Error during dispatch
+12`  E`  Dispatch OK
+13`  E`  Retransmission OK
+14`  E`  Interchange acknowledgment positive
+15`  E`  Interchange acknowledgment negative
+16`  E`  Functional acknowledgment positive
+17`  E`  Functional acknowledgment negative
+18`  E`  Triggering EDI subsystem OK
+19`  E`  Data passed to port for test
+20`  E`  Error triggering EDI subsystem
+21`  E`  Error passing data for test
+22`  E`  Dispatch OK, acknowledgment still due
+23`  E`  Error during retransmission
+24`  E`  Control information of EDI subsystem OK
+25`  E`  Processing despite syntax error (outbound)
+26`  E`  Error during syntax check of IDoc (outbound)
+27`  E`  Error in dispatch level (ALE service)
+28`  E`  IDoc sent to ALE distribution unit retroactively
+29`  E`  Error in ALE service
+30`  E`  IDoc ready for dispatch (ALE service)
+31`  E`  Error - no further processing
+32`  E`  IDoc was edited
+33`  E`  Original of an IDoc which was edited
+34`  E`  Error in control record of IDoc
+35`  E`  IDoc reloaded from archive
+36`  E`  Electronic signature not performed (timeout)
+37`  E`  Error when adding IDoc
+38`  E`  IDoc archived
+39`  E`  IDoc is in the target system (ALE service)
+40`  E`  Application document not created in target system
+41`  E`  Application document created in target system
+42`  E`  IDoc was created by test transaction
+50`  E`  IDoc added
+51`  E`  Application document not posted
+52`  E`  Application document not fully posted
+53`  E`  Application document posted
+54`  E`  Error during formal application check
+55`  E`  Formal application check OK
+56`  E`  IDoc with errors added
+57`  E`  Test IDoc: Error during application check
+58`  E`  IDoc copy from R/2 connection
+59`  E`  Not used
+60`  E`  Error during syntax check of IDoc (inbound)
+61`  E`  Processing despite syntax error (inbound)
+62`  E`  IDoc passed to application
+63`  E`  Error passing IDoc to application
+64`  E`  IDoc ready to be passed to application
+65`  E`  Error in ALE service
+66`  E`  IDoc is waiting for predecessor IDoc (serialization)
+67`  E`  Not used
+68`  E`  Error - no further processing
+69`  E`  IDoc was edited
+70`  E`  Original of an IDoc which was edited
+71`  E`  IDoc reloaded from archive
+72`  E`  Not used, only R/2
+73`  E`  IDoc archived
+74`  E`  IDoc was created by test transaction
+75`  E`  IDoc is in inbound queue

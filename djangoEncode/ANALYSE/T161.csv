@@ -1,0 +1,105 @@
+﻿MANDT [C(00006)]`BSTYP [C(00002)]`BSART [C(00008)]`BREFN [C(00040)]
+400`  A`  AB`  ANA
+400`  A`  AN`  ANA
+400`  A`  CPL`  ANAR
+400`  A`  RAN`  ANAR
+400`  B`  `
+400`  B`  FO`  FOF
+400`  B`  HM`
+400`  B`  NB`  NBB
+400`  B`  NBS`  NBB
+400`  B`  RV`  RVB
+400`  B`  Y001`  NBB
+400`  B`  Z001`  NBB
+400`  B`  Z002`  NBB
+400`  B`  Z003`  NBB
+400`  B`  Z004`  NBB
+400`  B`  Z005`  NBB
+400`  B`  Z006`  NBB
+400`  B`  ZFZ`  NBB
+400`  B`  ZP01`  NBB
+400`  B`  ZP02`  NBB
+400`  B`  ZQJ`  NBB
+400`  B`  ZQT`  NBB
+400`  B`  ZSB`  NBB
+400`  B`  ZYL`  NBB
+400`  B`  ZZC`  NBB
+400`  C`  MK`  MKC
+400`  C`  WK`  WKC
+400`  F`  DB`  NBF
+400`  F`  ENB`  NBF
+400`  F`  EUB`  UBF
+400`  F`  FO`  FOF
+400`  F`  MB`  ZNBF1
+400`  F`  NB`  NBF
+400`  F`  NB2`  NBF
+400`  F`  NB2C`  NBF2
+400`  F`  NBC7`  NBF2
+400`  F`  NBR8`  NBF2
+400`  F`  NBXE`  NBF
+400`  F`  NBXI`  NBF
+400`  F`  SNB`  NBF
+400`  F`  TM01`  NBF
+400`  F`  UB`  UBF
+400`  F`  UB2`  UBF2
+400`  F`  UD`  UBF
+400`  F`  Y001`
+400`  F`  Y01`  NBF
+400`  F`  Y02`  NBF2
+400`  F`  Z001`  NBF
+400`  F`  Z002`  NBF
+400`  F`  Z003`  NBF
+400`  F`  Z004`  NBF
+400`  F`  Z005`  NBF
+400`  F`  Z006`  UBF
+400`  F`  Z007`  NBF
+400`  F`  Z008`  NBF
+400`  F`  Z009`  NBF
+400`  F`  Z01`  NBF
+400`  F`  Z010`  UBF
+400`  F`  Z011`  NBF
+400`  F`  Z012`  NBF
+400`  F`  Z013`  NBF
+400`  F`  Z014`  ZANBF01
+400`  F`  Z015`  ZANBF01
+400`  F`  Z016`  ZANBF01
+400`  F`  Z017`  ZANBF01
+400`  F`  Z018`  ZANBF01
+400`  F`  Z019`  ZANBF01
+400`  F`  Z02`  NBF2
+400`  F`  ZF01`  ZNBF
+400`  F`  ZMA`  ZMF
+400`  F`  ZMB`  ZMF
+400`  F`  ZNA`  ZNA
+400`  F`  ZNB`  ZNA
+400`  F`  ZNC`  ZNC
+400`  F`  ZND`  ZND
+400`  F`  ZNE`  ZNE
+400`  F`  ZNF`  ZNA
+400`  F`  ZNG`  ZNG
+400`  F`  ZP01`  ZANBF01
+400`  F`  ZP02`  ZANBF02
+400`  F`  ZP03`  ZANBF03
+400`  F`  ZP04`  ZANBF04
+400`  F`  ZP05`  ZANBF05
+400`  F`  ZP06`  ZANBF06
+400`  F`  ZP09`  ZANBF09
+400`  F`  ZRE`  ZRE
+400`  F`  ZUB`  UB
+400`  K`  CMK`  CMKK
+400`  K`  CWK`  CWKK
+400`  K`  MK`  MKK
+400`  K`  WK`  WKK
+400`  L`  LP`  LPL
+400`  L`  LPA`  LPL
+400`  L`  LPXE`  LPL
+400`  L`  LPXI`  LPL
+400`  L`  LU`  LUL
+400`  N`  RQ`
+400`  O`  RE`
+400`  O`  RQ`
+400`  O`  RSI`
+400`  R`  RE`
+400`  R`  RQ`
+400`  R`  RSI`
+400`  T`  RQ`

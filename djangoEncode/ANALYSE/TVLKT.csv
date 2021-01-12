@@ -1,0 +1,100 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`LFART [C(00008)]`VTEXT [C(00040)]
+400`  E`  BV`  Cash Sales
+400`  E`  CBG5`  Pallet Returns
+400`  E`  CCLF`  Consi/Ret.Issue Dely
+400`  E`  CCLR`  ConsiReturn Delivery
+400`  E`  CEM`
+400`  E`  DIG`  Inb.Deliv.Gds Mvmnt
+400`  E`  DOG`  Outb.Deliv.Gds Mvmnt
+400`  E`  DTR`  Central Postng Chnge
+400`  E`  ECR`  CC Returns Delivery
+400`  E`  ECR7`  CC SIT Ret. Inb. Del
+400`  E`  EG`  Rough GR
+400`  E`  EL`  Inbound Delivery
+400`  E`  ELR`  IC Returns Delivery
+400`  E`  ELR8`  IC SIT Ret. Inb. Del
+400`  E`  ELST`  IDel. Val. Rec. SiT
+400`  E`  GPLF`  Delivery for SW mtn.
+400`  E`  HID`  Inbnd Dlv. HU Mvmnt
+400`  E`  HOD`  Outb.Deliv.GI Mvmnt
+400`  E`  HTP`  Deliv.for Post.Chge
+400`  E`  JF`  Outbound delivery IN
+400`  E`  JIT2`
+400`  E`  JITD`  JIT Outbd. Delivery
+400`  E`  JNL`  IntraSTO
+400`  E`  KOE1`  Delivery
+400`  E`  KOE3`  Delivefree of charge
+400`  E`  KOE4`  Delivefree of charge
+400`  E`  KOE5`  Delivery
+400`  E`  KOLF`  Delivery Koepfer
+400`  E`  KOLR`  Returns Delivery Koe
+400`  E`  LB`  Delivery for Subcon.
+400`  E`  LB2`  DFPS: Reloc. Shpmnts
+400`  E`  LD`  Outbound Del.Decentr
+400`  E`  LF`  Delivery
+400`  E`  LFKO`  Correction Delivery
+400`  E`  LK`
+400`  E`  LLR`  Adv.Returns Delivery
+400`  E`  LO`  Delivery w/o Ref.
+400`  E`  LO2`  Return to Customer
+400`  E`  LO3`  Delivery GRQC
+400`  E`  LP`  Delivery from Proj.
+400`  E`  LPP`  Delivery PP
+400`  E`  LR`  Returns Delivery
+400`  E`  LR2`  Adv.Returns Delivery
+400`  E`  LRX`  XLO Ret. In.Delivery
+400`  E`  MLF`  Delivery
+400`  E`  NCC2`  Iss. CST - Rec.Plant
+400`  E`  NCC3`  Iss. CST - Rec. CST
+400`  E`  NCCR`  Receiving CST
+400`  E`  NCCU`  Iss. SiT - Outb.Del.
+400`  E`  NCR`  Ret.StTranspOrd CC
+400`  E`  NCR2`  Ret.Iss.CST-Rec.Plnt
+400`  E`  NCR3`  Ret. Iss.CST-Rec.CST
+400`  E`  NCR7`  CC SiT Enh.St.Return
+400`  E`  NCRR`  Return to Rec. CST
+400`  E`  NK`  Replen.Del.Consignmt
+400`  E`  NKR`  Replen.Ret.Consignmt
+400`  E`  NL`  IntPlant Stock Dely
+400`  E`  NLCC`  Replen.Cross-Company
+400`  E`  NLI2`  Iss. IST - Rec.Plant
+400`  E`  NLI3`  Iss. IST - Rec. IST
+400`  E`  NLIR`  Receiving IST
+400`  E`  NLR`  Ret.Stock Transp.Ord
+400`  E`  NLR2`  Ret.Iss.IST-Rec.Plnt
+400`  E`  NLR3`  Ret. Iss.IST-Rec.IST
+400`  E`  NLR8`  IC SiT Enh.St.Return
+400`  E`  NLRR`  Return to Rec. IST
+400`  E`  RGEL`
+400`  E`  RL`  Returns (Pur.Ord.)
+400`  E`  RLL`  Return Del.to Vendor
+400`  E`  SRCL`  Requests + Returns
+400`  E`  SRNP`  New Parts Returns
+400`  E`  SRTC`  SPE Outbound Deliv.
+400`  E`  SRTR`  SPE Outbound Deliv.
+400`  E`  SRUP`  Used Parts Returns
+400`  E`  UL`  Del.for Stock Trans.
+400`  E`  VLRL`  VMS_Returns Delivery
+400`  E`  WID`  WMS Inbound Delivery
+400`  E`  WIG`  Other WMS Inb. Del.
+400`  E`  WMPP`  WM-PP Delivery
+400`  E`  WNL`  Replenishment WMS
+400`  E`  WOD`  WMS Outbound Deliv.
+400`  E`  WOG`  Other WMS Outb. Del.
+400`  E`  WRD`  Cust. Returns WMS
+400`  E`  WTR`  Decentr. Pstng Chnge
+400`  E`  Z001`  Outb.Deliv.Gds Mvmnt
+400`  E`  ZALF`  Delivery
+400`  E`  ZALR`  Returns Delivery
+400`  E`  ZAR`  Delivery
+400`  E`  ZHBV`  Cash Sales
+400`  E`  ZHLF`  Delivery
+400`  E`  ZHLR`  Returns Delivery
+400`  E`  ZIEL`  Inbound Delivery
+400`  E`  ZLF1`  Outbound delivery IN
+400`  E`  ZLF8`  Delivery 8570
+400`  E`  ZMF1`  Delivery
+400`  E`  ZNP1`  Delivery
+400`  E`  ZWLF`  Delivery
+400`  E`  ZZLF`  Delivery
+400`  E`  ZZLO`  Delivery w/o Ref.

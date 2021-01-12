@@ -1,0 +1,50 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`KTOKK [C(00008)]`TXT30 [C(00060)]
+400`  E`  0001`  Vendor
+400`  E`  0002`  Goods supplier
+400`  E`  0003`  Alternative payee
+400`  E`  0004`  Invoicing Party
+400`  E`  0005`  Forwarding agent
+400`  E`  0006`  Ordering address
+400`  E`  0007`  Plants
+400`  E`  0012`  Hierarchy Node
+400`  E`  0100`  Vendor distribution center
+400`  E`  CPD`  One-time vend.(ext.no.assgnmt)
+400`  E`  CPDL`  One-time vend.(ext.no.assgnmt)
+400`  E`  DARL`  Lender
+400`  E`  DCV1`  Vendor
+400`  E`  DV01`  Vendor
+400`  E`  DV02`  Vendor
+400`  E`  DV03`  Vendor
+400`  E`  DV04`  One-time vend.(ext.no.assgnmt)
+400`  E`  EMPL`  Employee as Supplier
+400`  E`  HOL`  Handover Location Address
+400`  E`  KRED`  Vendor (int.number assgnmnt)
+400`  E`  LIEF`  Vendor (ext.number assgnmnt)
+400`  E`  M08`  m008 vendor
+400`  E`  MNFR`  Manufacturer (ext.no.assgnmnt)
+400`  E`  REIS`  Commercial traveller
+400`  E`  S001`  Vendor
+400`  E`  SUPL`  Supplier
+400`  E`  TM01`  Vendor
+400`  E`  TM02`  Vendor
+400`  E`  TM03`  Vendor
+400`  E`  TM04`  One-time vend.(ext.no.assgnmt)
+400`  E`  TM05`  One-time vend.(ext.no.assgnmt)
+400`  E`  TMH1`  Vendor
+400`  E`  VD00`  Vendor (ext.number assgnmnt)
+400`  E`  X000`  Vendor
+400`  E`  Z001`  Int.no.assign KOEPFER
+400`  E`  Z002`  Ext.no.assign KOEPFER
+400`  E`  Z003`  One-time Supplier
+400`  E`  ZA10`  Vendor
+400`  E`  ZD01`  Vendor - 8570
+400`  E`  ZD02`  Goods supplier 8570
+400`  E`  ZD03`  Invoicing Party - 8570
+400`  E`  ZD04`  Ordering address 8570
+400`  E`  ZDV1`  Vendor
+400`  E`  ZOV1`  One-time vend.(ext.no.assgnmt)
+400`  E`  ZVH1`  Vendor
+400`  E`  ZW01`  Vendor
+400`  E`  ZYCQ`  One-time vend.(ext.no.assgnmt)
+400`  E`  ZZSY`  Vendor
+400`  E`  ZZZ1`  Vendor

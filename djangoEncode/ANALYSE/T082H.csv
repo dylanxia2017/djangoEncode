@@ -1,0 +1,78 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`FEGTB [C(00002)]`FELEI [C(00008)]`TXT30 [C(00060)]
+400`  E`  A`  1000`  Real estate
+400`  E`  A`  1100`  Buildings
+400`  E`  A`  2000`  General machines
+400`  E`  A`  3000`  Fixtures and fittings
+400`  E`  A`  3100`  Vehicles
+400`  E`  A`  3200`  DP / Hardware
+400`  E`  A`  3300`  Low-value assets
+400`  E`  A`  4000`  Assets under construction
+400`  E`  A`  4010`  Capital investment measure
+400`  E`  A`  5000`  Leasing
+400`  E`  A`  7000`  Formation expenses
+400`  E`  A`  77AA`  Buildings
+400`  E`  A`  8000`  Objects of art
+400`  E`  A`  L161`  Buildings
+400`  E`  A`  S100`  Real estate
+400`  E`  A`  S110`  Buildings
+400`  E`  A`  S200`  General machines
+400`  E`  A`  S300`  Fixtures and fittings
+400`  E`  A`  S310`  Vehicles
+400`  E`  A`  S320`  Computers (Hardware/Software)
+400`  E`  A`  S330`  Low value assets
+400`  E`  A`  S400`  Assets under construction
+400`  E`  A`  S500`  Leasing
+400`  E`  A`  S900`  Tax only/negative value assets
+400`  E`  A`  X100`  Real estate
+400`  E`  A`  X200`  Real estate
+400`  E`  A`  X300`  Real estate
+400`  E`  A`  X400`  Real estate
+400`  E`  A`  XX01`  Real estate
+400`  E`  A`  XX02`  Buildings
+400`  E`  A`  XX03`  General machines
+400`  E`  A`  XX04`  Fixtures and fittings
+400`  E`  A`  XX05`  Vehicles
+400`  E`  A`  XX06`  DP / Hardware
+400`  E`  A`  XX07`  Low-value assets
+400`  E`  A`  XX08`  Assets under construction
+400`  E`  A`  XX09`  Capital investment measure
+400`  E`  A`  Y100`  Real estate
+400`  E`  A`  Y110`  Buildings
+400`  E`  A`  Y200`  General machines
+400`  E`  A`  Y300`  Fixtures and fittings
+400`  E`  A`  Y310`  Vehicles
+400`  E`  A`  Y320`  Computers (Hardware/Software)
+400`  E`  A`  Y330`  Low value assets
+400`  E`  A`  Y400`  Assets under construction
+400`  E`  A`  Y500`  Leasing
+400`  E`  A`  Y900`  Tax only/negative value assets
+400`  E`  A`  Z001`  Buildings
+400`  E`  A`  Z002`  General machines
+400`  E`  A`  Z003`  DP / Hardware
+400`  E`  A`  Z004`  Assets under construction
+400`  E`  A`  Z005`  Formation expenses
+400`  E`  A`  Z006`  Formation expenses
+400`  E`  A`  Z007`  Low-value assets
+400`  E`  A`  Z100`  Computers (Hardware/Software)
+400`  E`  A`  Z101`  Computers (Hardware/Software)
+400`  E`  A`  Z200`  Computers (Hardware/Software)
+400`  E`  A`  Z201`  Computers (Hardware/Software)
+400`  E`  A`  Z300`  Computers (Hardware/Software)
+400`  E`  A`  Z301`  Computers (Hardware/Software)
+400`  E`  A`  Z400`  Computers (Hardware/Software)
+400`  E`  A`  Z401`  Computers (Hardware/Software)
+400`  E`  A`  Z500`  Computers (Hardware/Software)
+400`  E`  A`  Z600`  Computers (Hardware/Software)
+400`  E`  A`  Z700`  Computers (Hardware/Software)
+400`  E`  A`  Z800`  Computers (Hardware/Software)
+400`  E`  A`  ZF01`  Buildings
+400`  E`  A`  ZF02`  Buildings
+400`  E`  A`  ZF03`  Buildings
+400`  E`  A`  ZF04`  Buildings
+400`  E`  A`  ZP01`  Buildings
+400`  E`  A`  ZP02`  Buildings
+400`  E`  A`  ZP03`  Buildings
+400`  E`  B`  1000`  Depr. on main asset no. level
+400`  E`  B`  2000`  Depr. on asset sub-no. level
+400`  E`  B`  5000`  Depr. on asset sub-no. level
+400`  E`  B`  77AA`  Depr. on main asset no. level

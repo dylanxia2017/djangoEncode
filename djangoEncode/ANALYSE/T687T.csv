@@ -1,0 +1,519 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`KAPPL [C(00004)]`KVSL1 [C(00006)]`VTEXT [C(00040)]
+400`  E`  CS`  E11`  Vacation bonus paid
+400`  E`  CS`  E12`  Annual bonus paid
+400`  E`  CS`  E21`  Other personnel csts
+400`  E`  CS`  E22`  Oth. social expenses
+400`  E`  KA`  E01`  Credit Material
+400`  E`  KA`  E02`  Credit Personnel
+400`  E`  KA`  E03`  Cred. Administration
+400`  E`  KA`  E04`  Cred. Sales & Dist.
+400`  E`  KA`  T1`  Credit Material
+400`  E`  KA`  T2`  Credit Material
+400`  E`  KA`  T3`  Credit Material
+400`  E`  KA`  Y10`  Credit Material 1-DE
+400`  E`  KA`  Y12`  Credit Material 1-FR
+400`  E`  KA`  Y13`  Credit Material 1-CN
+400`  E`  KA`  Y14`  Credit Material 1-ES
+400`  E`  KA`  Y15`  Credit Material 1-BE
+400`  E`  KA`  Y17`  Credit Material 1-US
+400`  E`  KA`  Y19`  Credit Material 1-CA
+400`  E`  KA`  Y1C`  Credit Material 1-CZ
+400`  E`  KA`  Y1P`  Credit Material 1-PL
+400`  E`  KA`  Y1R`  Credit Material 1-RO
+400`  E`  KA`  Y1Z`  Credit Material 1-ZA
+400`  E`  KA`  Y20`  Credit Product. 1-DE
+400`  E`  KA`  Y22`  Credit Product. 1-FR
+400`  E`  KA`  Y23`  Credit Product. 1-CN
+400`  E`  KA`  Y24`  Credit Product. 1-ES
+400`  E`  KA`  Y25`  Credit Product. 1-BE
+400`  E`  KA`  Y27`  Credit Product. 1-US
+400`  E`  KA`  Y29`  Credit Product. 1-CA
+400`  E`  KA`  Y2C`  Credit Product. 1-CZ
+400`  E`  KA`  Y2P`  Credit Product. 1-PL
+400`  E`  KA`  Y2R`  Credit Product. 1-RO
+400`  E`  KA`  Y2Z`  Credit Product. 1-ZA
+400`  E`  KA`  Y30`  Credit Admin-DE
+400`  E`  KA`  Y32`  Credit Admin-FR
+400`  E`  KA`  Y33`  Credit Admin-CN
+400`  E`  KA`  Y34`  Credit Admin-ES
+400`  E`  KA`  Y35`  Credit Admin-BE
+400`  E`  KA`  Y37`  Credit Admin-US
+400`  E`  KA`  Y39`  Credit Admin-CA
+400`  E`  KA`  Y3C`  Credit Admin-CZ
+400`  E`  KA`  Y3P`  Credit Admin-PL
+400`  E`  KA`  Y3R`  Credit Admin-RO
+400`  E`  KA`  Y3Z`  Credit Admin-ZA
+400`  E`  KA`  Y40`  Credit Sales-DE
+400`  E`  KA`  Y42`  Credit Sales-FR
+400`  E`  KA`  Y43`  Credit Sales-CN
+400`  E`  KA`  Y44`  Credit Sales-ES
+400`  E`  KA`  Y45`  Credit Sales-BE
+400`  E`  KA`  Y47`  Credit Sales-US
+400`  E`  KA`  Y49`  Credit Sales-CA
+400`  E`  KA`  Y4C`  Credit Sales-CZ
+400`  E`  KA`  Y4P`  Credit Sales-PL
+400`  E`  KA`  Y4R`  Credit Sales-RO
+400`  E`  KA`  Y4Z`  Credit Sales-ZA
+400`  E`  KA`  Y51`  Credit Material 1-ID
+400`  E`  KA`  Y52`  Credit Product. 1-ID
+400`  E`  KA`  Y53`  Credit Admin-ID
+400`  E`  KA`  Y54`  Credit Sales-ID
+400`  E`  KA`  Y55`  Credit Material 1-SA
+400`  E`  KA`  Y56`  Credit Product. 1-SA
+400`  E`  KA`  Y57`  Credit Admin-SA
+400`  E`  KA`  Y58`  Credit Sales-SA
+400`  E`  KA`  Y61`  Credit Material 1-TR
+400`  E`  KA`  Y62`  Credit Product. 1-TR
+400`  E`  KA`  Y63`  Credit Admin-TR
+400`  E`  KA`  Y64`  Credit Sales-TR
+400`  E`  KA`  Y91`  Credit Material 1-SE
+400`  E`  KA`  Y92`  Credit Product. 1-SE
+400`  E`  KA`  Y93`  Credit Admin-SE
+400`  E`  KA`  Y94`  Credit Sales-SE
+400`  E`  KA`  YA1`  Credit Material 1-AU
+400`  E`  KA`  YA2`  Credit Product. 1-AU
+400`  E`  KA`  YA3`  Credit Admin-AU
+400`  E`  KA`  YA4`  Credit Sales-AU
+400`  E`  KA`  YA5`  Credit Material 1-AE
+400`  E`  KA`  YA6`  Credit Product. 1-AE
+400`  E`  KA`  YA7`  Credit Admin-AE
+400`  E`  KA`  YA8`  Credit Sales-AE
+400`  E`  KA`  YB1`  Credit Material 1-BR
+400`  E`  KA`  YB2`  Credit Product. 1-BR
+400`  E`  KA`  YB3`  Credit Admin-BR
+400`  E`  KA`  YB4`  Credit Sales-BR
+400`  E`  KA`  YC1`  Credit Material 1-CH
+400`  E`  KA`  YC2`  Credit Product. 1-CH
+400`  E`  KA`  YC3`  Credit Admin-CH
+400`  E`  KA`  YC4`  Credit Sales-CH
+400`  E`  KA`  YD1`  Credit Material 1-DK
+400`  E`  KA`  YD2`  Credit Product. 1-DK
+400`  E`  KA`  YD3`  Credit Admin-DK
+400`  E`  KA`  YD4`  Credit Sales-DK
+400`  E`  KA`  YE1`  Credit Material 1-TH
+400`  E`  KA`  YE2`  Credit Product. 1-TH
+400`  E`  KA`  YE3`  Credit Admin-TH
+400`  E`  KA`  YE4`  Credit Sales-TH
+400`  E`  KA`  YF1`  Credit Material 1-FI
+400`  E`  KA`  YF2`  Credit Product. 1-FI
+400`  E`  KA`  YF3`  Credit Admin-FI
+400`  E`  KA`  YF4`  Credit Sales-FI
+400`  E`  KA`  YH1`  Credit Material 1-HU
+400`  E`  KA`  YH2`  Credit Product. 1-HU
+400`  E`  KA`  YH3`  Credit Admin-HU
+400`  E`  KA`  YH4`  Credit Sales-HU
+400`  E`  KA`  YH5`  Credit Material 1-HK
+400`  E`  KA`  YH6`  Credit Product. 1-HK
+400`  E`  KA`  YH7`  Credit Admin-HK
+400`  E`  KA`  YH8`  Credit Sales-HK
+400`  E`  KA`  YI1`  Credit Material 1-IN
+400`  E`  KA`  YI2`  Credit Product. 1-IN
+400`  E`  KA`  YI3`  Credit Admin-IN
+400`  E`  KA`  YI4`  Credit Sales-IN
+400`  E`  KA`  YI5`  Credit Material 1-IE
+400`  E`  KA`  YI6`  Credit Product. 1-IE
+400`  E`  KA`  YI7`  Credit Admin-IE
+400`  E`  KA`  YI8`  Credit Sales-IE
+400`  E`  KA`  YJ1`  Credit Material 1-JP
+400`  E`  KA`  YJ2`  Credit Product. 1-JP
+400`  E`  KA`  YJ3`  Credit Admin-JP
+400`  E`  KA`  YJ4`  Credit Sales-JP
+400`  E`  KA`  YK1`  Credit Material 1-LU
+400`  E`  KA`  YK2`  Credit Product. 1-LU
+400`  E`  KA`  YK3`  Credit Admin-LU
+400`  E`  KA`  YK4`  Credit Sales-LU
+400`  E`  KA`  YK5`  Credit Material 1-KR
+400`  E`  KA`  YK6`  Credit Product. 1-KR
+400`  E`  KA`  YK7`  Credit Admin-KR
+400`  E`  KA`  YK8`  Credit Sales-KR
+400`  E`  KA`  YM1`  Credit Material 1-MY
+400`  E`  KA`  YM2`  Credit Product. 1-MY
+400`  E`  KA`  YM3`  Credit Admin-MY
+400`  E`  KA`  YM4`  Credit Sales-MY
+400`  E`  KA`  YN1`  Credit Material 1-NL
+400`  E`  KA`  YN2`  Credit Product. 1-NL
+400`  E`  KA`  YN3`  Credit Admin-NL
+400`  E`  KA`  YN4`  Credit Sales-NL
+400`  E`  KA`  YO1`  Credit Material 1-RU
+400`  E`  KA`  YO2`  Credit Product. 1-RU
+400`  E`  KA`  YO3`  Credit Admin-RU
+400`  E`  KA`  YO4`  Credit Sales-RU
+400`  E`  KA`  YO5`  Credit Material 1-NO
+400`  E`  KA`  YO6`  Credit Product. 1-NO
+400`  E`  KA`  YO7`  Credit Admin-NO
+400`  E`  KA`  YO8`  Credit Sales-NO
+400`  E`  KA`  YP1`  Credit Material 1-PH
+400`  E`  KA`  YP2`  Credit Product. 1-PH
+400`  E`  KA`  YP3`  Credit Admin-PH
+400`  E`  KA`  YP4`  Credit Sales-PH
+400`  E`  KA`  YP5`  Credit Material 1-PT
+400`  E`  KA`  YP6`  Credit Product. 1-PT
+400`  E`  KA`  YP7`  Credit Admin-PT
+400`  E`  KA`  YP8`  Credit Sales-PT
+400`  E`  KA`  YS1`  Credit Material 1-SG
+400`  E`  KA`  YS2`  Credit Product. 1-SG
+400`  E`  KA`  YS3`  Credit Admin-SG
+400`  E`  KA`  YS4`  Credit Sales-SG
+400`  E`  KA`  YT1`  Credit Material 1-IT
+400`  E`  KA`  YT2`  Credit Product. 1-IT
+400`  E`  KA`  YT3`  Credit Admin-IT
+400`  E`  KA`  YT4`  Credit Sales-IT
+400`  E`  KA`  YT5`  Credit Material 1-TW
+400`  E`  KA`  YT6`  Credit Product. 1-TW
+400`  E`  KA`  YT7`  Credit Admin-TW
+400`  E`  KA`  YT8`  Credit Sales-TW
+400`  E`  KA`  YU1`  Credit Material 1-GB
+400`  E`  KA`  YU2`  Credit Product. 1-GB
+400`  E`  KA`  YU3`  Credit Admin-GB
+400`  E`  KA`  YU4`  Credit Sales-GB
+400`  E`  KA`  YX1`  Credit Material 1-MX
+400`  E`  KA`  YX2`  Credit Product. 1-MX
+400`  E`  KA`  YX3`  Credit Admin-MX
+400`  E`  KA`  YX4`  Credit Sales-MX
+400`  E`  KA`  YZ1`  Credit Material 1-AT
+400`  E`  KA`  YZ2`  Credit Product. 1-AT
+400`  E`  KA`  YZ3`  Credit Admin-AT
+400`  E`  KA`  YZ4`  Credit Sales-AT
+400`  E`  KA`  YZ5`  Credit Material 1-NZ
+400`  E`  KA`  YZ6`  Credit Product. 1-NZ
+400`  E`  KA`  YZ7`  Credit Admin-NZ
+400`  E`  KA`  YZ8`  Credit Sales-NZ
+400`  E`  M`  0P1`  Purchasing Rebate
+400`  E`  M`  0P2`  Pur Rebate GoodsRel
+400`  E`  M`  0PA`  Pur Rebate Accruals
+400`  E`  M`  AG1`  Rev.from agency bus.
+400`  E`  M`  AG2`  Sales fr.agency bus.
+400`  E`  M`  AG3`  Exp.from agency bus.
+400`  E`  M`  BAC`  VF: Bonus Accrual
+400`  E`  M`  BO1`  Rebates
+400`  E`  M`  BO2`  Volume rebate income
+400`  E`  M`  BO3`  Rebates calc'd
+400`  E`  M`  DEL`  Del credere
+400`  E`  M`  EIN`  Purchasing account
+400`  E`  M`  ESA`  Acquisition Tax Cred
+400`  E`  M`  ESE`  Acquisition Tax Deb.
+400`  E`  M`  FR1`  Freight clearing
+400`  E`  M`  FR2`  Freight provisions
+400`  E`  M`  FR3`  Customs clearing
+400`  E`  M`  FR4`  Consignment payables
+400`  E`  M`  FRE`  Freight purch. acct.
+400`  E`  M`  MW1`  Sales tax 1
+400`  E`  M`  MW2`  Sales tax 2
+400`  E`  M`  MW3`  Sales tax 3
+400`  E`  M`  MW4`  Sales tax 4
+400`  E`  M`  MWS`  Output Tax
+400`  E`  M`  NAV`  Non-deduct.Input Tax
+400`  E`  M`  NVV`  Non-deduct.Input Tax
+400`  E`  M`  PRR`  Price Difference RMA
+400`  E`  M`  RM1`  RMA Delta CoGS
+400`  E`  M`  RM2`  RMA Delta Stock Trns
+400`  E`  M`  RM3`  RMA Delta Inv. Diff.
+400`  E`  M`  RUE`  Prov. misc.del.costs
+400`  E`  M`  RX1`  RMA Delta Stock
+400`  E`  M`  VS1`  Sales tax 1
+400`  E`  M`  VS2`  Sales tax 2
+400`  E`  M`  VS3`  Sales tax 3
+400`  E`  M`  VS4`  Sales tax 4
+400`  E`  M`  VST`  Purchase input tax
+400`  E`  RW`  ERL`  Revenues
+400`  E`  RW`  ERS`  Sales deductions
+400`  E`  RW`  MWS`  Taxes on sls/purch.
+400`  E`  RW`  VST`  Input tax
+400`  E`  TX`  ASB`  Sales equalizatn tax
+400`  E`  TX`  CO3`  COFINS to Recover
+400`  E`  TX`  COF`  COFINS
+400`  E`  TX`  COO`  COFINS CLEARING
+400`  E`  TX`  CP1`  INSS CPRB
+400`  E`  TX`  CP2`  INSS Employee Cont.
+400`  E`  TX`  ESA`  Output acquisitn tax
+400`  E`  TX`  ESE`  Input acquisitn tax
+400`  E`  TX`  FCP`  Comp ICMS FCP
+400`  E`  TX`  FCX`  Comp ICMS FCP Offset
+400`  E`  TX`  GSM`  GSM tax
+400`  E`  TX`  HU1`  Non-Ded.Inp.Tx Phone
+400`  E`  TX`  IC1`  FCP/ST Clearing
+400`  E`  TX`  ICC`  ICMS Clearing
+400`  E`  TX`  ICM`  ICMS
+400`  E`  TX`  ICP`  ICMS Complement
+400`  E`  TX`  ICX`  ICMS Comp. Offset
+400`  E`  TX`  ICZ`  ICMS Zona Franca off
+400`  E`  TX`  INW`  INSS WHTInvoice(MM)
+400`  E`  TX`  INX`  IPI  clearing
+400`  E`  TX`  IPC`  IPI Clearing
+400`  E`  TX`  IRW`  IRRF WHTInvoice(MM)
+400`  E`  TX`  ISW`  ISS WHT
+400`  E`  TX`  IT1`  Ventilazione 1
+400`  E`  TX`  IT2`  Ventilazione 2
+400`  E`  TX`  IT3`  Ventilazione 3
+400`  E`  TX`  IU1`  A/P use Tax Accrl 1
+400`  E`  TX`  IU2`  A/P use tax accrl 2
+400`  E`  TX`  IU3`  A/P use tax accrl 3
+400`  E`  TX`  IU4`  A/P use tax accrl 4
+400`  E`  TX`  J1A`  Int. Tax Purchasing
+400`  E`  TX`  J1B`  Int. Tax Sales
+400`  E`  TX`  J1C`  VAT Surcharge RNI
+400`  E`  TX`  J1D`  VAT Exemp.w/o Credit
+400`  E`  TX`  J1E`  VAT Exemp. w. Credit
+400`  E`  TX`  J1F`  VAT
+400`  E`  TX`  J1G`  VAT Customs ep.
+400`  E`  TX`  J1H`  prof.tax/cust.valut.
+400`  E`  TX`  J1I`  VAT not taxed
+400`  E`  TX`  J1J`  GI surch. Region 1
+400`  E`  TX`  J1K`  GI surch. Region 2
+400`  E`  TX`  J1L`  GI surch. Region 3
+400`  E`  TX`  J1M`  GI B. Aires City
+400`  E`  TX`  J1N`  GI Prov. B. Aires
+400`  E`  TX`  J1O`  Special fuel tax
+400`  E`  TX`  J1P`  Non-deduct.fuel tax
+400`  E`  TX`  J1Q`  Withheld input tax
+400`  E`  TX`  J1R`  Withheld output tax
+400`  E`  TX`  J1S`  Monotributo surch.
+400`  E`  TX`  J1Z`  Gas tax - Law 25565
+400`  E`  TX`  J2A`  ISC Perú
+400`  E`  TX`  J2B`  IGV Perú - Adq.002
+400`  E`  TX`  J2C`  IGV Perú - Adq.003
+400`  E`  TX`  J2D`  Advalorem (Perú)
+400`  E`  TX`  J2E`  IPM tax Peru
+400`  E`  TX`  J3A`  Special fuel tax
+400`  E`  TX`  J3B`  Non-deduct.fuel tax
+400`  E`  TX`  JCC`  Comp. Cess (Output)
+400`  E`  TX`  JCI`  Comp. Cess GST
+400`  E`  TX`  JCM`  Import Comp.Cess
+400`  E`  TX`  JCN`  IN: RCM GST
+400`  E`  TX`  JCR`  IN: RCM Comp. CESS
+400`  E`  TX`  JI1`  India Basic Excise
+400`  E`  TX`  JI2`  India Addl Excise
+400`  E`  TX`  JI3`  India Special Excise
+400`  E`  TX`  JIC`  Central GST 
+400`  E`  TX`  JII`  Integrated GST
+400`  E`  TX`  JIM`  Import GST
+400`  E`  TX`  JIN`  IN: RCM IGST
+400`  E`  TX`  JIS`  State GST 
+400`  E`  TX`  JIU`  Union Territory GST
+400`  E`  TX`  JOC`  Central GST (output)
+400`  E`  TX`  JOI`  Int. GST (Output)
+400`  E`  TX`  JOS`  State GST (output)
+400`  E`  TX`  JOU`  Uni. Ter.GST(output)
+400`  E`  TX`  JRC`  IN: RCM GST 
+400`  E`  TX`  JRI`  IN: RCM IGST 
+400`  E`  TX`  JRN`  IN: RCM Comp. CESS
+400`  E`  TX`  JRS`  IN: RCM SGST
+400`  E`  TX`  JRU`  IN: RCM UTGST 
+400`  E`  TX`  JSN`  IN: RCM SGST
+400`  E`  TX`  JST`  Stock Transfer India
+400`  E`  TX`  JTG`  India TCS Tax
+400`  E`  TX`  JUN`  IN: RCM UTGST
+400`  E`  TX`  LUX`  Additional tax
+400`  E`  TX`  MW1`  Sales tax 1
+400`  E`  TX`  MW2`  Sales tax 2
+400`  E`  TX`  MW3`  Sales tax 3
+400`  E`  TX`  MW4`  Sales tax 4
+400`  E`  TX`  MW5`  Output tax GST
+400`  E`  TX`  MW6`  ICMS Partition Origi
+400`  E`  TX`  MW7`  ICMS Partition Desti
+400`  E`  TX`  MW8`  ICMS Part.Spec.Fund
+400`  E`  TX`  MW9`  ICMS FCP Amount
+400`  E`  TX`  MWA`  SubTrib FCP Amount
+400`  E`  TX`  MWS`  Output tax
+400`  E`  TX`  NAV`  Non-deduct.input tax
+400`  E`  TX`  NVF`  Input Tax GST distri
+400`  E`  TX`  NVP`  Input Tax PST gross
+400`  E`  TX`  NVV`  Non-d.input tax dist
+400`  E`  TX`  NZ1`  Entertainment tax
+400`  E`  TX`  NZ2`  Reduction
+400`  E`  TX`  OZS`  Input tax- suspense
+400`  E`  TX`  PI3`  PIS To Recover
+400`  E`  TX`  PIC`  PIS CLEARING
+400`  E`  TX`  PIS`  PIS
+400`  E`  TX`  PLA`  Cars 50% non d.(NAV)
+400`  E`  TX`  PLV`  Cars 50% non d.(NVV)
+400`  E`  TX`  RIT`  Recapture input tax
+400`  E`  TX`  SIO`  Selfinvoice offset
+400`  E`  TX`  SIV`  Selfinvoice
+400`  E`  TX`  ST1`  Output excise tax
+400`  E`  TX`  ST3`  Input excise tax
+400`  E`  TX`  TXI`  Transfer posting Inc
+400`  E`  TX`  VS1`  Sales tax 1
+400`  E`  TX`  VS2`  Sales tax 2
+400`  E`  TX`  VS3`  Sales tax 3
+400`  E`  TX`  VS4`  Sales tax 4
+400`  E`  TX`  VS5`  Input Tax PST Gross
+400`  E`  TX`  VS6`  Input Tax HST s/a
+400`  E`  TX`  VS7`  Input tax GST s/a
+400`  E`  TX`  VSC`  Input tax QST
+400`  E`  TX`  VSF`  Input tax GST
+400`  E`  TX`  VSH`  Input tax HST rec.
+400`  E`  TX`  VSN`  Non-Recoverable Tax
+400`  E`  TX`  VST`  Input tax
+400`  E`  TX`  WAC`  COFINS Accum. WTax
+400`  E`  TX`  WAG`  General Accum. WTax
+400`  E`  TX`  WAI`  IR Accum. WTax
+400`  E`  TX`  WAP`  PIS Accum. WTax
+400`  E`  TX`  WAS`  CSLL Accum. WTax
+400`  E`  TX`  WC3`  COFINS Withhold.Tax
+400`  E`  TX`  WC4`  COFINS WTax Offset
+400`  E`  TX`  WC5`  COFINS Accum. WTax
+400`  E`  TX`  WG3`  General Withhold.Tax
+400`  E`  TX`  WG4`  General WTax Offset
+400`  E`  TX`  WG5`  General Accum. WTax
+400`  E`  TX`  WI3`  IR Withholding Tax
+400`  E`  TX`  WI4`  IR WTax Offset
+400`  E`  TX`  WI5`  IR Accum. WTax
+400`  E`  TX`  WI7`  IRRFDirectTaxOffset
+400`  E`  TX`  WK3`  ISS Withholding Tax
+400`  E`  TX`  WN4`  INSSWHTInvoiceSD
+400`  E`  TX`  WN7`  INSSDirectTaxOffset
+400`  E`  TX`  WP3`  PIS Withholding Tax
+400`  E`  TX`  WP4`  PIS WTax Offset
+400`  E`  TX`  WP5`  PIS Accum. WTax
+400`  E`  TX`  WR4`  IRRFWHTInvoiceSD
+400`  E`  TX`  WS3`  CSLL Withholding Tax
+400`  E`  TX`  WS4`  CSLL WTax Offset
+400`  E`  TX`  WS5`  CSLL Accum. WTax
+400`  E`  TX`  WTC`  COFINS Withhold.Tax
+400`  E`  TX`  WTG`  General Withhold.Tax
+400`  E`  TX`  WTI`  IR Withholding Tax
+400`  E`  TX`  WTP`  PIS Withholding Tax
+400`  E`  TX`  WTS`  CSSL Withholding Tax
+400`  E`  TX`  XST`  Exemption Input Tax
+400`  E`  TX`  ZTA`  SalesTaxWithholding
+400`  E`  TX`  ZUD`  VAT Output-DebitCl
+400`  E`  TX`  ZUG`  Invest.tax offs.item
+400`  E`  TX`  ZUK`  VAT Output-CreditCl
+400`  E`  TX`  ZUS`  Investment tax
+400`  E`  TX`  ZUZ`  Investment tax (add)
+400`  E`  TX`  ZVV`  OutPut Non-Deductabl
+400`  E`  V`  0C1`  Commission Settlemnt
+400`  E`  V`  0P1`  Purchasing Rebate
+400`  E`  V`  0P2`  Pur Rebate GoodsRel
+400`  E`  V`  0R1`  Royalties Settlement
+400`  E`  V`  0S1`  Rebate Sales
+400`  E`  V`  ASB`  Sales equalizatn tax
+400`  E`  V`  BAC`  VF: Bonus Accrual
+400`  E`  V`  BC3`  Consign. at 3rd pty
+400`  E`  V`  BCM`  Mat. in Consignment
+400`  E`  V`  BO1`  Purch. acct provisns
+400`  E`  V`  BO2`  Prchacct rebate rev.
+400`  E`  V`  BOL`  Stamp tax Acct Key
+400`  E`  V`  BRI`  ICMS Offset Posting
+400`  E`  V`  BRJ`  IPI Offset
+400`  E`  V`  BSD`  Sales in Transit II
+400`  E`  V`  BST`  Sales In Transit I
+400`  E`  V`  C0D`  CH Settl.amount Deb
+400`  E`  V`  C0K`  CH Settl.amount Cre
+400`  E`  V`  CB1`  Refund Provision
+400`  E`  V`  CB2`  Refund
+400`  E`  V`  CGD`  CH Int.cred.memo Deb
+400`  E`  V`  CGK`  CH Int.cred.memo Cre
+400`  E`  V`  CHB`  Depreciation
+400`  E`  V`  CK1`  CH Sec. dep. Deb
+400`  E`  V`  CKD`  Admin. cost Deb
+400`  E`  V`  CM1`  CH Rent priv. Deb
+400`  E`  V`  CMD`  CH Rent Debi
+400`  E`  V`  CMK`  CH Rent Cred
+400`  E`  V`  CN1`  CH IEA intern D
+400`  E`  V`  CND`  CH Incidentals D
+400`  E`  V`  CNK`  CH Incidentals C
+400`  E`  V`  COF`  COFINS Offset
+400`  E`  V`  CP1`  INSS CPRB
+400`  E`  V`  CP2`  Employee Cont.
+400`  E`  V`  CVD`  CH Refund Deb
+400`  E`  V`  CVK`  CH Refund Cred
+400`  E`  V`  CZ1`  Sec.dep.inter. Deb
+400`  E`  V`  CZD`  CH Interest Deb
+400`  E`  V`  CZK`  CH Interest Kred
+400`  E`  V`  DDP`  Down payment Acc Key
+400`  E`  V`  EDP`  Down Payment
+400`  E`  V`  ERB`  Rebate sales deduct.
+400`  E`  V`  ERF`  Freight Revenue
+400`  E`  V`  ERL`  Revenue
+400`  E`  V`  ERS`  Sales deductions
+400`  E`  V`  ERU`  Rebate accruals
+400`  E`  V`  ERZ`  Revenue increase(PL)
+400`  E`  V`  ESA`  Acquisition Tax Cred
+400`  E`  V`  ESE`  Acquisition Tax Deb.
+400`  E`  V`  EVV`  Cash clearing
+400`  E`  V`  EXD`  Excise India
+400`  E`  V`  FCP`  Comp ICMS FCP
+400`  E`  V`  FCX`  Comp ICMS FCP Offset
+400`  E`  V`  HU1`  Phone: Non-Ded.InpTx
+400`  E`  V`  IEP`  I.E.P.S. (Mexico)
+400`  E`  V`  IPI`  IPI Offset Posting
+400`  E`  V`  ISS`  ISS Offset Posting
+400`  E`  V`  IU2`  Taxes on sls/purch.
+400`  E`  V`  J1B`  Arg:Intrl tax sales.
+400`  E`  V`  J1C`  Arg: VAT surcharge
+400`  E`  V`  J1D`  Arg: VAT exem.no crd
+400`  E`  V`  J1E`  Arg: VAT exemption
+400`  E`  V`  J1F`  Arg:VAT surcharge
+400`  E`  V`  J1I`  Arg:AR: Not taxable
+400`  E`  V`  J1J`  Arg:GI Surc. Reg.01
+400`  E`  V`  J1K`  Arg:GI Surc. Reg.02
+400`  E`  V`  J1L`  Arg:GI Surc. Reg.03
+400`  E`  V`  JCC`  GST Comp. Cess OP
+400`  E`  V`  JOC`  Central GST - OP
+400`  E`  V`  JOI`  Integrated GST- OP
+400`  E`  V`  JOS`  State GST- OP
+400`  E`  V`  JOU`  Union Ter. GST - OP
+400`  E`  V`  JRE`  DRM Calc.Key for Tax
+400`  E`  V`  JST`  Stock Transfer India
+400`  E`  V`  JTG`  TCS
+400`  E`  V`  K01`  Shipped out of deliv
+400`  E`  V`  LUX`  Luxury Tax
+400`  E`  V`  MW1`  Second tax
+400`  E`  V`  MW2`  Sales tax 2
+400`  E`  V`  MW3`  Sales tax 3
+400`  E`  V`  MW4`  Sales tax 4
+400`  E`  V`  MW6`  ICMS Partition Origi
+400`  E`  V`  MW7`  ICMS Partition Desti
+400`  E`  V`  MW8`  ICMS Part.Spec.Funds
+400`  E`  V`  MW9`  ICMS FCP Amount
+400`  E`  V`  MWA`  ICMS Part.Spec.Funds
+400`  E`  V`  MWS`  Output tax
+400`  E`  V`  NAV`  Non-deduct.Input Tax
+400`  E`  V`  NVV`  Non-deduct.Input Tax
+400`  E`  V`  PCC`  Credit card charges
+400`  E`  V`  PIS`  PIS offset
+400`  E`  V`  PPA`  American Express
+400`  E`  V`  PPC`  Cash payment
+400`  E`  V`  PPD`  Diners Card
+400`  E`  V`  PPG`  Voucher
+400`  E`  V`  PPM`  Master Card
+400`  E`  V`  PPS`  Check Payment
+400`  E`  V`  PPV`  VISA Card
+400`  E`  V`  RDM`  Rounding diff.- (PL)
+400`  E`  V`  RDP`  Rounding diff.+ (PL)
+400`  E`  V`  S10`  Sales deductions
+400`  E`  V`  S20`  Sales deductions
+400`  E`  V`  UML`  Plants Abroad
+400`  E`  V`  VS1`  Sales tax 1
+400`  E`  V`  VS2`  Sales tax 2
+400`  E`  V`  VS3`  Sales tax 3
+400`  E`  V`  VS4`  Sales tax 4
+400`  E`  V`  VST`  Input tax CID
+400`  E`  V`  WC3`  COFINS WHT
+400`  E`  V`  WC4`  COFINS WHT OFFSET
+400`  E`  V`  WC5`  Cofins WHT
+400`  E`  V`  WG3`  GENERAL WHT
+400`  E`  V`  WG4`  GENERAL WHT OFFSET
+400`  E`  V`  WG5`  General WHT
+400`  E`  V`  WI3`  IR WHT
+400`  E`  V`  WI4`  IR WHT OFFSET
+400`  E`  V`  WI5`  IR WHT
+400`  E`  V`  WI7`  IRRF Dir. Tax Offset
+400`  E`  V`  WK3`  ISS WHT
+400`  E`  V`  WN4`  INSS WHT Invoice SD
+400`  E`  V`  WN7`  INSS Dir. Tax Offset
+400`  E`  V`  WP3`  PIS WHT
+400`  E`  V`  WP4`  PIS WHT OFFSET
+400`  E`  V`  WP5`  PIS WHT
+400`  E`  V`  WR4`  IRRF WHT Invoice SD
+400`  E`  V`  WS3`  CSLL WHT
+400`  E`  V`  WS4`  CSLL WHT OFFSET
+400`  E`  V`  WS5`  CSLL WHT
+400`  E`  V`  YB1`  ERS Material Rel.
+400`  E`  V`  YB2`  ERS Customer Rel.
+400`  E`  V`  YB3`  Quantity Discount
+400`  E`  V`  YB4`  Free Goods
+400`  E`  V`  YBS`  Customer discount
+400`  E`  V`  YSC`  StatisticalCondition

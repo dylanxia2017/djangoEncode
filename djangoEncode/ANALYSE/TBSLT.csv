@@ -1,0 +1,144 @@
+﻿BSCHL [C(00004)]`LTEXT [C(00040)]`MANDT [C(00006)]`SPRAS [C(00002)]`UMSKZ [C(00002)]
+00`  Act assignment model`  400`  E`
+01`  Invoice`  400`  E`
+02`  Reverse credit memo`  400`  E`
+03`  Expenses`  400`  E`
+04`  Other receivables`  400`  E`
+05`  Outgoing payment`  400`  E`
+06`  Payment difference`  400`  E`
+07`  Other clearing`  400`  E`
+08`  Payment clearing`  400`  E`
+09`  Special G/L debit`  400`  E`
+09`  Reverse down payment`  400`  E`  A
+09`  B/exch. receivables`  400`  E`  B
+09`  RE rev. rent dep.`  400`  E`  C
+09`  Doubtful Rec Debit`  400`  E`  D
+09`  Rev.reser.f.bad debt`  400`  E`  E
+09`  Down payment request`  400`  E`  F
+09`  Guarantee`  400`  E`  G
+09`  Security deposit`  400`  E`  H
+09`  Rev.down payment Inv`  400`  E`  I
+09`  RE Ad.pmnt.req OC`  400`  E`  J
+09`  RE Rev. ad.pmt OC`  400`  E`  K
+09`  Prov. dudoso cobro`  400`  E`  L
+09`  其他应收款-应收单位往来款`  400`  E`  M
+09`  Payment request`  400`  E`  P
+09`  B/e residual risk`  400`  E`  Q
+09`  B/e payment request`  400`  E`  R
+09`  Check/bill of exch.`  400`  E`  S
+09`  Reverse down payment`  400`  E`  T
+09`  RE Rev.ad.pmt SBR`  400`  E`  U
+09`  Bill of exchange`  400`  E`  W
+09`  `  400`  E`  X
+09`  Bill of exchange`  400`  E`  Y
+09`  Interest Receivable`  400`  E`  Z
+0A`  CH Bill.doc. Deb`  400`  E`
+0B`  CH Cancel.Cred.memoD`  400`  E`
+0C`  CH Clearing Deb`  400`  E`
+0X`  CH Clearing Cred`  400`  E`
+0Y`  CH Credit memo Cred`  400`  E`
+0Z`  CH Cancel.BillDocDeb`  400`  E`
+11`  Credit memo`  400`  E`
+12`  Reverse invoice`  400`  E`
+13`  Reverse charges`  400`  E`
+14`  Other payables`  400`  E`
+15`  Incoming payment`  400`  E`
+16`  Payment difference`  400`  E`
+17`  Other clearing`  400`  E`
+18`  Payment clearing`  400`  E`
+19`  Special G/L credit`  400`  E`
+19`  Down pmnt received`  400`  E`  A
+19`  Reverse b/e recvble`  400`  E`  B
+19`  RE Rent deposit`  400`  E`  C
+19`  Doubtful Rec Credit`  400`  E`  D
+19`  Individ.val.adjust.`  400`  E`  E
+19`  Down pymnt requests`  400`  E`  F
+19`  Reset guarantee`  400`  E`  G
+19`  Reverse sec. deposit`  400`  E`  H
+19`  Down pmnt rec.Invest`  400`  E`  I
+19`  RE Rev.AdPmtReqOC`  400`  E`  J
+19`  RE AP Oper.costs`  400`  E`  K
+19`  Prov. dudoso cobro`  400`  E`  L
+19`  其他应收款-应收单位往来款`  400`  E`  M
+19`  Payment request`  400`  E`  P
+19`  B/e residual risk`  400`  E`  Q
+19`  B/e payment request`  400`  E`  R
+19`  Reverse check/B of E`  400`  E`  S
+19`  Down payment`  400`  E`  T
+19`  RE AP SB rent`  400`  E`  U
+19`  Reverse b/e recvble`  400`  E`  W
+19`  `  400`  E`  X
+19`  Reverse b/e recvble`  400`  E`  Y
+19`  Reverse interest due`  400`  E`  Z
+1A`  CH Cancel.Bill.docDe`  400`  E`
+1B`  CH Credit memo Deb`  400`  E`
+1C`  CH Credit memo Deb`  400`  E`
+1X`  CH Clearing Cred`  400`  E`
+1Y`  CH Cancel.Cr.memo C`  400`  E`
+1Z`  CH Bill.doc. Cred`  400`  E`
+21`  Credit memo`  400`  E`
+22`  Reverse invoice`  400`  E`
+24`  Other receivables`  400`  E`
+25`  Outgoing payment`  400`  E`
+26`  Payment difference`  400`  E`
+27`  Clearing`  400`  E`
+28`  Payment clearing`  400`  E`
+29`  Special G/L debit`  400`  E`
+29`  Down payment made`  400`  E`  A
+29`  Down pmnt fin. asset`  400`  E`  B
+29`  Val. Bank transfer`  400`  E`  C
+29`  Debit discount`  400`  E`  D
+29`  Down payment request`  400`  E`  F
+29`  Reset guarantee`  400`  E`  G
+29`  Reverse sec. deposit`  400`  E`  H
+29`  Invest. down payment`  400`  E`  I
+29`  No.of tangble assets`  400`  E`  M
+29`  Amortiz.down payment`  400`  E`  O
+29`  Payment request`  400`  E`  P
+29`  Reverse check/bill`  400`  E`  S
+29`  Down payment stocks`  400`  E`  V
+29`  Reverse b/e payable`  400`  E`  W
+29`  Dpmnt.Without Inv`  400`  E`  X
+29`  Reverse b/e payable`  400`  E`  Y
+31`  Invoice`  400`  E`
+32`  Reverse credit memo`  400`  E`
+34`  Other payables`  400`  E`
+35`  Incoming payment`  400`  E`
+36`  Payment difference`  400`  E`
+37`  Other clearing`  400`  E`
+38`  Payment clearing`  400`  E`
+39`  Special G/L credit`  400`  E`
+39`  Reverse down payment`  400`  E`  A
+39`  Rev.dwn pmnt fin.ast`  400`  E`  B
+39`  Rev. Val. Banktransf`  400`  E`  C
+39`  Credit discount`  400`  E`  D
+39`  Down payment request`  400`  E`  F
+39`  Guarantee`  400`  E`  G
+39`  Security deposit`  400`  E`  H
+39`  Rev.invest.down pmnt`  400`  E`  I
+39`  Reverse mat.down pmt`  400`  E`  M
+39`  Rev.Amortiz.downpmnt`  400`  E`  O
+39`  Payment request`  400`  E`  P
+39`  Check/bill of exch.`  400`  E`  S
+39`  Down payment stocks`  400`  E`  V
+39`  Bill of exch.payable`  400`  E`  W
+39`  Rev.Dpmnt.Wthout Inv`  400`  E`  X
+39`  Bill of exch.payable`  400`  E`  Y
+40`  Debit entry`  400`  E`
+50`  Credit entry`  400`  E`
+70`  Debit asset`  400`  E`
+75`  Credit asset`  400`  E`
+80`  Stock initial entry`  400`  E`
+81`  Costs`  400`  E`
+83`  Price difference`  400`  E`
+84`  Consumption`  400`  E`
+85`  Change in stock`  400`  E`
+86`  GR/IR debit`  400`  E`
+89`  Stock inwrd movement`  400`  E`
+90`  Stock initial entry`  400`  E`
+91`  Costs`  400`  E`
+93`  Price difference`  400`  E`
+94`  Consumption`  400`  E`
+95`  Change in stock`  400`  E`
+96`  GR/IR credit`  400`  E`
+99`  Stock outwd movement`  400`  E`

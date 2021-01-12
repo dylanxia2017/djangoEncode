@@ -1,0 +1,62 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`BSART [C(00008)]`BSTYP [C(00002)]`BATXT [C(00040)]
+400`  E`  AB`  A`  Request for GP Bid
+400`  E`  AN`  A`  RFQ
+400`  E`  CMK`  K`  Qty Contract-PSE
+400`  E`  CPL`  A`  Stock inquiry
+400`  E`  CWK`  K`  Value Contract-PSE
+400`  E`  DB`  F`  Dummy Purchase Order
+400`  E`  ENB`  F`  Standard PO DFPS
+400`  E`  EUB`  F`  DFPS, Int. Ord. Type
+400`  E`  FO`  B`  Framework Requisn
+400`  E`  FO`  F`  Framework Order
+400`  E`  LP`  L`  Scheduling Agreement
+400`  E`  LPA`  L`  SA With Release doc.
+400`  E`  LPXE`  L`  XLO Trnsfr DelySched
+400`  E`  LPXI`  L`  XLO Int. Dely Sched.
+400`  E`  LU`  L`  St. Trnsp. Sch. Agmt
+400`  E`  MK`  C`  Quantity Contract
+400`  E`  MK`  K`  Quantity Contract
+400`  E`  NB`  B`  Purchase Requisition
+400`  E`  NB`  F`  Standard PO
+400`  E`  NB2`  F`  Enh.Ret.to Supplier
+400`  E`  NB2C`  F`  Enh. Rets STO CC
+400`  E`  NBC7`  F`  CC SiT Enh. Rets STO
+400`  E`  NBR8`  F`  IC SiT Enh. Rets STO
+400`  E`  NBS`  B`  Purchase Req. NBS
+400`  E`  NBXE`  F`  XLO Inter Com PO
+400`  E`  NBXI`  F`  XLO Intra Company
+400`  E`  RAN`  A`  Stock inquiry
+400`  E`  RE`  O`  External Quotation
+400`  E`  RE`  R`  Ext. Sourcing Req.
+400`  E`  RQ`  N`  Internal RFQ
+400`  E`  RQ`  O`  Internal Quotation
+400`  E`  RQ`  R`  Int. Sourcing Req.
+400`  E`  RQ`  T`  Internal QTN
+400`  E`  RSI`  O`  Price Quotation
+400`  E`  RSI`  R`  Ext. Price Request
+400`  E`  RV`  B`  Outl. Agmt Requisn
+400`  E`  SNB`  F`  Standard PO
+400`  E`  TM01`  F`  Standard PO
+400`  E`  UB`  F`  Stock Transp. Order
+400`  E`  UB2`  F`  Enh. Rets STO IC
+400`  E`  UD`  F`  StockTranspOrderDel
+400`  E`  WK`  C`  Value Contract
+400`  E`  WK`  K`  Value Contract
+400`  E`  Y01`  F`  Standard PO
+400`  E`  Y02`  F`  Standard PO
+400`  E`  Z01`  F`  Standard PO
+400`  E`  Z02`  F`  Standard PO
+400`  E`  ZF01`  F`  Standard PO
+400`  E`  ZMA`  F`  消耗品采购订单
+400`  E`  ZMB`  F`  固定资产采购订单
+400`  E`  ZNA`  F`  集团外采购订单
+400`  E`  ZNB`  F`  集团内采购订单
+400`  E`  ZNC`  F`  委外加工采购订单
+400`  E`  ZND`  F`  工序外协采购订单
+400`  E`  ZNE`  F`  供应商采购订单
+400`  E`  ZNF`  F`  第三方采购订单
+400`  E`  ZNG`  F`  服务类采购订单
+400`  E`  ZP01`  B`  Purchase Requisition
+400`  E`  ZP02`  B`  Purchase Requisition
+400`  E`  ZRE`  F`  采购退货订单
+400`  E`  ZUB`  F`  Stock Transp. Order

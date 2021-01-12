@@ -1,0 +1,14 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`PSTYP [C(00002)]`PTEXT [C(00040)]
+400`  E`  0`  Standard
+400`  E`  1`  Limit
+400`  E`  2`  Consignment
+400`  E`  3`  Subcontracting
+400`  E`  4`  Material unknown
+400`  E`  5`  Third-party
+400`  E`  6`  Text
+400`  E`  7`  Stock transfer
+400`  E`  8`  Material group
+400`  E`  9`  Service
+400`  E`  A`  Enhanced Limits
+400`  E`  C`  Stock prov.by cust.
+400`  E`  P`  Return.trans.pack.

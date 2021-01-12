@@ -1,0 +1,134 @@
+﻿KTOPL [C(00008)]`BEZEI [C(00050)]`KOKRS [C(00008)]`LMONA [C(00004)]`MANDT [C(00006)]`WAERS [C(00010)]
+INT`  Kostenrechnungskreis 0001`  0001`  K4`  400`  EUR
+INT`  SAP US (is-ht-sw)`  0003`  K4`  400`  USD
+0077`  0077成本控制范围`  0077`  K4`  400`  CNY
+0797`  浙江测试有限公司`  0797`  K4`  400`  CNY
+0AES`  红酥手 世情薄`  0AEF`  K4`  400`  CNY
+0MB1`  IS-B Musterbank Deutschl.`  0MB1`  K4`  400`  EUR
+CACN`  not used area`  1000`  K2`  400`  USD
+1006`  SAP养家的控制范围`  1006`  K4`  400`  USD
+HDCN`  海底捞集团控制范围`  1009`  K4`  400`  CNY
+1209`  1209管理領域`  1209`  K4`  400`  JPY
+1300`  徐汇集团控制范围`  1300`  K4`  400`  USD
+YCOA`  1310公司成本的控制范围`  1310`  K4`  400`  CNY
+CACN`  七杯茶销售公司控制范围`  2000`  K4`  400`  CNY
+CACN`  七杯茶直营管理公司控制范围`  2001`  K4`  400`  CNY
+2007`  chris公司成本控制范围`  2009`  CH`  400`  RMB
+2018`  宏宇集团控制范围`  2018`  K4`  400`  RMB
+CACN`  sap 成都 测试公司1`  2020`  K4`  400`  CNY
+YCOA`  sap 成都 测试公司2030`  2030`  K4`  400`  USD
+CACN`  哈尔滨制氧机有限责任公司`  2301`  K4`  400`  CNY
+MQCC`  深圳MQ有限公司`  3000`  K4`  400`  CNY
+3006`  3006控制范围`  3006`  K4`  400`  USD
+1000`  费米子有限公司`  3444`  K4`  400`  CNY
+1000`  dddd司`  3988`  K3`  400`  CNY
+4000`  XYZ有限公司4000`  4000`  K4`  400`  CNY
+4010`  XYZ有限公司4010`  4010`  K4`  400`  CNY
+4020`  XYZ有限公司4000`  4020`  K4`  400`  USD
+4030`  XYZ有限公司4000`  4030`  K4`  400`  USD
+CNCN`  沃尔德集团公司`  6001`  K4`  400`  CNY
+CNCN`  沃尔德北京公司`  6002`  K4`  400`  CNY
+CNCN`  沃尔德嘉兴公司`  6003`  K4`  400`  CNY
+CE0T`  许继集团有限公司`  6950`  K4`  400`  CNY
+6968`  マルエツ`  6968`  K4`  400`  JPY
+ALKH`  LKH成本控制范围`  7000`  K4`  400`  CNY
+8570`  Controlling Area-SCG 8570`  8570`  ZA`  400`  USD
+CAJP`  NHSコンピュータ`  9000`  V3`  400`  JPY
+YCOA`  9399公司的成本控制范围`  9300`  K4`  400`  CNY
+93A9`  Controlling Area 93A9`  93A9`  K4`  400`  CNY
+9700`  KOEPFER`  9700`  K4`  400`  CNY
+YCOA`  Controlling Area A000`  A000`  K4`  400`  USD
+AAAA`  Charmis Cost Control Area`  A100`  K4`  400`  CNY
+YCOA`  A101控制范围`  A101`  K4`  400`  CNY
+A198`  A198学习SAP`  A198`  K4`  400`  CNY
+AA01`  大浪淘沙成本控制范围`  AA01`  K4`  400`  CNY
+AAA2`  十一啊的控制范围`  AAA2`  K4`  400`  CNY
+INT`  Country Template UAE`  AE01`  K4`  400`  AED
+AR88`  Aria集团成本该控制范围`  AR88`  K4`  400`  CNY
+CABE`  Kostenrechnungskreis BE01`  BE01`  K4`  400`  EUR
+BJDM`  北京大麦有限责任公司`  BJDM`  K4`  400`  CNY
+BL01`  北凉控制范围`  BL01`  K4`  400`  USD
+G001`  c100控制范围`  C100`  K4`  400`  CNY
+CANA`  Kostenrechnungskreis CA01`  CA01`  K4`  400`  EUR
+CACH`  Kostenrechnungskreis CH01`  CH01`  K4`  400`  EUR
+CM02`  公司代码CN02的成本控制范围`  CM02`  Y1`  400`  CNY
+CACN`  Kostenrechnungskreis CN01`  CN01`  K4`  400`  USD
+CN02`  Kostenrechnungskreis CN02`  CN02`  K4`  400`  CNY
+CACO`  Kostenrechnungskreis CO01`  CO01`  K4`  400`  COP
+CON8`  Kostenrechnungskreis CONS`  CONS`  K4`  400`  CNY
+INT`  Test`  COPY`  K4`  400`  EUR
+CPCN`  天津黑豆公司控制范围`  CPCN`  K4`  400`  CNY
+CACZ`  Kostenrechnungskreis CZ01`  CZ01`  K4`  400`  EUR
+0AES`  DA01成本控制范围`  DA01`  K4`  400`  CNY
+DA02`  DA02成本控制范围`  DA02`  K4`  400`  CNY
+GKR`  Kostenrechnungskreis GKR`  DE01`  K4`  400`  EUR
+IKR`  Kostenrechnungskreis IKR`  DE02`  K4`  400`  EUR
+CAES`  Kostenrechnungskreis ES01`  ES01`  K4`  400`  EUR
+ESLI`  ABC全球财团成本管理控制范围`  ESLI`  K4`  400`  CNY
+CAFI`  Kostenrechnungskreis FI01`  FI01`  K4`  400`  EUR
+INT`  FJB1测试控制区域`  FJB1`  K4`  400`  CNY
+CAFR`  Kostenrechnungskreis FR01`  FR01`  K4`  400`  EUR
+G011`  G011成本控制范围`  G011`  K4`  400`  USD
+HBY1`  WuHan HuBaiYuan Company`  HBY1`  K4`  400`  CNY
+HHHH`  HDN有限公司控制范围`  HHHH`  K4`  400`  CNY
+CAHU`  Kostenrechnungskreis HU01`  HU01`  K4`  400`  HUF
+IBM`  IBM公司`  IBM`  K4`  400`  CNY
+CAIN`  Company code  IN01`  IN01`  V3`  400`  INR
+BJDM`  华凯集团`  J001`  K4`  400`  CNY
+CAJP`  Kostenrechnungskreis JP01`  JP01`  V3`  400`  JPY
+CATW`  Best Practice K001`  K001`  K4`  400`  TWD
+ZK01`  小家电制造有限公司经营范围`  K100`  K4`  400`  CNY
+CAKR`  Kostenrechnungskreis KR01`  KR01`  K4`  400`  KRW
+INT`  Controlling Area KW01`  KW01`  K4`  400`  KWD
+CAKZ`  Kostenrechnungskreis KZ01`  KZ01`  K4`  400`  KZT
+L000`  L000`  L000`  K4`  400`  CNY
+L01`  L01公司控制范围`  L01`  K4`  400`  USD
+LIU1`  管理領域 - Liu1`  LIU1`  V3`  400`  JPY
+INT`  Kostenrechnungskreis 0001`  LL01`  K4`  400`  EUR
+ZK01`  璐璐集团-控制范围`  LL02`  K4`  400`  CNY
+M008`  controlling moo8`  M008`  K4`  400`  USD
+M110`  M110 控制范围`  M110`  K4`  400`  CNY
+BKMG`  Controlling Area MCA`  MCA`  K4`  400`  EUR
+MT01`  MGT1 Template`  MGT1`  K4`  400`  USD
+CANO`  Kostenrechnungskreis NO01`  NO01`  K4`  400`  NOK
+CAPE`  Kostenrechnungskreis PE01`  PE01`  K4`  400`  PEN
+CAPL`  Kostenrechnungskreis PL01`  PL01`  K4`  400`  PLN
+PPLY`  落叶集团控制范围`  PPLY`  K4`  400`  CNY
+CAPT`  Kostenrechnungskreis PT01`  PT01`  K4`  400`  EUR
+R008`  东京食品有限公司管理领域`  R008`  V3`  400`  USD
+YAJP`  ロンロングループ`  R100`  V3`  400`  JPY
+RAIN`  小雨公司`  RAIN`  K4`  400`  CNY
+INT`  Sondereigentum (WEG)`  RECO`  K4`  400`  EUR
+INT`  RE Objektmandate`  REOB`  K4`  400`  EUR
+WEG`  WEG Kostenrechnungskreis`  RERF`  K4`  400`  EUR
+CARU`  Kostenrechnungskreis RU01`  RU01`  K4`  400`  RUB
+S100`  S000 controlling area`  S000`  K4`  400`  USD
+CASE`  Kostenrechnungskreis SE01`  SE01`  K4`  400`  SEK
+INT`  Kostenrechnungskreis 0001`  SG01`  K4`  400`  SGD
+SH01`  SONATRACH`  SH01`  K4`  400`  USD
+YACN`  中国石油天然气集团有限公司`  SINP`  K4`  400`  CNY
+CASK`  Kostenrechnungskreis SK01`  SK01`  K4`  400`  EUR
+BKMG`  BKMG`  SLE0`  K4`  400`  EUR
+T100`  保时泰有限公司`  T100`  K4`  400`  USD
+TEST`  TEST 控制范围`  TEST`  K4`  400`  CNY
+TMCN`  天明汽车集团`  TM99`  K4`  400`  USD
+CATR`  Kostenrechnungskreis TR01`  TR01`  K4`  400`  TRY
+CATW`  Kostenrechnungskreis TW01`  TW01`  K4`  400`  TWD
+CAUA`  Kostenrechnungskreis UA01`  UA01`  K4`  400`  UAH
+CANA`  Kostenrechnungskreis US01`  US01`  K4`  400`  USD
+Y999`  一宁机械`  X999`  YN`  400`  RMB
+XC00`  星辰集团成本控制范围`  XC00`  K4`  400`  USD
+XXGS`  小熊的公司的成本控制范围`  XXGS`  K4`  400`  CNY
+YY00`  YY00经营范围勿动`  YY00`  K4`  400`  CNY
+TMCN`  Z公司控制范围`  Z010`  K4`  400`  USD
+Z011`  Z011管理領域`  Z011`  K4`  400`  JPY
+ZCB1`  ZCBZ成本控制范围`  ZCBZ`  K4`  400`  USD
+ZCX1`  ZCX股份公司成本控制范围`  ZCX1`  K4`  400`  USD
+ZERO`  ZERO管理領域`  ZERO`  ZR`  400`  JPY
+CA04`  zit1公司控制范围`  ZIT1`  K4`  400`  RMB
+INT`  管理領域ZM01`  ZM01`  V3`  400`  JPY
+ZP00`  ZPXX成本控制范围`  ZP00`  K4`  400`  CNY
+ZSAP`  ZSAP管理領域`  ZSAP`  K4`  400`  JPY
+ZYF1`  奥利给控制范围`  ZYF1`  K4`  400`  USD
+ZZMC`  ZZMC管理領域`  ZZMC`  K4`  400`  JPY
+YCOA`  SIN ETU`  ZZSY`  V3`  400`  JPY

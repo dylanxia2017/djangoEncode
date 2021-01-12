@@ -1,0 +1,75 @@
+{% load static %}
+
+{% if request.session.is_login %}
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>解析方式</title>
+
+        <!--必要样式-->
+        <link rel="stylesheet" href="{% static 'css/jquery-labelauty.css' %}"/>
+
+
+        <style type="text/css">
+            ul {
+                list-style-type: none;
+            }
+
+            li {
+                display: inline-block;
+            }
+
+            li {
+                margin: 10px 0;
+            }
+
+            input.labelauty + label {
+                font: 12px "Microsoft Yahei";
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+    <div style="text-align: center;">
+        <h1>请选择解析方式</h1>
+
+        <ul class="dowebok">
+            <li><input type="radio" name="radio" data-labelauty="解析方式1"></li>
+            <li><input type="radio" name="radio" data-labelauty="解析方式2"></li>
+            <li><input type="radio" name="radio" data-labelauty="解析方式3"></li>
+            <li><input type="radio" name="radio" data-labelauty="解析方式4"></li>
+        </ul>
+        <form action="/upload_file/" method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type="file" name="file"/>
+            <input type="submit" value="上传"/>
+        </form>
+
+        <br>
+
+        <button type="submit" style="width: 100px;height: 30px;">提交</button>
+        <button type="submit" style="width: 100px;height: 30px;" onclick="window.location.href = '/logout/'">退出登录
+        </button>
+
+    </div>
+
+    <script type="text/javascript" src="{% static 'js/jquery-1.8.3.min.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/jquery-labelauty.js' %}"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(':input').labelauty();
+        });
+    </script>
+
+    </body>
+    </html>
+{% else %}
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>你还未登录，请先登录</title>
+    </head>
+{% endif %}

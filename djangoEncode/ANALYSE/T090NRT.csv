@@ -1,0 +1,45 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`AFARSL [C(00008)]`RSLTXT [C(00100)]
+400`  E`  0001`  Ordinary: sum-of-the-years-digits
+400`  E`  0002`  Ordinary: no automatic depreciation
+400`  E`  0003`  Ordinary: leasing
+400`  E`  0004`  Ordinary: decl.-balance over total life    (Japan)
+400`  E`  0005`  Ordinary: percentage from useful life (reduction)
+400`  E`  0006`  Ordinary: percentage frm life (reduction, below 0)
+400`  E`  0007`  Ordinary: percentage from life (after end of life)
+400`  E`  0008`  Ordinary: percentage from life as of changeover yr
+400`  E`  0009`  Ordinary: percentage from life (curb)
+400`  E`  0010`  Ordinary: percentage from life (below zero)
+400`  E`  0011`  Ordinary: percentage from useful life
+400`  E`  0012`  Ordinary: explicit percentage
+400`  E`  0013`  Ordinary: explicit percentage (reduction)
+400`  E`  0014`  Ordinary: explicit percentage (after end of life)
+400`  E`  0015`  Ordinary: explicit percentage (below zero)
+400`  E`  0016`  Ordinary: immediate depreciation
+400`  E`  0017`  Ordinary: immediate deprec. (after end of life)
+400`  E`  0018`  Ordinary: Unit-of-production depreciation
+400`  E`  0019`  Ordinary: Unit-of-production (after end of life)
+400`  E`  0020`  Ordinary: declining multi-phase (Czech)
+400`  E`  0021`  Special: total percentage rate
+400`  E`  0022`  Special: total percentage (after end of life)
+400`  E`  0023`  Special: No  automatic depreciation
+400`  E`  0024`  Special: percentage from useful life
+400`  E`  0025`  Special: explicit percentage (after end of life)
+400`  E`  0026`  Special: explicit percentage
+400`  E`  0027`  Special: immediate deprec. (after end of life)
+400`  E`  0028`  Interest: leasing
+400`  E`  0029`  Interest: explicit percentage
+400`  E`  0030`  Interest: explicit percentage (after end of life)
+400`  E`  0031`  Interest: explicit percentage (below zero)
+400`  E`  ARUT`  Vehicle tax (Russia)
+400`  E`  JPD1`  Ordinary: Declining Balance Japanese, 2012-
+400`  E`  JPD7`  Ordinary: Declining Balance Japanese, 2007-2011
+400`  E`  JPDB`  Ordinary: Declining Balance Japanese, -2006
+400`  E`  JPDI`  Ordinary: Declining Balance Japanese, Impairment
+400`  E`  JPS1`  Ordinary: Japanese Straight-Line, 2012
+400`  E`  JPS7`  Ordinary: Japanese Straight-Line, 2007-2011
+400`  E`  JPSI`  Ordinary: Japanese Straight-Line, Impairment
+400`  E`  JPSL`  Ordinary: Japanese Straight-Line, -2006
+400`  E`  LERE`  Normal: Depreciation from Real Estate Leasing
+400`  E`  U001`  Special: Immediate Writeoff
+400`  E`  X002`  Ordinary: no automatic depreciation
+400`  E`  X011`  Ordinary: percentage from useful life

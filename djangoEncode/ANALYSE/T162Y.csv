@@ -1,0 +1,25 @@
+﻿MANDT [C(00006)]`SPRAS [C(00002)]`FAUGR [C(00004)]`FAUGT [C(00060)]
+400`  E`  01`  Basic Data, Item
+400`  E`  02`  Terms of delivery and payment
+400`  E`  03`  Reference data, header
+400`  E`  04`  Administrative data, header
+400`  E`  05`  Supplying Plant
+400`  E`  06`  Returns Data
+400`  E`  07`  Distribution, header
+400`  E`  10`  Quantity and Price
+400`  E`  11`  Deadline Monitoring
+400`  E`  13`  GR/IR Control
+400`  E`  14`  Reference data, item
+400`  E`  15`  Administrative data, item
+400`  E`  16`  Scheduling Control
+400`  E`  20`  Basic Data
+400`  E`  21`  Reference Data
+400`  E`  22`  Administration Data
+400`  E`  23`  Quantities
+400`  E`  24`  Conditions
+400`  E`  25`  Delivery monitoring
+400`  E`  26`  Texts
+400`  E`  27`  Distribution, Item
+400`  E`  30`  Enjoy fields
+400`  E`  34`  Fields for Commitment Plan
+400`  E`  35`  SPEC2000 / Subcontracting.

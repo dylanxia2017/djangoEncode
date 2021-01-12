@@ -1,0 +1,387 @@
+﻿XPROD [C(00040)]`XNEGP [C(00040)]`XGSBE [C(00040)]`WAERS [C(00040)]`WAABW [C(00040)]`PERIV [C(00040)]`ORT01 [C(00040)]`OPVAR [C(00040)]`MANDT [C(00040)]`LAND1 [C(00040)]`KTOPL [C(00040)]`KKBER [C(00040)]`BUTXT [C(00040)]`BUKRS [C(00040)]
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  SAP A.G.`  0001
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code 1310`  0002
+`  `  `  CNY`  00`  K4`  北京市`  0003`  400`  CN`  0003`  `  红星闪闪股份有限公司`  0003
+`  `  `  RMB`  10`  K4`  Dalian`  0001`  400`  CN`  HHHH`  0001`  Liaoning Tech Compan`  0005
+`  X`  `  USD`  20`  K4`  BEIJING`  TM99`  400`  CN`  TMCN`  TM99`  Test company`  0007
+`  `  `  JPY`  00`  K4`  東京`  0009`  400`  JP`  CAJP`  `  abc`  0009
+`  `  `  RMB`  00`  K1`  zhengzhou`  1010`  400`  CN`  YYKJ`  `  云云科技有限公司`  0027
+`  `  `  CNY`  00`  K4`  深圳`  0058`  400`  CN`  0058`  `  深圳创客科技有限公司`  0058
+`  X`  `  CNY`  00`  K4`  福建福清`  0077`  400`  CN`  0077`  0077`  草本茶饮`  0077
+`  `  `  CNY`  10`  K4`  上海`  0001`  400`  CN`  INT`  0001`  怡宁机械有限公司`  0085
+`  `  `  CNY`  00`  K4`  大连`  `  400`  CN`  `  `  大连华锐股份有限公司`  0102
+X`  X`  `  CNY`  00`  K4`  天津`  0206`  400`  CN`  CPCN`  0206`  天津黑豆公司`  0206
+`  X`  `  CNY`  10`  K4`  杭州`  0797`  400`  CN`  0797`  0797`  浙江测试有限公司`  0797
+`  `  `  RMB`  00`  K4`  太仓`  `  400`  CN`  `  `  小笨笨有限公司`  0806
+`  X`  `  CNY`  10`  K4`  Shanghai`  9700`  400`  CN`  9700`  `  SH VOLKSWAGEN`  0870
+`  `  `  CNY`  00`  K4`  劝君莫惜金缕衣，劝君惜取少年时。`  `  400`  CN`  `  `  凤求凰`  0AAS
+`  X`  `  CNY`  00`  K4`  雨打梨花深门，忘了青春，误了青春。`  0AES`  400`  CN`  0AES`  0AES`  钗头凤`  0AES
+`  `  `  EUR`  00`  K4`  Walldorf`  0001`  400`  DE`  0MB1`  `  IS-B Musterbank Deut`  0MB1
+`  `  `  CNY`  00`  K4`  Bei Jing`  `  400`  CN`  `  `  Testing Company`  1000
+`  `  `  CNY`  00`  K4`  Shanghai`  `  400`  CN`  `  `  Manufacture Company`  1001
+`  X`  `  CNY`  10`  K4`  Palo Alto`  1006`  400`  CN`  1006`  1006`  Company Code 1710`  1006
+X`  X`  `  CNY`  10`  K4`  上海市`  1008`  400`  CN`  HDCN`  `  海底捞上海有限公司`  1008
+X`  X`  `  CNY`  10`  K4`  上海市`  1009`  400`  CN`  HDCN`  `  海底捞控股集团有限公司`  1009
+`  X`  `  EUR`  10`  K4`  Walldorf`  1010`  400`  DE`  YCOA`  1000`  Company Code 1010`  1010
+`  `  `  RMB`  00`  K4`  湖南邵阳`  `  400`  CN`  `  `  邵阳猪血丸子`  1020
+`  `  `  RMB`  00`  K4`  `  `  400`  `  `  `  螺蛳粉`  1021
+`  `  `  CNY`  00`  `  成都`  `  400`  CN`  `  `  极限压制`  1070
+`  `  `  JPY`  00`  K4`  东京`  1100`  400`  JP`  `  `  TEL`  1100
+`  `  `  JPY`  00`  `  tokyo`  `  400`  JP`  `  `  MSM Tokyo`  1101
+`  `  `  CNY`  00`  K4`  南京`  1107`  400`  CN`  ZGTF`  `  甜瓜甜椒`  1107
+`  `  `  GBP`  10`  K4`  London`  1110`  400`  GB`  YCOA`  1000`  Company Code 1110`  1110
+`  X`  `  JPY`  00`  K4`  `  1209`  400`  JP`  1209`  1209`  sapテスト会社`  1209
+`  `  `  EUR`  10`  K4`  Lyon`  1210`  400`  FR`  YCOA`  1000`  Company Code 1210`  1210
+`  `  `  CNY`  00`  `  Shanghai`  `  400`  CN`  `  `  someone company`  1217
+`  `  `  CNY`  00`  `  广州`  `  400`  CN`  `  `  axfood有限公司`  1218
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code 1310`  1310
+`  `  `  CNY`  00`  K4`  上海`  1310`  400`  CN`  YACN`  `  沃尔德公司`  1311
+`  X`  `  CNY`  10`  K4`  上海`  1300`  400`  CN`  1300`  1000`  徐汇控股集团`  1320
+`  `  `  RMB`  00`  `  `  `  400`  `  `  `  漂亮`  1366
+`  `  `  BRL`  10`  K4`  São Paulo`  1410`  400`  BR`  YCOA`  1000`  Company Code 1410`  1410
+`  X`  `  JPY`  10`  K4`  Tokyo`  1510`  400`  JP`  YCOA`  1000`  Company Code 1510`  1510
+`  X`  `  RUB`  10`  K4`  Moscow`  1610`  400`  RU`  YCOA`  1000`  Company Code 1610`  1610
+`  `  `  USD`  10`  K4`  Palo Alto`  1710`  400`  US`  YCOA`  1000`  Company Code 1710`  1710
+`  X`  `  INR`  10`  K4`  Ahmedabad`  1810`  400`  IN`  YCOA`  1000`  Company Code 1810`  1810
+`  `  `  EUR`  10`  K4`  大连`  1818`  400`  DE`  INT`  `  1818公司`  1818
+`  `  `  CNY`  10`  K4`  大连`  1819`  400`  CN`  2000`  0001`  1819公司`  1819
+`  X`  `  SEK`  10`  K4`  Stockholm`  1910`  400`  SE`  YCOA`  1000`  Company Code 1910`  1910
+`  X`  `  CNY`  10`  K4`  成都`  0001`  400`  CN`  2INT`  2000`  七杯茶销售公司`  2000
+`  `  `  CNY`  00`  `  成都`  `  400`  CN`  INT`  2001`  七杯茶直营管理公司`  2001
+`  X`  `  CNY`  10`  K4`  Palo Alto`  1006`  400`  CN`  1006`  1006`  Company Code 1710`  2006
+`  `  `  CNY`  10`  K4`  `  0001`  400`  CN`  INT`  0001`  chris的公司`  2007
+`  X`  `  RMB`  00`  CH`  Walldorf`  2009`  400`  CN`  2007`  2008`  chris的公司`  2009
+`  X`  `  CZK`  10`  K4`  Prague`  2010`  400`  CZ`  YCOA`  1000`  Company Code 2010`  2010
+`  `  `  RMB`  10`  K4`  海口`  2018`  400`  CN`  2018`  2018`  宏宇有限责任公司`  2018
+`  X`  `  CNY`  10`  K4`  成都`  1310`  400`  CN`  CACN`  1000`  sap 成都 测试公司1`  2020
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code 1310`  2021
+`  X`  `  CNY`  10`  K4`  成都`  1310`  400`  CN`  YCOA`  2030`  sap 成都 测试公司2030`  2030
+`  `  `  CNY`  00`  K4`  北京`  2040`  400`  CN`  `  `  北京小米科技有限公司`  2040
+`  `  `  JPY`  00`  `  `  `  400`  `  `  `  Temasuk 2020`  2050
+`  `  `  CNY`  00`  K4`  长沙`  2100`  400`  CN`  `  `  湖南千枫股份有限公司`  2100
+`  X`  `  HUF`  10`  K4`  Budapest`  2110`  400`  HU`  YCOA`  1000`  SAP Hungary kft.`  2110
+`  `  `  CNY`  00`  K4`  上海`  2190`  400`  CN`  `  `  伊泰能源有限公司`  2190
+`  X`  `  CHF`  10`  K4`  Biel`  2210`  400`  CH`  YCOA`  1000`  Company Code 2210`  2210
+`  `  `  CNY`  00`  K4`  阿勒锦`  2301`  400`  CN`  2301`  `  阿勒锦制氧机有限责任公司`  2301
+`  X`  `  EUR`  10`  K4`  Milano`  2310`  400`  IT`  YCOA`  1000`  Company Code 2310`  2310
+`  X`  `  EUR`  10`  K4`  Barcelona`  2410`  400`  ES`  YCOA`  1000`  Company Code 2410`  2410
+`  `  `  EUR`  10`  K4`  Brussel`  2510`  400`  BE`  YCOA`  1000`  Company Code 2510`  2510
+`  X`  `  PLN`  10`  K4`  Warszawa`  2610`  400`  PL`  YCOA`  1000`  Company Code 2610`  2610
+`  X`  `  RON`  10`  K4`  Bucuresti`  2810`  400`  RO`  YCOA`  1000`  Company Code 2810`  2810
+`  `  `  CAD`  10`  K4`  Toronto`  2910`  400`  CA`  YCOA`  1000`  Company Code 2910`  2910
+`  `  `  CNY`  10`  K4`  Dalian`  299`  400`  CN`  0299`  0001`  HARIBO Dalian`  299
+`  X`  `  CNY`  10`  K4`  北京`  3000`  400`  CN`  MQCC`  `  北京德益集团有限公司`  3000
+`  `  `  CNY`  00`  `  北京`  `  400`  CN`  3003`  3A01`  北京鸿鹄有限公司`  3001
+`  `  `  CNY`  00`  `  北京`  `  400`  CN`  3003`  3A02`  北京和润有限公司`  3002
+`  `  `  CNY`  00`  `  北京`  `  400`  CN`  3003`  3003`  北京德艺集团有限公司`  3003
+`  `  `  CNY`  10`  K4`  beijin`  3006`  400`  CN`  3006`  3006`  Company Code 1710`  3006
+`  X`  `  AUD`  10`  K4`  Melbourne`  3010`  400`  AU`  YCOA`  1000`  Company Code 3010`  3010
+`  `  `  CNY`  10`  K4`  北京`  1818`  400`  CN`  INT`  `  3030公司`  3030
+`  `  `  CNY`  10`  K4`  大连`  1818`  400`  CN`  INT`  `  3031公司`  3031
+`  `  `  CNY`  10`  K4`  太原`  1818`  400`  CN`  INT`  `  3032公司`  3032
+`  `  `  CNY`  00`  K4`  深圳`  `  400`  CN`  3100`  `  深圳弹弹有限责任公司`  3100
+`  X`  `  DKK`  10`  K4`  København`  3210`  400`  DK`  YCOA`  1000`  Company Code 3210`  3210
+`  X`  `  AED`  10`  K4`  Dubai`  3310`  400`  AE`  YCOA`  1000`  Company Code 3310`  3310
+`  X`  `  RMB`  00`  RK`  上海`  3333`  400`  CN`  3333`  3333`  Rirakkuma K.K`  3333
+`  `  `  CNY`  00`  K4`  成都`  Z301`  400`  CN`  1000`  `  费米子有限公司`  3444
+`  X`  `  EUR`  10`  K4`  Lisbon`  3510`  400`  PT`  YCOA`  1000`  Company Code 3510`  3510
+`  X`  `  TRY`  10`  K4`  Istanbul`  3610`  400`  TR`  YCOA`  1000`  Company Code 3610`  3610
+`  X`  `  EUR`  10`  K4`  's-Hertogenbosch`  3710`  400`  NL`  YCOA`  1000`  Company Code 3710`  3710
+`  X`  `  EUR`  10`  K4`  Wien`  3910`  400`  AT`  YCOA`  1000`  Company Code 3910`  3910
+`  `  `  CNY`  00`  K3`  Shanghai`  Z301`  400`  CN`  1000`  `  不认识有限公司`  3988
+`  X`  `  CNY`  00`  K4`  上海`  4000`  400`  CN`  4000`  `  XYZ有限公司4000`  4000
+`  X`  `  CNY`  00`  K4`  上海`  4000`  400`  CN`  4010`  `  XYZ有限公司4010`  4010
+`  X`  `  CNY`  00`  K4`  上海`  4000`  400`  CN`  4020`  `  XYZ有限公司4020`  4020
+`  X`  `  CNY`  00`  K4`  上海`  4000`  400`  CN`  4030`  `  XYZ有限公司4030`  4030
+`  X`  `  EUR`  10`  K4`  Dublin`  4210`  400`  IE`  YCOA`  1000`  Company Code 4210`  4210
+`  X`  `  KRW`  10`  K4`  서울`  4310`  400`  KR`  YCOA`  1000`  Company Code 4310`  4310
+`  X`  `  NOK`  10`  K4`  Lysaker`  4410`  400`  NO`  YCOA`  1000`  Company Code 4410`  4410
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code 1310`  4450
+`  X`  `  EUR`  10`  K4`  Helsinki`  4510`  400`  FI`  YCOA`  1000`  Company Code 4510`  4510
+`  X`  `  IDR`  10`  K4`  Jakarta`  5110`  400`  ID`  YCOA`  1000`  Company Code 5110`  5110
+`  `  `  CNY`  00`  `  郑州`  `  400`  CN`  5200`  5200`  零零公司`  5200
+`  X`  `  MYR`  10`  K4`  Kuala Lumpur`  5410`  400`  MY`  YCOA`  1000`  Company Code 5410`  5410
+`  X`  `  MXN`  10`  K4`  Mexico`  5510`  400`  MX`  YCOA`  1000`  Company Code 5510 (M`  5510
+`  X`  `  PHP`  10`  K4`  Makati`  5810`  400`  PH`  YCOA`  1000`  Company Code 5810`  5810
+`  X`  `  SAR`  10`  K4`  Riyadh`  5910`  400`  SA`  YCOA`  1000`  Company Code 5910`  5910
+`  `  `  CNY`  00`  K4`  北京`  6001`  400`  CN`  CNCN`  `  沃尔德集团公司`  6001
+`  `  `  CNY`  00`  K4`  北京`  6002`  400`  CN`  CNCN`  `  沃尔德北京公司`  6002
+`  `  `  CNY`  00`  K4`  浙江`  6003`  400`  CN`  CNCN`  `  沃尔德嘉兴公司`  6003
+`  `  `  CNY`  00`  K4`  大连`  6090`  400`  CN`  6090`  6090`  大连华锐股份有限公司`  6090
+`  X`  `  SGD`  10`  K4`  Singapore`  6110`  400`  SG`  YCOA`  1000`  Company Code 6110`  6110
+`  X`  `  HKD`  10`  K4`  Hong Kong`  6210`  400`  HK`  YCOA`  1000`  Company Code 6210`  6210
+`  X`  `  TWD`  10`  K4`  Taipei`  6310`  400`  TW`  YCOA`  1000`  Company Code 6310`  6310
+`  X`  `  ZAR`  10`  K4`  Johannesburg`  6410`  400`  ZA`  YCOA`  1000`  Company Code 6410`  6410
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  ELIK company`  6600
+`  `  `  CNY`  00`  `  西安`  `  400`  CN`  `  `  Company_XX 6666`  6666
+`  `  `  CNY`  00`  `  Shanghai`  `  400`  CN`  `  `  GZ Study`  6688
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  SAP A.G.`  6699
+`  `  `  CNY`  00`  K4`  上海`  `  400`  CN`  YCOA`  `  Monster`  6800
+`  X`  `  THB`  10`  K4`  Bangkok`  6810`  400`  TH`  YCOA`  1000`  Company Code 6810`  6810
+`  `  `  CNY`  00`  K4`  江西`  6868`  400`  CN`  6868`  `  行云流水责任有限公司`  6868
+`  X`  `  NZD`  10`  K4`  Auckland`  6910`  400`  NZ`  YCOA`  1000`  Company Code 6910`  6910
+`  X`  `  CNY`  10`  K4`  许昌`  6950`  400`  CN`  CE0T`  5001`  许继集团有限公司`  6950
+`  `  `  JPY`  00`  K4`  2-6-1　`  6968`  400`  JP`  6968`  6968`  マルエツ`  6968
+`  X`  `  CNY`  10`  K4`  上海`  7000`  400`  CN`  ALKH`  `  杭州立鑫家居销售公司`  7000
+`  X`  `  CNY`  10`  K4`  上海`  7010`  400`  CN`  ALKH`  `  杭州立鑫家居生产公司`  7010
+`  `  `  EUR`  00`  `  Walldorf`  `  400`  DE`  `  `  LCY7093有限责任公司`  7093
+`  `  `  CNY`  00`  K3`  深圳`  7094`  400`  CN`  7094`  `  LCY7094有限责任公司`  7094
+`  `  `  JPY`  00`  V3`  朝霞市`  7777`  400`  JP`  CAJP`  H001`  スカイネット株式会社(洪)`  7777
+`  `  `  JPY`  00`  V3`  東京都六本木`  7878`  400`  JP`  CAJP`  `  スカイネット_仕入先(H)`  7878
+`  X`  `  EUR`  10`  K4`  Luxembourg City`  7K10`  400`  LU`  YCOA`  1000`  Company Code 7K10`  7K10
+`  `  `  CNY`  00`  K4`  beijing`  8000`  400`  CN`  CON8`  8000`  Company Code 8000`  8000
+`  `  `  CNY`  00`  K4`  成都`  `  400`  CN`  `  `  树人苗木`  8080
+`  `  `  CNY`  00`  K4`  shanghai`  8000`  400`  CN`  CON8`  8000`  Company Code 8100`  8100
+`  `  `  CNY`  00`  K4`  `  8101`  400`  CN`  8101`  `  ST Company`  8101
+`  X`  `  CNY`  10`  K4`  shanghai`  1010`  400`  CN`  CACN`  `  Company Code 8118`  8118
+`  `  `  HKD`  00`  K4`  xianggang`  8000`  400`  CN`  CON8`  8000`  Company Code 8200`  8200
+`  `  `  CNY`  00`  ZA`  shanghai`  8570`  400`  CN`  8570`  8570`  SHANGHAI CHEMICAL GR`  8570
+`  `  `  CNY`  00`  `  Shanghai`  `  400`  CN`  `  `  SH VOLKSWAGEN`  870
+`  `  `  CNY`  00`  `  Shang Hai`  `  400`  CN`  ESLI`  8866`  ABC国际投资集团`  8866
+`  `  `  CNY`  00`  K4`  MARKS`  `  400`  CN`  8888`  8888`  Superman Company`  8888
+`  X`  `  CNY`  10`  K4`  上海`  8999`  400`  CN`  YCOA`  8999`  SAP491-顾宁机械有限公司`  8999
+`  `  `  JPY`  00`  V3`  東京都足立区`  `  400`  JP`  CAJP`  `  NHSコンピュータ`  9000
+`  `  `  CNY`  00`  K4`  兰州市`  9001`  400`  CN`  CACN`  `  兰州金汇源有限公司`  9001
+`  `  `  CNY`  00`  K4`  山东省邹城市`  9016`  400`  CN`  `  `  Listen股份有限公司`  9016
+`  `  `  CNY`  00`  `  绍兴`  `  400`  CN`  9100`  `  木林森`  9100
+`  `  `  CNY`  00`  K4`  深圳`  9101`  400`  CN`  YCMA`  `  9101渣渣辉有限责任`  9101
+`  X`  X`  CNY`  00`  K4`  大连`  9102`  400`  CN`  G001`  DLHR`  大连华锐股份有限公司`  9102
+`  `  `  CNY`  00`  `  深圳`  9101`  400`  CN`  `  `  9101渣渣辉有限责任`  9103
+`  `  `  CNY`  00`  K4`  shanghai`  9200`  400`  CN`  9200`  `  9200 gl有限责任公司`  9200
+`  X`  `  CNY`  10`  K4`  济南`  93A9`  400`  CN`  93A9`  9390`  Company Code 9390`  9390
+`  X`  `  CNY`  10`  K4`  济南`  1310`  400`  CN`  YCOA`  9399`  9399  company`  9399
+`  X`  `  CNY`  10`  K4`  济南`  93A9`  400`  CN`  93A9`  A930`  Company Code 93A9`  93A9
+`  X`  `  CNY`  10`  K4`  Shanghai`  9700`  400`  CN`  9700`  9700`  9700`  9700
+`  `  `  AUD`  10`  K4`  Mel`  9800`  400`  AU`  INT`  0001`  WGY PTY LTD`  9800
+`  X`  `  AUD`  10`  K4`  Melbourne`  3010`  400`  AU`  YCOA`  1000`  WY PTY LTD`  9801
+`  X`  X`  CNY`  00`  K4`  大连`  9902`  400`  CN`  G001`  DLHR`  华锐事业部`  9902
+`  X`  `  CNY`  10`  K4`  成都`  1310`  400`  CN`  CACN`  1000`  sap 成都 测试公司1`  9919
+`  `  `  CNY`  00`  K4`  `  0999`  400`  `  0999`  999`  成功测试销售公司`  9991
+`  `  `  CNY`  00`  K4`  `  0999`  400`  `  0999`  999`  成功测试的生产车间1`  9992
+`  `  `  CNY`  00`  K4`  `  0999`  400`  `  0999`  999`  成功测试的生产车间2`  9993
+`  `  `  CNY`  10`  K4`  Walldorf`  0999`  400`  DE`  INT`  999`  SAP A.G.`  9994
+`  `  `  CNY`  00`  K4`  HAIYANG`  9998`  400`  CN`  9998`  `  ABC Mike`  9998
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  SAP A.G.`  9999
+`  `  `  CNY`  00`  `  `  `  400`  `  A000`  `  刘氏集团`  A000
+`  X`  `  USD`  20`  K4`  香港`  TM99`  400`  CN`  TMCN`  TM99`  香港天明汽车集团`  A001
+`  X`  `  CNY`  00`  K4`  beijing`  TM99`  400`  CN`  TMCN`  ZF01`  天明汽车制造有限公司`  A002
+`  X`  `  CNY`  20`  K4`  beijing`  TM99`  400`  CN`  TMCN`  TM99`  天明汽车整车组装有限公司`  A003
+`  `  `  USD`  10`  K4`  BEIJING`  1710`  400`  CN`  YCOA`  1000`  TEST Co.`  A026
+`  `  `  CNY`  00`  K4`  上海`  A100`  400`  CN`  AAAA`  AA00`  Charmis幸运公司`  A100
+`  X`  `  CNY`  10`  K4`  沈阳`  1310`  400`  CN`  YCOA`  A101`  HD汽车有限公司`  A101
+`  X`  X`  CNY`  10`  K4`  CD`  A198`  400`  CN`  A198`  A198`  学习SAP`  A198
+`  X`  `  CNY`  10`  K4`  Palo Alto`  1006`  400`  CN`  1006`  1006`  Company Code AA01`  AA01
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code AA02`  AA02
+`  `  `  CNY`  00`  `  Shanghai`  `  400`  CN`  `  `  AAA1 of A Company`  AAA1
+`  `  `  CNY`  00`  K4`  Shanghai`  AAA2`  400`  CN`  AAA2`  `  十一啊`  AAA2
+`  `  `  CNY`  00`  `  Shanghai`  `  400`  CN`  `  `  AAA3 of A Company`  AAA3
+`  `  `  AED`  00`  K4`  Dubai`  0001`  400`  AE`  INT`  `  Country Template AE`  AE01
+`  X`  `  CNY`  00`  K4`  Aria`  AR00`  400`  CN`  AR88`  AR88`  Aria集团成都公司-生产公司`  AR00
+`  `  `  ARS`  00`  K4`  Argentinien`  0001`  400`  AR`  INT`  `  Country Template AR`  AR01
+`  X`  `  CNY`  00`  K4`  Aria`  AR10`  400`  CN`  AR88`  AR88`  Aria集团深圳公司-销售公司`  AR10
+`  `  `  CNY`  00`  `  Aria`  `  400`  CN`  `  `  Aria集团北京公司-销售公司`  AR20
+`  `  `  ARS`  10`  K4`  Argentinien`  0001`  400`  AR`  INT`  `  Country Template AR`  ARG1
+`  `  X`  EUR`  10`  K4`  Austria`  0001`  400`  AT`  INT`  `  Country Template AT`  AT01
+`  `  X`  AUD`  10`  V6`  Australia`  0001`  400`  AU`  INT`  `  Country Template AU`  AU01
+`  `  `  CNY`  00`  K4`  广州`  B001`  400`  CN`  YY00`  YY00`  阳的公司B001`  B001
+`  `  `  RMB`  00`  `  北京`  `  400`  CN`  `  `  洪宇实业有限公司`  B100
+`  `  `  CNY`  00`  `  Beijing`  `  400`  CN`  `  `  BBB1 of B Company`  BBB1
+`  `  `  CNY`  00`  `  Beijing`  `  400`  CN`  `  `  BBB2 of B Company`  BBB2
+`  `  `  CNY`  00`  `  Beijing`  `  400`  CN`  `  `  BBB3 of B Company`  BBB3
+`  `  X`  EUR`  10`  K4`  Belgium`  0001`  400`  BE`  CABE`  0001`  Country Template BE`  BE01
+`  `  `  CNY`  00`  `  `  `  400`  CN`  `  `  冰河世纪（北京）股份有限公司`  BH00
+`  `  `  CNY`  00`  `  香港`  `  400`  CN`  `  `  冰河世纪（香港）股份有限公司`  BH01
+`  `  `  CNY`  00`  `  深圳`  `  400`  CN`  `  `  冰河世纪（深圳）股份有限公司`  BH02
+`  X`  `  CNY`  10`  K4`  北京市`  BJDM`  400`  CN`  BJDM`  BJDM`  北京大麦有限责任公司`  BJDM
+`  X`  `  CNY`  10`  K4`  北京`  BL01`  400`  CN`  BL01`  `  北凉有限公司`  BL01
+`  `  `  BRL`  10`  K4`  Brazil`  0001`  400`  BR`  INT`  `  Country Template BR`  BR01
+`  `  `  RMB`  00`  K4`  BEIJING`  C001`  400`  CN`  YYKJ`  `  DAIMLER`  C001
+`  X`  X`  CNY`  00`  K4`  上海`  9102`  400`  CN`  G001`  DLHR`  feng股份有限公司`  C100
+`  `  `  CNY`  00`  C5`  CZ`  `  400`  CN`  C500`  C500`  克拉克有限公司`  C500
+`  `  `  RMB`  00`  ZF`  ShangHai`  P901`  400`  CN`  A901`  C901`  ZY Company`  C901
+`  `  `  CNY`  00`  K4`  上海`  P998`  400`  CN`  A998`  C998`  颐宁机械有限公司`  C998
+`  `  `  CNY`  00`  K0`  沈阳`  `  400`  CN`  A999`  C999`   静一机械有限公司`  C999
+`  `  X`  CAD`  10`  K4`  Canada`  0001`  400`  CA`  CANA`  `  Country Template CA`  CA01
+`  `  `  CNY`  00`  `  Shenzhen`  `  400`  CN`  `  `  CCC1 of C Company`  CCC1
+`  `  `  CNY`  00`  `  Shenzhen`  `  400`  CN`  `  `  CCC2 of C Company`  CCC2
+`  `  `  CNY`  00`  `  Shenzhen`  `  400`  CN`  `  `  CCC3 of C Company`  CCC3
+`  X`  `  CNY`  10`  K4`  成都`  1310`  400`  CN`  YCOA`  1000`  cd sap test`  CD01
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code 1310`  CD02
+`  `  `  RMB`  00`  K4`  成都`  0001`  400`  CN`  `  `  sap edu`  CD10
+`  `  X`  CHF`  10`  K4`  Switzerland`  0001`  400`  CH`  CACH`  `  Country Template CH`  CH01
+`  X`  `  CNY`  00`  K4`  上海`  CH06`  400`  CN`  CH06`  CH06`  程氏集团公司006`  CH06
+`  `  `  CLP`  10`  K4`  Chile`  0001`  400`  CL`  INT`  `  Country Template CL`  CL01
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  SAP A.G.`  CM00
+`  `  `  CNY`  00`  Y1`  `  CM02`  400`  CN`  CM02`  `  广东科技有限公司--test  by`  CM02
+`  X`  `  CNY`  00`  K4`  Shanghai`  CN02`  400`  CN`  CN02`  CN02`  PRC CN00`  CN00
+`  X`  `  CNY`  10`  K4`  China`  0001`  400`  CN`  CACN`  0001`  Country Template CN`  CN01
+`  X`  `  CNY`  30`  K4`  BeiJing`  CN02`  400`  CN`  CN02`  CN02`  PRC CN02`  CN02
+`  `  `  RMB`  00`  `  南宁`  `  400`  CN`  `  `  荣光有限公司`  CN66
+`  `  `  RMB`  00`  `  zhengzhou`  `  400`  CN`  YYKJ`  `  云云科技有限公司`  CNN
+`  `  X`  COP`  10`  K4`  Colombia`  0001`  400`  CO`  CACO`  `  Country Template CO`  CO01
+`  `  X`  EUR`  10`  K4`  (Only G/L accounts B`  0001`  400`  DE`  INT`  `  Copy from CC.0001`  COPY
+`  X`  `  CZK`  05`  K4`  Czech Republic`  0001`  400`  CZ`  CACZ`  `  Country Template CZ`  CZ01
+`  `  `  JPY`  00`  V3`  東京都足立区12345`  `  400`  JP`  YAJP`  Y001`  淡泊株式会社`  D001
+`  X`  `  CNY`  00`  K4`  天津`  DA01`  400`  CN`  0AES`  DA01`  中国飞舟科技公司代码`  DA01
+`  `  `  CNY`  00`  K4`  天津`  DA01`  400`  CN`  DA02`  DA01`  中国飞舟科技公司代码2`  DA02
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code DDDD`  DDDD
+`  `  X`  EUR`  10`  K4`  Germany`  0001`  400`  DE`  GKR`  `  Country Template DE`  DE01
+`  `  X`  EUR`  10`  K4`  Germany`  0001`  400`  DE`  IKR`  `  Country Template DE`  DE02
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  Zwickau Coff CC OP`  DE88
+`  `  X`  DKK`  10`  K4`  Denmark`  0001`  400`  DK`  INT`  `  Country Template DK`  DK01
+`  `  `  CNY`  00`  K4`  北京`  DMGJ`  400`  CN`  DMGJ`  DMGJ`  北京大明国际有限责任公司`  DMGJ
+`  `  `  CNY`  00`  K4`  大庆市`  SINP`  400`  CN`  YACN`  `  大庆石油管理局`  DQ01
+`  `  `  CNY`  00`  `  XuZhou`  `  400`  CN`  `  `  SIYUAN Ltd`  E376
+`  `  `  EGP`  00`  K4`  Cairo`  0001`  400`  EG`  INT`  `  Country Template Egy`  EG01
+`  `  `  CNY`  00`  K4`  成都`  ENGO`  400`  CN`  EGKM`  `  恩高科技有限公司`  ENGO
+`  `  X`  EUR`  10`  K4`  Spain`  0001`  400`  ES`  CAES`  0001`  Country Template ES`  ES01
+`  X`  `  CNY`  90`  K4`  广东`  F001`  400`  CN`  ZK01`  0001`  小家电制造公司`  F001
+`  `  `  EUR`  00`  K4`  Finland`  0001`  400`  FI`  CAFI`  `  Country Template FI`  FI01
+`  `  `  CNY`  00`  K4`  `  0001`  400`  CN`  INT`  `  FJB1测试公司`  FJB1
+`  `  `  CNY`  00`  K4`  `  0001`  400`  CN`  INT`  `  FJB2测试公司`  FJB2
+`  `  `  CNY`  00`  K4`  `  0001`  400`  CN`  INT`  `  FJB3测试公司`  FJB3
+`  `  X`  EUR`  10`  K4`  France`  0001`  400`  FR`  CAFR`  0001`  Country Template FR`  FR01
+`  `  `  CNY`  00`  K4`  上海`  G001`  400`  CN`  `  G001`  G001公司代码会计主体`  G001
+`  `  `  CNY`  00`  K4`  西安`  G011`  400`  CN`  G011`  G011`  G011 公司代码会计主体 陕西演示`  G011
+`  `  X`  GBP`  10`  K4`  Great Britain`  0001`  400`  GB`  INT`  `  Country Template GB`  GB01
+X`  `  `  CNY`  00`  K4`  成都`  `  400`  CN`  `  `  瓜子公司`  GZ01
+`  `  `  CNY`  10`  K4`  沈阳`  H001`  400`  CN`  H601`  H600`  宝马汽车有限公司`  H601
+X`  X`  X`  CNY`  05`  K4`  Wu Han`  HBY1`  400`  CN`  HBY1`  HBY1`  WuHan HuBaiYuan Comp`  HBY1
+`  `  `  RMB`  00`  `  杭州`  `  400`  CN`  `  `  杭叉集团`  HC10
+`  `  `  RMB`  00`  `  `  `  400`  `  `  `  杭叉门架`  HC20
+`  `  `  CNY`  00`  `  上海`  `  400`  CN`  CACN`  `  HF Fisrt Company`  HF00
+`  X`  `  CNY`  00`  K4`  上海`  HHHH`  400`  CN`  HHHH`  HHHH`  HDN有限公司`  HHHH
+`  `  `  HKD`  10`  K4`  Hong Kong`  0001`  400`  HK`  INT`  `  Country Template HK`  HK01
+`  `  `  CNY`  00`  `  上海`  `  400`  CN`  `  `  海纳百川公司`  HNBC
+`  `  X`  HUF`  10`  K4`  Hungary`  0001`  400`  HU`  CAHU`  `  Country Template HU`  HU01
+`  `  `  CNY`  00`  K4`  沈阳市`  YTL1`  400`  CN`  YTL1`  `  Yutime Logistics co.`  HUAW
+`  X`  `  CNY`  10`  K4`  北京`  XXGS`  400`  CN`  XXGS`  XXGS`  浣熊的公司`  HXGS
+`  `  `  CNY`  00`  K4`  上海`  IBM`  400`  CN`  IBM`  IBM`  IBM公司`  IBM
+`  `  `  IDR`  00`  K4`  Jakarta`  0001`  400`  ID`  INT`  `  Country Template ID`  ID01
+`  `  `  EUR`  10`  K4`  Ireland`  0001`  400`  IE`  INT`  `  Country Template IE`  IE01
+`  `  X`  INR`  10`  V3`  Bangalore`  0001`  400`  IN`  CAIN`  `  India Model Company,`  IN01
+`  `  X`  EUR`  10`  K4`  Italy`  0001`  400`  IT`  INT`  `  Country Template IT`  IT01
+`  `  `  EUR`  00`  K4`  Italy`  0001`  400`  IT`  `  `  Country Template IT`  IT77
+`  X`  `  CNY`  10`  K4`  北京市`  BJDM`  400`  CN`  BJDM`  J001`  北京大麦有限责任公司`  J001
+`  `  `  CNY`  00`  `  浙江嘉兴`  `  400`  CN`  `  `  嘉兴简事屋有限公司`  J110
+`  `  `  CNY`  00`  `  杭州`  `  400`  CN`  `  `  杭州简事屋公司`  J120
+`  `  `  RMB`  00`  `  杭州`  `  400`  CN`  `  `  杭州辉创`  J911
+`  `  `  RMB`  00`  `  `  `  400`  `  `  `  浙江辉创电子`  J912
+`  `  `  RMB`  00`  `  `  `  400`  `  `  `  上海辉创电子`  J913
+`  `  `  CNY`  00`  K4`  武汉`  SINP`  400`  CN`  YACN`  `  江汉石油管理局`  JH01
+`  `  X`  JPY`  10`  V3`  Japan`  0001`  400`  JP`  CAJP`  0001`  Country Template JP`  JP01
+`  `  `  CNY`  00`  K4`  Harbin`  `  400`  CN`  `  `  Jingyu Street Compan`  JYST
+`  X`  `  TWD`  10`  K4`  Taipei`  1010`  400`  TW`  YCOA`  K001`  Company Code K001`  K001
+`  X`  `  KRW`  10`  K4`  Seoul`  0001`  400`  KR`  CAKR`  0001`  Country Template KR`  KR01
+`  `  `  KWD`  00`  K4`  Kuwait City`  0001`  400`  KW`  INT`  0001`  Country Template KW`  KW01
+`  X`  `  KZT`  10`  K4`  Astana`  0001`  400`  KZ`  CAKZ`  0001`  Country Template KZ`  KZ01
+`  X`  `  CNY`  10`  K4`  China`  L000`  400`  CN`  L000`  L000`  L000`  L000
+X`  X`  `  CNY`  10`  K4`  广州`  L01`  400`  CN`  L01`  L01`  L01公司代码`  L01
+`  X`  X`  JPY`  10`  V3`  Tokyo`  LIU1`  400`  JP`  LIU1`  1000`  Liu JP Ltd`  LIU1
+`  `  `  CNY`  00`  `  `  `  400`  CN`  `  `  LJS测试公司代码`  LJS
+`  X`  `  CNY`  10`  K4`  广东`  LL00`  400`  CN`  ZK01`  0001`  璐璐集团`  LL00
+`  `  X`  EUR`  02`  K4`  Luxembourg`  0001`  400`  LU`  CABE`  0001`  Country Template LU`  LU01
+`  `  `  JPY`  00`  K4`  東京`  0001`  400`  JP`  CAJP`  `  白竜株式会社`  LYX1
+X`  X`  X`  CNY`  10`  K4`  Guangzhou`  M008`  400`  CN`  M008`  `  m008`  M008
+X`  X`  `  CNY`  10`  K4`  Guangzhou`  M009`  400`  CN`  M009`  M009`  m009`  M009
+`  `  `  EUR`  00`  K4`  DE`  M100`  400`  DE`  MT01`  M100`  Germany UB1`  M100
+`  X`  `  CNY`  00`  K4`  上海`  M110`  400`  CN`  M110`  `  XX汽车有限公司`  M110
+`  X`  `  CNY`  00`  K4`  上海`  M120`  400`  CN`  M110`  `  XX汽车有限公司-分公司1`  M120
+`  X`  `  CNY`  00`  K4`  上海`  M130`  400`  CN`  M110`  `  XX汽车有限公司-分公司2`  M130
+`  `  `  EUR`  00`  K4`  DE`  M200`  400`  DE`  MT01`  M200`  Germany UB1`  M200
+`  `  `  PLN`  00`  K4`  PL`  M300`  400`  PL`  MT01`  M300`  Germany UB3&4`  M300
+`  `  `  USD`  00`  K4`  US`  M400`  400`  US`  MT01`  M400`  USA UB1&2`  M400
+`  `  `  JPY`  00`  K4`  JP`  M500`  400`  JP`  MT01`  M500`  JP UB1&2`  M500
+`  `  `  CNY`  00`  K4`  CN`  M600`  400`  CN`  MT01`  M600`  CN UB1&2`  M600
+`  `  `  USD`  00`  K4`  Walldorf`  MCA`  400`  DE`  BKMG`  `  MCA Bank Backpack (b`  MCA1
+`  `  `  USD`  00`  K4`  Walldorf`  MCA`  400`  DE`  BKMG`  `  MCA Bank Backpack (d`  MCA2
+`  `  `  CHF`  00`  K4`  Walldorf`  MCA`  400`  DE`  BKMG`  `  MCA Bank 4-pack (bal`  MCA3
+`  `  `  CHF`  00`  K4`  Walldorf`  MCA`  400`  DE`  BKMG`  `  MCA Bank 4-pack (doc`  MCA4
+`  `  X`  MXN`  10`  K4`  Mexico`  0001`  400`  MX`  INT`  `  Country Template MX`  MX01
+`  `  `  MXN`  00`  K4`  Mexico`  0001`  400`  MX`  `  `  Country Template MX`  MX03
+`  `  `  MYR`  10`  K4`  Kuala Lumpur`  0001`  400`  MY`  INT`  `  Country Template MY`  MY01
+`  `  `  EUR`  00`  K4`  The Netherlands`  0001`  400`  NL`  INT`  `  Country Template NL`  NL01
+`  `  X`  NOK`  10`  K4`  Norway`  0001`  400`  NO`  CANO`  `  Country Template NO`  NO01
+`  `  `  NZD`  10`  K4`  New Zealand`  0001`  400`  NZ`  INT`  0001`  Country Template NZ`  NZ01
+`  X`  `  CNY`  10`  K4`  北京`  P000`  400`  CN`  PPLY`  `  落叶集团总部公司代码`  P001
+`  `  `  CNY`  00`  K4`  苏州`  0001`  400`  CN`  PCC1`  `  苏州帕玛斯韦奇`  PCC1
+`  `  `  PEN`  10`  K4`  Perú`  0001`  400`  PE`  CAPE`  `  Country Template PE`  PE01
+`  `  `  PHP`  10`  K4`  Manila`  0001`  400`  PH`  INT`  `  Country Template PH`  PH01
+`  X`  `  PLN`  00`  K4`  Poland`  0001`  400`  PL`  CAPL`  `  Country Template PL`  PL01
+`  `  `  EUR`  10`  K4`  Portugal`  0001`  400`  PT`  CAPT`  0001`  Country Template PT`  PT01
+`  `  `  EUR`  10`  K4`  Portugal`  0001`  400`  PT`  SNC`  0001`  Country Template PT`  PT02
+`  `  `  QAR`  00`  K4`  Doha`  0001`  400`  QA`  INT`  `  Country Template QA`  QA01
+`  X`  `  JPY`  10`  V3`  东京都港区`  R008`  400`  JP`  R008`  R008`  东京食品有限公司`  R008
+`  `  `  JPY`  00`  V3`  東京都足立区12345`  R100`  400`  JP`  YAJP`  Y001`  ロンロン株式会社`  R100
+`  `  `  CNY`  00`  K4`  上海`  RAIN`  400`  CN`  RAIN`  RAIN`  小雨公司`  RAIN
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  Sondereigentum (WEG)`  RECO
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  Referenz Objektmanda`  REOB
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  WEG`  0001`  WEG Referenzbuchungs`  RERF
+`  X`  X`  RUB`  10`  K4`  Russia`  0001`  400`  RU`  CARU`  `  Country Template RU`  RU01
+`  X`  X`  CNY`  10`  K4`  上海`  M008`  400`  CN`  M008`  `  SIMON信息科技有限公司`  S001
+`  `  `  EUR`  10`  K4`  苏州`  0001`  400`  CN`  S100`  0001`  S100 制造公司`  S100
+`  `  `  EUR`  10`  K4`  苏州`  0001`  400`  CN`  S100`  0001`  S200 公司`  S200
+`  `  `  CNY`  10`  K4`  苏州`  0001`  400`  CN`  S100`  0001`  S300 销售公司`  S300
+`  `  `  CNY`  10`  K4`  Software Company`  0001`  400`  CN`  INT`  0001`  Software Company`  SAIC
+`  X`  `  CNY`  00`  K4`  `  SAPA`  400`  CN`  SAPA`  SAPA`  SAP学习A公司`  SAPA
+`  `  `  SEK`  00`  K4`  Sweden`  0001`  400`  SE`  CASE`  `  Country Template SE`  SE01
+`  `  `  SGD`  10`  K4`  Singapore`  0001`  400`  SG`  INT`  0001`  SAP Asia`  SG01
+`  `  `  JPY`  00`  K4`  大阪`  P998`  400`  JP`  `  `  博文堂`  SH76
+`  X`  `  EUR`  05`  K4`  Slovak Republic`  0001`  400`  SK`  CASK`  `  Country Template SK`  SK01
+`  `  `  EUR`  00`  K4`  Frankfurt`  0001`  400`  DE`  BKMG`  `  Musterbank`  SLE0
+`  `  X`  JPY`  10`  V3`  台東区`  SM01`  400`  JP`  CAJP`  0001`  Summmit-Technic`  SM01
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code 1310`  SNOW
+`  `  `  JPY`  00`  V3`  Japan`  SU01`  400`  JP`  SU01`  `  Summit JP`  SU01
+`  `  `  JPY`  00`  V3`  Japan`  SU02`  400`  JP`  SU02`  `  JP-summit`  SU02
+`  X`  `  CNY`  10`  K4`  上海`  T100`  400`  CN`  T100`  T100`  上海保时泰有限公司`  T100
+`  X`  `  CNY`  10`  K4`  北京`  XXGS`  400`  CN`  XXGS`  TAKU`  TAKU的公司`  TAKU
+`  `  `  CNY`  00`  K4`  Shanghai`  `  400`  CN`  TEST`  TEST`  TEST01公司`  TE01
+`  X`  `  THB`  10`  K4`  Bangkok`  0001`  400`  TH`  INT`  `  Country Template TH`  TH01
+`  `  `  TRY`  10`  K4`  Turkey`  0001`  400`  TR`  CATR`  `  Country Template TR`  TR01
+`  `  `  TWD`  00`  K4`  Taipei`  0001`  400`  TW`  CATW`  0001`  Country Template TW`  TW01
+`  `  `  UAH`  00`  K4`  Ukraine`  0001`  400`  UA`  CAUA`  `  Country Template UA`  UA01
+`  `  X`  USD`  10`  K4`  U.S.A.`  0001`  400`  US`  CANA`  `  Country Template US`  US01
+`  `  X`  VEB`  10`  K4`  Venezuela`  0001`  400`  VE`  INT`  `  Country Template VE`  VE01
+`  `  `  RMB`  00`  K4`  大连`  W001`  400`  CN`  W001`  W001`  大连大炮制造有限公司`  W001
+`  X`  `  CNY`  90`  K4`  广东`  F001`  400`  CN`  ZK01`  0001`  创新公司`  W002
+`  `  `  CNY`  00`  `  威海`  `  400`  CN`  WYZ1`  WYZ1`  一周数字科技有限公司`  WYZ1
+`  `  `  CNY`  00`  `  星辰市`  `  400`  CN`  `  `  星辰集团销售公司`  X100
+`  `  `  CNY`  00`  `  星辰市`  `  400`  CN`  `  `  星辰集团制造公司`  X200
+`  `  `  RMB`  10`  YN`  上海`  X999`  400`  CN`  Y999`  X999`  一宁机械有限公司`  X999
+`  `  `  CNY`  00`  `  星辰市`  `  400`  CN`  `  `  星辰集团总公司`  XC00
+`  X`  `  CNY`  00`  K4`  仙女城`  0AES`  400`  CN`  0AES`  XN88`  小仙女的城堡`  XN88
+`  `  `  JPY`  00`  YP`  東京都`  `  400`  JP`  YP01`  YP01`  XP01株式会社`  XP01
+X`  X`  `  CNY`  10`  K4`  北京`  XXGS`  400`  CN`  XXGS`  XXGS`  小熊的公司`  XXGS
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  SAP A.G.`  Y001
+`  `  `  CNY`  00`  K4`  惠州`  YGL1`  400`  CN`  YGL`  `  YGL的第一个测试公司`  YGL1
+`  `  `  JPY`  00`  V3`  東京都`  YP01`  400`  JP`  YP01`  `  YP01株式会社`  YP01
+`  `  `  CNY`  00`  K4`  广州`  YPBB`  400`  CN`  YPBB`  `  YPBB责任有限公司`  YPBB
+`  `  `  CNY`  00`  K4`  沈阳市`  YTL1`  400`  CN`  YTL1`  `  Yutime Logistics co.`  YTL1
+`  `  `  JPY`  00`  K4`  東京都江東区`  Z001`  400`  JP`  ZCJ1`  `  デモ用会社`  Z001
+`  `  `  RMB`  00`  `  南宁`  `  400`  CN`  `  `  新航科技有限公司`  Z01
+`  X`  `  CNY`  10`  K4`  Shanghai`  0001`  400`  CN`  TMCN`  0001`  Z COMPANY`  Z010
+`  `  `  JPY`  00`  K4`  東京`  Z011`  400`  JP`  Z011`  Z011`  Z011株式会社(S)`  Z011
+`  `  `  JPY`  00`  V3`  東京都`  Z100`  400`  JP`  CAJP`  ZYF1`  スカイネット販売会社(洪)`  Z100
+`  X`  `  CNY`  10`  K4`  上海`  1310`  400`  CN`  YCOA`  1000`  Company Code 1310`  Z500
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  SAP A.G.`  Z501
+`  X`  `  CNY`  10`  K4`  上海`  7000`  400`  CN`  ALKH`  `  杭州立鑫家居销售公司`  Z510
+`  `  `  RMB`  00`  `  ShangHai`  `  400`  CN`  `  `  ZY Company`  Z999
+`  `  `  ZAR`  10`  K4`  South Africa`  0001`  400`  ZA`  INT`  0001`  Country Template ZA`  ZA01
+`  `  `  CNY`  00`  K4`  大连`  ZCBZ`  400`  CN`  ZCB1`  ZCBZ`  zcbz 公司code 会计主体大连`  ZCBZ
+`  X`  `  CNY`  10`  K4`  深圳市`  ZCX1`  400`  CN`  ZCX1`  ZCX1`  ZCX股份有限公司`  ZCX1
+`  `  `  JPY`  00`  ZR`  東京都`  ZERO`  400`  JP`  ZERO`  ZERO`  ZERO株式会社`  ZERO
+`  `  `  RMB`  00`  K4`  威海`  `  400`  CN`  CA04`  `  zit1公司`  ZIT1
+`  X`  `  CNY`  10`  K4`  Luxembourg City`  7K10`  400`  LU`  YCOA`  1000`  Company Code 7K10`  ZJ01
+`  `  `  EUR`  10`  K4`  Walldorf`  0001`  400`  DE`  INT`  0001`  SAP A.G.`  ZJSX
+`  X`  `  CNY`  10`  K4`  China`  ZP00`  400`  CN`  ZP00`  ZP00`  ZP00测试公司`  ZP00
+`  X`  `  CNY`  10`  K4`  China`  ZP01`  400`  CN`  ZP00`  ZP00`  ZP01测试公司`  ZP01
+`  `  `  CNY`  10`  K4`  北京`  0001`  400`  CN`  INT`  0001`  ZS有限公司`  ZS01
+`  `  `  JPY`  00`  K4`  東京`  ZSAP`  400`  JP`  ZSAP`  ZSAP`  ZSAP株式会社（S）`  ZSAP
+`  `  `  RMB`  00`  K4`  苏州`  0001`  400`  CN`  Z002`  ZW02`  苏州伟创力软件科技有限公司`  ZW02
+`  X`  `  CNY`  10`  K4`  上海市`  ZYF1`  400`  CN`  ZYF1`  ZYF1`  奥利给公司`  ZYF1
+`  `  `  JPY`  00`  V3`  東京都台東区根岸1丁目1-1`  `  400`  JP`  INT`  `  桜会社ZZ01`  ZZ01
+`  X`  `  JPY`  10`  K4`  日本東京`  1310`  400`  JP`  YCOA`  1000`  日本販売会社`  ZZ02
+`  `  `  JPY`  00`  K4`  東京`  ZZMC`  400`  JP`  ZZMC`  ZZMC`  ZZMC株式会社`  ZZMC
+`  `  `  JPY`  00`  V3`  東京`  ZZSY`  400`  JP`  YCOA`  `  エツ株式会社`  ZZSY
+`  `  `  JPY`  00`  K4`  東京`  `  400`  JP`  `  ZZWY`  ZZWY株式会社（S）`  ZZWY
+`  `  `  CNY`  10`  K4`  劝君莫惜金缕衣，劝君惜取少年时。`  0001`  400`  CN`  INT`  0001`  凤求凰`  ZZZZ

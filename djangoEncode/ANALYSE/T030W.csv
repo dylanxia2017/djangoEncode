@@ -1,0 +1,212 @@
+﻿SPRAS [C(00002)]`KTOSL [C(00006)]`LTEXT [C(00080)]`KTEXT [C(00040)]`KTXT2 [C(00040)]`KTXT3 [C(00040)]
+E`  A00`  Transfer postings: changed recon. acct`  General modification`  `
+E`  ACC`  Provision for Doubtful Receivables`  Provision method`  `
+E`  AGD`  Customer Item on Outgoing Invoice`  `  `
+E`  AGS`  G/L Account Item on Outgoing Invoice`  `  `
+E`  AGX`  Customer item with special G/L indicator`  `  `
+E`  AKO`  Expense/revenue from consign.mat.consum.`  `  `
+E`  ANB`  Down payment bank posting`  `  `
+E`  ANC`  Additional accounts for Asset Accounting`  `  General modification`
+E`  ANF`  Down Payment Requests`  `  `
+E`  ANL`  Asset posting`  `  `
+E`  ANS`  G/L account posting from asset posting`  `  `
+E`  ANZ`  Down payments`  General modification`  `
+E`  APD`  Clear Receivables in Reversed Funds`  `  `
+E`  APF`  Transfer Payables to Reversed Funds`  `  `
+E`  APP`  Clear Payables in Reversed Funds`  `  `
+E`  APR`  Transfer to Other Funds`  `  `
+E`  APS`  Follow-Up Process in Reversed Funds`  `  `
+E`  AUD`  Customer down payment transfer posting`  `  `
+E`  AUK`  Vendor down payment transfer posting`  `  `
+E`  AUM`  Expense/revenue from stock transfer`  `  `
+E`  B02`  Receivables discounting`  `  `
+E`  B03`  Flat-rate individual value adjustment`  `  `
+E`  B98`  User-defined valuation I`  `  `
+E`  B99`  User-defined valuation II`  `  `
+E`  BDS`  Bank discount charges`  `  `
+E`  BIK`  Bank collection charges`  `  `
+E`  BIL`  Balance carried forward`  P&L statmt acct type`  `
+E`  BNG`  Invoiced but not yet delivered`  `  `
+E`  BNK`  Bank posting`  `  `
+E`  BO1`  Subsequent settlement of provisions`  `  `
+E`  BO2`  Subsequent settlement of revenues`  `  `
+E`  BO3`  Provision differences`  `  `
+E`  BSD`  Inventory posting`  `  `
+E`  BSK`  Inventory Value Adjustment`  `  `
+E`  BSP`  Bank charges`  `  `
+E`  BSV`  Change in stock account`  `  `
+E`  BSX`  Inventory posting`  `  `
+E`  BU2`  Clearing between company codes`  `  `
+E`  BU4`  Clearing between company codes`  `  `
+E`  BUV`  Clearing between company codes`  `  `
+E`  BWS`  Bank bill of exchange tax`  `  `
+E`  CEX`  Document Split for Currency Exchange`  `  `
+E`  CF1`  Rounding Differences (Decimal Places)`  `  `
+E`  CF2`  Delete Posting Line Reference`  `  `
+E`  CO1`  CO - FI reconciliation posting`  Costing scope`  CO Transaction`
+E`  CO2`  CO - FI reconciliation posting`  Costing scope`  CO Transaction`
+E`  COC`  Revaluation of other consumables`  `  `
+E`  CTR`  Customer Item Revaluation`  `  `
+E`  DIF`  Materials management small differences`  Tax code`  `
+E`  DPL`  Contractual Obligation Down Payment`  `  `
+E`  DRL`  Contractual Obligation Down Payment Req.`  `  `
+E`  DSA`  Differences arising on G/L acct clearing`  Tax code`  `
+E`  DSK`  Revenue from discount charges`  Tax code`  `
+E`  EGK`  Vendor item in incoming invoice`  `  `
+E`  EGS`  G/L item in incoming invoice`  `  `
+E`  EGX`  Vendor item with special G/L indicator`  `  `
+E`  EIN`  Purchase account`  `  `
+E`  EKG`  Purchase offsetting account`  `  `
+E`  FMB`  Posting Key: FM Budgetary Ledger`  Posting Key: BL`  `
+E`  FR1`  Freight clearing`  Freight clearing`  `
+E`  FR2`  Freight provisions`  Freight provisions`  `
+E`  FR3`  Customs clearing`  Customs clearing`  `
+E`  FR4`  Customs provisions`  Customs provisions`  `
+E`  FRE`  Purchasing freight account`  `  `
+E`  FRL`  External activity`  `  `
+E`  FRN`  Incidental costs of external activities`  `  `
+E`  GA0`  Clearing account`  `  `
+E`  GA1`  Adjustment accts for reconciliatn accts`  `  `
+E`  GA2`  Adjustment accounts for tax accounts`  `  `
+E`  GA3`  Adjustment accts for cash discount accts`  `  `
+E`  GA4`  Adjustment accts for ex.rate diff.accts`  `  `
+E`  GA5`  Adjustment accounts for other G/L accts`  `  `
+E`  GBB`  Offsetting entry for inventory posting`  `  `
+E`  GKO`  Offsetting account if not clear`  `  `
+E`  GLU`  Transfer postings to general ledger`  `  `
+E`  GNB`  Delivered but not yet invoiced`  `  `
+E`  GRU`  Offsetting entry without deduction`  Withholding tax code`  Withholding tax type`
+E`  HRA`  HR postings, technical accounts`  `  Account keys`
+E`  HRC`  HR postings, expense accounts`  Employee group`  Symbolic account`  Addit. modification
+E`  HRD`  HR customer postings`  Employee group`  Symbolic account`
+E`  HRF`  HR postings, financial accounts`  Employee group`  Symbolic account`
+E`  HRK`  HR vendor postings`  Employee group`  Symbolic account`
+E`  HRP`  Customer/vendor trip costs postings`  `  `
+E`  HRT`  Trip costs postings, expense accounts`  `  `
+E`  HRV`  Trip costs postings, advances`  `  `
+E`  HSC`  Expense/revenue from handling surcharge`  `  `
+E`  INH`  Vendor investment`  `  `
+E`  INK`  Revenue from collection charges`  Tax code`  `
+E`  INS`  Customer investment`  `  `
+E`  IRE`  Operating costs settlement`  `  `
+E`  J1E`  % Prod. (U.S.), % (Can.) Overhead Exp.`  `  `
+E`  J1O`  % Prod. (U.S.), % (Can.) Overhead Offset`  `  `
+E`  J2E`  % Development (U.S.) Overhead Expense`  `  `
+E`  J2O`  % Development (U.S.) Overhead Offset`  `  `
+E`  J3E`  CFR Prod. (U.S.) Overhead Expense`  `  `
+E`  J3O`  CFR Prod. (U.S.) Overhead Offset Acct`  `  `
+E`  J4E`  CFR Drilling (U.S.) Overhead Expense`  `  `
+E`  J4O`  CFR Drilling (U.S.) Overhead Offset Acct`  `  `
+E`  J6E`  Construction Overhead Expense Account`  `  `
+E`  J6O`  Construction Overhead Offset Account`  `  `
+E`  J7E`  Exploration Overhead Expense Account`  `  `
+E`  J7O`  Exploration Overhead Offset Account`  `  `
+E`  J8E`  Capital Drilling Overhead Expense - Can.`  `  `
+E`  J8O`  Capital Drilling Overhead Offset -Canada`  `  `
+E`  J9E`  Catastrophe Overhead Expense Account`  `  `
+E`  J9O`  Catastrophe Overhead Offset Account`  `  `
+E`  JIE`  International Overhead Expense Account`  `  `
+E`  JIO`  International Overhead Offset Account`  `  `
+E`  JPA`  Payroll Burden Clearing Adjustment`  `  `
+E`  JPE`  Payroll Burden Clearing Expense Account`  `  `
+E`  JPO`  Payroll Burden Clearing Offset Account`  `  `
+E`  JV1`  Cutback Tax Clearing Account`  `  `
+E`  JV2`  Non-Op Billing: Acct for Document Split`  `  `
+E`  JV3`  Misc. Income for Net Profit Interests`  `  `
+E`  JV4`  Net Expense Account for Net Profit Int.`  `  `
+E`  JV5`  Misc. Income Holding for Net Profit Int.`  `  `
+E`  JV6`  Interventure Account for Balanced BbV`  `  `
+E`  JV7`  Interest Charged in JV Bank Transfers`  `  `
+E`  JV8`  GR/IR Shadow Account`  `  `
+E`  JVA`  Cutback Tax Expense Account`  `  `
+E`  JVB`  Cutback Tax Suspense Gross`  `  `
+E`  JVC`  Offset Acct Equity Change - Adjustment`  `  `
+E`  JVD`  Funding Corp.Pay Actualization`  Corp.Pay Actualizn.`  `
+E`  JVE`  Funding Write-Off`  Funding Write-Off`  `
+E`  KBS`  Account-assigned purchase order`  `  `
+E`  KDB`  Exch. Rate Diff. using Exch. Rate Key`  Tax code`  `
+E`  KDF`  Exchange Rate Dif.: Open Items/GL Acct`  `  `
+E`  KDG`  MM Exchange Rate Differences`  `  `
+E`  KDM`  Materials management exch.rate diffs`  `  `
+E`  KDR`  MM exchange rate rounding differences`  Tax code`  `
+E`  KDT`  Tax exchange rate differences`  `  `
+E`  KDV`  Material ledger frm low.levels E/R diff.`  `  `
+E`  KDW`  Payment difference for altern.currency`  Tax code`  `
+E`  KDZ`  Payment diff.for altern.curr.(offset)`  `  `
+E`  KON`  Consignment payables`  `  `
+E`  KTR`  Price diff. offset. entry (cost object)`  `  `
+E`  LKW`  Accruals and defer.acct(material ledger)`  `  `
+E`  MVA`  Output tax clearing on down payments`  Output tax clearing`  `
+E`  NOP`  Group clearing account`  `  `
+E`  OFF`  Offsetting entry with deduction`  Withholding tax code`  Withholding tax type`
+E`  OPO`  Self-withholding`  Withholding tax code`  Withholding tax type`
+E`  OSI`  Offsetting Line for Single-Line Docs`  `  `
+E`  PCC`  Profit Center Clearing (Secondary)`  `  `
+E`  PCV`  Profit Center Clearing (Primary)`  `  `
+E`  PEA`  Opening Entry for Accrual Posting`  `  `
+E`  PEN`  Penalty Interest`  `  `
+E`  PEO`  Offsetting Entry for Accrual Posting`  `  `
+E`  PPX`  Prepayment`  `  `
+E`  PRA`  Price Differences from W/Off WIP`  `  `
+E`  PRC`  Differences (AVR Price)`  `  `
+E`  PRD`  Cost (price) differences`  `  `
+E`  PRG`  Price Differences (Mat. Ledger, AVR)`  `  `
+E`  PRK`  Price differences (cost object hierarc.)`  Miscell.provisions`  `
+E`  PRL`  Differences Tariffs`  `  `
+E`  PRM`  Price Diff. from WIP Written Off (Mat.)`  `  `
+E`  PRP`  Product cost collector price differences`  Miscell.provisions`  `
+E`  PRQ`  Prod.cost coll.price diff. offsett.entry`  Miscell.provisions`  `
+E`  PRV`  Material ledger fr.low.levels price dif.`  `  `
+E`  PRY`  Cost (price) differences (mater.ledger)`  `  `
+E`  QST`  Withholding tax`  Tax code`  `
+E`  RAP`  Expense/revenue from revaluation`  `  `
+E`  RDF`  Internal currencies rounding differences`  `  `
+E`  RKA`  Inv.reductions from log.inv.verification`  `  `
+E`  RKK`  Provisions/Recs/Payables: Adjust. Acct`  `  `
+E`  RUE`  Neutral provisions`  Miscell.provisions`  `
+E`  SAK`  G/L account posting`  `  `
+E`  SGA`  Automatic statistical offsetting entry`  Acct type/sp.G/L ind`  `
+E`  SKE`  Cash discount received`  Tax code`  `
+E`  SKT`  Cash discount expenses`  Tax code`  `
+E`  SKV`  Cash discount clearing (net method)`  Tax code`  `
+E`  SPL`  Clearing Account for Document Split`  `  `
+E`  STQ`  Special G/L ind. Q statistical posting`  `  `
+E`  SWE`  Check/bill of exchange`  `  `
+E`  TCV`  Transfer Price Write-Off Valuation Diff.`  `  `
+E`  TXO`  Brazilian taxes for transfer posting`  `  `
+E`  UMB`  Gain/loss from revaluation`  `  `
+E`  UMD`  Gain/loss from revaluation`  `  `
+E`  UMS`  Tax payable posting (advance tax return)`  `  `
+E`  UPF`  Unplanned delivery costs`  `  `
+E`  VH1`  Customers with a credit balance`  `  `
+E`  VH2`  Payables due between 1 - 5 years`  Tax code`  `
+E`  VH3`  Payables due after 5 years`  Tax code`  `
+E`  VNR`  Vendor Item Revaluation`  `  `
+E`  VS1`  Vendors with a debit balance`  `  `
+E`  VS2`  Receivables due after 1 year`  Tax code`  `
+E`  VSK`  Lost cash discount (net procedure)`  Tax code`  `
+E`  VVA`  Input tax clearing on down payments`  Input tax clearing`  `
+E`  WAN`  Bill of exchange payment request`  `  `
+E`  WAV`  Valuation Approach Clg Acct (Tab. T8A50)`  `  `
+E`  WBW`  Bill of exchange from request`  `  `
+E`  WGI`  Goods issue inflation revaluation`  GI infl. revaluation`  `
+E`  WGR`  Goods receipt inflation revaluation`  GR infl. revaluation`  `
+E`  WIT`  Extended withholding tax`  Withholding tax code`  Withholding tax type`
+E`  WPA`  WIP from Price Differences (Int. Acty)`  `  `
+E`  WPM`  WIP from Price Differences (Material)`  `  `
+E`  WRX`  GR/IR clearing account`  `  `
+E`  WRY`  GR/IR clearing acct (mat. ledger) (old)`  `  `
+E`  WSB`  Bill of exchange charges - debit`  `  `
+E`  WST`  Revenue from bill of exchange tax`  `  `
+E`  WVW`  Bill of Exchange Usage`  `  `
+E`  ZA1`  Payt trans. residual item carry-forward`  `  `
+E`  ZA2`  Payt trans. residual item carry-forward`  Tax code`  Reason code`
+E`  ZA3`  Neutral residual item carry-forward`  `  `
+E`  ZAF`  Payment requests`  `  `
+E`  ZBA`  Payment program: bank posting`  `  `
+E`  ZDI`  Payment differences by reason`  Tax code`  Reason code`
+E`  ZKB`  Provisions/Recs/Payables: Discount Exp.`  `  `
+E`  ZKK`  Provisions/Recs/Payables: Discount Tfr`  `  `
+E`  ZWE`  Payt program: bill exch/bill payt reqst`  `  `
+E`  ZWO`  Payt program: bank bill liability`  `  `
+E`  ZZA`  Repost Input Tax Pay./Rec. at SenderCity`  `  `

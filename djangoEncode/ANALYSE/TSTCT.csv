@@ -1,0 +1,78 @@
+﻿SPRSL [C(00002)]`TCODE [C(00040)]`TTEXT [C(00072)]
+E`  ZCHECKSTOCK`  Check Material Stock
+E`  ZCORPMODEL`  Generate Data for Corp Model
+E`  ZDATALOAD`  Import Master Data
+E`  ZMDC_SETUP_BP`  Create BP Data for Consolidation
+E`  ZSOLIST`  Fetch SO List with Delivery and bill
+E`  Z_O2C`  Order-to-Cash Cycle
+E`  Z_P2P`  Procure to Pay Cycle
+E`  Z_P2P_BACKDATED`  Procure to Pay Cycle
+E`  Z_P2S`  Production-to-Stock Cycle
+E`  ZSJM_03`  ZSJM_03
+1`  ZBC_USERS`  用户管理
+1`  ZSM30_ZVLPJDL`  维护ZVLPJDL
+1`  ZYXTEST`  test01
+1`  ZTSTUDENT`  学生信息维护
+1`  ZYX2`  zyx2test2
+1`  Z90_04`  MODULE POOL TEST
+1`  Z90_05`  DIALOG随堂练习
+J`  ZTESTDYN`  test
+E`  ZSTUD_MAINTAIN`  student information maintenance
+1`  YY_001`  sm30
+1`  ZSQVI`  查看物料凭证
+1`  ZWYF_HELLO`  t code for  Hello SAP
+1`  ZTESTQX001`  test
+1`  ZSHOWWBSDOC`  显示WBS元素文档编号
+1`  YHELLO`  测试程序
+`  Y_S4H_22000001`  实施指南活动
+1`  ZMTART`  维护物料类型
+`  Y_S4H_22000002`  实施指南活动
+J`  ZHW009_WYY`  ZHW009_WYY
+1`  ZHW008_XYQ`  ALV
+J`  ZHW003_WDD5`  alv
+J`  ZOOALV_CSM1`  ALV物料
+1`  ZFI001`  资产负债表
+1`  YAN_TEST`  Tcode test
+1`  ZSCHOOL_JW`  学生学校维护
+E`  ZE_HW`  for test
+1`  ZLXY01`  获取WX数据
+1`  ZLXY02`  公司资金
+1`  ZWMP072`  数据修改程序
+E`  Z_MOUDLEPOOL1`  MOUDLE POOL
+1`  ZLXY03`  存取公司资金表
+1`  ZLXY04`  公司借款情况表
+1`  YFHB_TCODE01`  YFHB_TEST01的程序
+E`  Z_MOUDLEPOOL_2`  MOUDLE POOL
+E`  Z_MOUDLEPOOL_TSR`  MOUDLE POOL
+E`  Z_TEST4`  tes
+E`  Z_TABLE_CONTROLLE`  TABLE
+E`  Z_JIAWIE_CONTROLLER`  TABLE
+E`  Z_TEST5`  TEST
+E`  Z_TEST6`  TEST
+E`  Z_TEST7`  TEST
+1`  YFHB_TCODE02`  程序    Y_P_FHB_TEST01
+E`  Z_JIAWEI_ONLINE`  ONLINE
+J`  ZBP_W01`  ZWY01
+1`  ZPER02`  测试
+E`  Z_ONLIEN`  Z_ONLIEN
+1`  ZMMSTU`  学生维护
+1`  ZPS01`  PS BP01
+1`  ZPPGONGCHANG`  自定义工厂
+1`  ZPP02`  生产订单查询
+1`  ZPP03`  BOM查询
+1`  YHELLO1`  测试程序2
+1`  ZCJ2B`  更改项目计划板
+1`  Z_HELLOWORLD`  hello world text report
+J`  ZZ2001`  得意先登録
+J`  ZZ2002`  得意先変更
+J`  ZZ2003`  得意先照会
+1`  ZSTOCK`  test tc
+1`  ZCESHI01`  test tc
+1`  ZSTUDENT_HQ_03`  学生信息维护
+E`  ZSJM_01`  Hello Sap
+1`  ZFIR001`  黑豆哥哥测试程序1
+1`  YHM_01`  打开YHM
+1`  ZSTUDENT_01`  创建学生信息
+1`  ZSTUDENT_02`  修改学生信息
+1`  ZSTUDENT_03`  显示学生信息
+1`  ZMMR055`  报表名字
